@@ -94,15 +94,44 @@ function generateHTML(data) {
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
     </style>
+    <script>
+        function refreshContent() {
+            fetch('feed.xml')
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const items = data.querySelectorAll('item');
+                    const tableBody = document.querySelector('tbody');
+                    tableBody.innerHTML = '';
+                    items.forEach(item => {
+                        const title = item.querySelector('title').textContent;
+                        const [groupName, postTitle] = title.split(': ');
+                        const row = document.createElement('tr');
+                        row.innerHTML = \`<td>\${groupName}</td><td>\${postTitle}</td>\`;
+                        tableBody.appendChild(row);
+                    });
+                });
+        }
+
+        // Refresh content every 60 seconds
+        setInterval(refreshContent, 60000);
+
+        // Initial refresh
+        document.addEventListener('DOMContentLoaded', refreshContent);
+    </script>
 </head>
 <body>
     <h1>RansomWatch</h1>
     <table>
-        <tr>
-            <th>Group Name</th>
-            <th>Post Title</th>
-        </tr>
-        ${rows}
+        <thead>
+            <tr>
+                <th>Group Name</th>
+                <th>Post Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${rows}
+        </tbody>
     </table>
 </body>
 </html>
