@@ -17,7 +17,8 @@ function transformData(data) {
   return data
     .map(item => ({
       group_name: item.group_name.replace(/ /g, '_'),
-      post_title: item.post_title.replace(/ /g, '_')
+      post_title: item.post_title.replace(/ /g, '_'),
+      discovered: new Date(item.discovered).toISOString() // Convert to ISO string for consistency
     }))
     .slice(-20);
 }
@@ -26,8 +27,8 @@ function generateRSS(data) {
   const items = data.map(item => ({
     item: [
       { title: `${item.group_name}: ${item.post_title}` },
-      { pubDate: new Date().toUTCString() },
-      { description: `Group: ${item.group_name}, Title: ${item.post_title}` }
+      { pubDate: new Date(item.discovered).toUTCString() },
+      { description: `Group: ${item.group_name}, Title: ${item.post_title}, Discovered: ${item.discovered}` }
     ]
   }));
 
@@ -43,11 +44,11 @@ function generateRSS(data) {
         channel: [
           { title: 'RansomWatch Feed' },
           { description: 'Latest ransomware posts' },
-          { link: 'https://thestateofcybersecurity.github.io/ransomwareRSS/' },
+          { link: 'https://yourusername.github.io/ransomwatch/' },
           {
             'atom:link': {
               _attr: {
-                href: 'https://thestateofcybersecurity.github.io/ransomwareRSS/feed.xml',
+                href: 'https://yourusername.github.io/ransomwatch/feed.xml',
                 rel: 'self',
                 type: 'application/rss+xml'
               }
@@ -62,22 +63,12 @@ function generateRSS(data) {
   return xml(feed, { declaration: true, indent: '  ' });
 }
 
-async function main() {
-  const data = await fetchData();
-  const transformedData = transformData(data);
-  const rss = generateRSS(transformedData);
-
-  fs.writeFileSync('feed.xml', rss);
-  fs.writeFileSync('index.html', generateHTML(transformedData));
-
-  console.log('Files generated successfully');
-}
-
 function generateHTML(data) {
   const rows = data.map(item => `
     <tr>
       <td>${item.group_name}</td>
       <td>${item.post_title}</td>
+      <td>${new Date(item.discovered).toLocaleString()}</td>
     </tr>
   `).join('');
 
@@ -94,19 +85,66 @@ function generateHTML(data) {
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
     </style>
+    <script>
+        function refreshContent() {
+            fetch('feed.xml')
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const items = data.querySelectorAll('item');
+                    const tableBody = document.querySelector('tbody');
+                    tableBody.innerHTML = '';
+                    items.forEach(item => {
+                        const title = item.querySelector('title').textContent;
+                        const [groupName, postTitle] = title.split(': ');
+                        const pubDate = new Date(item.querySelector('pubDate').textContent);
+                        const row = document.createElement('tr');
+                        row.innerHTML = \`
+                            <td>\${groupName}</td>
+                            <td>\${postTitle}</td>
+                            <td>\${pubDate.toLocaleString()}</td>
+                        \`;
+                        tableBody.appendChild(row);
+                    });
+                });
+        }
+
+        // Refresh content every 60 seconds
+        setInterval(refreshContent, 60000);
+
+        // Initial refresh
+        document.addEventListener('DOMContentLoaded', refreshContent);
+    </script>
 </head>
 <body>
     <h1>RansomWatch</h1>
     <table>
-        <tr>
-            <th>Group Name</th>
-            <th>Post Title</th>
-        </tr>
-        ${rows}
+        <thead>
+            <tr>
+                <th>Group Name</th>
+                <th>Post Title</th>
+                <th>Discovered</th>
+            </tr>
+        </thead>
+        <tbody>
+            ${rows}
+        </tbody>
     </table>
 </body>
 </html>
   `;
+}
+
+async function main() {
+  const data = await fetchData();
+  const transformedData = transformData(data);
+  const rss = generateRSS(transformedData);
+  const html = generateHTML(transformedData);
+
+  fs.writeFileSync('feed.xml', rss);
+  fs.writeFileSync('index.html', html);
+
+  console.log('Files generated successfully');
 }
 
 main();

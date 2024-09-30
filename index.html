@@ -11,115 +11,170 @@
         th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
         th { background-color: #f2f2f2; }
     </style>
+    <script>
+        function refreshContent() {
+            fetch('feed.xml')
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const items = data.querySelectorAll('item');
+                    const tableBody = document.querySelector('tbody');
+                    tableBody.innerHTML = '';
+                    items.forEach(item => {
+                        const title = item.querySelector('title').textContent;
+                        const [groupName, postTitle] = title.split(': ');
+                        const pubDate = new Date(item.querySelector('pubDate').textContent);
+                        const row = document.createElement('tr');
+                        row.innerHTML = `
+                            <td>${groupName}</td>
+                            <td>${postTitle}</td>
+                            <td>${pubDate.toLocaleString()}</td>
+                        `;
+                        tableBody.appendChild(row);
+                    });
+                });
+        }
+
+        // Refresh content every 60 seconds
+        setInterval(refreshContent, 60000);
+
+        // Initial refresh
+        document.addEventListener('DOMContentLoaded', refreshContent);
+    </script>
 </head>
 <body>
     <h1>RansomWatch</h1>
     <table>
-        <tr>
-            <th>Group Name</th>
-            <th>Post Title</th>
-        </tr>
-        
+        <thead>
+            <tr>
+                <th>Group Name</th>
+                <th>Post Title</th>
+                <th>Discovered</th>
+            </tr>
+        </thead>
+        <tbody>
+            
     <tr>
       <td>play</td>
       <td>InteriorWorx_Commercial_Flooring</td>
+      <td>9/29/2024, 8:35:56 PM</td>
     </tr>
   
     <tr>
       <td>play</td>
       <td>Performance_Food_Centers</td>
+      <td>9/29/2024, 8:35:56 PM</td>
     </tr>
   
     <tr>
       <td>play</td>
       <td>Reutter</td>
+      <td>9/29/2024, 8:35:57 PM</td>
     </tr>
   
     <tr>
       <td>play</td>
       <td>The_Rubber_Resources</td>
+      <td>9/29/2024, 8:35:58 PM</td>
     </tr>
   
     <tr>
       <td>killsecurity</td>
       <td>porter.in</td>
+      <td>9/29/2024, 10:37:08 PM</td>
     </tr>
   
     <tr>
       <td>killsecurity</td>
       <td>poorvika.com</td>
+      <td>9/29/2024, 10:37:09 PM</td>
     </tr>
   
     <tr>
       <td>killsecurity</td>
       <td>nfe.fazenda.gov.br</td>
+      <td>9/29/2024, 10:37:10 PM</td>
     </tr>
   
     <tr>
       <td>embargo</td>
       <td>weisermemorialhospital.org</td>
+      <td>9/30/2024, 4:38:34 AM</td>
     </tr>
   
     <tr>
       <td>rhysida</td>
       <td>Plastics_Plus</td>
+      <td>9/30/2024, 10:37:36 AM</td>
     </tr>
   
     <tr>
       <td>qilin</td>
       <td>McAbee_Construction,_Inc</td>
+      <td>9/30/2024, 2:36:07 PM</td>
     </tr>
   
     <tr>
       <td>killsecurity</td>
       <td>itap.nacc.go.th</td>
+      <td>9/30/2024, 4:43:18 PM</td>
     </tr>
   
     <tr>
       <td>blackbyte</td>
       <td>TOTVS</td>
+      <td>9/30/2024, 6:42:38 PM</td>
     </tr>
   
     <tr>
       <td>qilin</td>
       <td>canstarrestorations.com_</td>
+      <td>9/30/2024, 6:43:08 PM</td>
     </tr>
   
     <tr>
       <td>qilin</td>
       <td>Keller_Williams_Realty_Group</td>
+      <td>9/30/2024, 6:43:09 PM</td>
     </tr>
   
     <tr>
       <td>threeam</td>
       <td>verco.co.uk</td>
+      <td>9/30/2024, 6:43:26 PM</td>
     </tr>
   
     <tr>
       <td>threeam</td>
       <td>mnpl.com.sg</td>
+      <td>9/30/2024, 6:43:27 PM</td>
     </tr>
   
     <tr>
       <td>threeam</td>
       <td>mctas.org.au</td>
+      <td>9/30/2024, 6:43:28 PM</td>
     </tr>
   
     <tr>
       <td>threeam</td>
       <td>sacredheart.southwark.sch.uk</td>
+      <td>9/30/2024, 6:43:29 PM</td>
     </tr>
   
     <tr>
       <td>threeam</td>
       <td>carlile-group.com</td>
+      <td>9/30/2024, 6:43:30 PM</td>
     </tr>
   
     <tr>
       <td>blacksuit</td>
       <td>https://decalesp.com</td>
+      <td>9/30/2024, 8:33:46 PM</td>
     </tr>
   
+        </tbody>
     </table>
 </body>
 </html>
