@@ -32,7 +32,38 @@ function generateRSS(data) {
     ]
   }));
 
-  function updateRSS(newData) {
+  const feed = {
+    rss: [
+      {
+        _attr: {
+          version: '2.0',
+          'xmlns:atom': 'http://www.w3.org/2005/Atom'
+        }
+      },
+      {
+        channel: [
+          { title: 'RansomWatch Feed' },
+          { description: 'Latest ransomware posts' },
+          { link: 'https://thestateofcybersecurity.github.io/ransomwareRSS/' },
+          {
+            'atom:link': {
+              _attr: {
+                href: 'https://thestateofcybersecurity.github.io/ransomwareRSS/feed.xml',
+                rel: 'self',
+                type: 'application/rss+xml'
+              }
+            }
+          },
+          ...items
+        ]
+      }
+    ]
+  };
+
+  return xml(feed, { declaration: true, indent: '  ' });
+}
+
+function updateRSS(newData) {
   let existingFeed;
   try {
     existingFeed = fs.readFileSync('feed.xml', 'utf-8');
@@ -181,7 +212,7 @@ function generateHTML(data) {
 async function main() {
   const data = await fetchData();
   const transformedData = transformData(data);
-  const rss = generateRSS(transformedData);
+  const rss = updateRSS(transformedData);
   const html = generateHTML(transformedData);
 
   fs.writeFileSync('feed.xml', rss);
