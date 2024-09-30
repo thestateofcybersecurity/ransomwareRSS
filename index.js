@@ -1,8 +1,8 @@
 // index.js
 const axios = require('axios');
 const xml = require('xml');
-const fs = require('fs');
 const xml2js = require('xml2js');
+const fs = require('fs').promises; // Use the promise-based version of fs
 
 async function fetchData() {
   try {
@@ -67,7 +67,7 @@ function generateRSS(data) {
 async function updateRSS(newData) {
   let existingFeed;
   try {
-    existingFeed = fs.readFileSync('feed.xml', 'utf-8');
+    existingFeed = await fs.readFile('feed.xml', 'utf-8');
   } catch (error) {
     console.log('No existing feed found. Creating new feed.');
     return generateRSS(newData);
@@ -215,15 +215,19 @@ function generateHTML(data) {
 }
 
 async function main() {
-  const data = await fetchData();
-  const transformedData = transformData(data);
-  const rss = updateRSS(transformedData);
-  const html = generateHTML(transformedData);
+  try {
+    const data = await fetchData();
+    const transformedData = transformData(data);
+    const rss = await updateRSS(transformedData);
+    const html = generateHTML(transformedData);
 
-  fs.writeFileSync('feed.xml', rss);
-  fs.writeFileSync('index.html', html);
+    await fs.writeFile('feed.xml', rss);
+    await fs.writeFile('index.html', html);
 
-  console.log('Files generated successfully');
+    console.log('Files generated successfully');
+  } catch (error) {
+    console.error('Error in main function:', error);
+  }
 }
 
-main();
+main().catch(error => console.error('Unhandled error:', error));
