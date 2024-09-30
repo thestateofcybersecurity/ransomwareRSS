@@ -1,7 +1,8 @@
 // index.js
 const axios = require('axios');
 const xml = require('xml');
-const fs = require('fs');
+const xml2js = require('xml2js');
+const fs = require('fs').promises; // Use the promise-based version of fs
 
 async function fetchData() {
   try {
@@ -63,22 +64,26 @@ function generateRSS(data) {
   return xml(feed, { declaration: true, indent: '  ' });
 }
 
-function updateRSS(newData) {
+async function updateRSS(newData) {
   let existingFeed;
   try {
-    existingFeed = fs.readFileSync('feed.xml', 'utf-8');
+    existingFeed = await fs.readFile('feed.xml', 'utf-8');
   } catch (error) {
     console.log('No existing feed found. Creating new feed.');
     return generateRSS(newData);
   }
 
-  const parser = new DOMParser();
-  const xmlDoc = parser.parseFromString(existingFeed, 'text/xml');
-  const existingItems = xmlDoc.getElementsByTagName('item');
+  const parser = new xml2js.Parser();
+  let existingItems;
+  try {
+    const result = await parser.parseStringPromise(existingFeed);
+    existingItems = result.rss.channel[0].item || [];
+  } catch (error) {
+    console.error('Error parsing existing feed:', error);
+    return generateRSS(newData);
+  }
 
-  const existingTitles = Array.from(existingItems).map(item => 
-    item.getElementsByTagName('title')[0].textContent
-  );
+  const existingTitles = existingItems.map(item => item.title[0]);
 
   const updatedItems = newData.filter(item => 
     !existingTitles.includes(`${item.group_name}: ${item.post_title}`)
@@ -86,25 +91,19 @@ function updateRSS(newData) {
 
   const allItems = [
     ...updatedItems.map(item => ({
-      item: [
-        { title: `${item.group_name}: ${item.post_title}` },
-        { pubDate: new Date(item.discovered).toUTCString() },
-        { description: `Group: ${item.group_name}, Title: ${item.post_title}, Discovered: ${item.discovered}` }
-      ]
+      title: `${item.group_name}: ${item.post_title}`,
+      pubDate: new Date(item.discovered).toUTCString(),
+      description: `Group: ${item.group_name}, Title: ${item.post_title}, Discovered: ${item.discovered}`
     })),
-    ...Array.from(existingItems).map(item => ({
-      item: [
-        { title: item.getElementsByTagName('title')[0].textContent },
-        { pubDate: item.getElementsByTagName('pubDate')[0].textContent },
-        { description: item.getElementsByTagName('description')[0].textContent }
-      ]
+    ...existingItems.map(item => ({
+      title: item.title[0],
+      pubDate: item.pubDate[0],
+      description: item.description[0]
     }))
   ];
 
   // Sort items by pubDate in descending order and limit to 20 items
-  allItems.sort((a, b) => 
-    new Date(b.item.find(el => el.pubDate).pubDate) - new Date(a.item.find(el => el.pubDate).pubDate)
-  ).slice(0, 20);
+  allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate)).slice(0, 20);
 
   const feed = {
     rss: [
@@ -128,7 +127,13 @@ function updateRSS(newData) {
               }
             }
           },
-          ...allItems
+          ...allItems.map(item => ({
+            item: [
+              { title: item.title },
+              { pubDate: item.pubDate },
+              { description: item.description }
+            ]
+          }))
         ]
       }
     ]
@@ -210,15 +215,19 @@ function generateHTML(data) {
 }
 
 async function main() {
-  const data = await fetchData();
-  const transformedData = transformData(data);
-  const rss = updateRSS(transformedData);
-  const html = generateHTML(transformedData);
+  try {
+    const data = await fetchData();
+    const transformedData = transformData(data);
+    const rss = await updateRSS(transformedData);
+    const html = generateHTML(transformedData);
 
-  fs.writeFileSync('feed.xml', rss);
-  fs.writeFileSync('index.html', html);
+    await fs.writeFile('feed.xml', rss);
+    await fs.writeFile('index.html', html);
 
-  console.log('Files generated successfully');
+    console.log('Files generated successfully');
+  } catch (error) {
+    console.error('Error in main function:', error);
+  }
 }
 
-main();
+main().catch(error => console.error('Unhandled error:', error));
