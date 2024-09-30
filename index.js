@@ -97,7 +97,7 @@ function generateRSS(data) {
               }
             }
           },
-          ...items
+          ...allItems
         ]
       }
     ]
