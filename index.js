@@ -32,6 +32,49 @@ function generateRSS(data) {
     ]
   }));
 
+  function updateRSS(newData) {
+  let existingFeed;
+  try {
+    existingFeed = fs.readFileSync('feed.xml', 'utf-8');
+  } catch (error) {
+    console.log('No existing feed found. Creating new feed.');
+    return generateRSS(newData);
+  }
+
+  const parser = new DOMParser();
+  const xmlDoc = parser.parseFromString(existingFeed, 'text/xml');
+  const existingItems = xmlDoc.getElementsByTagName('item');
+
+  const existingTitles = Array.from(existingItems).map(item => 
+    item.getElementsByTagName('title')[0].textContent
+  );
+
+  const updatedItems = newData.filter(item => 
+    !existingTitles.includes(`${item.group_name}: ${item.post_title}`)
+  );
+
+  const allItems = [
+    ...updatedItems.map(item => ({
+      item: [
+        { title: `${item.group_name}: ${item.post_title}` },
+        { pubDate: new Date(item.discovered).toUTCString() },
+        { description: `Group: ${item.group_name}, Title: ${item.post_title}, Discovered: ${item.discovered}` }
+      ]
+    })),
+    ...Array.from(existingItems).map(item => ({
+      item: [
+        { title: item.getElementsByTagName('title')[0].textContent },
+        { pubDate: item.getElementsByTagName('pubDate')[0].textContent },
+        { description: item.getElementsByTagName('description')[0].textContent }
+      ]
+    }))
+  ];
+
+  // Sort items by pubDate in descending order and limit to 20 items
+  allItems.sort((a, b) => 
+    new Date(b.item.find(el => el.pubDate).pubDate) - new Date(a.item.find(el => el.pubDate).pubDate)
+  ).slice(0, 20);
+
   const feed = {
     rss: [
       {
@@ -44,11 +87,11 @@ function generateRSS(data) {
         channel: [
           { title: 'RansomWatch Feed' },
           { description: 'Latest ransomware posts' },
-          { link: 'https://yourusername.github.io/ransomwatch/' },
+          { link: 'https://thestateofcybersecurity.github.io/ransomwareRSS/' },
           {
             'atom:link': {
               _attr: {
-                href: 'https://yourusername.github.io/ransomwatch/feed.xml',
+                href: 'https://thestateofcybersecurity.github.io/ransomwareRSS/feed.xml',
                 rel: 'self',
                 type: 'application/rss+xml'
               }
