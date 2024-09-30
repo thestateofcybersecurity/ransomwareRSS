@@ -43,11 +43,11 @@ function generateRSS(data) {
         channel: [
           { title: 'RansomWatch Feed' },
           { description: 'Latest ransomware posts' },
-          { link: 'https://yourusername.github.io/ransomwatch/' },
+          { link: 'https://thestateofcybersecurity.github.io/ransomwareRSS/' },
           {
             'atom:link': {
               _attr: {
-                href: 'https://yourusername.github.io/ransomwatch/feed.xml',
+                href: 'https://thestateofcybersecurity.github.io/ransomwareRSS/feed.xml',
                 rel: 'self',
                 type: 'application/rss+xml'
               }
