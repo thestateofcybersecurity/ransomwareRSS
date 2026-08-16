@@ -1,0 +1,917 @@
+{
+  "updated": "2026-08-16T19:00:48.974Z",
+  "sources": [
+    {
+      "name": "BleepingComputer",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Hacker News",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Dark Reading",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "SecurityWeek",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The Record",
+      "ok": true,
+      "count": 5
+    },
+    {
+      "name": "CyberScoop",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Help Net Security",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Infosecurity Magazine",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Ars Technica Security",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "SANS Internet Storm Center",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Unit 42",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Securelist",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "The DFIR Report",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Google Project Zero",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Microsoft Security Blog",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Sophos News",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Krebs on Security",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Schneier on Security",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Graham Cluley",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Troy Hunt",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Daniel Miessler",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "name": "Alphabet Soup Blog",
+      "ok": false,
+      "count": 0
+    }
+  ],
+  "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+      "date": "2026-08-16T17:29:52.000Z",
+      "excerpt": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+      "date": "2026-08-16T15:07:44.000Z",
+      "excerpt": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day",
+      "link": "https://www.helpnetsecurity.com/2026/08/16/week-in-review-salesforce-and-servicenow-portals-exposed-for-17-months-exploited-metabase-0-day/",
+      "date": "2026-08-16T08:00:56.000Z",
+      "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub Dependabot malware alerts now cover eight ecosystems GitHub has flagged npm malware since March 2026. Anyone pulling in a bad PyPI, Maven, RubyGems, NuGet, Go, crates.io, or…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "How Easy It Would Be to Hack You",
+      "link": "https://danielmiessler.com/blog/how-easy-to-hack-you?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-15T19:46:16.000Z",
+      "excerpt": "How Easy It Would Be to Hack You/images/how-easy-to-hack-you.webp/images/how-easy-to-hack-you.webp Have you ever thought about how easy it would be to hack you? To get into your accounts, mess with your finances, disrupt your business, leak customer data, reveal personal…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Another Crazy Experience with AI",
+      "link": "https://danielmiessler.com/blog/ai-fixed-my-mac?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-15T19:35:00.000Z",
+      "excerpt": "Another Crazy Experience with AI/images/ai-fixed-my-mac.webp/images/ai-fixed-my-mac.webp Just had another crazy experience with AI last week. One of the types that reminds me that we're living in different times. I have been suffering for months with some pretty serious macOS…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "There Is Only One Technology",
+      "link": "https://danielmiessler.com/blog/only-one-technology?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-15T19:30:00.000Z",
+      "excerpt": "There Is Only One Technology/images/only-one-technology.webp/images/only-one-technology.webp Had a thought about technology yesterday: The moment we used plant twine to attach a chipped stone to a stick, AI became inevitable. There is only one \"technology\". There's randomness in…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
+      "date": "2026-08-15T14:14:38.000Z",
+      "excerpt": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "How Anthropic plans to watermark Claude's AI-generated text",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
+      "date": "2026-08-14T23:24:17.000Z",
+      "excerpt": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: Searching for the Colossal Squid",
+      "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
+      "date": "2026-08-14T21:01:49.000Z",
+      "excerpt": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
+      "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
+      "date": "2026-08-14T20:31:00.000Z",
+      "excerpt": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "The Different Games OpenAI and Anthropic Are Playing",
+      "link": "https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-14T19:45:00.000Z",
+      "excerpt": "The Different Games OpenAI and Anthropic Are Playing/images/openai-anthropic-approaches.webp/images/openai-anthropic-approaches.webp URL once the cut is published --> So one thing I find really interesting right now is the difference in how it seems OpenAI and Anthropic are…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
+      "date": "2026-08-14T19:24:18.000Z",
+      "excerpt": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+      "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+      "date": "2026-08-14T18:32:14.000Z",
+      "excerpt": "Screen-sharing bug lets remote hackers log in without a password."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "date": "2026-08-14T18:04:26.000Z",
+      "excerpt": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+      "date": "2026-08-14T17:32:46.000Z",
+      "excerpt": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Upcoming Speaking Engagements",
+      "link": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
+      "date": "2026-08-14T16:01:59.000Z",
+      "excerpt": "This is a current list of where and when I am scheduled to speak: I’m speaking, signing books, and participating in panel discussions at LAcon V in Anaheim, California, USA. My full schedule is here . I’m speaking online (via Zoom) at a League of Women Voters event on Tuesday,…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+      "date": "2026-08-14T15:58:50.000Z",
+      "excerpt": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "date": "2026-08-14T14:59:55.000Z",
+      "excerpt": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Researchers Confirm ExfilSquad’s Access to Sensitive Data Across 13 Organizations",
+      "link": "https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/",
+      "date": "2026-08-14T14:49:00.000Z",
+      "excerpt": "Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "date": "2026-08-14T14:00:10.000Z",
+      "excerpt": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "What Boards Need to Know About Tech Risk",
+      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+      "date": "2026-08-14T14:00:00.000Z",
+      "excerpt": "Why do so many boards underestimate technology risk until it becomes a crisis?"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "date": "2026-08-14T13:45:18.000Z",
+      "excerpt": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "France investigates tax authority breach after hacker claims 600,000 victims",
+      "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
+      "date": "2026-08-14T13:14:15.000Z",
+      "excerpt": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies",
+      "link": "https://www.infosecurity-magazine.com/news/new-linux-botnet-evooo1bot-victims/",
+      "date": "2026-08-14T13:00:00.000Z",
+      "excerpt": "Evooo1Bot is a newly observed botnet based on the Mirai framework but equipped with advanced features, turning edge devices into persistent proxies"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
+      "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+      "date": "2026-08-14T12:17:21.000Z",
+      "excerpt": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+      "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+      "date": "2026-08-14T11:57:51.000Z",
+      "excerpt": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737,…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+      "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+      "date": "2026-08-14T11:35:23.000Z",
+      "excerpt": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/",
+      "title": "Who’s Tracking You? Use This New Service to Find Out",
+      "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
+      "date": "2026-08-14T11:24:35.000Z",
+      "excerpt": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "New Android malware relays bank cards to fraudsters while victims still hold them",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/windrelay-android-nfc-relay-malware/",
+      "date": "2026-08-14T11:08:19.000Z",
+      "excerpt": "Group-IB researchers discovered WindRelay, a new Android malware built to capture live payment card data over NFC (Near Field Communication) and relay it to attackers in real time. WindRelay is paired with the SpyNote remote access trojan, which gives attackers remote access to…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
+      "link": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
+      "date": "2026-08-14T11:03:50.000Z",
+      "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . OpenAI, and then Anthropic , were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+      "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+      "date": "2026-08-14T11:00:00.000Z",
+      "excerpt": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/openais-gpt-5-6-sol-runs-up-to-14x-faster-with-ultrafast-mode/",
+      "date": "2026-08-14T10:55:58.000Z",
+      "excerpt": "OpenAI’s GPT-5.6 Sol on Ultrafast mode is available in limited preview to a select group of customers, launching first through the OpenAI API. The company says the service runs up to 14 times faster than Standard processing and generates up to 750 output tokens per second.…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Novel macOS Infostealer AmnesiaStealer Spread via ClickFix",
+      "link": "https://www.infosecurity-magazine.com/news/macos-infostealer-spread-clickfix/",
+      "date": "2026-08-14T10:45:00.000Z",
+      "excerpt": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+      "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+      "date": "2026-08-14T10:24:03.000Z",
+      "excerpt": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+      "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+      "date": "2026-08-14T09:20:28.000Z",
+      "excerpt": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
+      "link": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/",
+      "date": "2026-08-14T09:00:14.000Z",
+      "excerpt": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AWS Certificate Manager sets 2027 end date for email-validated certificate renewals",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/aws-certificate-manager-email-validation/",
+      "date": "2026-08-14T08:25:31.000Z",
+      "excerpt": "AWS Certificate Manager (ACM) will phase out email validation for public certificates throughout 2027, ahead of the Certification Authority/Browser (CA/B) Forum’s March 15, 2028 deadline for ending email-based domain validation. The CA/B Forum sets standards that browsers and…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
+      "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
+      "date": "2026-08-14T08:16:00.000Z",
+      "excerpt": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Ukrainian police raid 94 fraudulent call centers, seize $2 million",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/ukraine-fraudulent-call-centers-shut-down/",
+      "date": "2026-08-14T07:56:15.000Z",
+      "excerpt": "Ukrainian police have disrupted 94 fraudulent call centers during a nationwide operation that involved more than 400 searches and the seizure of thousands of computers, phones, and SIM cards. Ukrainian police raid at a fraudulent call center (Source: Cyberpolice Ukraine) The…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations",
+      "link": "https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/",
+      "date": "2026-08-14T07:30:00.000Z",
+      "excerpt": "Threat intelligence researchers from Broadcom revealed that a known Chinese APT group may be linked to a lucrative crypto fraud operation"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
+      "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+      "date": "2026-08-14T07:01:56.000Z",
+      "excerpt": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+      "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+      "date": "2026-08-14T06:41:43.000Z",
+      "excerpt": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "The hardest part of agentic AI may be rebuilding the business",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/deloitte-agentic-ai-readiness-gap-report/",
+      "date": "2026-08-14T05:30:21.000Z",
+      "excerpt": "Organizations expect AI agents to change how work gets done, driving productivity and growth while allowing employees to focus on higher-value tasks. Few, however, have the processes and workflows needed to realize those benefits, according to Deloitte’s latest research.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Weak IAM affects up to 98% of cloud environments",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/intruder-cloud-misconfiguration-trends-report/",
+      "date": "2026-08-14T05:00:16.000Z",
+      "excerpt": "Misconfiguration remains one of the leading threats to cloud environments because a single configuration error can result in public network access, unrotated keys, missing encryption, exposed services, and logging gaps. CISA now mandates baseline cloud configuration practices…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "17 draft Cyber Resilience Act standards are open for comment",
+      "link": "https://www.helpnetsecurity.com/2026/08/14/etsi-cyber-resilience-act-standards/",
+      "date": "2026-08-14T04:30:18.000Z",
+      "excerpt": "A company selling a connected toy in Europe must show by the end of 2027 that the product meets the Cyber Resilience Act. The law states what manufacturers have to achieve and stops there, which leaves the toymaker to work out the technical detail alone. Seventeen draft…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Friday, August 14th, 2026 https://isc.sans.edu/podcastdetail/10052, (Fri, Aug 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33246",
+      "date": "2026-08-14T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "A bold new strategy or a dangerous precedent? Experts are divided on Trump’s memo.",
+      "link": "https://cyberscoop.com/private-sector-hacking-presidential-memo-cybersecurity/",
+      "date": "2026-08-13T22:19:07.000Z",
+      "excerpt": "The “philosophical shift” that the memo authorizes raises legal, practical and moral questions, experts say. The post A bold new strategy or a dangerous precedent? Experts are divided on Trump’s memo. appeared first on CyberScoop ."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Tech contractor for Brightly Software sentenced to 2 years in prison for insider attack",
+      "link": "https://cyberscoop.com/cameron-curry-insider-attack-brightly-software-sentenced/",
+      "date": "2026-08-13T21:59:53.000Z",
+      "excerpt": "Cameron Curry stole corporate data and employee information, which he used to threaten the company as his six-month contract gig came to a close. He ultimately extorted the company for $7,540.92. The post Tech contractor for Brightly Software sentenced to 2 years in prison for…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
+      "date": "2026-08-13T20:45:17.000Z",
+      "excerpt": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Private security firms will soon be allowed to hack overseas cybercriminals",
+      "link": "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
+      "date": "2026-08-13T19:38:58.000Z",
+      "excerpt": "Trump memo is first time gov't has authorized private sector to perform cyberattacks."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "AI’s ‘middle class’ has gotten dramatically better at hacking",
+      "link": "https://cyberscoop.com/mid-tier-ai-models-hacking-threat/",
+      "date": "2026-08-13T16:55:02.000Z",
+      "excerpt": "As frontier models and their sandbox escaping exploits dominate front-page news, researchers are increasingly worried about cheaper, more efficient AI models. The post AI’s ‘middle class’ has gotten dramatically better at hacking appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Flock tightens privacy controls amid scandals over officer abuse",
+      "link": "https://therecord.media/flock-safety-audit-assistance-police-departments",
+      "date": "2026-08-13T16:47:00.000Z",
+      "excerpt": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
+      "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
+      "date": "2026-08-13T15:52:00.000Z",
+      "excerpt": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Exposed AWS Access Key Linked to Data Breach Affecting 1500+ UK Charities",
+      "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
+      "date": "2026-08-13T15:30:00.000Z",
+      "excerpt": "CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone",
+      "link": "https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/",
+      "date": "2026-08-13T15:00:00.000Z",
+      "excerpt": "Google Cloud has set a 2027 deadline to mitigate store-now-decrypt-later risks as part of its post-quantum cryptography roadmap, with wider migration goals extending through 2028"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "vCenter Flaw Exploited Just Five Days After Disclosure",
+      "link": "https://www.infosecurity-magazine.com/news/vcenter-cve-2026-59310-exploited/",
+      "date": "2026-08-13T14:00:00.000Z",
+      "excerpt": "Attackers exploited a critical-severity vCenter flaw five days after Broadcom disclosed it"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
+      "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
+      "date": "2026-08-13T13:37:32.000Z",
+      "excerpt": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Trump Authorizes Private Sector Participation in Offensive Cyber Operations",
+      "link": "https://www.infosecurity-magazine.com/news/trump-private-offensive-cyber/",
+      "date": "2026-08-13T12:35:00.000Z",
+      "excerpt": "The White House has authorized government-directed offensive cyber operations against transnational groups, prompting warnings over escalation and attribution risks"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Trump turns to private sector in offensive hacking operations memo",
+      "link": "https://cyberscoop.com/trump-memo-private-sector-offensive-hacking/",
+      "date": "2026-08-13T11:47:55.000Z",
+      "excerpt": "One expert called it a “pretty big shift in U.S. cyber policy,” and there have been reservations in the past about opening the door to private sector involvement in cyber offense. The post Trump turns to private sector in offensive hacking operations memo appeared first on…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
+      "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
+      "date": "2026-08-13T11:07:19.000Z",
+      "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press . AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
+      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+      "date": "2026-08-13T10:00:00.000Z",
+      "excerpt": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Armored Likho expands its cyber-espionage toolkit",
+      "link": "https://securelist.com/armored-likho-still-toolkit/121033/",
+      "date": "2026-08-13T08:00:15.000Z",
+      "excerpt": "Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
+      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
+      "date": "2026-08-13T07:00:00.000Z",
+      "excerpt": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
+      "date": "2026-08-13T06:09:48.000Z",
+      "excerpt": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33244",
+      "date": "2026-08-13T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33242",
+      "date": "2026-08-13T01:26:53.000Z",
+      "excerpt": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Ilya Explains How LLMs Create a World Model",
+      "link": "https://danielmiessler.com/blog/ilya-explains-how-llms-create-a-world-model?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-13T00:00:00.000Z",
+      "excerpt": "https://youtu.be/8BPtNZ8S3e0 ilya sutskever at gtc in march 2023, the day after gpt-4 launched I've been arguing for many years that modern AI creates a world model. I thought I came to that conclusion on my own. I don't directly remember ever watching this clip. But now I…"
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #480: This is the AI service you should never sign up to",
+      "link": "https://grahamcluley.com/smashing-security-podcast-480/",
+      "date": "2026-08-12T23:12:28.000Z",
+      "excerpt": "Would you like access to Anthropic's Claude at 90% off the normal price? All you have to do is redirect your traffic to a mysterious service called \"Poison Claude\". Only problem is that it's run by fraudsters... Meanwhile, a phishing-as-a-service platform called \"Greatness\" has…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "date": "2026-08-12T21:43:21.000Z",
+      "excerpt": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "date": "2026-08-12T17:39:27.000Z",
+      "excerpt": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil,…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Researchers observe first ‘near-autonomous’ AI attack on government target in Taiwan",
+      "link": "https://cyberscoop.com/near-autonomous-ai-attack-government-target-taiwan/",
+      "date": "2026-08-12T17:05:01.000Z",
+      "excerpt": "Israeli cyber firm Dream said the framework adapted mid-operation, corrected its mistakes and expanded as it went along. The post Researchers observe first ‘near-autonomous’ AI attack on government target in Taiwan appeared first on CyberScoop ."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Linux Kernel Process Accounting, (Wed, Aug 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33240",
+      "date": "2026-08-12T14:21:10.000Z",
+      "excerpt": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#x26;#x5f;history\"&#x26;#xc2;&#x26;#xa0;and collecting meaningful additional data. Our reader David…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "date": "2026-08-12T14:09:50.000Z",
+      "excerpt": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Researchers found a way to hijack devices through Zoom screen sharing",
+      "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
+      "date": "2026-08-12T13:37:12.000Z",
+      "excerpt": "A public AI tool found the dangerous Zoom flaw in under 20 prompts."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "date": "2026-08-12T11:47:38.000Z",
+      "excerpt": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "date": "2026-08-12T11:41:34.000Z",
+      "excerpt": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "date": "2026-08-12T11:13:03.000Z",
+      "excerpt": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Prompt Injections for Defense",
+      "link": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
+      "date": "2026-08-12T09:56:37.000Z",
+      "excerpt": "This seems to work : Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "date": "2026-08-12T09:01:54.000Z",
+      "excerpt": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter…"
+    },
+    {
+      "source": "Troy Hunt",
+      "sourceUrl": "https://www.troyhunt.com/",
+      "title": "Weekly Update 516: Live From Vietnam",
+      "link": "https://www.troyhunt.com/weekly-update-516/",
+      "date": "2026-08-12T08:16:15.000Z",
+      "excerpt": "A little wind noise, a little connectivity flakiness, and a little lip-sync issues from YouTube, but look at that view! 🤩 Back to business, it's the Brinks Home FAQ I found most interesting this week. I mean, how do you write your own FAQ then fail to"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
+      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
+      "date": "2026-08-12T08:04:52.000Z",
+      "excerpt": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
+      "link": "https://isc.sans.edu/diary/rss/33238",
+      "date": "2026-08-12T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Kimwolf botnet rebuilt to survive takedowns, researchers say",
+      "link": "https://cyberscoop.com/kimwolf-botnet-palo-alto-unit-42-android-tv-boxes/",
+      "date": "2026-08-12T00:13:08.000Z",
+      "excerpt": "Months after police seized its servers and arrested an alleged operator, the Kimwolf botnet is running code that disguises attacks as Chrome traffic and fetches its orders from the Ethereum blockchain. The post Kimwolf botnet rebuilt to survive takedowns, researchers say…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
+      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
+      "date": "2026-08-12T00:08:40.000Z",
+      "excerpt": "FBI Atlanta confirms it's looking into the incident, no arrests made."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Federal judge issues second order blocking Trump mail-in voting directive",
+      "link": "https://cyberscoop.com/federal-judge-blocks-trump-mail-in-voting-executive-order/",
+      "date": "2026-08-11T23:26:09.000Z",
+      "excerpt": "The U.S. Supreme Court temporarily reversed an earlier decision through the shadow docket. The post Federal judge issues second order blocking Trump mail-in voting directive appeared first on CyberScoop ."
+    },
+    {
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/",
+      "title": "Microsoft Plugs Nearly 400 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
+      "date": "2026-08-11T21:28:35.000Z",
+      "excerpt": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Chrome adopts what may be the best protection yet against account takeovers",
+      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
+      "date": "2026-08-11T20:59:52.000Z",
+      "excerpt": "Device-bound session credentials thwart an increasingly common form of account takeover."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Creativity vs. Consumption",
+      "link": "https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-11T20:35:48.000Z",
+      "excerpt": "Charcoal sketch of a seated figure whose left arm dissolves into a cascade of purple glowing phones while their right hand builds a warm wooden tower/images/creativity-vs-consumption-header.webp/images/creativity-vs-consumption-header.webp If there's one metric to watch for…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas",
+      "link": "https://cyberscoop.com/delta-flight-rogue-wifi-investigation-def-con-las-vegas/",
+      "date": "2026-08-11T18:02:10.000Z",
+      "excerpt": "The airline deactivated the network after the crew realized someone was messing with the in-flight system. The feds are investigating. The post Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas appeared first on CyberScoop ."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
+      "link": "https://isc.sans.edu/diary/rss/33236",
+      "date": "2026-08-11T17:54:49.000Z",
+      "excerpt": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Where an AI Watermark Can Hide in Plain Text",
+      "link": "https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-11T16:30:00.000Z",
+      "excerpt": "Diagram of the four layers a text watermark can live in, from encoding down to meaning, with the two bypasses canonical regeneration and prose rewriting crossing out the layers they…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "AI Genie in the Wild",
+      "link": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
+      "date": "2026-08-11T15:55:11.000Z",
+      "excerpt": "When I give talks about AI genies , I use this sort of example as a hypothetical. It’s happened . The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And…. Minutes later, his AI agent reported it had discovered a way to book Andrew into…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "\"Nobody Asked for A.I.\" Is a Stupid Argument",
+      "link": "https://danielmiessler.com/blog/nobody-asked-for-ai?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-11T15:31:40.000Z",
+      "excerpt": "Charcoal sketch of a colossal kneeling figure made of hundreds of interlocking hands, reaching down with open palms toward a vast crowd of suffering people/images/nobody-asked-for-ai-header.webp/images/nobody-asked-for-ai-header.webp With lots of competition, the argument that…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "New surveillance tech links your phone to your license plate",
+      "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
+      "date": "2026-08-11T13:15:24.000Z",
+      "excerpt": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants",
+      "link": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/",
+      "date": "2026-08-11T12:00:55.000Z",
+      "excerpt": "Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
+      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+      "date": "2026-08-11T11:30:08.000Z",
+      "excerpt": "Why passkey apps treat Windows differently than other operating systems."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "AI for Military Support",
+      "link": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
+      "date": "2026-08-11T11:18:07.000Z",
+      "excerpt": "Interesting empirical research: “ Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI .” Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity…"
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection",
+      "link": "https://securelist.com/project-cav3rn-continues/120991/",
+      "date": "2026-08-11T10:00:19.000Z",
+      "excerpt": "Project CAV3RN targets Israel with Google Apps Script C2 relays and DNS-based routing. Modular .NET NativeAOT framework blends C2 traffic with legitimate Google services to evade detection."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
+      "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
+      "date": "2026-08-11T10:00:16.000Z",
+      "excerpt": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42 ."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)",
+      "link": "https://isc.sans.edu/diary/rss/33232",
+      "date": "2026-08-11T02:00:03.000Z",
+      "excerpt": ""
+    }
+  ]
+}

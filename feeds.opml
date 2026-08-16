@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Cybersecurity Alphabet Soup: recommended security feeds</title>
+    <ownerName>Cybersecurity Alphabet Soup</ownerName>
+    <docs>http://opml.org/spec2.opml</docs>
+  </head>
+  <body>
+    <outline text="News" title="News">
+      <outline type="rss" text="BleepingComputer" title="BleepingComputer" xmlUrl="https://www.bleepingcomputer.com/feed/" htmlUrl="https://www.bleepingcomputer.com/"/>
+      <outline type="rss" text="The Hacker News" title="The Hacker News" xmlUrl="https://feeds.feedburner.com/TheHackersNews" htmlUrl="https://thehackernews.com/"/>
+      <outline type="rss" text="Dark Reading" title="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com/"/>
+      <outline type="rss" text="SecurityWeek" title="SecurityWeek" xmlUrl="https://www.securityweek.com/feed/" htmlUrl="https://www.securityweek.com/"/>
+      <outline type="rss" text="The Record" title="The Record" xmlUrl="https://therecord.media/feed/" htmlUrl="https://therecord.media/"/>
+      <outline type="rss" text="CyberScoop" title="CyberScoop" xmlUrl="https://cyberscoop.com/feed/" htmlUrl="https://cyberscoop.com/"/>
+      <outline type="rss" text="Help Net Security" title="Help Net Security" xmlUrl="https://www.helpnetsecurity.com/feed/" htmlUrl="https://www.helpnetsecurity.com/"/>
+      <outline type="rss" text="Infosecurity Magazine" title="Infosecurity Magazine" xmlUrl="https://www.infosecurity-magazine.com/rss/news/" htmlUrl="https://www.infosecurity-magazine.com/"/>
+      <outline type="rss" text="Ars Technica Security" title="Ars Technica Security" xmlUrl="https://arstechnica.com/security/feed/" htmlUrl="https://arstechnica.com/security/"/>
+    </outline>
+    <outline text="Research" title="Research">
+      <outline type="rss" text="SANS Internet Storm Center" title="SANS Internet Storm Center" xmlUrl="https://isc.sans.edu/rssfeed.xml" htmlUrl="https://isc.sans.edu/"/>
+      <outline type="rss" text="Unit 42" title="Unit 42" xmlUrl="https://unit42.paloaltonetworks.com/feed/" htmlUrl="https://unit42.paloaltonetworks.com/"/>
+      <outline type="rss" text="Securelist" title="Securelist" xmlUrl="https://securelist.com/feed/" htmlUrl="https://securelist.com/"/>
+      <outline type="rss" text="The DFIR Report" title="The DFIR Report" xmlUrl="https://thedfirreport.com/feed/" htmlUrl="https://thedfirreport.com/"/>
+      <outline type="rss" text="Google Project Zero" title="Google Project Zero" xmlUrl="https://googleprojectzero.blogspot.com/feeds/posts/default" htmlUrl="https://googleprojectzero.blogspot.com/"/>
+      <outline type="rss" text="Microsoft Security Blog" title="Microsoft Security Blog" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed/" htmlUrl="https://www.microsoft.com/en-us/security/blog/"/>
+      <outline type="rss" text="Sophos News" title="Sophos News" xmlUrl="https://news.sophos.com/feed/" htmlUrl="https://news.sophos.com/"/>
+    </outline>
+    <outline text="Blogs" title="Blogs">
+      <outline type="rss" text="Krebs on Security" title="Krebs on Security" xmlUrl="https://krebsonsecurity.com/feed/" htmlUrl="https://krebsonsecurity.com/"/>
+      <outline type="rss" text="Schneier on Security" title="Schneier on Security" xmlUrl="https://www.schneier.com/feed/atom/" htmlUrl="https://www.schneier.com/"/>
+      <outline type="rss" text="Graham Cluley" title="Graham Cluley" xmlUrl="https://grahamcluley.com/feed/" htmlUrl="https://grahamcluley.com/"/>
+      <outline type="rss" text="Troy Hunt" title="Troy Hunt" xmlUrl="https://www.troyhunt.com/rss/" htmlUrl="https://www.troyhunt.com/"/>
+      <outline type="rss" text="Daniel Miessler" title="Daniel Miessler" xmlUrl="https://danielmiessler.com/feed/" htmlUrl="https://danielmiessler.com/"/>
+    </outline>
+    <outline text="Advisories" title="Advisories">
+      <outline type="rss" text="CISA Cybersecurity Advisories" title="CISA Cybersecurity Advisories" xmlUrl="https://www.cisa.gov/cybersecurity-advisories/all.xml" htmlUrl="https://www.cisa.gov/news-events/cybersecurity-advisories"/>
+    </outline>
+    <outline text="From this site" title="From this site">
+      <outline type="rss" text="Alphabet Soup Blog" title="Alphabet Soup Blog" xmlUrl="https://www.cybersecurityalphabetsoup.com/feed.xml" htmlUrl="https://www.cybersecurityalphabetsoup.com/blog/"/>
+      <outline type="rss" text="Ransomware Watch" title="Ransomware Watch" xmlUrl="https://thestateofcybersecurity.github.io/ransomwareRSS/feed.xml" htmlUrl="https://www.cybersecurityalphabetsoup.com/news/"/>
+    </outline>
+  </body>
+</opml>
