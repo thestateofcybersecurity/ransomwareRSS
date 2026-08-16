@@ -1,61 +1,384 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RansomWatch</title>
-    <style>
-        body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
-        table { border-collapse: collapse; width: 100%; }
-        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
-        th { background-color: #f2f2f2; }
-    </style>
-    <script>
-        function refreshContent() {
-            fetch('feed.xml')
-                .then(response => response.text())
-                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-                .then(data => {
-                    const items = data.querySelectorAll('item');
-                    const tableBody = document.querySelector('tbody');
-                    tableBody.innerHTML = '';
-                    items.forEach(item => {
-                        const title = item.querySelector('title').textContent;
-                        const [groupName, postTitle] = title.split(': ');
-                        const pubDate = new Date(item.querySelector('pubDate').textContent);
-                        const row = document.createElement('tr');
-                        row.innerHTML = `
-                            <td>${groupName}</td>
-                            <td>${postTitle}</td>
-                            <td>${pubDate.toLocaleString()}</td>
-                        `;
-                        tableBody.appendChild(row);
-                    });
-                });
-        }
-
-        // Refresh content every 60 seconds
-        setInterval(refreshContent, 60000);
-
-        // Initial refresh
-        document.addEventListener('DOMContentLoaded', refreshContent);
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>Ransomware Watch</title>
+  <meta name="description" content="RSS feed of recent victim claims posted by ransomware groups, sourced from ransomware.live.">
+  <link rel="alternate" type="application/rss+xml" title="Ransomware Watch" href="feed.xml">
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 0 auto; max-width: 1000px; padding: 24px 16px; }
+    table { border-collapse: collapse; width: 100%; font-size: 0.9rem; }
+    th, td { border: 1px solid #8886; padding: 6px 10px; text-align: left; }
+    a.button { display: inline-block; margin: 0 8px 16px 0; }
+  </style>
 </head>
 <body>
-    <h1>RansomWatch</h1>
-    <table>
-        <thead>
-            <tr>
-                <th>Group Name</th>
-                <th>Post Title</th>
-                <th>Discovered</th>
-            </tr>
-        </thead>
-        <tbody>
-            
-        </tbody>
-    </table>
+  <h1>Ransomware Watch</h1>
+  <p>Recent victim claims posted by ransomware groups to their leak sites, updated hourly from
+    <a href="https://www.ransomware.live/" rel="noopener">ransomware.live</a>.
+    All claims are made by criminal extortion groups and are unverified.</p>
+  <p>
+    <a class="button" href="feed.xml">Subscribe by RSS</a>
+    <a class="button" href="https://www.cybersecurityalphabetsoup.com/news/">View on Cybersecurity Alphabet Soup</a>
+  </p>
+  <table>
+    <thead>
+      <tr><th>Group</th><th>Victim</th><th>Sector</th><th>Country</th><th>Discovered</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Panzer</td>
+        <td><a href="https://www.ransomware.live/id/U0FHQVNUQSBzcm9AUGFuemVy" rel="noopener">SAGASTA sro</a></td>
+        <td></td>
+        <td>CZ</td>
+        <td>Sun, 16 Aug 2026 17:52:24 GMT</td>
+      </tr>
+      <tr>
+        <td>Eclipse</td>
+        <td><a href="https://www.ransomware.live/id/TW9zY29yZEBFY2xpcHNl" rel="noopener">Moscord</a></td>
+        <td></td>
+        <td>SG</td>
+        <td>Sun, 16 Aug 2026 16:18:45 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/TXVsaW5vIFBhZGFub0BxaWxpbg==" rel="noopener">Mulino Padano</a></td>
+        <td>Agriculture and Food Production</td>
+        <td>IT</td>
+        <td>Sun, 16 Aug 2026 15:59:09 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/V0VCQSBNZXViZWxlbkBxaWxpbg==" rel="noopener">WEBA Meubelen</a></td>
+        <td>Retail &amp; E-Commerce</td>
+        <td>BE</td>
+        <td>Sun, 16 Aug 2026 15:58:24 GMT</td>
+      </tr>
+      <tr>
+        <td>settra</td>
+        <td><a href="https://www.ransomware.live/id/Z2FsbWFjay5jb20uZWNAc2V0dHJh" rel="noopener">galmack.com.ec</a></td>
+        <td>Other</td>
+        <td>EC</td>
+        <td>Sun, 16 Aug 2026 15:27:38 GMT</td>
+      </tr>
+      <tr>
+        <td>settra</td>
+        <td><a href="https://www.ransomware.live/id/YWlyb3lhbC5iaXpAc2V0dHJh" rel="noopener">airoyal.biz</a></td>
+        <td>Technology</td>
+        <td></td>
+        <td>Sun, 16 Aug 2026 15:27:05 GMT</td>
+      </tr>
+      <tr>
+        <td>settra</td>
+        <td><a href="https://www.ransomware.live/id/dGlsdHN0dWRpby5jb21Ac2V0dHJh" rel="noopener">tiltstudio.com</a></td>
+        <td>Technology</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 15:26:34 GMT</td>
+      </tr>
+      <tr>
+        <td>medusalocker</td>
+        <td><a href="https://www.ransomware.live/id/VHdhbCBGYW1pbHkgSVQgTGFiQG1lZHVzYWxvY2tlcg==" rel="noopener">Twal Family IT Lab</a></td>
+        <td>Technology</td>
+        <td></td>
+        <td>Sun, 16 Aug 2026 15:21:57 GMT</td>
+      </tr>
+      <tr>
+        <td>medusalocker</td>
+        <td><a href="https://www.ransomware.live/id/QWxsIFBhcnRzIERyeSBDbGVhbmluZ0BtZWR1c2Fsb2NrZXI=" rel="noopener">All Parts Dry Cleaning</a></td>
+        <td>Retail &amp; E-Commerce</td>
+        <td>GB</td>
+        <td>Sun, 16 Aug 2026 15:21:25 GMT</td>
+      </tr>
+      <tr>
+        <td>medusalocker</td>
+        <td><a href="https://www.ransomware.live/id/SWRleCBHcm91cEBtZWR1c2Fsb2NrZXI=" rel="noopener">Idex Group</a></td>
+        <td>Technology</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 15:20:54 GMT</td>
+      </tr>
+      <tr>
+        <td>medusalocker</td>
+        <td><a href="https://www.ransomware.live/id/QmlqYSBJbmR1c3RyaWVAbWVkdXNhbG9ja2Vy" rel="noopener">Bija Industrie</a></td>
+        <td>Manufacturing</td>
+        <td>FR</td>
+        <td>Sun, 16 Aug 2026 15:20:22 GMT</td>
+      </tr>
+      <tr>
+        <td>medusalocker</td>
+        <td><a href="https://www.ransomware.live/id/VGhlY291cmllcmd1eUBtZWR1c2Fsb2NrZXI=" rel="noopener">Thecourierguy</a></td>
+        <td>Transportation</td>
+        <td>ZA</td>
+        <td>Sun, 16 Aug 2026 15:19:49 GMT</td>
+      </tr>
+      <tr>
+        <td>Helix</td>
+        <td><a href="https://www.ransomware.live/id/S2VubmVkeSBKZW5rc0BIZWxpeA==" rel="noopener">Kennedy Jenks</a></td>
+        <td>Professional Services</td>
+        <td>US</td>
+        <td>Sun, 16 Aug 2026 15:00:10 GMT</td>
+      </tr>
+      <tr>
+        <td>lockbit5</td>
+        <td><a href="https://www.ransomware.live/id/YWN0dWEuZnJAbG9ja2JpdDU=" rel="noopener">actua.fr</a></td>
+        <td>Professional Services</td>
+        <td>FR</td>
+        <td>Sun, 16 Aug 2026 14:53:14 GMT</td>
+      </tr>
+      <tr>
+        <td>lockbit5</td>
+        <td><a href="https://www.ransomware.live/id/ZHVwb3V5LWFzc29jaWVzLmZyQGxvY2tiaXQ1" rel="noopener">dupouy-associes.fr</a></td>
+        <td>Professional Services</td>
+        <td>FR</td>
+        <td>Sun, 16 Aug 2026 14:52:43 GMT</td>
+      </tr>
+      <tr>
+        <td>lockbit5</td>
+        <td><a href="https://www.ransomware.live/id/YWdyaWNvbGFnYWxidXNlcmEuaXRAbG9ja2JpdDU=" rel="noopener">agricolagalbusera.it</a></td>
+        <td>Agriculture and Food Production</td>
+        <td>IT</td>
+        <td>Sun, 16 Aug 2026 14:52:11 GMT</td>
+      </tr>
+      <tr>
+        <td>lockbit5</td>
+        <td><a href="https://www.ransomware.live/id/dGVjb3NpbS5jb21AbG9ja2JpdDU=" rel="noopener">tecosim.com</a></td>
+        <td>Technology</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 14:51:40 GMT</td>
+      </tr>
+      <tr>
+        <td>lockbit5</td>
+        <td><a href="https://www.ransomware.live/id/dmdybi5kZUBsb2NrYml0NQ==" rel="noopener">vgrn.de</a></td>
+        <td>Energy &amp; Utilities</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 14:51:08 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/TU9TQUlEIFRlY2hub2xvZ2llc0BxaWxpbg==" rel="noopener">MOSAID Technologies</a></td>
+        <td>Technology</td>
+        <td>CA</td>
+        <td>Sun, 16 Aug 2026 12:31:17 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/SU5WRU5TSVRZQHFpbGlu" rel="noopener">INVENSITY</a></td>
+        <td>Technology</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 12:30:37 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/TWVnYXdpZGVAcWlsaW4=" rel="noopener">Megawide</a></td>
+        <td>Manufacturing</td>
+        <td>PH</td>
+        <td>Sun, 16 Aug 2026 12:29:59 GMT</td>
+      </tr>
+      <tr>
+        <td>Panzer</td>
+        <td><a href="https://www.ransomware.live/id/SW5mb3NhdEBQYW56ZXI=" rel="noopener">Infosat</a></td>
+        <td>Technology</td>
+        <td></td>
+        <td>Sun, 16 Aug 2026 11:52:15 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/RGVzYXRlcmEgU2RuIEJoZEBxaWxpbg==" rel="noopener">Desatera Sdn Bhd</a></td>
+        <td></td>
+        <td>MY</td>
+        <td>Sun, 16 Aug 2026 11:31:50 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/TG9lc2NoZXIgZWRpdG9yZSBUb3Jpbm9AcWlsaW4=" rel="noopener">Loescher editore Torino</a></td>
+        <td>Education</td>
+        <td>IT</td>
+        <td>Sun, 16 Aug 2026 11:31:11 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/Qm90ZWtAcWlsaW4=" rel="noopener">Botek</a></td>
+        <td>Manufacturing</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 11:30:31 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/WmFuaWNoZWxsaUBxaWxpbg==" rel="noopener">Zanichelli</a></td>
+        <td>Education</td>
+        <td>IT</td>
+        <td>Sun, 16 Aug 2026 11:29:51 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/Sm9uZSBQcsOpY2lzaW9uQHFpbGlu" rel="noopener">Jone Précision</a></td>
+        <td>Manufacturing</td>
+        <td>FR</td>
+        <td>Sun, 16 Aug 2026 09:32:36 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/QXJuYWxsIEdvbGRlbiBHcmVnb3J5QHFpbGlu" rel="noopener">Arnall Golden Gregory</a></td>
+        <td>Professional Services</td>
+        <td>US</td>
+        <td>Sun, 16 Aug 2026 09:31:57 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/QVNDSUkgR3JvdXBAcWlsaW4=" rel="noopener">ASCII Group</a></td>
+        <td>Technology</td>
+        <td>JP</td>
+        <td>Sun, 16 Aug 2026 09:31:19 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/REVMVEEgV0FZU0BxaWxpbg==" rel="noopener">DELTA WAYS</a></td>
+        <td>Transportation</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 09:30:40 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/bW90b3Jlbm1haWVyIGdtYmhAcWlsaW4=" rel="noopener">motorenmaier gmbh</a></td>
+        <td>Manufacturing</td>
+        <td>DE</td>
+        <td>Sun, 16 Aug 2026 09:30:02 GMT</td>
+      </tr>
+      <tr>
+        <td>qilin</td>
+        <td><a href="https://www.ransomware.live/id/RG91YmxlIEggRXF1aXBtZW50QHFpbGlu" rel="noopener">Double H Equipment</a></td>
+        <td>Manufacturing</td>
+        <td>US</td>
+        <td>Sun, 16 Aug 2026 09:29:25 GMT</td>
+      </tr>
+      <tr>
+        <td>Orova</td>
+        <td><a href="https://www.ransomware.live/id/U21hcnRzb2Z0QE9yb3Zh" rel="noopener">Smartsoft</a></td>
+        <td>Technology</td>
+        <td>TW</td>
+        <td>Sun, 16 Aug 2026 08:52:41 GMT</td>
+      </tr>
+      <tr>
+        <td>majinahanashi</td>
+        <td><a href="https://www.ransomware.live/id/UElPIFBJT0BtYWppbmFoYW5hc2hp" rel="noopener">PIO PIO</a></td>
+        <td>Retail &amp; E-Commerce</td>
+        <td>CO</td>
+        <td>Sun, 16 Aug 2026 08:48:20 GMT</td>
+      </tr>
+      <tr>
+        <td>majinahanashi</td>
+        <td><a href="https://www.ransomware.live/id/Qk9OSk9VUiBHUk9VUEBtYWppbmFoYW5hc2hp" rel="noopener">BONJOUR GROUP</a></td>
+        <td>Other</td>
+        <td>IN</td>
+        <td>Sun, 16 Aug 2026 08:47:47 GMT</td>
+      </tr>
+      <tr>
+        <td>majinahanashi</td>
+        <td><a href="https://www.ransomware.live/id/S1QgUkVTVEFVUkFOVEBtYWppbmFoYW5hc2hp" rel="noopener">KT RESTAURANT</a></td>
+        <td>Hospitality</td>
+        <td>TH</td>
+        <td>Sun, 16 Aug 2026 08:47:14 GMT</td>
+      </tr>
+      <tr>
+        <td>xpl0itrs</td>
+        <td><a href="https://www.ransomware.live/id/RHluYXRyYWNlQHhwbDBpdHJz" rel="noopener">Dynatrace</a></td>
+        <td>Technology</td>
+        <td>AT</td>
+        <td>Sat, 15 Aug 2026 21:44:14 GMT</td>
+      </tr>
+      <tr>
+        <td>xpl0itrs</td>
+        <td><a href="https://www.ransomware.live/id/T3ogSGFpciAmIEJlYXV0eUB4cGwwaXRycw==" rel="noopener">Oz Hair &amp; Beauty</a></td>
+        <td>Retail &amp; E-Commerce</td>
+        <td>AU</td>
+        <td>Sat, 15 Aug 2026 21:43:39 GMT</td>
+      </tr>
+      <tr>
+        <td>xpl0itrs</td>
+        <td><a href="https://www.ransomware.live/id/KioqKioqKioqQHhwbDBpdHJz" rel="noopener">*********</a></td>
+        <td></td>
+        <td></td>
+        <td>Sat, 15 Aug 2026 21:43:02 GMT</td>
+      </tr>
+      <tr>
+        <td>xpl0itrs</td>
+        <td><a href="https://www.ransomware.live/id/UmFwaWRGb3J0QHhwbDBpdHJz" rel="noopener">RapidFort</a></td>
+        <td>Technology</td>
+        <td>US</td>
+        <td>Sat, 15 Aug 2026 21:42:27 GMT</td>
+      </tr>
+      <tr>
+        <td>direwolf</td>
+        <td><a href="https://www.ransomware.live/id/RG9kb1BheW1lbnRzQGRpcmV3b2xm" rel="noopener">DodoPayments</a></td>
+        <td>Financial Services</td>
+        <td>IN</td>
+        <td>Sat, 15 Aug 2026 20:27:05 GMT</td>
+      </tr>
+      <tr>
+        <td>direwolf</td>
+        <td><a href="https://www.ransomware.live/id/QUFNOkhPQSBNYW5hZ2VtZW50QGRpcmV3b2xm" rel="noopener">AAM:HOA Management</a></td>
+        <td>Professional Services</td>
+        <td>US</td>
+        <td>Sat, 15 Aug 2026 20:26:22 GMT</td>
+      </tr>
+      <tr>
+        <td>direwolf</td>
+        <td><a href="https://www.ransomware.live/id/VE9UVlNAZGlyZXdvbGY=" rel="noopener">TOTVS</a></td>
+        <td>Technology</td>
+        <td>BR</td>
+        <td>Sat, 15 Aug 2026 20:25:42 GMT</td>
+      </tr>
+      <tr>
+        <td>direwolf</td>
+        <td><a href="https://www.ransomware.live/id/Q29sbGEgSGVhbHRoQGRpcmV3b2xm" rel="noopener">Colla Health</a></td>
+        <td>Healthcare</td>
+        <td>US</td>
+        <td>Sat, 15 Aug 2026 20:24:56 GMT</td>
+      </tr>
+      <tr>
+        <td>direwolf</td>
+        <td><a href="https://www.ransomware.live/id/UGF5ckhlYWx0aEBkaXJld29sZg==" rel="noopener">PayrHealth</a></td>
+        <td>Healthcare</td>
+        <td>US</td>
+        <td>Sat, 15 Aug 2026 20:24:18 GMT</td>
+      </tr>
+      <tr>
+        <td>direwolf</td>
+        <td><a href="https://www.ransomware.live/id/RFhTIEludGVybmF0aW9uYWxAZGlyZXdvbGY=" rel="noopener">DXS International</a></td>
+        <td>Technology</td>
+        <td>GB</td>
+        <td>Sat, 15 Aug 2026 20:23:39 GMT</td>
+      </tr>
+      <tr>
+        <td>ms13089</td>
+        <td><a href="https://www.ransomware.live/id/c2Vydm1hcm1nLmNsQG1zMTMwODk=" rel="noopener">servmarmg.cl</a></td>
+        <td>Other</td>
+        <td>CL</td>
+        <td>Sat, 15 Aug 2026 19:00:56 GMT</td>
+      </tr>
+      <tr>
+        <td>spacebears</td>
+        <td><a href="https://www.ransomware.live/id/U0VBUlMgKEdydXBvIFNhbmJvcm5zKUBzcGFjZWJlYXJz" rel="noopener">SEARS (Grupo Sanborns)</a></td>
+        <td>Retail &amp; E-Commerce</td>
+        <td>MX</td>
+        <td>Sat, 15 Aug 2026 15:30:23 GMT</td>
+      </tr>
+      <tr>
+        <td>securotrop</td>
+        <td><a href="https://www.ransomware.live/id/TGVwaSBFbnRlcnByaXNlc0BzZWN1cm90cm9w" rel="noopener">Lepi Enterprises</a></td>
+        <td></td>
+        <td>US</td>
+        <td>Sat, 15 Aug 2026 14:58:33 GMT</td>
+      </tr>
+      <tr>
+        <td>Barracuda</td>
+        <td><a href="https://www.ransomware.live/id/VlIgQWR2b2dhZG9zQEJhcnJhY3VkYQ==" rel="noopener">VR Advogados</a></td>
+        <td>Professional Services</td>
+        <td>BR</td>
+        <td>Sat, 15 Aug 2026 12:50:32 GMT</td>
+      </tr>
+    </tbody>
+  </table>
 </body>
 </html>
-  
