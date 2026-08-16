@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 16 Aug 2026 20:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:39:50 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Wireshark 4.6.8 Released, (Sun, Aug 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/33248</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33248</guid>
+      <pubDate>Sun, 16 Aug 2026 21:31:48 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs. (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>Large-scale DDoS attacks disrupted Threema secure messaging service</title>
       <link>https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/</link>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 11 Aug 2026 10:00:16 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, August 11th, 2026 https://isc.sans.edu/podcastdetail/10046, (Tue, Aug 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/33232</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33232</guid>
-      <pubDate>Tue, 11 Aug 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
   </channel>
 </rss>
