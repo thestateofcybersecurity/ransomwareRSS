@@ -1,22 +1,19 @@
 {
-  "name": "ransomwatch",
-  "version": "1.0.0",
-  "description": "A simple app to fetch and display ransomware data",
+  "name": "ransomware-rss",
+  "version": "2.0.0",
+  "description": "Hourly RSS/JSON feed of recent ransomware victim claims, sourced from ransomware.live",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "ransomware",
-    "data",
-    "rss"
+    "rss",
+    "threat-intelligence"
   ],
-  "author": "Your Name",
+  "author": "Parker Brissette",
   "license": "MIT",
-  "dependencies": {
-    "axios": "^0.21.1",
-    "xml": "^1.0.1",
-    "xml2js": "^0.4.23"
+  "engines": {
+    "node": ">=18"
   }
 }
