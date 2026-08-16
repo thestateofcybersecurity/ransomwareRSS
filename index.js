@@ -77,6 +77,13 @@ function transform(raw) {
       victim: String(item.victim || item.domain || 'Unnamed victim'),
       sector: item.activity && item.activity !== 'Not Found' ? String(item.activity) : '',
       country: item.country ? String(item.country) : '',
+      // Victim website: `website` on the PRO API, `domain` on the free v2 API.
+      // Carried in feed.json so the org-watch alert Worker can match domains
+      // exactly instead of relying on name substrings.
+      domain: String(item.website || item.domain || '')
+        .toLowerCase()
+        .replace(/^https?:\/\//, '')
+        .split('/')[0],
       discovered: new Date(item.discovered).toISOString(),
       // The PRO API calls the public victim page `permalink`, the free v2 API
       // calls it `url`; both point at www.ransomware.live.
