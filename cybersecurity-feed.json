@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T11:45:53.857Z",
+  "updated": "2026-08-17T13:11:54.693Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,6 +116,46 @@
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "date": "2026-08-17T12:33:11.000Z",
+      "excerpt": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
+      "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
+      "date": "2026-08-17T12:30:00.000Z",
+      "excerpt": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer",
+      "link": "https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/",
+      "date": "2026-08-17T12:23:15.000Z",
+      "excerpt": "A recently patched security flaw in Apple macOS is being actively exploited by hackers to bypass authentication, gain root access, and install a cryptominer, the Netherlands’ National Cyber Security Centre (NCSC) warns. The vulnerability, tracked as CVE-2026-65400, , let…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+      "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+      "date": "2026-08-17T12:11:00.000Z",
+      "excerpt": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "date": "2026-08-17T11:58:00.000Z",
+      "excerpt": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Philips and GE investigating Clop ransomware data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
       "date": "2026-08-17T11:25:02.000Z",
@@ -144,6 +184,14 @@
       "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
       "date": "2026-08-17T11:09:57.000Z",
       "excerpt": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "date": "2026-08-17T10:52:34.000Z",
+      "excerpt": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is…"
     },
     {
       "source": "Help Net Security",
@@ -378,14 +426,6 @@
       "excerpt": "There Is Only One Technology/images/only-one-technology.webp/images/only-one-technology.webp Had a thought about technology yesterday: The moment we used plant twine to attach a chipped stone to a stick, AI became inevitable. There is only one \"technology\". There's randomness in…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "date": "2026-08-15T14:14:38.000Z",
-      "excerpt": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
@@ -506,14 +546,6 @@
       "excerpt": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
-      "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
-      "date": "2026-08-14T13:08:56.000Z",
-      "excerpt": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, files, registry objects, and command-and-control (C2)…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies",
@@ -554,36 +586,12 @@
       "excerpt": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "New Android malware relays bank cards to fraudsters while victims still hold them",
-      "link": "https://www.helpnetsecurity.com/2026/08/14/windrelay-android-nfc-relay-malware/",
-      "date": "2026-08-14T11:08:19.000Z",
-      "excerpt": "Group-IB researchers discovered WindRelay, a new Android malware built to capture live payment card data over NFC (Near Field Communication) and relay it to attackers in real time. WindRelay is paired with the SpyNote remote access trojan, which gives attackers remote access to…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
-      "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
-      "date": "2026-08-14T11:07:45.000Z",
-      "excerpt": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions. The…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
       "link": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
       "date": "2026-08-14T11:03:50.000Z",
       "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . OpenAI, and then Anthropic , were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
-      "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
-      "date": "2026-08-14T11:00:00.000Z",
-      "excerpt": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -680,14 +688,6 @@
       "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
       "date": "2026-08-13T15:30:00.000Z",
       "excerpt": "CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Brazil orders Discord to suspend livestreaming after teen suicide",
-      "link": "https://therecord.media/discord-brazil-orders-suspension-livestreaming",
-      "date": "2026-08-13T13:37:32.000Z",
-      "excerpt": "Discord's Go Live feature contributed to a 13-year-old girl's death by suicide, according to Brazilian regulators, who told the company to suspend the streaming technology."
     },
     {
       "source": "CyberScoop",
