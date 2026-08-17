@@ -5,8 +5,48 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 17 Aug 2026 13:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 14:50:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Microsoft confirms GitHub is down worldwide</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/</guid>
+      <pubDate>Mon, 17 Aug 2026 14:47:08 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Apple Screen Sharing Security, (Mon, Aug 17th)</title>
+      <link>https://isc.sans.edu/diary/rss/33252</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33252</guid>
+      <pubDate>Mon, 17 Aug 2026 14:33:58 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>France’s tax authority admits hackers made off with data on 678,000 individuals</title>
+      <link>https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/</guid>
+      <pubDate>Mon, 17 Aug 2026 14:20:20 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>France’s tax authority has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems, saying the intrusion exposed data on 678,000 individuals and professionals. The incident came to light after an alleged attacker using the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras</link>
+      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras</guid>
+      <pubDate>Mon, 17 Aug 2026 14:10:48 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>A cybersecurity expert has demonstrated how computer-generated patterns can successfully prevent surveillance cameras from detecting vehicles - such as the controversial AI-powered Flock licence plate readers that are becoming increasingly common on American streets. Read more… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>Certighost and the Privilege Hiding in Your Certificate Authority</title>
+      <link>https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/</guid>
+      <pubDate>Mon, 17 Aug 2026 14:00:10 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>680,000 Impacted by French Tax Authority Data Breach</title>
       <link>https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/</link>
@@ -240,14 +280,6 @@
       <description>ScamNet: Anti-Scam Suite is a consumer security app from Synaptrex Technologies that helps users detect and block scams involving phone calls, text messages, websites, and other suspicious content. The app is available for iPhone, iPad, and Mac, with features varying by… (via Help Net Security)</description>
     </item>
     <item>
-      <title>When companies get specific about AI, revenue growth looks different</title>
-      <link>https://www.helpnetsecurity.com/2026/08/17/ai-adoption-revenue-growth-research/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/17/ai-adoption-revenue-growth-research/</guid>
-      <pubDate>Mon, 17 Aug 2026 04:00:30 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Companies that provide specific evidence of how they use AI tend to record stronger revenue growth. Researchers at Carnegie Mellon University and Larridin examined a study universe of 564 companies across 12 industry sectors. Individual analyses used smaller samples depending on… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)</title>
       <link>https://isc.sans.edu/diary/rss/33250</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33250</guid>
@@ -265,8 +297,8 @@
     </item>
     <item>
       <title>Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
-      <link>https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus</guid>
+      <link>https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and… (via Sophos News)</description>
@@ -294,22 +326,6 @@
       <pubDate>Sun, 16 Aug 2026 21:31:48 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs. (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Large-scale DDoS attacks disrupted Threema secure messaging service</title>
-      <link>https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/</guid>
-      <pubDate>Sun, 16 Aug 2026 17:29:52 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>New AmnesiaStealer macOS malware hijacks browser sessions via remote control</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/</guid>
-      <pubDate>Sun, 16 Aug 2026 15:07:44 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim&#39;s web browser. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>I Played ARC-AGI-3 With My Own Method</title>
@@ -768,14 +784,6 @@
       <description>The airline deactivated the network after the crew realized someone was messing with the in-flight system. The feds are investigating. The post Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)</title>
-      <link>https://isc.sans.edu/diary/rss/33236</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33236</guid>
-      <pubDate>Tue, 11 Aug 2026 17:54:49 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
       <title>AI Genie in the Wild</title>
       <link>https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html</guid>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server. (via Securelist)</description>
-    </item>
-    <item>
-      <title>New Pass-ta-key attack reveals all the things we didn&#39;t know about passkeys</title>
-      <link>https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/</guid>
-      <pubDate>Tue, 11 Aug 2026 11:30:08 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Why passkey apps treat Windows differently than other operating systems. (via Ars Technica Security)</description>
     </item>
   </channel>
 </rss>

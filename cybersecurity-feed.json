@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T13:57:19.255Z",
+  "updated": "2026-08-17T14:50:37.538Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft confirms GitHub is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
+      "date": "2026-08-17T14:47:08.000Z",
+      "excerpt": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Apple Screen Sharing Security, (Mon, Aug 17th)",
+      "link": "https://isc.sans.edu/diary/rss/33252",
+      "date": "2026-08-17T14:33:58.000Z",
+      "excerpt": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "France’s tax authority admits hackers made off with data on 678,000 individuals",
+      "link": "https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/",
+      "date": "2026-08-17T14:20:20.000Z",
+      "excerpt": "France’s tax authority has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems, saying the intrusion exposed data on 678,000 individuals and professionals. The incident came to light after an alleged attacker using the…"
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras",
+      "date": "2026-08-17T14:10:48.000Z",
+      "excerpt": "A cybersecurity expert has demonstrated how computer-generated patterns can successfully prevent surveillance cameras from detecting vehicles - such as the controversial AI-powered Flock licence plate readers that are becoming increasingly common on American streets. Read more…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "date": "2026-08-17T14:00:10.000Z",
+      "excerpt": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -346,14 +386,6 @@
       "excerpt": "ScamNet: Anti-Scam Suite is a consumer security app from Synaptrex Technologies that helps users detect and block scams involving phone calls, text messages, websites, and other suspicious content. The app is available for iPhone, iPad, and Mac, with features varying by…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "When companies get specific about AI, revenue growth looks different",
-      "link": "https://www.helpnetsecurity.com/2026/08/17/ai-adoption-revenue-growth-research/",
-      "date": "2026-08-17T04:00:30.000Z",
-      "excerpt": "Companies that provide specific evidence of how they use AI tend to record stronger revenue growth. Researchers at Carnegie Mellon University and Larridin examined a study universe of 564 companies across 12 industry sectors. Individual analyses used smaller samples depending on…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
@@ -373,7 +405,7 @@
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
       "title": "Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
-      "link": "https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus",
+      "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
       "date": "2026-08-17T00:00:00.000Z",
       "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
     },
@@ -400,22 +432,6 @@
       "link": "https://isc.sans.edu/diary/rss/33248",
       "date": "2026-08-16T21:31:48.000Z",
       "excerpt": "Wireshark release 4.6.8 fixes 28 vulnerabilities and 25 bugs."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
-      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
-      "date": "2026-08-16T17:29:52.000Z",
-      "excerpt": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "date": "2026-08-16T15:07:44.000Z",
-      "excerpt": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]"
     },
     {
       "source": "Daniel Miessler",
@@ -874,14 +890,6 @@
       "excerpt": "The airline deactivated the network after the crew realized someone was messing with the in-flight system. The feds are investigating. The post Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas appeared first on CyberScoop ."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Microsoft Patch Tuesday August 2026, (Tue, Aug 11th)",
-      "link": "https://isc.sans.edu/diary/rss/33236",
-      "date": "2026-08-11T17:54:49.000Z",
-      "excerpt": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "AI Genie in the Wild",
@@ -904,14 +912,6 @@
       "link": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/",
       "date": "2026-08-11T12:00:55.000Z",
       "excerpt": "Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "New Pass-ta-key attack reveals all the things we didn't know about passkeys",
-      "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
-      "date": "2026-08-11T11:30:08.000Z",
-      "excerpt": "Why passkey apps treat Windows differently than other operating systems."
     }
   ]
 }
