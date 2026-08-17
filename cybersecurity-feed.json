@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T19:47:01.718Z",
+  "updated": "2026-08-17T20:48:55.823Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,52 @@
   ],
   "items": [
     {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Details emerge on BlackFile’s recent attacks on financial companies",
+      "link": "https://cyberscoop.com/blackfile-cyberattacks-financial-sector/",
+      "date": "2026-08-17T20:41:00.000Z",
+      "excerpt": "BlackFile’s four affiliate groups are still targeting victims, including medical technology organizations. Several potential victims received new extortion demands last week, according to Google. The post Details emerge on BlackFile’s recent attacks on financial companies…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Irregular says ‘human oversight’ responsible for AI sandbox escape incidents",
+      "link": "https://cyberscoop.com/irregular-ai-sandbox-escape-human-oversight/",
+      "date": "2026-08-17T20:36:56.000Z",
+      "excerpt": "In a post-mortem, the frontier AI testing company said internet access for models is necessary to fully test out their cybersecurity capabilities. The post Irregular says ‘human oversight’ responsible for AI sandbox escape incidents appeared first on CyberScoop ."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Apple Patches iOS and macOS, (Mon, Aug 17th)",
+      "link": "https://isc.sans.edu/diary/rss/33254",
+      "date": "2026-08-17T20:26:39.000Z",
+      "excerpt": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
+      "link": "https://therecord.media/financial-info-leak-debt-consolidator",
+      "date": "2026-08-17T20:05:00.000Z",
+      "excerpt": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party."
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
       "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
       "date": "2026-08-17T19:35:01.000Z",
       "excerpt": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+      "date": "2026-08-17T19:22:56.000Z",
+      "excerpt": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\""
     },
     {
       "source": "BleepingComputer",
@@ -554,14 +594,6 @@
       "excerpt": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Investigation of banking hack leads to arrests in Europe, Brazil",
-      "link": "https://therecord.media/investigation-into-banking-hack-leads-to-arrests-germany-brazil",
-      "date": "2026-08-14T20:31:00.000Z",
-      "excerpt": "Germany’s federal police agency, the BKA, said three suspects were picked up in Europe and charged with fraud, and Brazil’s federal police said four others were arrested on similar charges."
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "The Different Games OpenAI and Anthropic Are Playing",
@@ -746,14 +778,6 @@
       "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press . AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "'Jewelbug' APT Balances State Espionage & Cryptocurrency Theft",
-      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
-      "date": "2026-08-13T10:00:00.000Z",
-      "excerpt": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "Armored Likho expands its cyber-espionage toolkit",
@@ -834,14 +858,6 @@
       "excerpt": "A little wind noise, a little connectivity flakiness, and a little lip-sync issues from YouTube, but look at that view! 🤩 Back to business, it's the Brinks Home FAQ I found most interesting this week. I mean, how do you write your own FAQ then fail to"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Wednesday, August 12th, 2026 https://isc.sans.edu/podcastdetail/10048, (Wed, Aug 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33238",
-      "date": "2026-08-12T02:00:03.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Kimwolf botnet rebuilt to survive takedowns, researchers say",
@@ -858,14 +874,6 @@
       "excerpt": "FBI Atlanta confirms it's looking into the incident, no arrests made."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Federal judge issues second order blocking Trump mail-in voting directive",
-      "link": "https://cyberscoop.com/federal-judge-blocks-trump-mail-in-voting-executive-order/",
-      "date": "2026-08-11T23:26:09.000Z",
-      "excerpt": "The U.S. Supreme Court temporarily reversed an earlier decision through the shadow docket. The post Federal judge issues second order blocking Trump mail-in voting directive appeared first on CyberScoop ."
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Microsoft Plugs Nearly 400 Security Holes",
@@ -880,14 +888,6 @@
       "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "date": "2026-08-11T20:59:52.000Z",
       "excerpt": "Device-bound session credentials thwart an increasingly common form of account takeover."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas",
-      "link": "https://cyberscoop.com/delta-flight-rogue-wifi-investigation-def-con-las-vegas/",
-      "date": "2026-08-11T18:02:10.000Z",
-      "excerpt": "The airline deactivated the network after the crew realized someone was messing with the in-flight system. The feds are investigating. The post Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas appeared first on CyberScoop ."
     },
     {
       "source": "Schneier on Security",
