@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:48:55.823Z",
+  "updated": "2026-08-17T21:45:51.687Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,14 @@
   ],
   "items": [
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "date": "2026-08-17T21:03:04.000Z",
+      "excerpt": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.…"
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Details emerge on BlackFile’s recent attacks on financial companies",
@@ -136,6 +144,14 @@
       "link": "https://isc.sans.edu/diary/rss/33254",
       "date": "2026-08-17T20:26:39.000Z",
       "excerpt": "Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "date": "2026-08-17T20:26:34.000Z",
+      "excerpt": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic."
     },
     {
       "source": "The Record",
@@ -386,6 +402,14 @@
       "excerpt": "The European Telecommunications Standards Institute has launched an approval process for standards vendors will have to meet under the Cyber Resilience Act"
     },
     {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Fix Execution, Not the SOP",
+      "link": "https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-17T11:13:47.000Z",
+      "excerpt": "A flood of documents pours into a funnel that drips onto a tiny model a man is polishing, while real unbuilt work waits through an open door/images/fix-execution-not-the-sop.webp/images/fix-execution-not-the-sop.webp AI is multiplying the problem of us having far too many…"
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
@@ -472,14 +496,6 @@
       "link": "https://www.helpnetsecurity.com/2026/08/17/germany-brazil-bank-fraud-ring-dismantled/",
       "date": "2026-08-17T08:08:30.000Z",
       "excerpt": "German and Brazilian police dismantled an international bank fraud ring blamed for a €30 million cyberattack on a German financial institution, arresting four people in Brazil and pursuing three more suspects in Spain and Bulgaria. Brazilian police named the operation “Klonen.”…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "date": "2026-08-17T07:36:19.000Z",
-      "excerpt": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -592,14 +608,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html",
       "date": "2026-08-14T21:01:49.000Z",
       "excerpt": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "The Different Games OpenAI and Anthropic Are Playing",
-      "link": "https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-08-14T19:45:00.000Z",
-      "excerpt": "The Different Games OpenAI and Anthropic Are Playing/images/openai-anthropic-approaches.webp/images/openai-anthropic-approaches.webp URL once the cut is published --> So one thing I find really interesting right now is the difference in how it seems OpenAI and Anthropic are…"
     },
     {
       "source": "Dark Reading",
@@ -736,14 +744,6 @@
       "link": "https://cyberscoop.com/cameron-curry-insider-attack-brightly-software-sentenced/",
       "date": "2026-08-13T21:59:53.000Z",
       "excerpt": "Cameron Curry stole corporate data and employee information, which he used to threaten the company as his six-month contract gig came to a close. He ultimately extorted the company for $7,540.92. The post Tech contractor for Brightly Software sentenced to 2 years in prison for…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-      "date": "2026-08-13T20:45:17.000Z",
-      "excerpt": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat."
     },
     {
       "source": "Ars Technica Security",

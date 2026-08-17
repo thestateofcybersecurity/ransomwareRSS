@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 17 Aug 2026 20:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:45:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
+      <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</guid>
+      <pubDate>Mon, 17 Aug 2026 21:03:04 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Details emerge on BlackFile’s recent attacks on financial companies</title>
       <link>https://cyberscoop.com/blackfile-cyberattacks-financial-sector/</link>
@@ -30,6 +38,14 @@
       <pubDate>Mon, 17 Aug 2026 20:26:39 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS. (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>&#39;Turf War&#39; Between Claude Agents Leads to Self-Replicating Malware</title>
+      <link>https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</link>
+      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</guid>
+      <pubDate>Mon, 17 Aug 2026 20:26:34 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic. (via Dark Reading)</description>
     </item>
     <item>
       <title>Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach</title>
@@ -280,6 +296,14 @@
       <description>The European Telecommunications Standards Institute has launched an approval process for standards vendors will have to meet under the Cyber Resilience Act (via Infosecurity Magazine)</description>
     </item>
     <item>
+      <title>Fix Execution, Not the SOP</title>
+      <link>https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Mon, 17 Aug 2026 11:13:47 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A flood of documents pours into a funnel that drips onto a tiny model a man is polishing, while real unbuilt work waits through an open door/images/fix-execution-not-the-sop.webp/images/fix-execution-not-the-sop.webp AI is multiplying the problem of us having far too many… (via Daniel Miessler)</description>
+    </item>
+    <item>
       <title>Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware</title>
       <link>https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/</link>
       <guid isPermaLink="false">https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/</guid>
@@ -366,14 +390,6 @@
       <pubDate>Mon, 17 Aug 2026 08:08:30 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>German and Brazilian police dismantled an international bank fraud ring blamed for a €30 million cyberattack on a German financial institution, arresting four people in Brazil and pursuing three more suspects in Spain and Bulgaria. Brazilian police named the operation “Klonen.”… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware</title>
-      <link>https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html</guid>
-      <pubDate>Mon, 17 Aug 2026 07:36:19 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe… (via The Hacker News)</description>
     </item>
     <item>
       <title>Infostealers Harvest 1.7 Billion Credentials in Six Months</title>
@@ -486,14 +502,6 @@
       <pubDate>Fri, 14 Aug 2026 21:01:49 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>The Different Games OpenAI and Anthropic Are Playing</title>
-      <link>https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/openai-anthropic-approaches?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Fri, 14 Aug 2026 19:45:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>The Different Games OpenAI and Anthropic Are Playing/images/openai-anthropic-approaches.webp/images/openai-anthropic-approaches.webp URL once the cut is published --&gt; So one thing I find really interesting right now is the difference in how it seems OpenAI and Anthropic are… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>Mission-Driven Security: Inside a Global Bank&#39;s Defense</title>
@@ -630,14 +638,6 @@
       <pubDate>Thu, 13 Aug 2026 21:59:53 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Cameron Curry stole corporate data and employee information, which he used to threaten the company as his six-month contract gig came to a close. He ultimately extorted the company for $7,540.92. The post Tech contractor for Brightly Software sentenced to 2 years in prison for… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Global Threat Campaign Hits Critical VMware vCenter Flaw</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw</guid>
-      <pubDate>Thu, 13 Aug 2026 20:45:17 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat. (via Dark Reading)</description>
     </item>
     <item>
       <title>Private security firms will soon be allowed to hack overseas cybercriminals</title>
