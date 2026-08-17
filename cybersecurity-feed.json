@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T23:39:13.494Z",
+  "updated": "2026-08-17T01:58:34.260Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Stolen Authority",
+      "link": "https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-17T01:30:00.000Z",
+      "excerpt": "Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp There's a parasitic marketing technique all over X right now, and I think the fastest way to kill it is to give it a name with adequate stigma attached. Stolen Authority. The name comes from Stolen…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "date": "2026-08-16T23:47:06.000Z",
+      "excerpt": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -288,14 +304,6 @@
       "link": "https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/",
       "date": "2026-08-14T14:49:00.000Z",
       "excerpt": "Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "date": "2026-08-14T14:00:10.000Z",
-      "excerpt": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]"
     },
     {
       "source": "Dark Reading",
@@ -848,14 +856,6 @@
       "link": "https://isc.sans.edu/diary/rss/33236",
       "date": "2026-08-11T17:54:49.000Z",
       "excerpt": "This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Where an AI Watermark Can Hide in Plain Text",
-      "link": "https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-08-11T16:30:00.000Z",
-      "excerpt": "Diagram of the four layers a text watermark can live in, from encoding down to meaning, with the two bypasses canonical regeneration and prose rewriting crossing out the layers they…"
     },
     {
       "source": "Schneier on Security",

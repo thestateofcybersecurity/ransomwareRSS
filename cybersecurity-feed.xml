@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 16 Aug 2026 23:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 01:58:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Stolen Authority</title>
+      <link>https://danielmiessler.com/blog/stolen-authority?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/stolen-authority?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Mon, 17 Aug 2026 01:30:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp There&#39;s a parasitic marketing technique all over X right now, and I think the fastest way to kill it is to give it a name with adequate stigma attached. Stolen Authority. The name comes from Stolen… (via Daniel Miessler)</description>
+    </item>
+    <item>
+      <title>SafePal data breach impacts 39,798 customers, stolen info for sale</title>
+      <link>https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</guid>
+      <pubDate>Sun, 16 Aug 2026 23:47:06 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Anthropic confirms Claude is down in major outage affecting multiple services</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</link>
@@ -182,14 +198,6 @@
       <pubDate>Fri, 14 Aug 2026 14:49:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/</guid>
-      <pubDate>Fri, 14 Aug 2026 14:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>What Boards Need to Know About Tech Risk</title>
@@ -742,14 +750,6 @@
       <pubDate>Tue, 11 Aug 2026 17:54:49 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>This month we got patches for 418 vulnerabilities. Of these, 62 are critical, 1 is being exploited in the wild, and 2 were publicly disclosed as zero-days. Notable fixes include Windows privilege escalation, container tampering, and critical QUIC and DNS Server remote code… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Where an AI Watermark Can Hide in Plain Text</title>
-      <link>https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/where-watermarks-hide-in-text?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Tue, 11 Aug 2026 16:30:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Diagram of the four layers a text watermark can live in, from encoding down to meaning, with the two bypasses canonical regeneration and prose rewriting crossing out the layers they… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>AI Genie in the Wild</title>
