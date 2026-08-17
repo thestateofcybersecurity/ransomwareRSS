@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:52:27.633Z",
+  "updated": "2026-08-17T11:45:53.857Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "date": "2026-08-17T11:25:02.000Z",
+      "excerpt": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
+      "link": "https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html",
+      "date": "2026-08-17T11:18:03.000Z",
+      "excerpt": "Criminals are hacking into public Wi-Fi devices—at hotels, conference centers, and so on—around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "ETSI Proposes 17 Cybersecurity Standards to Support Cyber Resilience Act",
+      "link": "https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/",
+      "date": "2026-08-17T11:15:00.000Z",
+      "excerpt": "The European Telecommunications Standards Institute has launched an approval process for standards vendors will have to meet under the Cyber Resilience Act"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
+      "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
+      "date": "2026-08-17T11:09:57.000Z",
+      "excerpt": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek ."
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -258,6 +290,14 @@
       "excerpt": "Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It's the deplorable tactic of doing an…"
     },
     {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
+      "link": "https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus",
+      "date": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
@@ -360,14 +400,6 @@
       "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
       "date": "2026-08-15T07:24:04.000Z",
       "excerpt": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "date": "2026-08-14T23:24:17.000Z",
-      "excerpt": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]"
     },
     {
       "source": "Schneier on Security",
@@ -562,14 +594,6 @@
       "excerpt": "AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-      "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-      "date": "2026-08-14T10:24:03.000Z",
-      "excerpt": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek ."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit",
@@ -656,14 +680,6 @@
       "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
       "date": "2026-08-13T15:30:00.000Z",
       "excerpt": "CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone",
-      "link": "https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/",
-      "date": "2026-08-13T15:00:00.000Z",
-      "excerpt": "Google Cloud has set a 2027 deadline to mitigate store-now-decrypt-later risks as part of its post-quantum cryptography roadmap, with wider migration goals extending through 2028"
     },
     {
       "source": "The Record",
@@ -896,22 +912,6 @@
       "link": "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
       "date": "2026-08-11T11:30:08.000Z",
       "excerpt": "Why passkey apps treat Windows differently than other operating systems."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "AI for Military Support",
-      "link": "https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html",
-      "date": "2026-08-11T11:18:07.000Z",
-      "excerpt": "Interesting empirical research: “ Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI .” Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection",
-      "link": "https://securelist.com/project-cav3rn-continues/120991/",
-      "date": "2026-08-11T10:00:19.000Z",
-      "excerpt": "Project CAV3RN targets Israel with Google Apps Script C2 relays and DNS-based routing. Modular .NET NativeAOT framework blends C2 traffic with legitimate Google services to evade detection."
     }
   ]
 }

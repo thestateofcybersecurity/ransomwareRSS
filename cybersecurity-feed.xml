@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 17 Aug 2026 10:52:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:45:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Philips and GE investigating Clop ransomware data theft claims</title>
+      <link>https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:25:02 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Tech giants General Electric (GE) and Philips have also confirmed they&#39;re investigating claims that the Clop ransomware gang breached their systems and stole data. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Hacking Public Wi-Fi DNS to Steal Credentials</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/hacking-public-wi-fi-dns-to-steal-credentials.html</guid>
+      <pubDate>Mon, 17 Aug 2026 11:18:03 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>Criminals are hacking into public Wi-Fi devices—at hotels, conference centers, and so on—around the world and changing their DNS settings. The goal is to redirect users to fake login pages and steal their credentials. (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>ETSI Proposes 17 Cybersecurity Standards to Support Cyber Resilience Act</title>
+      <link>https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/etsi-proposes-17-cybersecurity/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:15:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>The European Telecommunications Standards Institute has launched an approval process for standards vendors will have to meet under the Cyber Resilience Act (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware</title>
+      <link>https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/</guid>
+      <pubDate>Mon, 17 Aug 2026 11:09:57 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>SafePal breach affects 39,798 customers, data allegedly for sale</title>
       <link>https://www.helpnetsecurity.com/2026/08/17/safepal-data-breach-customer-order-information/</link>
@@ -152,6 +184,14 @@
       <description>Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It&#39;s the deplorable tactic of doing an… (via Daniel Miessler)</description>
     </item>
     <item>
+      <title>Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
+      <link>https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netNTLMv1-lookups-without-gpus</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and… (via Sophos News)</description>
+    </item>
+    <item>
       <title>SafePal data breach impacts 39,798 customers, stolen info for sale</title>
       <link>https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</guid>
@@ -254,14 +294,6 @@
       <pubDate>Sat, 15 Aug 2026 07:24:04 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>How Anthropic plans to watermark Claude&#39;s AI-generated text</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/</guid>
-      <pubDate>Fri, 14 Aug 2026 23:24:17 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>It could soon become easier to identify AI-generated content, even if it&#39;s not the usual &quot;It&#39;s Not X, it&#39;s Y&quot; type of post you&#39;d come across on LinkedIn and other socials. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Friday Squid Blogging: Searching for the Colossal Squid</title>
@@ -456,14 +488,6 @@
       <description>AmnesiaStealer contains novel functions, including the attackers gaining remote control over the victim’s browser to steal cookie data (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>1.6 Million Likely Impacted by RingCentral Data Breach</title>
-      <link>https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/</guid>
-      <pubDate>Fri, 14 Aug 2026 10:24:03 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>APT group HoneyMyte upgrades CoolClient: the backdoor gets a kernel-level Windows rootkit</title>
       <link>https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</link>
       <guid isPermaLink="false">https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/</guid>
@@ -550,14 +574,6 @@
       <pubDate>Thu, 13 Aug 2026 15:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Google Cloud Targets 2027 for First Major Post-Quantum Security Milestone</title>
-      <link>https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/google-cloud-post-quantum-roadmap/</guid>
-      <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Google Cloud has set a 2027 deadline to mitigate store-now-decrypt-later risks as part of its post-quantum cryptography roadmap, with wider migration goals extending through 2028 (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>Brazil orders Discord to suspend livestreaming after teen suicide</title>
@@ -790,22 +806,6 @@
       <pubDate>Tue, 11 Aug 2026 11:30:08 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Why passkey apps treat Windows differently than other operating systems. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>AI for Military Support</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html</guid>
-      <pubDate>Tue, 11 Aug 2026 11:18:07 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting empirical research: “ Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI .” Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection</title>
-      <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <guid isPermaLink="false">https://securelist.com/project-cav3rn-continues/120991/</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>Project CAV3RN targets Israel with Google Apps Script C2 relays and DNS-based routing. Modular .NET NativeAOT framework blends C2 traffic with legitimate Google services to evade detection. (via Securelist)</description>
     </item>
   </channel>
 </rss>
