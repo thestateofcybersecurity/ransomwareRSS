@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T01:58:34.260Z",
+  "updated": "2026-08-17T03:24:03.189Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,20 @@
   ],
   "items": [
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, August 17th, 2026 https://isc.sans.edu/podcastdetail/10054, (Mon, Aug 17th)",
+      "link": "https://isc.sans.edu/diary/rss/33250",
+      "date": "2026-08-17T02:00:02.000Z",
+      "excerpt": ""
+    },
+    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Stolen Authority",
       "link": "https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T01:30:00.000Z",
-      "excerpt": "Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp There's a parasitic marketing technique all over X right now, and I think the fastest way to kill it is to give it a name with adequate stigma attached. Stolen Authority. The name comes from Stolen…"
+      "excerpt": "Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It's the deplorable tactic of doing an…"
     },
     {
       "source": "BleepingComputer",
@@ -904,14 +912,6 @@
       "link": "https://securelist.com/project-cav3rn-continues/120991/",
       "date": "2026-08-11T10:00:19.000Z",
       "excerpt": "Project CAV3RN targets Israel with Google Apps Script C2 relays and DNS-based routing. Modular .NET NativeAOT framework blends C2 traffic with legitimate Google services to evade detection."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
-      "link": "https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/",
-      "date": "2026-08-11T10:00:16.000Z",
-      "excerpt": "Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42 ."
     }
   ]
 }
