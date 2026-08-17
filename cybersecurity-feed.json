@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T13:11:54.693Z",
+  "updated": "2026-08-17T13:57:19.255Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "680,000 Impacted by French Tax Authority Data Breach",
+      "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+      "date": "2026-08-17T13:53:55.000Z",
+      "excerpt": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fortinet expands AI security portfolio with Virtue AI acquisition",
+      "link": "https://www.helpnetsecurity.com/2026/08/17/fortinet-virtue-ai-acquisition/",
+      "date": "2026-08-17T13:52:00.000Z",
+      "excerpt": "Fortinet has acquired Virtue AI, strengthening its broader Security for AI strategy and its vision for securing the agentic enterprise. The acquisition builds on Fortinet’s existing AI security portfolio, which includes the FortiGate Hyperscale Firewall. As organizations deploy…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
+      "link": "https://www.infosecurity-magazine.com/news/wordpress-plugin-flaw-40000-sites/",
+      "date": "2026-08-17T13:30:00.000Z",
+      "excerpt": "Critical User Profile Builder flaw let unauthenticated attackers access administrator accounts"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "date": "2026-08-17T13:23:51.000Z",
+      "excerpt": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -386,14 +418,6 @@
       "excerpt": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Week in review: Salesforce and ServiceNow portals exposed for 17 months, exploited Metabase 0-day",
-      "link": "https://www.helpnetsecurity.com/2026/08/16/week-in-review-salesforce-and-servicenow-portals-exposed-for-17-months-exploited-metabase-0-day/",
-      "date": "2026-08-16T08:00:56.000Z",
-      "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: GitHub Dependabot malware alerts now cover eight ecosystems GitHub has flagged npm malware since March 2026. Anyone pulling in a bad PyPI, Maven, RubyGems, NuGet, Go, crates.io, or…"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "I Played ARC-AGI-3 With My Own Method",
@@ -498,14 +522,6 @@
       "excerpt": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "IAM Compliance Requirements and Best Practices",
-      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-      "date": "2026-08-14T17:19:49.000Z",
-      "excerpt": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Upcoming Speaking Engagements",
@@ -568,14 +584,6 @@
       "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
       "date": "2026-08-14T11:57:51.000Z",
       "excerpt": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737,…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
-      "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-      "date": "2026-08-14T11:35:23.000Z",
-      "excerpt": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek ."
     },
     {
       "source": "Krebs on Security",
@@ -680,14 +688,6 @@
       "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
       "date": "2026-08-13T15:52:00.000Z",
       "excerpt": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Exposed AWS Access Key Linked to Data Breach Affecting 1500+ UK Charities",
-      "link": "https://www.infosecurity-magazine.com/news/exposed-aws-key-data-charities/",
-      "date": "2026-08-13T15:30:00.000Z",
-      "excerpt": "CRM provider Beacon has revealed that a compromised AWS access key was the likely root cause of the breach of 1500 UK charities’ data"
     },
     {
       "source": "CyberScoop",
