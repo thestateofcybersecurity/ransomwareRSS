@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T15:46:45.121Z",
+  "updated": "2026-08-17T16:50:36.244Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Sophos News",
@@ -114,12 +114,44 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
+      "link": "https://therecord.media/irregular-ai-hacking-model-blog",
+      "date": "2026-08-17T16:15:00.000Z",
+      "excerpt": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
+      "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
+      "date": "2026-08-17T16:01:00.000Z",
+      "excerpt": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "How AI Builders Will Get Hacked",
+      "link": "https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-08-17T15:51:31.000Z",
+      "excerpt": "How AI Builders Will Get Hacked/images/how-ai-builders-get-hacked.webp/images/how-ai-builders-get-hacked.webp If you are building stuff with AI I have a critical security recommendation for you. Create a continuously-running security testing system that: 1. Maintains a list of…"
+    },
+    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
       "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
       "date": "2026-08-17T15:45:00.000Z",
       "excerpt": "UNISOC modem flaw enabled kernel-level code execution through video calls"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
+      "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
+      "date": "2026-08-17T15:44:34.000Z",
+      "excerpt": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure."
     },
     {
       "source": "BleepingComputer",
@@ -690,22 +722,6 @@
       "excerpt": "As frontier models and their sandbox escaping exploits dominate front-page news, researchers are increasingly worried about cheaper, more efficient AI models. The post AI’s ‘middle class’ has gotten dramatically better at hacking appeared first on CyberScoop ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Flock tightens privacy controls amid scandals over officer abuse",
-      "link": "https://therecord.media/flock-safety-audit-assistance-police-departments",
-      "date": "2026-08-13T16:47:00.000Z",
-      "excerpt": "All Flock Safety customers will be required to adopt its \"Audit Assistance\" feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "New Mirai variant adds stealth capabilities to notorious botnet code",
-      "link": "https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code",
-      "date": "2026-08-13T15:52:00.000Z",
-      "excerpt": "Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Trump turns to private sector in offensive hacking operations memo",
@@ -736,14 +752,6 @@
       "link": "https://securelist.com/armored-likho-still-toolkit/121033/",
       "date": "2026-08-13T08:00:15.000Z",
       "excerpt": "Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-      "date": "2026-08-13T07:00:00.000Z",
-      "excerpt": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -872,14 +880,6 @@
       "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "date": "2026-08-11T20:59:52.000Z",
       "excerpt": "Device-bound session credentials thwart an increasingly common form of account takeover."
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Creativity vs. Consumption",
-      "link": "https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-08-11T20:35:48.000Z",
-      "excerpt": "Charcoal sketch of a seated figure whose left arm dissolves into a cascade of purple glowing phones while their right hand builds a warm wooden tower/images/creativity-vs-consumption-header.webp/images/creativity-vs-consumption-header.webp If there's one metric to watch for…"
     },
     {
       "source": "CyberScoop",

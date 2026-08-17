@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 17 Aug 2026 15:46:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:50:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Irregular faces criticism over ‘spin’ in AI hacking postmortem</title>
+      <link>https://therecord.media/irregular-ai-hacking-model-blog</link>
+      <guid isPermaLink="false">https://therecord.media/irregular-ai-hacking-model-blog</guid>
+      <pubDate>Mon, 17 Aug 2026 16:15:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered. (via The Record)</description>
+    </item>
+    <item>
+      <title>Poland probes MyDr healthcare software breach potentially affecting 19 million people</title>
+      <link>https://therecord.media/poland-probes-mydr-healthcare-software-breach</link>
+      <guid isPermaLink="false">https://therecord.media/poland-probes-mydr-healthcare-software-breach</guid>
+      <pubDate>Mon, 17 Aug 2026 16:01:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures. (via The Record)</description>
+    </item>
+    <item>
+      <title>How AI Builders Will Get Hacked</title>
+      <link>https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Mon, 17 Aug 2026 15:51:31 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>How AI Builders Will Get Hacked/images/how-ai-builders-get-hacked.webp/images/how-ai-builders-get-hacked.webp If you are building stuff with AI I have a critical security recommendation for you. Create a continuously-running security testing system that: 1. Maintains a list of… (via Daniel Miessler)</description>
+    </item>
     <item>
       <title>UNISOC Modem Flaw Enables Remote Code Execution via Video Calls</title>
       <link>https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/</link>
@@ -14,6 +38,14 @@
       <pubDate>Mon, 17 Aug 2026 15:45:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>UNISOC modem flaw enabled kernel-level code execution through video calls (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS</title>
+      <link>https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</guid>
+      <pubDate>Mon, 17 Aug 2026 15:44:34 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure. (via Dark Reading)</description>
     </item>
     <item>
       <title>Microsoft confirms GitHub is down worldwide</title>
@@ -584,22 +616,6 @@
       <description>As frontier models and their sandbox escaping exploits dominate front-page news, researchers are increasingly worried about cheaper, more efficient AI models. The post AI’s ‘middle class’ has gotten dramatically better at hacking appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Flock tightens privacy controls amid scandals over officer abuse</title>
-      <link>https://therecord.media/flock-safety-audit-assistance-police-departments</link>
-      <guid isPermaLink="false">https://therecord.media/flock-safety-audit-assistance-police-departments</guid>
-      <pubDate>Thu, 13 Aug 2026 16:47:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>All Flock Safety customers will be required to adopt its &quot;Audit Assistance&quot; feature for tracking abnormal uses, and the company says it will hold license plate data for only seven days in most cases. (via The Record)</description>
-    </item>
-    <item>
-      <title>New Mirai variant adds stealth capabilities to notorious botnet code</title>
-      <link>https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code</link>
-      <guid isPermaLink="false">https://therecord.media/new-mirai-variant-adds-stealth-to-botnet-code</guid>
-      <pubDate>Thu, 13 Aug 2026 15:52:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Beyond Mirai’s usual functions, the new code features include encrypted communications with command-and-control servers and a “sniffer” that looks for default access credentials. (via The Record)</description>
-    </item>
-    <item>
       <title>Trump turns to private sector in offensive hacking operations memo</title>
       <link>https://cyberscoop.com/trump-memo-private-sector-offensive-hacking/</link>
       <guid isPermaLink="false">https://cyberscoop.com/trump-memo-private-sector-offensive-hacking/</guid>
@@ -630,14 +646,6 @@
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Belgium&#39;s eID Authentication Opens Citizen Accounts to RCE</title>
-      <link>https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce</link>
-      <guid isPermaLink="false">https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce</guid>
-      <pubDate>Thu, 13 Aug 2026 07:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The trust framework underlying Belgium&#39;s electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general. (via Dark Reading)</description>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)</title>
@@ -766,14 +774,6 @@
       <pubDate>Tue, 11 Aug 2026 20:59:52 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Device-bound session credentials thwart an increasingly common form of account takeover. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Creativity vs. Consumption</title>
-      <link>https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/creativity-vs-consumption?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Tue, 11 Aug 2026 20:35:48 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Charcoal sketch of a seated figure whose left arm dissolves into a cascade of purple glowing phones while their right hand builds a warm wooden tower/images/creativity-vs-consumption-header.webp/images/creativity-vs-consumption-header.webp If there&#39;s one metric to watch for… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>Delta investigates in-flight Wi-Fi spoofing on post-DEF CON flight from Las Vegas</title>
