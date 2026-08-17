@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 17 Aug 2026 19:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 19:47:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hacker claims 3.6 million Azure account records stolen from major companies</title>
+      <link>https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</guid>
+      <pubDate>Mon, 17 Aug 2026 19:35:01 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Pokémon Center data breach exposes customer info, cancels some orders</title>
+      <link>https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/</guid>
+      <pubDate>Mon, 17 Aug 2026 19:12:39 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>How to Get Started in Cybersecurity 2026</title>
       <link>https://danielmiessler.com/blog/how-to-get-started-in-cybersecurity-2026?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
@@ -14,6 +30,30 @@
       <pubDate>Mon, 17 Aug 2026 19:00:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A person vaulting on a machine lever toward a glowing keyhole/images/how-to-get-started-in-cybersecurity-2026.webp/images/how-to-get-started-in-cybersecurity-2026.webp I&#39;ve been writing versions of this guide since 2008. The most recent big one was the 2019… (via Daniel Miessler)</description>
+    </item>
+    <item>
+      <title>Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
+      <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</guid>
+      <pubDate>Mon, 17 Aug 2026 18:44:17 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake&#39;s public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads</title>
+      <link>https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html</guid>
+      <pubDate>Mon, 17 Aug 2026 18:22:09 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic</title>
+      <link>https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html</guid>
+      <pubDate>Mon, 17 Aug 2026 17:41:06 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the… (via The Hacker News)</description>
     </item>
     <item>
       <title>SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted</title>
@@ -360,22 +400,6 @@
       <description>Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and… (via Sophos News)</description>
     </item>
     <item>
-      <title>SafePal data breach impacts 39,798 customers, stolen info for sale</title>
-      <link>https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/</guid>
-      <pubDate>Sun, 16 Aug 2026 23:47:06 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Anthropic confirms Claude is down in major outage affecting multiple services</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/</guid>
-      <pubDate>Sun, 16 Aug 2026 22:28:57 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Wireshark 4.6.8 Released, (Sun, Aug 16th)</title>
       <link>https://isc.sans.edu/diary/rss/33248</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33248</guid>
@@ -416,22 +440,6 @@
       <description>There Is Only One Technology/images/only-one-technology.webp/images/only-one-technology.webp Had a thought about technology yesterday: The moment we used plant twine to attach a chipped stone to a stick, AI became inevitable. There is only one &quot;technology&quot;. There&#39;s randomness in… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch</title>
-      <link>https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html</guid>
-      <pubDate>Sat, 15 Aug 2026 08:38:46 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner</title>
-      <link>https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html</guid>
-      <pubDate>Sat, 15 Aug 2026 07:24:04 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Friday Squid Blogging: Searching for the Colossal Squid</title>
       <link>https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-searching-for-the-colossal-squid-2.html</guid>
@@ -462,14 +470,6 @@
       <pubDate>Fri, 14 Aug 2026 19:24:18 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>In this video interview, Standard Chartered&#39;s group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware</title>
-      <link>https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html</guid>
-      <pubDate>Fri, 14 Aug 2026 18:48:46 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain… (via The Hacker News)</description>
     </item>
     <item>
       <title>Vulnerability giving attackers full control of Macs is under active exploitation</title>
