@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T14:50:37.538Z",
+  "updated": "2026-08-17T15:46:45.121Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Sophos News",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "UNISOC Modem Flaw Enables Remote Code Execution via Video Calls",
+      "link": "https://www.infosecurity-magazine.com/news/unisoc-modem-flaw-rce-calls/",
+      "date": "2026-08-17T15:45:00.000Z",
+      "excerpt": "UNISOC modem flaw enabled kernel-level code execution through video calls"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -404,7 +412,7 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "Reviving the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
+      "title": "Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
       "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
       "date": "2026-08-17T00:00:00.000Z",
       "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
@@ -632,14 +640,6 @@
       "link": "https://securelist.com/honeymyte-coolclient-driver-rootkit/121028/",
       "date": "2026-08-14T09:00:14.000Z",
       "excerpt": "Our experts discovered a new CoolClient backdoor variant with a kernel-mode rootkit driver that hides malicious processes, files, and network connections from security tools and threat analysts."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Researchers Link 'Jewelbug' Chinese APT to Hack-for-Hire Operations",
-      "link": "https://www.infosecurity-magazine.com/news/researchers-link-chinese-apt-hack/",
-      "date": "2026-08-14T07:30:00.000Z",
-      "excerpt": "Threat intelligence researchers from Broadcom revealed that a known Chinese APT group may be linked to a lucrative crypto fraud operation"
     },
     {
       "source": "SANS Internet Storm Center",
