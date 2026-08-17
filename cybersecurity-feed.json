@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T10:01:58.622Z",
+  "updated": "2026-08-17T10:52:27.633Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,36 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "SafePal breach affects 39,798 customers, data allegedly for sale",
+      "link": "https://www.helpnetsecurity.com/2026/08/17/safepal-data-breach-customer-order-information/",
+      "date": "2026-08-17T10:29:57.000Z",
+      "excerpt": "Cryptocurrency wallet maker SafePal disclosed a data breach that exposed order information for 39,798 customers, including names, email addresses, shipping addresses, phone numbers and purchase details. The company traced the exposure to an authorization flaw in a plug-in used…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "date": "2026-08-17T10:09:48.000Z",
+      "excerpt": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]"
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "40,000 Impacted by SafePal Data Breach",
       "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
       "date": "2026-08-17T09:37:06.000Z",
       "excerpt": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "date": "2026-08-17T09:29:55.000Z",
+      "excerpt": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -160,6 +184,14 @@
       "link": "https://www.helpnetsecurity.com/2026/08/17/germany-brazil-bank-fraud-ring-dismantled/",
       "date": "2026-08-17T08:08:30.000Z",
       "excerpt": "German and Brazilian police dismantled an international bank fraud ring blamed for a €30 million cyberattack on a German financial institution, arresting four people in Brazil and pursuing three more suspects in Spain and Bulgaria. Brazilian police named the operation “Klonen.”…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "date": "2026-08-17T07:36:19.000Z",
+      "excerpt": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -314,6 +346,22 @@
       "excerpt": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]"
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "date": "2026-08-15T08:38:46.000Z",
+      "excerpt": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "date": "2026-08-15T07:24:04.000Z",
+      "excerpt": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical…"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "How Anthropic plans to watermark Claude's AI-generated text",
@@ -354,6 +402,14 @@
       "excerpt": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking."
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "date": "2026-08-14T18:48:46.000Z",
+      "excerpt": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain…"
+    },
+    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
@@ -362,20 +418,20 @@
       "excerpt": "Screen-sharing bug lets remote hackers log in without a password."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "date": "2026-08-14T18:04:26.000Z",
-      "excerpt": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
       "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
       "date": "2026-08-14T17:32:46.000Z",
       "excerpt": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "IAM Compliance Requirements and Best Practices",
+      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "date": "2026-08-14T17:19:49.000Z",
+      "excerpt": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and…"
     },
     {
       "source": "Schneier on Security",
@@ -416,6 +472,14 @@
       "link": "https://therecord.media/french-tax-authority-dgfip-confirms-data-breach",
       "date": "2026-08-14T13:14:15.000Z",
       "excerpt": "French authorities confirmed that someone gained unauthorized access to systems at the Directorate General of Public Finances in late June after stealing or misusing someone’s identity."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
+      "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
+      "date": "2026-08-14T13:08:56.000Z",
+      "excerpt": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, files, registry objects, and command-and-control (C2)…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -466,6 +530,14 @@
       "excerpt": "Group-IB researchers discovered WindRelay, a new Android malware built to capture live payment card data over NFC (Near Field Communication) and relay it to attackers in real time. WindRelay is paired with the SpyNote remote access trojan, which gives attackers remote access to…"
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Chrome DevTools Technique Enables Authenticated Session Hijacking in Live Windows Browsers",
+      "link": "https://thehackernews.com/2026/08/chrome-devtools-technique-enables.html",
+      "date": "2026-08-14T11:07:45.000Z",
+      "excerpt": "Cybersecurity researchers have detailed a post-exploitation technique that enables the Chrome DevTools Protocol (CDP) inside a running Google Chrome or Microsoft Edge process on Windows, allowing an operator to access cookies, saved data, and authenticated browser sessions. The…"
+    },
+    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
@@ -480,14 +552,6 @@
       "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
       "date": "2026-08-14T11:00:00.000Z",
       "excerpt": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "OpenAI’s GPT-5.6 Sol runs up to 14× faster with Ultrafast mode",
-      "link": "https://www.helpnetsecurity.com/2026/08/14/openais-gpt-5-6-sol-runs-up-to-14x-faster-with-ultrafast-mode/",
-      "date": "2026-08-14T10:55:58.000Z",
-      "excerpt": "OpenAI’s GPT-5.6 Sol on Ultrafast mode is available in limited preview to a select group of customers, launching first through the OpenAI API. The company says the service runs up to 14 times faster than Standard processing and generates up to 750 output tokens per second.…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -650,14 +714,6 @@
       "excerpt": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "date": "2026-08-13T06:09:48.000Z",
-      "excerpt": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
@@ -698,14 +754,6 @@
       "excerpt": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "date": "2026-08-12T17:39:27.000Z",
-      "excerpt": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil,…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Researchers observe first ‘near-autonomous’ AI attack on government target in Taiwan",
@@ -722,44 +770,12 @@
       "excerpt": "A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by \"bash&#x26;#x5f;history\"&#x26;#xc2;&#x26;#xa0;and collecting meaningful additional data. Our reader David…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "date": "2026-08-12T14:09:50.000Z",
-      "excerpt": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40…"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Researchers found a way to hijack devices through Zoom screen sharing",
       "link": "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
       "date": "2026-08-12T13:37:12.000Z",
       "excerpt": "A public AI tool found the dangerous Zoom flaw in under 20 prompts."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "date": "2026-08-12T11:47:38.000Z",
-      "excerpt": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "date": "2026-08-12T11:41:34.000Z",
-      "excerpt": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "date": "2026-08-12T11:13:03.000Z",
-      "excerpt": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below…"
     },
     {
       "source": "Schneier on Security",
@@ -770,28 +786,12 @@
       "excerpt": "This seems to work : Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "date": "2026-08-12T09:01:54.000Z",
-      "excerpt": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter…"
-    },
-    {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
       "title": "Weekly Update 516: Live From Vietnam",
       "link": "https://www.troyhunt.com/weekly-update-516/",
       "date": "2026-08-12T08:16:15.000Z",
       "excerpt": "A little wind noise, a little connectivity flakiness, and a little lip-sync issues from YouTube, but look at that view! 🤩 Back to business, it's the Brinks Home FAQ I found most interesting this week. I mean, how do you write your own FAQ then fail to"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "date": "2026-08-12T08:04:52.000Z",
-      "excerpt": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now…"
     },
     {
       "source": "SANS Internet Storm Center",
