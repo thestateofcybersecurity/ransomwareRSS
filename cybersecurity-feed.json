@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:52:48.403Z",
+  "updated": "2026-08-18T16:53:34.923Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Berlin cuts two state ministries off government network after security breach",
+      "link": "https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach",
+      "date": "2026-08-18T16:40:00.000Z",
+      "excerpt": "The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks since Friday as a precaution."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "University of Texas forced to take systems offline in San Antonio after cyberattack",
+      "link": "https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio",
+      "date": "2026-08-18T16:20:00.000Z",
+      "excerpt": "The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones, offline in response."
+    },
     {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
@@ -538,22 +554,6 @@
       "excerpt": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted",
-      "link": "https://therecord.media/safepal-crypto-hardware-breach",
-      "date": "2026-08-17T17:00:00.000Z",
-      "excerpt": "The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Irregular faces criticism over ‘spin’ in AI hacking postmortem",
-      "link": "https://therecord.media/irregular-ai-hacking-model-blog",
-      "date": "2026-08-17T16:15:00.000Z",
-      "excerpt": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered."
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "How AI Builders Will Get Hacked",
@@ -640,6 +640,14 @@
       "link": "https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T01:30:00.000Z",
       "excerpt": "Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It's the deplorable tactic of doing an…"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "A heap of overflow in August’s Patch Tuesday haul",
+      "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
+      "date": "2026-08-17T00:00:00.000Z",
+      "excerpt": "423 CVEs, no Edge patches, and a small shift in CWE findings"
     },
     {
       "source": "Sophos News",
@@ -904,14 +912,6 @@
       "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
       "date": "2026-08-11T21:28:35.000Z",
       "excerpt": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Chrome adopts what may be the best protection yet against account takeovers",
-      "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-      "date": "2026-08-11T20:59:52.000Z",
-      "excerpt": "Device-bound session credentials thwart an increasingly common form of account takeover."
     }
   ]
 }

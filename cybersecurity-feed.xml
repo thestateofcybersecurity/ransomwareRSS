@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 15:52:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:53:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Berlin cuts two state ministries off government network after security breach</title>
+      <link>https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach</link>
+      <guid isPermaLink="false">https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach</guid>
+      <pubDate>Tue, 18 Aug 2026 16:40:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The affected ministries — one responsible for urban development, construction and housing, and the other for mobility, transport, climate protection and the environment — have been isolated from government networks since Friday as a precaution. (via The Record)</description>
+    </item>
+    <item>
+      <title>University of Texas forced to take systems offline in San Antonio after cyberattack</title>
+      <link>https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio</link>
+      <guid isPermaLink="false">https://therecord.media/university-of-texas-forced-to-take-systems-offline-cyberattack-san-antonio</guid>
+      <pubDate>Tue, 18 Aug 2026 16:20:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The University of Texas at San Antonio, which serves 40,000 students across six campuses, said its IT team identified threat activity on its academic campus over the weekend and took some systems, including phones, offline in response. (via The Record)</description>
+    </item>
     <item>
       <title>Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed</title>
       <link>https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</link>
@@ -432,22 +448,6 @@
       <description>Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake&#39;s public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing… (via The Hacker News)</description>
     </item>
     <item>
-      <title>SafePal latest crypto hardware wallet maker affected by breach, with nearly 40,000 impacted</title>
-      <link>https://therecord.media/safepal-crypto-hardware-breach</link>
-      <guid isPermaLink="false">https://therecord.media/safepal-crypto-hardware-breach</guid>
-      <pubDate>Mon, 17 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The crypto hardware wallet company SafePal confirmed a data breach on Sunday, telling users that nearly 40,000 customers had information stolen during a recent security incident. (via The Record)</description>
-    </item>
-    <item>
-      <title>Irregular faces criticism over ‘spin’ in AI hacking postmortem</title>
-      <link>https://therecord.media/irregular-ai-hacking-model-blog</link>
-      <guid isPermaLink="false">https://therecord.media/irregular-ai-hacking-model-blog</guid>
-      <pubDate>Mon, 17 Aug 2026 16:15:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered. (via The Record)</description>
-    </item>
-    <item>
       <title>How AI Builders Will Get Hacked</title>
       <link>https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
@@ -534,6 +534,14 @@
       <pubDate>Mon, 17 Aug 2026 01:30:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It&#39;s the deplorable tactic of doing an… (via Daniel Miessler)</description>
+    </item>
+    <item>
+      <title>A heap of overflow in August’s Patch Tuesday haul</title>
+      <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>423 CVEs, no Edge patches, and a small shift in CWE findings (via Sophos News)</description>
     </item>
     <item>
       <title>Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 11 Aug 2026 21:28:35 GMT</pubDate>
       <source url="https://krebsonsecurity.com/">Krebs on Security</source>
       <description>Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. (via Krebs on Security)</description>
-    </item>
-    <item>
-      <title>Chrome adopts what may be the best protection yet against account takeovers</title>
-      <link>https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/</guid>
-      <pubDate>Tue, 11 Aug 2026 20:59:52 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Device-bound session credentials thwart an increasingly common form of account takeover. (via Ars Technica Security)</description>
     </item>
   </channel>
 </rss>
