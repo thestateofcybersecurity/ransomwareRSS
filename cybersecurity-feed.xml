@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 01:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 03:13:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/33256</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33256</guid>
+      <pubDate>Tue, 18 Aug 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Video Call Exploit Chains Two Flaws in Unisoc Modems</title>
+      <link>https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems</link>
+      <guid isPermaLink="false">https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems</guid>
+      <pubDate>Mon, 17 Aug 2026 21:37:23 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone. (via Dark Reading)</description>
+    </item>
     <item>
       <title>Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
       <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
@@ -40,6 +56,14 @@
       <description>Apple today released updates for iOS/iPadOS (26 and 18) and macOS 26. This update fixes 108 vulnerabilities and comes about two weeks after the much smaller macOS update that addressed the single screen-sharing vulnerability. This vulnerability did not affect iOS/iPadOS. (via SANS Internet Storm Center)</description>
     </item>
     <item>
+      <title>&#39;Turf War&#39; Between Claude Agents Leads to Self-Replicating Malware</title>
+      <link>https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</link>
+      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware</guid>
+      <pubDate>Mon, 17 Aug 2026 20:26:34 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach</title>
       <link>https://therecord.media/financial-info-leak-debt-consolidator</link>
       <guid isPermaLink="false">https://therecord.media/financial-info-leak-debt-consolidator</guid>
@@ -54,6 +78,14 @@
       <pubDate>Mon, 17 Aug 2026 19:35:01 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Adam Shostack Talks Hugging Face &amp; PHANTOM-B</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</guid>
+      <pubDate>Mon, 17 Aug 2026 19:22:56 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>World-class threat modeler Adam Shostack shared he was &quot;blown away&quot; by OpenAI&#39;s revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both &quot;lightweight yet still usable.&quot; (via Dark Reading)</description>
     </item>
     <item>
       <title>Pokémon Center data breach exposes customer info, cancels some orders</title>
@@ -134,6 +166,14 @@
       <pubDate>Mon, 17 Aug 2026 15:45:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>UNISOC modem flaw enabled kernel-level code execution through video calls (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS</title>
+      <link>https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos</guid>
+      <pubDate>Mon, 17 Aug 2026 15:44:34 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure. (via Dark Reading)</description>
     </item>
     <item>
       <title>Microsoft confirms GitHub is down worldwide</title>
@@ -480,12 +520,28 @@
       <description>Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down… (via Schneier on Security)</description>
     </item>
     <item>
+      <title>Mission-Driven Security: Inside a Global Bank&#39;s Defense</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense</guid>
+      <pubDate>Fri, 14 Aug 2026 19:24:18 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>In this video interview, Standard Chartered&#39;s group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>Vulnerability giving attackers full control of Macs is under active exploitation</title>
       <link>https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/</guid>
       <pubDate>Fri, 14 Aug 2026 18:32:14 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Screen-sharing bug lets remote hackers log in without a password. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai</guid>
+      <pubDate>Fri, 14 Aug 2026 17:32:46 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer. (via Dark Reading)</description>
     </item>
     <item>
       <title>Upcoming Speaking Engagements</title>
@@ -496,12 +552,28 @@
       <description>This is a current list of where and when I am scheduled to speak: I’m speaking, signing books, and participating in panel discussions at LAcon V in Anaheim, California, USA. My full schedule is here . I’m speaking online (via Zoom) at a League of Women Voters event on Tuesday,… (via Schneier on Security)</description>
     </item>
     <item>
+      <title>Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor&#39;s Office</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office</guid>
+      <pubDate>Fri, 14 Aug 2026 15:58:50 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>Researchers Confirm ExfilSquad’s Access to Sensitive Data Across 13 Organizations</title>
       <link>https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/</guid>
       <pubDate>Fri, 14 Aug 2026 14:49:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>What Boards Need to Know About Tech Risk</title>
+      <link>https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk</guid>
+      <pubDate>Fri, 14 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Why do so many boards underestimate technology risk until it becomes a crisis? (via Dark Reading)</description>
     </item>
     <item>
       <title>New Mirai-Based Linux Botnet ‘Evooo1Bot’ Turns Victims Into Proxies</title>
@@ -656,14 +728,6 @@
       <description>Israeli cyber firm Dream said the framework adapted mid-operation, corrected its mistakes and expanded as it went along. The post Researchers observe first ‘near-autonomous’ AI attack on government target in Taiwan appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Linux Kernel Process Accounting, (Wed, Aug 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/33240</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33240</guid>
-      <pubDate>Wed, 12 Aug 2026 14:21:10 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>A couple of days ago, Xavier posted about Atuin to gain more insight into the command history. Atuin does a great job of better organizing what is usually handled by &quot;bash&amp;#x26;#x5f;history&quot;&amp;#x26;#xc2;&amp;#x26;#xa0;and collecting meaningful additional data. Our reader David… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
       <title>Researchers found a way to hijack devices through Zoom screen sharing</title>
       <link>https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/</guid>
@@ -742,38 +806,6 @@
       <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server. (via Securelist)</description>
-    </item>
-    <item>
-      <title>New Pass-ta-key attack reveals all the things we didn&#39;t know about passkeys</title>
-      <link>https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/</guid>
-      <pubDate>Tue, 11 Aug 2026 11:30:08 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Why passkey apps treat Windows differently than other operating systems. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>AI for Military Support</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ai-for-military-support.html</guid>
-      <pubDate>Tue, 11 Aug 2026 11:18:07 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting empirical research: “ Black Box Warfare: Human Judgment and Military Decision-Making in the Age of AI .” Abstract: How is AI transforming decision-making in modern conflict? This study provides a unique empirical window into that question by deploying a high-fidelity… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Project CAV3RN continues: Google Apps Script as C2 relay and DNS-based C2 channel selection</title>
-      <link>https://securelist.com/project-cav3rn-continues/120991/</link>
-      <guid isPermaLink="false">https://securelist.com/project-cav3rn-continues/120991/</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:19 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>Project CAV3RN targets Israel with Google Apps Script C2 relays and DNS-based routing. Modular .NET NativeAOT framework blends C2 traffic with legitimate Google services to evade detection. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Kimwolf v7: An Evolution of the Kimwolf Botnet</title>
-      <link>https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/kimwolf-v7-botnet-malware/</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:16 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>Discover how Kimwolf v7 targets Android IoT devices with HTTP/2 DDoS fingerprinting, Ethereum ENS C2 resolution and Tor backup routing. The post Kimwolf v7: An Evolution of the Kimwolf Botnet appeared first on Unit 42 . (via Unit 42)</description>
     </item>
   </channel>
 </rss>
