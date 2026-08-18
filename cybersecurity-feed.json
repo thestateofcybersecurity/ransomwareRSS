@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T14:01:36.382Z",
+  "updated": "2026-08-18T14:57:50.890Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,38 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Hackers target Ukrainian agency managing assets seized from sanctioned Russians",
+      "link": "https://therecord.media/hackers-target-ukraine-agency-sanctioned-russians",
+      "date": "2026-08-18T14:45:00.000Z",
+      "excerpt": "The agency said the latest attack came amid preparations to select a manager for seized corporate rights in IDS Ukraine, one of the country’s largest producers of bottled mineral water and beverages."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
+      "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+      "date": "2026-08-18T14:30:00.000Z",
+      "excerpt": "With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm. The post CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "NASA Ground Control Software Flaw Enables Unauthenticated Commands",
+      "link": "https://www.infosecurity-magazine.com/news/nasa-ground-control-software-flaw/",
+      "date": "2026-08-18T14:30:00.000Z",
+      "excerpt": "Critical AIT-GUI flaws expose spacecraft commands and scripts to unauthenticated attackers"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Your Controls Block Known Attacks. What About the Behavior?",
+      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
+      "date": "2026-08-18T14:01:11.000Z",
+      "excerpt": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "NETSCOUT expands Adaptive DDoS Protection with outbound attack mitigation",
@@ -132,18 +164,18 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "date": "2026-08-18T13:00:00.000Z",
-      "excerpt": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "date": "2026-08-18T13:00:00.000Z",
       "excerpt": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "date": "2026-08-18T13:00:00.000Z",
+      "excerpt": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence."
     },
     {
       "source": "SecurityWeek",
@@ -506,14 +538,6 @@
       "excerpt": "The company at the center of a series of incidents in which AI models compromised real-world computer systems during security evaluations is facing criticism after the release of a report that security experts say leaves key questions unanswered."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Poland probes MyDr healthcare software breach potentially affecting 19 million people",
-      "link": "https://therecord.media/poland-probes-mydr-healthcare-software-breach",
-      "date": "2026-08-17T16:01:00.000Z",
-      "excerpt": "MyDr, a privately-owned Polish company that supplies software to doctors, clinics and other healthcare providers, said on Friday that it had identified and removed the cause of the incident and introduced additional security measures."
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "How AI Builders Will Get Hacked",
@@ -562,22 +586,6 @@
       "excerpt": "A cybersecurity expert has demonstrated how computer-generated patterns can successfully prevent surveillance cameras from detecting vehicles - such as the controversial AI-powered Flock licence plate readers that are becoming increasingly common on American streets. Read more…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
-      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
-      "date": "2026-08-17T14:00:10.000Z",
-      "excerpt": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "680,000 Impacted by French Tax Authority Data Breach",
-      "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
-      "date": "2026-08-17T13:53:55.000Z",
-      "excerpt": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
@@ -616,14 +624,6 @@
       "link": "https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/",
       "date": "2026-08-17T09:10:00.000Z",
       "excerpt": "Nearly 40,000 customers of hardware wallet provider SafePal have been impacted by a data breach"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Infostealers Harvest 1.7 Billion Credentials in Six Months",
-      "link": "https://www.infosecurity-magazine.com/news/infostealers-17-billion/",
-      "date": "2026-08-17T07:30:00.000Z",
-      "excerpt": "Flashpoint data reveals infostealers were responsible for taking 1.7 billion credentials in the first half of 2026"
     },
     {
       "source": "SANS Internet Storm Center",
