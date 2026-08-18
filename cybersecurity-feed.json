@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:45:55.376Z",
+  "updated": "2026-08-18T20:44:13.310Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
+      "date": "2026-08-18T20:17:24.000Z",
+      "excerpt": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "date": "2026-08-18T20:14:58.000Z",
+      "excerpt": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Eight years later, federal authorities re-up charges against alleged Iranian hackers at Mabna Institute",
+      "link": "https://cyberscoop.com/mabna-institute-iranian-hackers-indictment/",
+      "date": "2026-08-18T20:12:06.000Z",
+      "excerpt": "The superseding indictment adds defendants and allegations against the Iranian firm accused of a massive cybertheft campaign against foreign universities and others. The post Eight years later, federal authorities re-up charges against alleged Iranian hackers at Mabna Institute…"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
+      "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
+      "date": "2026-08-18T19:05:33.000Z",
+      "excerpt": "We provide guidance for preparing for and mitigating large-scale credential attacks, focusing on recent campaigns targeting security vendors' devices. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18) appeared first on Unit 42 ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
+      "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
+      "date": "2026-08-18T18:32:01.000Z",
+      "excerpt": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community."
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -562,14 +602,6 @@
       "excerpt": "Adam Shostack, president of Shostack & Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was \"blown away\" by OpenAI's revelations regarding the Hugging Face attack."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "date": "2026-08-17T19:12:39.000Z",
-      "excerpt": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "How to Get Started in Cybersecurity 2026",
@@ -722,28 +754,12 @@
       "excerpt": "Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "date": "2026-08-14T19:24:18.000Z",
-      "excerpt": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
       "link": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
       "date": "2026-08-14T18:32:14.000Z",
       "excerpt": "Screen-sharing bug lets remote hackers log in without a password."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "date": "2026-08-14T17:32:46.000Z",
-      "excerpt": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer."
     },
     {
       "source": "Schneier on Security",
@@ -874,14 +890,6 @@
       "excerpt": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Researchers observe first ‘near-autonomous’ AI attack on government target in Taiwan",
-      "link": "https://cyberscoop.com/near-autonomous-ai-attack-government-target-taiwan/",
-      "date": "2026-08-12T17:05:01.000Z",
-      "excerpt": "Israeli cyber firm Dream said the framework adapted mid-operation, corrected its mistakes and expanded as it went along. The post Researchers observe first ‘near-autonomous’ AI attack on government target in Taiwan appeared first on CyberScoop ."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Researchers found a way to hijack devices through Zoom screen sharing",
@@ -904,14 +912,6 @@
       "link": "https://www.troyhunt.com/weekly-update-516/",
       "date": "2026-08-12T08:16:15.000Z",
       "excerpt": "A little wind noise, a little connectivity flakiness, and a little lip-sync issues from YouTube, but look at that view! 🤩 Back to business, it's the Brinks Home FAQ I found most interesting this week. I mean, how do you write your own FAQ then fail to"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "DEF CON crowd suspected in fake-hotspot attack on Delta flight",
-      "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
-      "date": "2026-08-12T00:08:40.000Z",
-      "excerpt": "FBI Atlanta confirms it's looking into the incident, no arrests made."
     }
   ]
 }
