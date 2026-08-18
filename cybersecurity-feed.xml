@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 16:53:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:49:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Clop created custom web shell for Windchill data theft attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/</guid>
+      <pubDate>Tue, 18 Aug 2026 17:29:51 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics</title>
+      <link>https://cyberscoop.com/medusa-ransomware-tactics-cisa-advisory/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/medusa-ransomware-tactics-cisa-advisory/</guid>
+      <pubDate>Tue, 18 Aug 2026 17:18:58 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The updated warning from the FBI, CISA and HHS draws on a year’s worth of investigations to detail how the group gains initial access and what it does afterward. The post Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics appeared first… (via CyberScoop)</description>
+    </item>
     <item>
       <title>Berlin cuts two state ministries off government network after security breach</title>
       <link>https://therecord.media/berlin-cuts-two-state-ministries-off-government-breach</link>
@@ -472,14 +488,6 @@
       <description>The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Microsoft confirms GitHub is down worldwide</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/</guid>
-      <pubDate>Mon, 17 Aug 2026 14:47:08 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Apple Screen Sharing Security, (Mon, Aug 17th)</title>
       <link>https://isc.sans.edu/diary/rss/33252</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33252</guid>
@@ -782,14 +790,6 @@
       <pubDate>Wed, 12 Aug 2026 08:16:15 GMT</pubDate>
       <source url="https://www.troyhunt.com/">Troy Hunt</source>
       <description>A little wind noise, a little connectivity flakiness, and a little lip-sync issues from YouTube, but look at that view! 🤩 Back to business, it&#39;s the Brinks Home FAQ I found most interesting this week. I mean, how do you write your own FAQ then fail to (via Troy Hunt)</description>
-    </item>
-    <item>
-      <title>Kimwolf botnet rebuilt to survive takedowns, researchers say</title>
-      <link>https://cyberscoop.com/kimwolf-botnet-palo-alto-unit-42-android-tv-boxes/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/kimwolf-botnet-palo-alto-unit-42-android-tv-boxes/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:13:08 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Months after police seized its servers and arrested an alleged operator, the Kimwolf botnet is running code that disguises attacks as Chrome traffic and fetches its orders from the Ethereum blockchain. The post Kimwolf botnet rebuilt to survive takedowns, researchers say… (via CyberScoop)</description>
     </item>
     <item>
       <title>DEF CON crowd suspected in fake-hotspot attack on Delta flight</title>
