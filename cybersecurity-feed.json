@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T10:52:07.988Z",
+  "updated": "2026-08-18T11:46:33.943Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Critical GitLab flaw allows attackers to modify or delete public projects (CVE-2026-19478)",
+      "link": "https://www.helpnetsecurity.com/2026/08/18/gitlab-critical-code-injection-flaw-cve-2026-19478/",
+      "date": "2026-08-18T11:38:24.000Z",
+      "excerpt": "GitLab has released patches for two vulnerabilities, including a critical-severity code injection flaw that can be exploited without authentication. The vulnerabilities affect GitLab Community Edition (CE) and Enterprise Edition (EE) versions from 18.2 before 18.11.11, 19.0…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Cyber Incident Disrupts Student Services at UT San Antonio",
+      "link": "https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/",
+      "date": "2026-08-18T11:20:00.000Z",
+      "excerpt": "UT San Antonio has taken IT systems offline following a cyber incident, disrupting student registration and tuition payments days before term is due to resume"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft tests faster Windows File Explorer, new context menu",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
+      "date": "2026-08-18T11:14:28.000Z",
+      "excerpt": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -280,6 +304,14 @@
       "link": "https://isc.sans.edu/diary/rss/33256",
       "date": "2026-08-18T02:00:03.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Ukrainian software developer faces 12 years in Swiss ransomware trial",
+      "link": "https://therecord.media/ukrainian-software-developer-court-switzerland",
+      "date": "2026-08-17T23:00:00.000Z",
+      "excerpt": "The unnamed 52-year-old is accused of attacking Swiss train manufacturer Stadler Rail alongside other enterprises as part of an international ransomware operation."
     },
     {
       "source": "Dark Reading",
@@ -458,14 +490,6 @@
       "excerpt": "About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "France’s tax authority admits hackers made off with data on 678,000 individuals",
-      "link": "https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/",
-      "date": "2026-08-17T14:20:20.000Z",
-      "excerpt": "France’s tax authority has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems, saying the intrusion exposed data on 678,000 individuals and professionals. The incident came to light after an alleged attacker using the…"
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras",
@@ -504,22 +528,6 @@
       "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
       "date": "2026-08-17T13:23:51.000Z",
       "excerpt": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "date": "2026-08-17T12:33:11.000Z",
-      "excerpt": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes",
-      "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
-      "date": "2026-08-17T12:30:00.000Z",
-      "excerpt": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure."
     },
     {
       "source": "SecurityWeek",
@@ -704,14 +712,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
       "date": "2026-08-14T15:58:50.000Z",
       "excerpt": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Researchers Confirm ExfilSquad’s Access to Sensitive Data Across 13 Organizations",
-      "link": "https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/",
-      "date": "2026-08-14T14:49:00.000Z",
-      "excerpt": "Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents"
     },
     {
       "source": "Dark Reading",

@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 10:52:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:46:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Critical GitLab flaw allows attackers to modify or delete public projects (CVE-2026-19478)</title>
+      <link>https://www.helpnetsecurity.com/2026/08/18/gitlab-critical-code-injection-flaw-cve-2026-19478/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/18/gitlab-critical-code-injection-flaw-cve-2026-19478/</guid>
+      <pubDate>Tue, 18 Aug 2026 11:38:24 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>GitLab has released patches for two vulnerabilities, including a critical-severity code injection flaw that can be exploited without authentication. The vulnerabilities affect GitLab Community Edition (CE) and Enterprise Edition (EE) versions from 18.2 before 18.11.11, 19.0… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Cyber Incident Disrupts Student Services at UT San Antonio</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cyber-incident-ut-san-antonio/</guid>
+      <pubDate>Tue, 18 Aug 2026 11:20:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>UT San Antonio has taken IT systems offline following a cyber incident, disrupting student registration and tuition payments days before term is due to resume (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Microsoft tests faster Windows File Explorer, new context menu</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/</guid>
+      <pubDate>Tue, 18 Aug 2026 11:14:28 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw</title>
       <link>https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/</link>
@@ -174,6 +198,14 @@
       <pubDate>Tue, 18 Aug 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Ukrainian software developer faces 12 years in Swiss ransomware trial</title>
+      <link>https://therecord.media/ukrainian-software-developer-court-switzerland</link>
+      <guid isPermaLink="false">https://therecord.media/ukrainian-software-developer-court-switzerland</guid>
+      <pubDate>Mon, 17 Aug 2026 23:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The unnamed 52-year-old is accused of attacking Swiss train manufacturer Stadler Rail alongside other enterprises as part of an international ransomware operation. (via The Record)</description>
     </item>
     <item>
       <title>Video Call Exploit Chains Two Flaws in Unisoc Modems</title>
@@ -352,14 +384,6 @@
       <description>About 20 years ago, with macOS 10.5 (Leopard), Apple introduced screen sharing. Apple did not invent a new protocol for screen sharing. Instead, it used the established VNC protocol. VNC is a pretty simple, unencrypted protocol using TCP port 5900. Historically, the protocol… (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>France’s tax authority admits hackers made off with data on 678,000 individuals</title>
-      <link>https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/17/france-tax-authority-data-breach/</guid>
-      <pubDate>Mon, 17 Aug 2026 14:20:20 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>France’s tax authority has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems, saying the intrusion exposed data on 678,000 individuals and professionals. The incident came to light after an alleged attacker using the… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras</link>
       <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras</guid>
@@ -398,22 +422,6 @@
       <pubDate>Mon, 17 Aug 2026 13:23:51 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Windows Server 2022 reaches end of mainstream support in 60 days</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/</guid>
-      <pubDate>Mon, 17 Aug 2026 12:33:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Ukraine says cyberattack hit Russian e-commerce giant Wildberries amid drone strikes</title>
-      <link>https://therecord.media/russia-wildberries-cyberattack-ukraine</link>
-      <guid isPermaLink="false">https://therecord.media/russia-wildberries-cyberattack-ukraine</guid>
-      <pubDate>Mon, 17 Aug 2026 12:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure. (via The Record)</description>
     </item>
     <item>
       <title>Irregular Details How a Naming Error Let AI Models Attack a Real Company</title>
@@ -598,14 +606,6 @@
       <pubDate>Fri, 14 Aug 2026 15:58:50 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Researchers Confirm ExfilSquad’s Access to Sensitive Data Across 13 Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/exfilsquads-13-organizations/</guid>
-      <pubDate>Fri, 14 Aug 2026 14:49:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Researchers have verified that ExfilSquad possesses sensitive data stolen from at least 13 victims after the extortion group published leaked datasets via torrents (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>What Boards Need to Know About Tech Risk</title>
