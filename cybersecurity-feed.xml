@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 17:49:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:03:07 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>More than 200 victims of Medusa ransomware identified over the last year, CISA says</title>
+      <link>https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa</link>
+      <guid isPermaLink="false">https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa</guid>
+      <pubDate>Tue, 18 Aug 2026 18:05:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical… (via The Record)</description>
+    </item>
+    <item>
+      <title>Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps</title>
+      <link>https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html</guid>
+      <pubDate>Tue, 18 Aug 2026 17:47:22 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim&#39;s Copilot session. The flaws, which the… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets</title>
+      <link>https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html</guid>
+      <pubDate>Tue, 18 Aug 2026 17:44:05 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Clop created custom web shell for Windchill data theft attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/</link>
@@ -22,6 +46,22 @@
       <pubDate>Tue, 18 Aug 2026 17:18:58 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The updated warning from the FBI, CISA and HHS draws on a year’s worth of investigations to detail how the group gains initial access and what it does afterward. The post Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics appeared first… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
+      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
+      <title>Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000</title>
+      <link>https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html</guid>
+      <pubDate>Tue, 18 Aug 2026 16:58:16 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups&#39; servers in exchange for a fee ranging from $20,000 to $60,000. &quot;In these messages, the third-party… (via The Hacker News)</description>
     </item>
     <item>
       <title>Berlin cuts two state ministries off government network after security breach</title>
@@ -328,14 +368,6 @@
       <description>Synthesized has announced its Test Data Agent, a new agentic infrastructure capability being developed to create and provision the realistic data, business context, and system states enterprises need to validate AI agents safely before production deployment. The Test Data Agent… (via Help Net Security)</description>
     </item>
     <item>
-      <title>CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE</title>
-      <link>https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</guid>
-      <pubDate>Tue, 18 Aug 2026 06:34:20 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Google’s open-source HEIR lets AI work with data it can’t see</title>
       <link>https://www.helpnetsecurity.com/2026/08/18/google-heir-open-source-compiler-toolchain/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/18/google-heir-open-source-compiler-toolchain/</guid>
@@ -376,14 +408,6 @@
       <description>Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects</title>
-      <link>https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html</guid>
-      <pubDate>Mon, 17 Aug 2026 21:03:04 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Details emerge on BlackFile’s recent attacks on financial companies</title>
       <link>https://cyberscoop.com/blackfile-cyberattacks-financial-sector/</link>
       <guid isPermaLink="false">https://cyberscoop.com/blackfile-cyberattacks-financial-sector/</guid>
@@ -416,14 +440,6 @@
       <description>Three testing models with the same goal but different directives engaged in &quot;increasingly aggressive&quot; territorial attacks on one another, according to Anthropic. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach</title>
-      <link>https://therecord.media/financial-info-leak-debt-consolidator</link>
-      <guid isPermaLink="false">https://therecord.media/financial-info-leak-debt-consolidator</guid>
-      <pubDate>Mon, 17 Aug 2026 20:05:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The breach affected anyone who received a loan through the company or inquired about a loan product through a third party. (via The Record)</description>
-    </item>
-    <item>
       <title>Hacker claims 3.6 million Azure account records stolen from major companies</title>
       <link>https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/</guid>
@@ -432,12 +448,12 @@
       <description>A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B</title>
+      <title>Hugging Face Breach Raises Big Questions About AI Security Controls</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</link>
       <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b</guid>
       <pubDate>Mon, 17 Aug 2026 19:22:56 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The security expert talks with the Dark Reading News Desk about why he &quot;blown away&quot; by OpenAI&#39;s revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs. (via Dark Reading)</description>
+      <description>Adam Shostack, president of Shostack &amp; Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was &quot;blown away&quot; by OpenAI&#39;s revelations regarding the Hugging Face attack. (via Dark Reading)</description>
     </item>
     <item>
       <title>Pokémon Center data breach exposes customer info, cancels some orders</title>
@@ -454,14 +470,6 @@
       <pubDate>Mon, 17 Aug 2026 19:00:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A person vaulting on a machine lever toward a glowing keyhole/images/how-to-get-started-in-cybersecurity-2026.webp/images/how-to-get-started-in-cybersecurity-2026.webp I&#39;ve been writing versions of this guide since 2008. The most recent big one was the 2019… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection</title>
-      <link>https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html</guid>
-      <pubDate>Mon, 17 Aug 2026 18:44:17 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake&#39;s public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing… (via The Hacker News)</description>
     </item>
     <item>
       <title>How AI Builders Will Get Hacked</title>
@@ -544,20 +552,20 @@
       <description>Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It&#39;s the deplorable tactic of doing an… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>A heap of overflow in August’s Patch Tuesday haul</title>
-      <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>423 CVEs, no Edge patches, and a small shift in CWE findings (via Sophos News)</description>
-    </item>
-    <item>
       <title>Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
       <link>https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and… (via Sophos News)</description>
+    </item>
+    <item>
+      <title>A heap of overflow in August’s Patch Tuesday haul</title>
+      <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>423 CVEs, no Edge patches, and a small shift in CWE findings (via Sophos News)</description>
     </item>
     <item>
       <title>Wireshark 4.6.8 Released, (Sun, Aug 16th)</title>
@@ -798,14 +806,6 @@
       <pubDate>Wed, 12 Aug 2026 00:08:40 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>FBI Atlanta confirms it&#39;s looking into the incident, no arrests made. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Microsoft Plugs Nearly 400 Security Holes</title>
-      <link>https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/</guid>
-      <pubDate>Tue, 11 Aug 2026 21:28:35 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today. (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>

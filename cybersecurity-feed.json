@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T17:49:01.892Z",
+  "updated": "2026-08-18T19:03:07.926Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,30 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "More than 200 victims of Medusa ransomware identified over the last year, CISA says",
+      "link": "https://therecord.media/more-than-200-medusa-ransomware-victims-in-last-year-cisa",
+      "date": "2026-08-18T18:05:00.000Z",
+      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "date": "2026-08-18T17:47:22.000Z",
+      "excerpt": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "date": "2026-08-18T17:44:05.000Z",
+      "excerpt": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation…"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Clop created custom web shell for Windchill data theft attacks",
@@ -128,6 +152,22 @@
       "link": "https://cyberscoop.com/medusa-ransomware-tactics-cisa-advisory/",
       "date": "2026-08-18T17:18:58.000Z",
       "excerpt": "The updated warning from the FBI, CISA and HHS draws on a year’s worth of investigations to detail how the group gains initial access and what it does afterward. The post Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics appeared first…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+      "date": "2026-08-18T17:08:28.000Z",
+      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "date": "2026-08-18T16:58:16.000Z",
+      "excerpt": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party…"
     },
     {
       "source": "The Record",
@@ -434,14 +474,6 @@
       "excerpt": "Synthesized has announced its Test Data Agent, a new agentic infrastructure capability being developed to create and provision the realistic data, business context, and system states enterprises need to validate AI agents safely before production deployment. The Test Data Agent…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "date": "2026-08-18T06:34:20.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Google’s open-source HEIR lets AI work with data it can’t see",
@@ -482,14 +514,6 @@
       "excerpt": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "date": "2026-08-17T21:03:04.000Z",
-      "excerpt": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data.…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Details emerge on BlackFile’s recent attacks on financial companies",
@@ -522,14 +546,6 @@
       "excerpt": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Nearly 750k had financial info, SSNs leaked in South Carolina loan company breach",
-      "link": "https://therecord.media/financial-info-leak-debt-consolidator",
-      "date": "2026-08-17T20:05:00.000Z",
-      "excerpt": "The breach affected anyone who received a loan through the company or inquired about a loan product through a third party."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
@@ -540,10 +556,10 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Adam Shostack Talks Hugging Face Breach & PHANTOM-B",
+      "title": "Hugging Face Breach Raises Big Questions About AI Security Controls",
       "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
       "date": "2026-08-17T19:22:56.000Z",
-      "excerpt": "The security expert talks with the Dark Reading News Desk about why he \"blown away\" by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs."
+      "excerpt": "Adam Shostack, president of Shostack & Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was \"blown away\" by OpenAI's revelations regarding the Hugging Face attack."
     },
     {
       "source": "BleepingComputer",
@@ -560,14 +576,6 @@
       "link": "https://danielmiessler.com/blog/how-to-get-started-in-cybersecurity-2026?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T19:00:00.000Z",
       "excerpt": "A person vaulting on a machine lever toward a glowing keyhole/images/how-to-get-started-in-cybersecurity-2026.webp/images/how-to-get-started-in-cybersecurity-2026.webp I've been writing versions of this guide since 2008. The most recent big one was the 2019…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "date": "2026-08-17T18:44:17.000Z",
-      "excerpt": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing…"
     },
     {
       "source": "Daniel Miessler",
@@ -652,18 +660,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "A heap of overflow in August’s Patch Tuesday haul",
-      "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
-      "date": "2026-08-17T00:00:00.000Z",
-      "excerpt": "423 CVEs, no Edge patches, and a small shift in CWE findings"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
       "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
       "date": "2026-08-17T00:00:00.000Z",
       "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "A heap of overflow in August’s Patch Tuesday haul",
+      "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
+      "date": "2026-08-17T00:00:00.000Z",
+      "excerpt": "423 CVEs, no Edge patches, and a small shift in CWE findings"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -904,14 +912,6 @@
       "link": "https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight/",
       "date": "2026-08-12T00:08:40.000Z",
       "excerpt": "FBI Atlanta confirms it's looking into the incident, no arrests made."
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "Microsoft Plugs Nearly 400 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/",
-      "date": "2026-08-11T21:28:35.000Z",
-      "excerpt": "Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly detailed prior to today."
     }
   ]
 }
