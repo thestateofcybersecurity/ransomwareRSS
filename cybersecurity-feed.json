@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T08:58:37.577Z",
+  "updated": "2026-08-18T09:54:07.120Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OpenAI tightens defenses after AI agents breach research environment",
+      "link": "https://www.helpnetsecurity.com/2026/08/18/openai-strengthening-security-measures/",
+      "date": "2026-08-18T09:41:36.000Z",
+      "excerpt": "Following the OpenAI-Hugging Face incident, in which an agentic collective autonomously penetrated OpenAI’s research infrastructure and another company’s production infrastructure by chaining together multiple weaknesses, OpenAI began strengthening its safety requirements. The…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "date": "2026-08-18T09:24:49.000Z",
+      "excerpt": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
+      "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
+      "date": "2026-08-18T09:18:34.000Z",
+      "excerpt": "Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform. The post Heights Finance Data Breach Impacts at Least 1.2 Million Individuals appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "date": "2026-08-18T09:10:45.000Z",
+      "excerpt": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Hacker claims millions of records stolen from corporate Azure tenants",
+      "link": "https://www.helpnetsecurity.com/2026/08/18/azure-data-leak-fortune-500-companies/",
+      "date": "2026-08-18T09:06:07.000Z",
+      "excerpt": "A threat actor known as “TheHatman” claims to have obtained millions of employee records from the Azure environments of several Fortune 500 companies, including McDonald’s, Vodafone, Kyndryl, and Tata Consultancy Services (TCS), according to Hudson Rock. Over the past week, the…"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -418,14 +458,6 @@
       "excerpt": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fortinet expands AI security portfolio with Virtue AI acquisition",
-      "link": "https://www.helpnetsecurity.com/2026/08/17/fortinet-virtue-ai-acquisition/",
-      "date": "2026-08-17T13:52:00.000Z",
-      "excerpt": "Fortinet has acquired Virtue AI, strengthening its broader Security for AI strategy and its vision for securing the agentic enterprise. The acquisition builds on Fortinet’s existing AI security portfolio, which includes the FortiGate Hyperscale Firewall. As organizations deploy…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "WordPress Plugin Flaw Exposes 40,000 Sites to Admin Takeover",
@@ -456,14 +488,6 @@
       "link": "https://therecord.media/russia-wildberries-cyberattack-ukraine",
       "date": "2026-08-17T12:30:00.000Z",
       "excerpt": "Ukraine’s military intelligence claimed it disrupted the operations of Russia’s largest online marketplace, Wildberries, in a cyberattack intended to amplify the impact of drone strikes on the company’s infrastructure."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers exploit patched macOS Screen Sharing flaw to deploy cryptominer",
-      "link": "https://www.helpnetsecurity.com/2026/08/17/apple-macos-screen-sharing-flaw/",
-      "date": "2026-08-17T12:23:15.000Z",
-      "excerpt": "A recently patched security flaw in Apple macOS is being actively exploited by hackers to bypass authentication, gain root access, and install a cryptominer, the Netherlands’ National Cyber Security Centre (NCSC) warns. The vulnerability, tracked as CVE-2026-65400, , let…"
     },
     {
       "source": "SecurityWeek",
@@ -522,22 +546,6 @@
       "excerpt": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "date": "2026-08-17T10:52:34.000Z",
-      "excerpt": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "date": "2026-08-17T10:09:48.000Z",
-      "excerpt": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "40,000 Impacted by SafePal Data Breach",
@@ -562,14 +570,6 @@
       "excerpt": "Threat actors gained root access to the vulnerable systems and deployed a Monero miner. The post Recent macOS Screen Sharing Vulnerability Exploited in Attacks appeared first on SecurityWeek ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
-      "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
-      "date": "2026-08-17T08:13:07.000Z",
-      "excerpt": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Infostealers Harvest 1.7 Billion Credentials in Six Months",
@@ -592,14 +592,6 @@
       "link": "https://danielmiessler.com/blog/stolen-authority?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T01:30:00.000Z",
       "excerpt": "Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It's the deplorable tactic of doing an…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
-      "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
-      "date": "2026-08-17T00:00:00.000Z",
-      "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -912,6 +904,14 @@
       "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
       "date": "2026-08-11T13:15:24.000Z",
       "excerpt": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants",
+      "link": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/",
+      "date": "2026-08-11T12:00:55.000Z",
+      "excerpt": "Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server."
     }
   ]
 }
