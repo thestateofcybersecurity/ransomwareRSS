@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T11:46:33.943Z",
+  "updated": "2026-08-18T13:14:37.241Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,100 @@
   ],
   "items": [
     {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "date": "2026-08-18T13:00:04.000Z",
+      "excerpt": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "date": "2026-08-18T13:00:00.000Z",
+      "excerpt": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
+      "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
+      "date": "2026-08-18T13:00:00.000Z",
+      "excerpt": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores. The post AI-Driven Vulnerability Surge Breaks the Traditional Patching Model appeared first…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
+      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
+      "date": "2026-08-18T12:38:36.000Z",
+      "excerpt": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
+      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
+      "date": "2026-08-18T12:38:20.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\"…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Xpander Raises $7.5 Million for AI Management and Governance",
+      "link": "https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/",
+      "date": "2026-08-18T12:29:08.000Z",
+      "excerpt": "Xpander’s platform uses a universal agent harness that executes AI agents as portable workloads and securely renders interfaces on demand. The post Xpander Raises $7.5 Million for AI Management and Governance appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Fortinet Acquires AI Security Company Virtue AI",
+      "link": "https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/",
+      "date": "2026-08-18T12:06:21.000Z",
+      "excerpt": "Fortinet will use Virtue AI technology to enhance its AI security portfolio, including for AI models, applications, and agentic systems. The post Fortinet Acquires AI Security Company Virtue AI appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Download: 2026 Credential Risk Report",
+      "link": "https://www.helpnetsecurity.com/2026/08/18/download-enzoic-2026-credential-risk-report/",
+      "date": "2026-08-18T12:03:16.000Z",
+      "excerpt": "85% of cybersecurity professionals consider compromised credentials a primary attack path, yet only 19% continuously monitor active credentials and automatically remediate exposure. The 2026 Credential Risk Report examines where credential security programs fall short and what…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Google’s $10,000 refund test shows why AI agents need zero trust",
+      "link": "https://www.helpnetsecurity.com/2026/08/18/google-zero-trust-ai-agents/",
+      "date": "2026-08-18T11:49:54.000Z",
+      "excerpt": "Google’s open-source autonomous Customer Support & Returns Agent, built using the Agent Development Kit (ADK) and Gemini, demonstrates how developers can apply zero-trust security principles to AI agents that interact with sensitive systems and take real-world actions. The…"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Critical GitLab flaw allows attackers to modify or delete public projects (CVE-2026-19478)",
       "link": "https://www.helpnetsecurity.com/2026/08/18/gitlab-critical-code-injection-flaw-cve-2026-19478/",
       "date": "2026-08-18T11:38:24.000Z",
       "excerpt": "GitLab has released patches for two vulnerabilities, including a critical-severity code injection flaw that can be exploited without authentication. The vulnerabilities affect GitLab Community Edition (CE) and Enterprise Edition (EE) versions from 18.2 before 18.11.11, 19.0…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
+      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
+      "date": "2026-08-18T11:30:00.000Z",
+      "excerpt": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
+      "date": "2026-08-18T11:20:00.000Z",
+      "excerpt": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -274,22 +362,6 @@
       "excerpt": "The security industry is currently transitioning to an era where both offense and defense are AI-led, and every SOC operates at machine speed. However, what most CISOs have not yet reckoned with is that the AI defenders they are about to deploy will inherit a data foundation…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers turn to AI for help identifying files worth stealing",
-      "link": "https://www.helpnetsecurity.com/2026/08/18/gambit-security-ai-cyberattack-tools-report/",
-      "date": "2026-08-18T04:30:15.000Z",
-      "excerpt": "AI tools are being used by cyber attackers to write malicious code, build tools that harvest credentials, search compromised networks, identify valuable business information, manage technical infrastructure and generate commands during intrusions. Gambit Security researchers…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Cybersecurity jobs available right now: August 18, 2026",
-      "link": "https://www.helpnetsecurity.com/2026/08/18/cybersecurity-jobs-available-right-now-august-18-2026/",
-      "date": "2026-08-18T04:00:51.000Z",
-      "excerpt": "CISO ADI Global Distribution | USA | Hybrid – View job details As a CISO, you will develop and lead ADI’s global security strategy to protect information assets, digital platforms, critical operations, and AI-enabled environments. Advise executives and the Board on cyber risk,…"
-    },
-    {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
       "title": "Weekly Update 517: Cyber Ransoms",
@@ -380,10 +452,10 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Adam Shostack Talks Hugging Face & PHANTOM-B",
+      "title": "Adam Shostack Talks Hugging Face Breach & PHANTOM-B",
       "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
       "date": "2026-08-17T19:22:56.000Z",
-      "excerpt": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\""
+      "excerpt": "The security expert talks with the Dark Reading News Desk about why he \"blown away\" by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs."
     },
     {
       "source": "BleepingComputer",
@@ -408,22 +480,6 @@
       "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
       "date": "2026-08-17T18:44:17.000Z",
       "excerpt": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
-      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
-      "date": "2026-08-17T18:22:09.000Z",
-      "excerpt": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
-      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
-      "date": "2026-08-17T17:41:06.000Z",
-      "excerpt": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the…"
     },
     {
       "source": "The Record",
@@ -522,30 +578,6 @@
       "excerpt": "Critical User Profile Builder flaw let unauthenticated attackers access administrator accounts"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
-      "date": "2026-08-17T13:23:51.000Z",
-      "excerpt": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
-      "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
-      "date": "2026-08-17T12:11:00.000Z",
-      "excerpt": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "How MCP Servers Can Expose Enterprise Secrets",
-      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
-      "date": "2026-08-17T11:58:00.000Z",
-      "excerpt": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Hacking Public Wi-Fi DNS to Steal Credentials",
@@ -568,22 +600,6 @@
       "link": "https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T11:13:47.000Z",
       "excerpt": "A flood of documents pours into a funnel that drips onto a tiny model a man is polishing, while real unbuilt work waits through an open door/images/fix-execution-not-the-sop.webp/images/fix-execution-not-the-sop.webp AI is multiplying the problem of us having far too many…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
-      "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
-      "date": "2026-08-17T11:09:57.000Z",
-      "excerpt": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "40,000 Impacted by SafePal Data Breach",
-      "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
-      "date": "2026-08-17T09:37:06.000Z",
-      "excerpt": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -712,14 +728,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
       "date": "2026-08-14T15:58:50.000Z",
       "excerpt": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What Boards Need to Know About Tech Risk",
-      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
-      "date": "2026-08-14T14:00:00.000Z",
-      "excerpt": "Why do so many boards underestimate technology risk until it becomes a crisis?"
     },
     {
       "source": "Krebs on Security",
@@ -904,14 +912,6 @@
       "link": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
       "date": "2026-08-11T20:59:52.000Z",
       "excerpt": "Device-bound session credentials thwart an increasingly common form of account takeover."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "AI Genie in the Wild",
-      "link": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
-      "date": "2026-08-11T15:55:11.000Z",
-      "excerpt": "When I give talks about AI genies , I use this sort of example as a hypothetical. It’s happened . The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And…. Minutes later, his AI agent reported it had discovered a way to book Andrew into…"
     }
   ]
 }
