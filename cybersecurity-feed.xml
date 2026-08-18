@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 05:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 07:10:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates</title>
+      <link>https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/</guid>
+      <pubDate>Tue, 18 Aug 2026 06:46:22 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE</title>
+      <link>https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html</guid>
+      <pubDate>Tue, 18 Aug 2026 06:34:20 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Google’s open-source HEIR lets AI work with data it can’t see</title>
+      <link>https://www.helpnetsecurity.com/2026/08/18/google-heir-open-source-compiler-toolchain/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/18/google-heir-open-source-compiler-toolchain/</guid>
+      <pubDate>Tue, 18 Aug 2026 06:00:54 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Google’s researchers and engineers developed the Homomorphic Encryption Intermediate Representation (HEIR) compiler project, an open-source compiler toolchain and development platform for homomorphic encryption. It can convert pre-trained AI models designed to operate on… (via Help Net Security)</description>
+    </item>
     <item>
       <title>A hollowed out data layer is making CISOs fly blind into AI attacks</title>
       <link>https://www.helpnetsecurity.com/2026/08/18/siem-data-blind-spots-mapping/</link>
@@ -392,14 +416,6 @@
       <description>Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies</title>
-      <link>https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html</guid>
-      <pubDate>Mon, 17 Aug 2026 09:29:55 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. &quot;While the malware reuses the DDoS… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>SafePal Data Breach Hits Tens of Thousands of Customers</title>
       <link>https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/safepal-data-breach-tens-thousands/</guid>
@@ -430,14 +446,6 @@
       <pubDate>Mon, 17 Aug 2026 08:13:07 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Police bust cybercrime ring accused of stealing €30 million in four-day spree</title>
-      <link>https://www.helpnetsecurity.com/2026/08/17/germany-brazil-bank-fraud-ring-dismantled/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/17/germany-brazil-bank-fraud-ring-dismantled/</guid>
-      <pubDate>Mon, 17 Aug 2026 08:08:30 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>German and Brazilian police dismantled an international bank fraud ring blamed for a €30 million cyberattack on a German financial institution, arresting four people in Brazil and pursuing three more suspects in Spain and Bulgaria. Brazilian police named the operation “Klonen.”… (via Help Net Security)</description>
     </item>
     <item>
       <title>Infostealers Harvest 1.7 Billion Credentials in Six Months</title>
@@ -590,14 +598,6 @@
       <pubDate>Fri, 14 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Evooo1Bot is a newly observed botnet based on the Mirai framework but equipped with advanced features, turning edge devices into persistent proxies (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities</title>
-      <link>https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:57:51 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737,… (via SecurityWeek)</description>
     </item>
     <item>
       <title>Who’s Tracking You? Use This New Service to Find Out</title>
