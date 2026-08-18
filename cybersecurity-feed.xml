@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 18 Aug 2026 03:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 04:03:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Weekly Update 517: Cyber Ransoms</title>
+      <link>https://www.troyhunt.com/weekly-update-517/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-517/</guid>
+      <pubDate>Tue, 18 Aug 2026 03:44:58 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>The current ransomware situation is a bit of a kludge (deep breath): a lot of ransomware (which often doesn&#39;t even involve &quot;ware&quot;, it&#39;s just extortion) is carried out by kids who successfully make a truckload of money but can&#39;t spend it without (via Troy Hunt)</description>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, August 18th, 2026 https://isc.sans.edu/podcastdetail/10056, (Tue, Aug 18th)</title>
       <link>https://isc.sans.edu/diary/rss/33256</link>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 11 Aug 2026 13:15:24 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants</title>
-      <link>https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</link>
-      <guid isPermaLink="false">https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/</guid>
-      <pubDate>Tue, 11 Aug 2026 12:00:55 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server. (via Securelist)</description>
     </item>
   </channel>
 </rss>

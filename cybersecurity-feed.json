@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T03:13:07.980Z",
+  "updated": "2026-08-18T04:03:09.107Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "Troy Hunt",
+      "sourceUrl": "https://www.troyhunt.com/",
+      "title": "Weekly Update 517: Cyber Ransoms",
+      "link": "https://www.troyhunt.com/weekly-update-517/",
+      "date": "2026-08-18T03:44:58.000Z",
+      "excerpt": "The current ransomware situation is a bit of a kludge (deep breath): a lot of ransomware (which often doesn't even involve \"ware\", it's just extortion) is carried out by kids who successfully make a truckload of money but can't spend it without"
+    },
     {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
@@ -904,14 +912,6 @@
       "link": "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
       "date": "2026-08-11T13:15:24.000Z",
       "excerpt": "Phone and Bluetooth signals could turn roadside cameras into far richer tracking tools."
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Head Mare APT is exploiting vulnerabilities in an unpatched TrueConf server to deliver PhantomCore and PhantomGraph to video conference participants",
-      "link": "https://securelist.com/tr/head-mare-targets-trueconf-server-with-phantomcore/120988/",
-      "date": "2026-08-11T12:00:55.000Z",
-      "excerpt": "Kaspersky experts have discovered malicious TrueConf software installers. The Head Mare APT group uses them to deliver the PhantomCore and PhantomGraph backdoors to target systems by exploiting vulnerabilities in an unpatched TrueConf server."
     }
   ]
 }
