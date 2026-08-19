@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 03:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 04:57:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Banks look for fraud signals in customer behavior</title>
+      <link>https://www.helpnetsecurity.com/2026/08/19/threatmark-banking-fraud-prevention-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/19/threatmark-banking-fraud-prevention-report/</guid>
+      <pubDate>Wed, 19 Aug 2026 04:30:58 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Banks are dealing with more fraud in which customers authorize payments after being manipulated by criminals. ThreatMark’s Fraud Readiness Benchmark 2026 describes a banking environment where social engineering, reimbursement requirements and growing case volumes are changing… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ChatGPT’s new feature could give infostealers a map of your Mac activity</title>
+      <link>https://www.helpnetsecurity.com/2026/08/19/openai-computer-history-privacy-risks/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/19/openai-computer-history-privacy-risks/</guid>
+      <pubDate>Wed, 19 Aug 2026 04:00:04 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>OpenAI’s new Computer History feature turns recent Mac computer activity into memories ChatGPT and Codex can use, and it’s raising questions about privacy and security along the way. Computer History (Source: OpenAI) What Computer History does Computer History builds a timeline… (via Help Net Security)</description>
+    </item>
     <item>
       <title>ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)</title>
       <link>https://isc.sans.edu/diary/rss/33258</link>
@@ -224,20 +240,20 @@
       <description>Secret parameter allowed hackers to steal passwords when a target clicked on a link. (via Ars Technica Security)</description>
     </item>
     <item>
-      <title>Silent &#39;TwinLoot&#39; Cyber Threat Operates Entirely From Microsoft&#39;s Cloud</title>
-      <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>&#39;Ransom Busters&#39;: Ransomware Actor Poses as Incident-Recovery Service</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
       <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Silent &#39;TwinLoot&#39; Cyber Threat Operates Entirely From Microsoft&#39;s Cloud</title>
+      <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence. (via Dark Reading)</description>
     </item>
     <item>
       <title>AI-Driven Vulnerability Surge Breaks the Traditional Patching Model</title>
@@ -430,22 +446,6 @@
       <pubDate>Tue, 18 Aug 2026 08:12:08 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Synthesized builds Test Data Agent to validate AI agents with production-like data</title>
-      <link>https://www.helpnetsecurity.com/2026/08/18/synthesized-builds-test-data-agent-to-validate-ai-agents-with-production-like-data/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/18/synthesized-builds-test-data-agent-to-validate-ai-agents-with-production-like-data/</guid>
-      <pubDate>Tue, 18 Aug 2026 07:38:34 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Synthesized has announced its Test Data Agent, a new agentic infrastructure capability being developed to create and provision the realistic data, business context, and system states enterprises need to validate AI agents safely before production deployment. The Test Data Agent… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Google’s open-source HEIR lets AI work with data it can’t see</title>
-      <link>https://www.helpnetsecurity.com/2026/08/18/google-heir-open-source-compiler-toolchain/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/18/google-heir-open-source-compiler-toolchain/</guid>
-      <pubDate>Tue, 18 Aug 2026 06:00:54 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Google’s researchers and engineers developed the Homomorphic Encryption Intermediate Representation (HEIR) compiler project, an open-source compiler toolchain and development platform for homomorphic encryption. It can convert pre-trained AI models designed to operate on… (via Help Net Security)</description>
     </item>
     <item>
       <title>Weekly Update 517: Cyber Ransoms</title>
