@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T14:02:34.155Z",
+  "updated": "2026-08-19T14:57:53.904Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "The long tail of Clop’s PTC hack is just beginning to emerge",
+      "link": "https://cyberscoop.com/clop-zero-day-attacks-ptc-windchill-flexplm/",
+      "date": "2026-08-19T14:30:52.000Z",
+      "excerpt": "The data theft extortion group likely compromised a critical vulnerability affecting PTC’s product lifecycle management software in June, a month before it sent threatening emails to victims. The post The long tail of Clop’s PTC hack is just beginning to emerge appeared first on…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
+      "link": "https://isc.sans.edu/diary/rss/33260",
+      "date": "2026-08-19T14:24:58.000Z",
+      "excerpt": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -596,18 +612,18 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "date": "2026-08-18T13:00:00.000Z",
-      "excerpt": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
       "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
       "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
       "date": "2026-08-18T13:00:00.000Z",
       "excerpt": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "date": "2026-08-18T13:00:00.000Z",
+      "excerpt": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
     },
     {
       "source": "Schneier on Security",
@@ -866,14 +882,6 @@
       "excerpt": "As frontier models and their sandbox escaping exploits dominate front-page news, researchers are increasingly worried about cheaper, more efficient AI models. The post AI’s ‘middle class’ has gotten dramatically better at hacking appeared first on CyberScoop ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Trump turns to private sector in offensive hacking operations memo",
-      "link": "https://cyberscoop.com/trump-memo-private-sector-offensive-hacking/",
-      "date": "2026-08-13T11:47:55.000Z",
-      "excerpt": "One expert called it a “pretty big shift in U.S. cyber policy,” and there have been reservations in the past about opening the door to private sector involvement in cyber offense. The post Trump turns to private sector in offensive hacking operations memo appeared first on…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
@@ -888,14 +896,6 @@
       "link": "https://securelist.com/armored-likho-still-toolkit/121033/",
       "date": "2026-08-13T08:00:15.000Z",
       "excerpt": "Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33244",
-      "date": "2026-08-13T02:00:03.000Z",
-      "excerpt": ""
     },
     {
       "source": "Graham Cluley",

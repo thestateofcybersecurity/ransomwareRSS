@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 14:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:57:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>The long tail of Clop’s PTC hack is just beginning to emerge</title>
+      <link>https://cyberscoop.com/clop-zero-day-attacks-ptc-windchill-flexplm/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/clop-zero-day-attacks-ptc-windchill-flexplm/</guid>
+      <pubDate>Wed, 19 Aug 2026 14:30:52 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The data theft extortion group likely compromised a critical vulnerability affecting PTC’s product lifecycle management software in June, a month before it sent threatening emails to victims. The post The long tail of Clop’s PTC hack is just beginning to emerge appeared first on… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)</title>
+      <link>https://isc.sans.edu/diary/rss/33260</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33260</guid>
+      <pubDate>Wed, 19 Aug 2026 14:24:58 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the… (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>Password spraying attacks surge 155x as hackers exploit MFA gaps</title>
       <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/</link>
@@ -488,20 +504,20 @@
       <description>Secret parameter allowed hackers to steal passwords when a target clicked on a link. (via Ars Technica Security)</description>
     </item>
     <item>
-      <title>&#39;Ransom Busters&#39;: Ransomware Actor Poses as Incident-Recovery Service</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Silent &#39;TwinLoot&#39; Cyber Threat Operates Entirely From Microsoft&#39;s Cloud</title>
       <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
       <guid isPermaLink="false">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
       <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>&#39;Ransom Busters&#39;: Ransomware Actor Poses as Incident-Recovery Service</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments. (via Dark Reading)</description>
     </item>
     <item>
       <title>LLMs and Contextual Integrity</title>
@@ -760,14 +776,6 @@
       <description>As frontier models and their sandbox escaping exploits dominate front-page news, researchers are increasingly worried about cheaper, more efficient AI models. The post AI’s ‘middle class’ has gotten dramatically better at hacking appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Trump turns to private sector in offensive hacking operations memo</title>
-      <link>https://cyberscoop.com/trump-memo-private-sector-offensive-hacking/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/trump-memo-private-sector-offensive-hacking/</guid>
-      <pubDate>Thu, 13 Aug 2026 11:47:55 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>One expert called it a “pretty big shift in U.S. cyber policy,” and there have been reservations in the past about opening the door to private sector involvement in cyber offense. The post Trump turns to private sector in offensive hacking operations memo appeared first on… (via CyberScoop)</description>
-    </item>
-    <item>
       <title>Separating AI’s Technological Problems from Its Capitalism Problems</title>
       <link>https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html</guid>
@@ -782,14 +790,6 @@
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims. (via Securelist)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Thursday, August 13th, 2026 https://isc.sans.edu/podcastdetail/10050, (Thu, Aug 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/33244</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33244</guid>
-      <pubDate>Thu, 13 Aug 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Smashing Security podcast #480: This is the AI service you should never sign up to</title>
