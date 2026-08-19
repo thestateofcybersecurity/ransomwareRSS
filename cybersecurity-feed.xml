@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 22:46:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:42:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Smashing Security podcast #481: Never say this to a robot dog</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
+      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-481/</guid>
+      <pubDate>Wed, 19 Aug 2026 23:10:23 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google&#39;s AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room… (via Graham Cluley)</description>
+    </item>
     <item>
       <title>Rogue ransomware affiliate poses as recovery firm to steal payments</title>
       <link>https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/</link>
@@ -94,14 +102,6 @@
       <pubDate>Wed, 19 Aug 2026 17:50:01 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>SilkParasite Threatens Central Asian Orgs With Flurry of RATs</title>
@@ -520,14 +520,6 @@
       <description>The updated warning from the FBI, CISA and HHS draws on a year’s worth of investigations to detail how the group gains initial access and what it does afterward. The post Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics appeared first… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
-      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed</title>
       <link>https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</guid>
@@ -798,14 +790,6 @@
       <pubDate>Thu, 13 Aug 2026 08:00:15 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Smashing Security podcast #480: This is the AI service you should never sign up to</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-480/</link>
-      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-480/</guid>
-      <pubDate>Wed, 12 Aug 2026 23:12:28 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Would you like access to Anthropic&#39;s Claude at 90% off the normal price? All you have to do is redirect your traffic to a mysterious service called &quot;Poison Claude&quot;. Only problem is that it&#39;s run by fraudsters... Meanwhile, a phishing-as-a-service platform called &quot;Greatness&quot; has… (via Graham Cluley)</description>
     </item>
   </channel>
 </rss>

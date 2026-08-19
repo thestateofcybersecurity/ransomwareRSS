@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T22:46:33.677Z",
+  "updated": "2026-08-19T23:42:38.935Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Sophos News",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #481: Never say this to a robot dog",
+      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
+      "date": "2026-08-19T23:10:23.000Z",
+      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -200,14 +208,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
       "date": "2026-08-19T17:50:01.000Z",
       "excerpt": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "date": "2026-08-19T17:30:00.000Z",
-      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
     },
     {
       "source": "Dark Reading",
@@ -626,14 +626,6 @@
       "excerpt": "The updated warning from the FBI, CISA and HHS draws on a year’s worth of investigations to detail how the group gains initial access and what it does afterward. The post Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics appeared first…"
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "date": "2026-08-18T17:08:28.000Z",
-      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed",
@@ -904,14 +896,6 @@
       "link": "https://securelist.com/armored-likho-still-toolkit/121033/",
       "date": "2026-08-13T08:00:15.000Z",
       "excerpt": "Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #480: This is the AI service you should never sign up to",
-      "link": "https://grahamcluley.com/smashing-security-podcast-480/",
-      "date": "2026-08-12T23:12:28.000Z",
-      "excerpt": "Would you like access to Anthropic's Claude at 90% off the normal price? All you have to do is redirect your traffic to a mysterious service called \"Poison Claude\". Only problem is that it's run by fraudsters... Meanwhile, a phishing-as-a-service platform called \"Greatness\" has…"
     }
   ]
 }
