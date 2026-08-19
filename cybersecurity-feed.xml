@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 19:45:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:49:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>No-Filter &#39;Kriminal&#39; AI Platform Raises Cybercrime Concerns</title>
+      <link>https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns</guid>
+      <pubDate>Wed, 19 Aug 2026 20:32:09 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Healthtech firm CareCloud data breach impacts 3.7 million patients</title>
+      <link>https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/</guid>
+      <pubDate>Wed, 19 Aug 2026 20:07:12 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second</title>
+      <link>https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html</guid>
+      <pubDate>Wed, 19 Aug 2026 19:02:40 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in… (via The Hacker News)</description>
+    </item>
     <item>
       <title>AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn</title>
       <link>https://cyberscoop.com/hackers-use-ai-target-siemens-plcs-critical-infrastructure/</link>
@@ -30,6 +54,14 @@
       <pubDate>Wed, 19 Aug 2026 18:09:13 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior</title>
+      <link>https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html</guid>
+      <pubDate>Wed, 19 Aug 2026 18:06:44 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. &quot;As… (via The Hacker News)</description>
     </item>
     <item>
       <title>NSA, FBI warns of hackers using AI-generated tools in attacks on critical infrastructure technology</title>
@@ -344,14 +376,6 @@
       <description>The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>CISA: Medusa ransomware hit over 500 critical infrastructure orgs</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/</guid>
-      <pubDate>Wed, 19 Aug 2026 08:00:48 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Cyberattack forces UT San Antonio to delay start of fall semester</title>
       <link>https://www.helpnetsecurity.com/2026/08/19/ut-san-antonio-cyberattack-fall-semester-delay/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/19/ut-san-antonio-cyberattack-fall-semester-delay/</guid>
@@ -390,14 +414,6 @@
       <pubDate>Wed, 19 Aug 2026 06:01:53 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection,… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data</title>
-      <link>https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html</guid>
-      <pubDate>Wed, 19 Aug 2026 05:39:25 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The… (via The Hacker News)</description>
     </item>
     <item>
       <title>I&#39;m Worried About a Prompt Injection Worm</title>
@@ -496,14 +512,6 @@
       <description>The Cybersecurity and Infrastructure Security Agency (CISA) and FBI updated an advisory on the group initially released in March 2025 — writing that as of April 2026, Medusa actors have hit more than 500 victims. CISA previously said 300 victims, many of which are in critical… (via The Record)</description>
     </item>
     <item>
-      <title>Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps</title>
-      <link>https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html</guid>
-      <pubDate>Tue, 18 Aug 2026 17:47:22 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim&#39;s Copilot session. The flaws, which the… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics</title>
       <link>https://cyberscoop.com/medusa-ransomware-tactics-cisa-advisory/</link>
       <guid isPermaLink="false">https://cyberscoop.com/medusa-ransomware-tactics-cisa-advisory/</guid>
@@ -550,14 +558,6 @@
       <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>&#39;Ransom Busters&#39;: Ransomware Actor Poses as Incident-Recovery Service</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
-      <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments. (via Dark Reading)</description>
     </item>
     <item>
       <title>LLMs and Contextual Integrity</title>
