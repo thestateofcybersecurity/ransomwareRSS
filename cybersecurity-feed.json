@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T01:56:54.247Z",
+  "updated": "2026-08-19T03:15:15.919Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Wednesday, August 19th, 2026 https://isc.sans.edu/podcastdetail/10058, (Wed, Aug 19th)",
+      "link": "https://isc.sans.edu/diary/rss/33258",
+      "date": "2026-08-19T02:00:03.000Z",
+      "excerpt": ""
+    },
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
@@ -324,18 +332,18 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "date": "2026-08-18T13:00:00.000Z",
-      "excerpt": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
       "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
       "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
       "date": "2026-08-18T13:00:00.000Z",
       "excerpt": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
+      "date": "2026-08-18T13:00:00.000Z",
+      "excerpt": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments."
     },
     {
       "source": "SecurityWeek",
@@ -700,18 +708,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
-      "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
-      "date": "2026-08-17T00:00:00.000Z",
-      "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "A heap of overflow in August’s Patch Tuesday haul",
       "link": "https://www.sophos.com/en-us/blog/2608-patch-tuesday",
       "date": "2026-08-17T00:00:00.000Z",
       "excerpt": "423 CVEs, no Edge patches, and a small shift in CWE findings"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs",
+      "link": "https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus",
+      "date": "2026-08-17T00:00:00.000Z",
+      "excerpt": "Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -864,14 +872,6 @@
       "link": "https://isc.sans.edu/diary/rss/33244",
       "date": "2026-08-13T02:00:03.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Using Gemma4 with Ollama - Testing File Hash Analysis and Recommendations with AI, (Wed, Aug 12th)",
-      "link": "https://isc.sans.edu/diary/rss/33242",
-      "date": "2026-08-13T01:26:53.000Z",
-      "excerpt": "In the past few weeks, I have been using Gemma4 as a Large Language Model (LLM) to see how useful it can be to analyze some of the malware hashes uploaded to the DShield sensor over the past 30 days and figure out how its recommendation can be considered useful about the…"
     },
     {
       "source": "Graham Cluley",
