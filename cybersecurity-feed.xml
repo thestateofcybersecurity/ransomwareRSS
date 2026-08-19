@@ -5,8 +5,48 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 09:54:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:50:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Over 500 Critical Infrastructure Organizations Hit by Medusa Ransomware</title>
+      <link>https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/critical-infrastructure-medusa/</guid>
+      <pubDate>Wed, 19 Aug 2026 10:50:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>The FBI warned that the RaaS operation has significantly enhanced its tactics, techniques and procedures, making it harder for defenders to counter (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>ICE Collecting DNA Samples</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html</guid>
+      <pubDate>Wed, 19 Aug 2026 10:46:37 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>ICE collected nearly a million DNA samples last year. (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities</title>
+      <link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/</guid>
+      <pubDate>Wed, 19 Aug 2026 10:37:31 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Medusa ransomware gang has hit over 500 organizations, CISA warns</title>
+      <link>https://www.helpnetsecurity.com/2026/08/19/medusa-ransomware-cisa-warning/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/19/medusa-ransomware-cisa-warning/</guid>
+      <pubDate>Wed, 19 Aug 2026 10:18:51 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Medusa ransomware has breached more than 500 organizations since it first appeared in June 2021, the FBI, CISA, and the Department of Health and Human Services (HHS) said in an updated joint advisory. The update builds on an advisory first issued in March 2025 and draws on FBI… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Critical RCE flaw in Windows IKE Extension now actively exploited</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/</guid>
+      <pubDate>Wed, 19 Aug 2026 10:12:24 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts</title>
       <link>https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/</link>
@@ -352,14 +392,6 @@
       <description>A rigid purple lattice of identical cells cracking and warping into warm organic curves around a single figure whose chest emits an irregular waveform/images/unconventional-thought-differentiator.webp/images/unconventional-thought-differentiator.webp I think one of the most… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>NETSCOUT expands Adaptive DDoS Protection with outbound attack mitigation</title>
-      <link>https://www.helpnetsecurity.com/2026/08/18/netscout-expands-adaptive-ddos-protection-with-outbound-attack-mitigation/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/18/netscout-expands-adaptive-ddos-protection-with-outbound-attack-mitigation/</guid>
-      <pubDate>Tue, 18 Aug 2026 13:39:08 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>NETSCOUT has announced an extension of its Adaptive DDoS Protection (ADP) solution enabling service providers to automatically detect and mitigate outbound DDoS attack traffic. By extending protection from the attack target towards its source, NETSCOUT helps operators prevent… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Microsoft Copilot reveals secret input that allowed it to be hacked</title>
       <link>https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/</guid>
@@ -416,14 +448,6 @@
       <description>Xpander’s platform uses a universal agent harness that executes AI agents as portable workloads and securely renders interfaces on demand. The post Xpander Raises $7.5 Million for AI Management and Governance appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Fortinet Acquires AI Security Company Virtue AI</title>
-      <link>https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/</guid>
-      <pubDate>Tue, 18 Aug 2026 12:06:21 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Fortinet will use Virtue AI technology to enhance its AI security portfolio, including for AI models, applications, and agentic systems. The post Fortinet Acquires AI Security Company Virtue AI appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025</title>
       <link>https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html</guid>
@@ -470,22 +494,6 @@
       <pubDate>Tue, 18 Aug 2026 10:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Black Kite finds mid-market is the sweet spot for ransomware as manufacturers are most likely to be hit (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Microsoft confirms outage affecting search in Microsoft 365 apps</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/</guid>
-      <pubDate>Tue, 18 Aug 2026 09:24:49 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>UK Legal Regulator Raises AI Misuse Concerns</title>
-      <link>https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/uk-legal-regulator-raises-ai/</guid>
-      <pubDate>Tue, 18 Aug 2026 08:17:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Solicitors Regulation Authority sounds the alarm over AI hallucinations and data leaks (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>Weekly Update 517: Cyber Ransoms</title>
@@ -798,14 +806,6 @@
       <pubDate>Wed, 12 Aug 2026 13:37:12 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>A public AI tool found the dangerous Zoom flaw in under 20 prompts. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Prompt Injections for Defense</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html</guid>
-      <pubDate>Wed, 12 Aug 2026 09:56:37 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This seems to work : Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts… (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
