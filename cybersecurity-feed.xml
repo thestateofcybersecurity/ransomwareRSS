@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 20 Aug 2026 05:52:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:12:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers Using AI to Target Siemens PLCs in Critical US Sectors</title>
+      <link>https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/</guid>
+      <pubDate>Thu, 20 Aug 2026 07:02:02 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft says August Windows updates may cause gaming issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/</guid>
+      <pubDate>Thu, 20 Aug 2026 06:51:03 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code</title>
+      <link>https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html</guid>
+      <pubDate>Thu, 20 Aug 2026 06:04:34 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been… (via The Hacker News)</description>
+    </item>
     <item>
       <title>AI is making fraud harder to spot and identity harder to prove</title>
       <link>https://www.helpnetsecurity.com/2026/08/20/experian-digital-identity-fraud-risks-report/</link>
@@ -206,14 +230,6 @@
       <pubDate>Wed, 19 Aug 2026 14:24:58 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Password spraying attacks surge 155x as hackers exploit MFA gaps</title>
-      <link>https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/</guid>
-      <pubDate>Wed, 19 Aug 2026 14:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Grandoreiro Resurfaces in Mexico With New DLL Sideloading Campaign</title>
@@ -422,22 +438,6 @@
       <pubDate>Wed, 19 Aug 2026 07:26:50 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>When Cameron Curry discovered that his contract as a data analyst wasn&#39;t going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>CareCloud Data Breach Impact Grows to 3.7 Million Individuals</title>
-      <link>https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/</guid>
-      <pubDate>Wed, 19 Aug 2026 06:56:43 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact. The post CareCloud Data Breach Impact Grows to 3.7 Million Individuals appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure</title>
-      <link>https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html</guid>
-      <pubDate>Wed, 19 Aug 2026 06:01:53 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection,… (via The Hacker News)</description>
     </item>
     <item>
       <title>I&#39;m Worried About a Prompt Injection Worm</title>

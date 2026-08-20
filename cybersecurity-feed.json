@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:52:25.736Z",
+  "updated": "2026-08-20T07:12:48.462Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
+      "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
+      "date": "2026-08-20T07:02:02.000Z",
+      "excerpt": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "date": "2026-08-20T06:51:03.000Z",
+      "excerpt": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
+      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
+      "date": "2026-08-20T06:04:34.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -312,14 +336,6 @@
       "link": "https://isc.sans.edu/diary/rss/33260",
       "date": "2026-08-19T14:24:58.000Z",
       "excerpt": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "date": "2026-08-19T14:00:10.000Z",
-      "excerpt": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]"
     },
     {
       "source": "Infosecurity Magazine",
@@ -528,22 +544,6 @@
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer",
       "date": "2026-08-19T07:26:50.000Z",
       "excerpt": "When Cameron Curry discovered that his contract as a data analyst wasn't going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
-      "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
-      "date": "2026-08-19T06:56:43.000Z",
-      "excerpt": "The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact. The post CareCloud Data Breach Impact Grows to 3.7 Million Individuals appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure",
-      "link": "https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html",
-      "date": "2026-08-19T06:01:53.000Z",
-      "excerpt": "Microsoft Defender Experts have linked more than 30 web domains to MacSync Stealer, a macOS-focused information stealer, after correlating recurring endpoint and network behaviors across changing infrastructure, tracing the malware from payload retrieval through data collection,…"
     },
     {
       "source": "Daniel Miessler",
