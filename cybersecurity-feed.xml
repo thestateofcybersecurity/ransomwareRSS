@@ -5,8 +5,48 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 20 Aug 2026 09:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:55:13 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Police Are Hiding Their Use of Flock Surveillance Cameras</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html</guid>
+      <pubDate>Thu, 20 Aug 2026 09:48:55 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Critical Zimbra RCE flaw now actively exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</guid>
+      <pubDate>Thu, 20 Aug 2026 09:46:54 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Def Con Attendees Targeted by Persistent Phishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/</guid>
+      <pubDate>Thu, 20 Aug 2026 09:30:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>OpenAI previews privacy-focused system for detecting AI misuse</title>
+      <link>https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/</guid>
+      <pubDate>Thu, 20 Aug 2026 09:09:12 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>OpenAI is previewing Private Safety Processing with early customers seeking greater certainty about how their data will be protected as AI systems become more capable. The system identifies patterns across related interactions while restricting OpenAI personnel from accessing… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>US agencies warn of AI-powered attacks on Siemens industrial controllers</title>
+      <link>https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/</guid>
+      <pubDate>Thu, 20 Aug 2026 09:07:34 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Threat actors are using AI to write exploit scripts targeting internet-exposed Siemens S7 Series programmable logic controllers (PLCs) used across water, energy, manufacturing, and other critical infrastructure sectors, according to US federal agencies. PLCs are the small… (via Help Net Security)</description>
+    </item>
     <item>
       <title>Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler</title>
       <link>https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/</link>
@@ -224,14 +264,6 @@
       <description>After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties. The post A California county wants to hire Tina Peters to help run its elections appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>US charges Iranian hackers over $3.4 billion intellectual property theft</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/</guid>
-      <pubDate>Wed, 19 Aug 2026 15:56:09 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Exclusive: Linux Foundation&#39;s Akrites to Go Live in September</title>
       <link>https://www.infosecurity-magazine.com/news/linux-foundations-akrites-go-live/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/linux-foundations-akrites-go-live/</guid>
@@ -400,28 +432,12 @@
       <description>The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Medusa ransomware gang has hit over 500 organizations, CISA warns</title>
-      <link>https://www.helpnetsecurity.com/2026/08/19/medusa-ransomware-cisa-warning/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/19/medusa-ransomware-cisa-warning/</guid>
-      <pubDate>Wed, 19 Aug 2026 10:18:51 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Medusa ransomware has breached more than 500 organizations since it first appeared in June 2021, the FBI, CISA, and the Department of Health and Human Services (HHS) said in an updated joint advisory. The update builds on an advisory first issued in March 2025 and draws on FBI… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts</title>
       <link>https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/</guid>
       <pubDate>Wed, 19 Aug 2026 09:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>The UK’s privacy watchdog has called on police using facial recognition to follow its recommendations (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Brinqa acquires PlexTrac to bring validated remediation to exposure management</title>
-      <link>https://www.helpnetsecurity.com/2026/08/19/brinqa-plextrac-acqisition/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/19/brinqa-plextrac-acqisition/</guid>
-      <pubDate>Wed, 19 Aug 2026 09:19:07 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Brinqa has announced its acquisition of PlexTra, adding the ability to verify that remediation efforts have actually worked. The combined capabilities uniquely position Brinqa to identify and prioritize the exposures that matter most, drive remediation, and validate that fixes… (via Help Net Security)</description>
     </item>
     <item>
       <title>UK Fraud Cases Hit Record High in 2026</title>
@@ -542,14 +558,6 @@
       <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed</title>
-      <link>https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>The security flaw in Snowflake’s GitHub Actions workflow had been missed by a GitHub Advanced Security scan, said a Wiz researcher (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>Unconventional Thought Is the Differentiator</title>

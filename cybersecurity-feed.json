@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T09:01:20.806Z",
+  "updated": "2026-08-20T09:55:13.725Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
+      "link": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
+      "date": "2026-08-20T09:48:55.000Z",
+      "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
+      "date": "2026-08-20T09:46:54.000Z",
+      "excerpt": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Def Con Attendees Targeted by Persistent Phishing Campaign",
+      "link": "https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/",
+      "date": "2026-08-20T09:30:00.000Z",
+      "excerpt": "Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OpenAI previews privacy-focused system for detecting AI misuse",
+      "link": "https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/",
+      "date": "2026-08-20T09:09:12.000Z",
+      "excerpt": "OpenAI is previewing Private Safety Processing with early customers seeking greater certainty about how their data will be protected as AI systems become more capable. The system identifies patterns across related interactions while restricting OpenAI personnel from accessing…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "US agencies warn of AI-powered attacks on Siemens industrial controllers",
+      "link": "https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/",
+      "date": "2026-08-20T09:07:34.000Z",
+      "excerpt": "Threat actors are using AI to write exploit scripts targeting internet-exposed Siemens S7 Series programmable logic controllers (PLCs) used across water, energy, manufacturing, and other critical infrastructure sectors, according to US federal agencies. PLCs are the small…"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -330,14 +370,6 @@
       "excerpt": "After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties. The post A California county wants to hire Tina Peters to help run its elections appeared first on CyberScoop ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
-      "date": "2026-08-19T15:56:09.000Z",
-      "excerpt": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Exclusive: Linux Foundation's Akrites to Go Live in September",
@@ -506,28 +538,12 @@
       "excerpt": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Medusa ransomware gang has hit over 500 organizations, CISA warns",
-      "link": "https://www.helpnetsecurity.com/2026/08/19/medusa-ransomware-cisa-warning/",
-      "date": "2026-08-19T10:18:51.000Z",
-      "excerpt": "Medusa ransomware has breached more than 500 organizations since it first appeared in June 2021, the FBI, CISA, and the Department of Health and Human Services (HHS) said in an updated joint advisory. The update builds on an advisory first issued in March 2025 and draws on FBI…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "ICO Urges Police to Improve Data Governance in Facial Recognition Rollouts",
       "link": "https://www.infosecurity-magazine.com/news/ico-police-data-governance-facial/",
       "date": "2026-08-19T09:30:00.000Z",
       "excerpt": "The UK’s privacy watchdog has called on police using facial recognition to follow its recommendations"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Brinqa acquires PlexTrac to bring validated remediation to exposure management",
-      "link": "https://www.helpnetsecurity.com/2026/08/19/brinqa-plextrac-acqisition/",
-      "date": "2026-08-19T09:19:07.000Z",
-      "excerpt": "Brinqa has announced its acquisition of PlexTra, adding the ability to verify that remediation efforts have actually worked. The combined capabilities uniquely position Brinqa to identify and prioritize the exposures that matter most, drive remediation, and validate that fixes…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -648,14 +664,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
       "date": "2026-08-18T17:08:28.000Z",
       "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed",
-      "link": "https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/",
-      "date": "2026-08-18T15:30:00.000Z",
-      "excerpt": "The security flaw in Snowflake’s GitHub Actions workflow had been missed by a GitHub Advanced Security scan, said a Wiz researcher"
     },
     {
       "source": "Daniel Miessler",
