@@ -1,6 +1,42 @@
 {
-  "updated": "2026-08-20T16:56:45.165Z",
+  "updated": "2026-08-20T17:51:45.150Z",
   "items": [
+    {
+      "group": "play",
+      "victim": "Be Media",
+      "sector": "Technology",
+      "country": "",
+      "domain": "www.bemedia.com",
+      "discovered": "2026-08-20T17:28:01.340Z",
+      "link": "https://www.ransomware.live/id/QmUgTWVkaWFAcGxheQ=="
+    },
+    {
+      "group": "play",
+      "victim": "Latoplast",
+      "sector": "Manufacturing",
+      "country": "LV",
+      "domain": "www.latoplast.com",
+      "discovered": "2026-08-20T17:27:28.429Z",
+      "link": "https://www.ransomware.live/id/TGF0b3BsYXN0QHBsYXk="
+    },
+    {
+      "group": "payload",
+      "victim": "Qualiflex Datacenter | HWZ-Studiengnge (fh-hwz.ch), myenb.ch, etc",
+      "sector": "Technology",
+      "country": "CH",
+      "domain": "fh-hwz.ch",
+      "discovered": "2026-08-20T17:26:46.782Z",
+      "link": "https://www.ransomware.live/id/UXVhbGlmbGV4IERhdGFjZW50ZXIgfCBIV1otU3R1ZGllbmduZ2UgKGZoLWh3ei5jaCksIG15ZW5iLmNoLCBldGNAcGF5bG9hZA=="
+    },
+    {
+      "group": "titan",
+      "victim": "Termotecnica Industriale S.r.l.",
+      "sector": "Manufacturing",
+      "country": "IT",
+      "domain": "termotecnica.it",
+      "discovered": "2026-08-20T16:58:09.992Z",
+      "link": "https://www.ransomware.live/id/VGVybW90ZWNuaWNhIEluZHVzdHJpYWxlIFMuci5sLkB0aXRhbg=="
+    },
     {
       "group": "Panzer",
       "victim": "Frisian Flag Indonesia",
@@ -414,42 +450,6 @@
       "domain": "sunsea.co.th",
       "discovered": "2026-08-19T15:57:27.366Z",
       "link": "https://www.ransomware.live/id/c3Vuc2VhLmNvLnRoQGtyeWJpdA=="
-    },
-    {
-      "group": "coinbasecartel",
-      "victim": "Crowe",
-      "sector": "Professional Services",
-      "country": "US",
-      "domain": "delekus.com",
-      "discovered": "2026-08-19T15:24:25.163Z",
-      "link": "https://www.ransomware.live/id/Q3Jvd2VAY29pbmJhc2VjYXJ0ZWw="
-    },
-    {
-      "group": "coinbasecartel",
-      "victim": "Advanced Engineering Consultants",
-      "sector": "Professional Services",
-      "country": "",
-      "domain": "aec-group.org",
-      "discovered": "2026-08-19T15:23:42.314Z",
-      "link": "https://www.ransomware.live/id/QWR2YW5jZWQgRW5naW5lZXJpbmcgQ29uc3VsdGFudHNAY29pbmJhc2VjYXJ0ZWw="
-    },
-    {
-      "group": "akira",
-      "victim": "Ericksen Krentel",
-      "sector": "Professional Services",
-      "country": "",
-      "domain": "ericksenkrentel.com",
-      "discovered": "2026-08-19T15:21:44.876Z",
-      "link": "https://www.ransomware.live/id/RXJpY2tzZW4gS3JlbnRlbEBha2lyYQ=="
-    },
-    {
-      "group": "insomnia",
-      "victim": "Aurora Health Management",
-      "sector": "Healthcare",
-      "country": "US",
-      "domain": "www.aurorahealthmgt.com",
-      "discovered": "2026-08-19T14:57:13.177Z",
-      "link": "https://www.ransomware.live/id/QXVyb3JhIEhlYWx0aCBNYW5hZ2VtZW50QGluc29tbmlh"
     }
   ]
 }
