@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T15:54:15.758Z",
+  "updated": "2026-08-20T16:56:46.970Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -144,6 +144,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
       "date": "2026-08-20T14:39:48.000Z",
       "excerpt": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "date": "2026-08-20T14:36:27.000Z",
+      "excerpt": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary…"
     },
     {
       "source": "SecurityWeek",
@@ -352,14 +360,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
       "date": "2026-08-20T11:06:14.000Z",
       "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "date": "2026-08-20T11:05:11.000Z",
-      "excerpt": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument…"
     },
     {
       "source": "Infosecurity Magazine",
