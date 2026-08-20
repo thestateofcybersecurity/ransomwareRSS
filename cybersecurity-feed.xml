@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 20 Aug 2026 20:51:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:49:12 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Calling on Cyber Pros to Help Defend City Hall</title>
@@ -14,6 +14,22 @@
       <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>New CUSTODY Framework Constrains AI Agents Inside the Network</title>
+      <link>https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network</link>
+      <guid isPermaLink="false">https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network</guid>
+      <pubDate>Thu, 20 Aug 2026 20:42:18 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads</title>
+      <link>https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</guid>
+      <pubDate>Thu, 20 Aug 2026 20:22:35 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The… (via The Hacker News)</description>
     </item>
     <item>
       <title>Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
@@ -288,14 +304,6 @@
       <description>The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments</title>
-      <link>https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html</guid>
-      <pubDate>Thu, 20 Aug 2026 12:01:24 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities</title>
       <link>https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</link>
       <guid isPermaLink="false">https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/</guid>
@@ -478,14 +486,6 @@
       <pubDate>Wed, 19 Aug 2026 20:32:09 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Agentic AI Presents New Insider Threat Model for Orgs</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model</guid>
-      <pubDate>Wed, 19 Aug 2026 19:54:43 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack. (via Dark Reading)</description>
     </item>
     <item>
       <title>AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn</title>

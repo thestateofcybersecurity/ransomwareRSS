@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T20:51:49.406Z",
+  "updated": "2026-08-20T21:49:12.547Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -120,6 +120,22 @@
       "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "date": "2026-08-21T14:00:00.000Z",
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+      "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+      "date": "2026-08-20T20:42:18.000Z",
+      "excerpt": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "date": "2026-08-20T20:22:35.000Z",
+      "excerpt": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The…"
     },
     {
       "source": "The Hacker News",
@@ -394,14 +410,6 @@
       "excerpt": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "date": "2026-08-20T12:01:24.000Z",
-      "excerpt": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
@@ -584,14 +592,6 @@
       "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
       "date": "2026-08-19T20:32:09.000Z",
       "excerpt": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-      "date": "2026-08-19T19:54:43.000Z",
-      "excerpt": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack."
     },
     {
       "source": "CyberScoop",
