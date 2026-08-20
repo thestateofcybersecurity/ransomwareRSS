@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:12:48.462Z",
+  "updated": "2026-08-20T08:01:30.800Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
+      "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
+      "date": "2026-08-20T07:48:24.000Z",
+      "excerpt": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data. The post Critical GitLab Flaw Exploited Shortly After Disclosure appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Tufin expands Unified Control Plane with AI intelligence and multi-vendor automation",
+      "link": "https://www.helpnetsecurity.com/2026/08/20/tufin-expands-unified-control-plane-with-ai-intelligence-and-multi-vendor-automation/",
+      "date": "2026-08-20T07:31:56.000Z",
+      "excerpt": "Tufin has announced the availability of Tufin Orchestration Suite (TOS) 5.3, helping enterprises further simplify security operations and maintain consistent control across increasingly complex multi-vendor, hybrid environments. As enterprise security environments continue to…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "US charges 17 Iranian hackers over 31-terabyte academic data theft",
+      "link": "https://www.helpnetsecurity.com/2026/08/20/us-iranian-hackers-mabna-institute-charged/",
+      "date": "2026-08-20T07:28:56.000Z",
+      "excerpt": "The U.S. has charged 17 alleged members of Mabna Institute, an Iranian hacking-for-hire company accused of running a years-long campaign that stole data from American universities, companies, and government agencies. The post US charges 17 Iranian hackers over 31-terabyte…"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -506,36 +530,12 @@
       "excerpt": "The fixes resolve over 1,000 vulnerabilities across two dozen products, including over 460 remotely exploitable bugs. The post 943 Patches Rolled Out With Oracle’s August 2026 Security Update appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Google’s AI security agents found 100+ critical software vulnerabilities in just two days",
-      "link": "https://www.helpnetsecurity.com/2026/08/19/google-mandiant-avdh-ai-vulnerability-discovery-tool/",
-      "date": "2026-08-19T09:03:25.000Z",
-      "excerpt": "Google’s Mandiant has disclosed the workings of an internal tool that uses chains of AI agents to hunt for vulnerabilities in source code, saying it found over 100 verified, high-severity flaws in just two days during a live investigation into stolen corporate repositories. The…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "OpenAI puts major frontier AI training run on hold over cyber risks",
-      "link": "https://www.helpnetsecurity.com/2026/08/19/openai-model-safety-updates/",
-      "date": "2026-08-19T08:48:40.000Z",
-      "excerpt": "OpenAI temporarily paused reinforcement learning (RL) training on its latest models intended for deployment for two weeks while it hardened and red-teamed research environments and expanded monitoring. “Our largest planned frontier RL run remains on hold while we conduct…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "UK Fraud Cases Hit Record High in 2026",
       "link": "https://www.infosecurity-magazine.com/news/uk-fraud-cases-hit-record-high/",
       "date": "2026-08-19T08:45:00.000Z",
       "excerpt": "Cifas data finds account takeover and identity fraud are driving a surge in fraud cases"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "date": "2026-08-19T08:19:09.000Z",
-      "excerpt": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek ."
     },
     {
       "source": "Graham Cluley",
@@ -904,14 +904,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
       "date": "2026-08-13T11:07:19.000Z",
       "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press . AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Armored Likho expands its cyber-espionage toolkit",
-      "link": "https://securelist.com/armored-likho-still-toolkit/121033/",
-      "date": "2026-08-13T08:00:15.000Z",
-      "excerpt": "Kaspersky experts break down a new Armored Likho campaign that poses as a fundraising efforts and delivers a new Still Toolkit aimed at stealing Telegram data and eavesdropping on victims."
     }
   ]
 }
