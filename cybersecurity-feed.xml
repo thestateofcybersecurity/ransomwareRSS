@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 19 Aug 2026 23:42:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 01:55:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>OpenAI confirms ChatGPT is down as logins and signups fail</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/</guid>
+      <pubDate>Thu, 20 Aug 2026 00:20:55 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Smashing Security podcast #481: Never say this to a robot dog</title>
       <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
@@ -102,6 +110,14 @@
       <pubDate>Wed, 19 Aug 2026 17:50:01 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>SilkParasite Threatens Central Asian Orgs With Flurry of RATs</title>
@@ -262,14 +278,6 @@
       <pubDate>Wed, 19 Aug 2026 11:25:28 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Microsoft fixes known issue causing Windows Defender crashes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/</guid>
-      <pubDate>Wed, 19 Aug 2026 11:14:28 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign</title>
@@ -520,6 +528,14 @@
       <description>The updated warning from the FBI, CISA and HHS draws on a year’s worth of investigations to detail how the group gains initial access and what it does afterward. The post Medusa ransomware tallies hundreds of new victims, says updated advisory on group’s tactics appeared first… (via CyberScoop)</description>
     </item>
     <item>
+      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
+      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
       <title>Wiz AI Agent Finds Critical Snowflake GitHub Repo Flaw Advanced Security Missed</title>
       <link>https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/wiz-ai-agent-finds-snowflake/</guid>
@@ -544,12 +560,12 @@
       <description>Secret parameter allowed hackers to steal passwords when a target clicked on a link. (via Ars Technica Security)</description>
     </item>
     <item>
-      <title>&#39;Ransom Busters&#39;: Ransomware Actor Poses as Incident-Recovery Service</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service</guid>
+      <title>Silent &#39;TwinLoot&#39; Cyber Threat Operates Entirely From Microsoft&#39;s Cloud</title>
+      <link>https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud</guid>
       <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments. (via Dark Reading)</description>
+      <description>The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence. (via Dark Reading)</description>
     </item>
     <item>
       <title>LLMs and Contextual Integrity</title>
