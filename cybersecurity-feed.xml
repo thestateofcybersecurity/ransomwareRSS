@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 19:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 20:44:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Lawmakers call for investigation into impact of CISA staffing cuts</title>
+      <link>https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts</link>
+      <guid isPermaLink="false">https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts</guid>
+      <pubDate>Fri, 21 Aug 2026 19:56:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced. (via The Record)</description>
+    </item>
     <item>
       <title>Apollo discloses data breach from ongoing wave of attacks hitting financial sector</title>
       <link>https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</link>
@@ -14,6 +22,14 @@
       <pubDate>Fri, 21 Aug 2026 19:14:28 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2</title>
+      <link>https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</guid>
+      <pubDate>Fri, 21 Aug 2026 18:53:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. &quot;When the module loads, it locates… (via The Hacker News)</description>
     </item>
     <item>
       <title>New SynkLoader malware pushed in Microsoft Teams phishing campaign</title>
@@ -392,14 +408,6 @@
       <description>The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts</title>
-      <link>https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html</guid>
-      <pubDate>Thu, 20 Aug 2026 19:59:19 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware</title>
       <link>https://therecord.media/china-cyber-espionage-central-asia</link>
       <guid isPermaLink="false">https://therecord.media/china-cyber-espionage-central-asia</guid>
@@ -448,20 +456,12 @@
       <description>The popular &quot;Passportal&quot; password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely? (via Dark Reading)</description>
     </item>
     <item>
-      <title>Senators press TikTok over withholding of safety features for some users</title>
-      <link>https://therecord.media/senators-press-tiktok-over-withholding-safety-features</link>
-      <guid isPermaLink="false">https://therecord.media/senators-press-tiktok-over-withholding-safety-features</guid>
-      <pubDate>Thu, 20 Aug 2026 17:33:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.&quot; (via The Record)</description>
-    </item>
-    <item>
       <title>Money and Mindset: The Two Biggest Roadblocks to Cyber Policing</title>
       <link>https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing</link>
       <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing</guid>
       <pubDate>Thu, 20 Aug 2026 17:32:51 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress. (via Dark Reading)</description>
+      <description>Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress. (via Dark Reading)</description>
     </item>
     <item>
       <title>Retail theft bill spurs ‘very large and very dangerous’ surveillance fears</title>

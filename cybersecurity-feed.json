@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:43:35.055Z",
+  "updated": "2026-08-21T20:44:49.526Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,28 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+      "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+      "date": "2026-08-21T19:56:00.000Z",
+      "excerpt": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Apollo discloses data breach from ongoing wave of attacks hitting financial sector",
       "link": "https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/",
       "date": "2026-08-21T19:14:28.000Z",
       "excerpt": "The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "date": "2026-08-21T18:53:00.000Z",
+      "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates…"
     },
     {
       "source": "BleepingComputer",
@@ -498,14 +514,6 @@
       "excerpt": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "date": "2026-08-20T19:59:19.000Z",
-      "excerpt": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware",
@@ -554,20 +562,12 @@
       "excerpt": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Senators press TikTok over withholding of safety features for some users",
-      "link": "https://therecord.media/senators-press-tiktok-over-withholding-safety-features",
-      "date": "2026-08-20T17:33:00.000Z",
-      "excerpt": "In a letter on Wednesday, Sens. Marsha Blackburn (R-TN) and Richard Blumenthal (D-CT) criticized the company for having “knowingly withheld a critical safety measure for millions of American users.\""
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
       "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
       "date": "2026-08-20T17:32:51.000Z",
-      "excerpt": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress."
+      "excerpt": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress."
     },
     {
       "source": "CyberScoop",
