@@ -1,12 +1,30 @@
 {
-  "updated": "2026-08-21T04:59:33.728Z",
+  "updated": "2026-08-21T05:52:54.848Z",
   "items": [
+    {
+      "group": "settra",
+      "victim": "avkvalves.com",
+      "sector": "Manufacturing",
+      "country": "SE",
+      "domain": "avkvalves.com",
+      "discovered": "2026-08-21T05:50:27.570Z",
+      "link": "https://www.ransomware.live/id/YXZrdmFsdmVzLmNvbUBzZXR0cmE="
+    },
+    {
+      "group": "settra",
+      "victim": "gt-tele.com",
+      "sector": "Technology",
+      "country": "",
+      "domain": "gt-tele.com",
+      "discovered": "2026-08-21T05:49:55.675Z",
+      "link": "https://www.ransomware.live/id/Z3QtdGVsZS5jb21Ac2V0dHJh"
+    },
     {
       "group": "anubis",
       "victim": "Interim HealthCare [Head office]",
       "sector": "Healthcare",
       "country": "US",
-      "domain": "",
+      "domain": "interimhealthcare.com",
       "discovered": "2026-08-21T02:53:01.068Z",
       "link": "https://www.ransomware.live/id/SW50ZXJpbSBIZWFsdGhDYXJlIFtIZWFkIG9mZmljZV1AYW51Ymlz"
     },
@@ -41,7 +59,7 @@
       "group": "direwolf",
       "victim": "ProSim Aviation Research",
       "sector": "Technology",
-      "country": "FR",
+      "country": "NL",
       "domain": "prosim.aero",
       "discovered": "2026-08-21T02:28:35.988Z",
       "link": "https://www.ransomware.live/id/UHJvU2ltIEF2aWF0aW9uIFJlc2VhcmNoQGRpcmV3b2xm"
@@ -141,7 +159,7 @@
       "victim": "The University of Delhi (DU)",
       "sector": "Education",
       "country": "IN",
-      "domain": "",
+      "domain": "du.ac.in",
       "discovered": "2026-08-20T20:50:28.210Z",
       "link": "https://www.ransomware.live/id/VGhlIFVuaXZlcnNpdHkgb2YgRGVsaGkgKERVKUBEWVNQSE9SMUE="
     },
@@ -150,7 +168,7 @@
       "victim": "Gruppo Spaggiari Parma",
       "sector": "Manufacturing",
       "country": "IT",
-      "domain": "",
+      "domain": "spaggiari.eu",
       "discovered": "2026-08-20T19:31:43.321Z",
       "link": "https://www.ransomware.live/id/R3J1cHBvIFNwYWdnaWFyaSBQYXJtYUB4cGwwaXRycw=="
     },
@@ -159,7 +177,7 @@
       "victim": "Ayuntamiento de Velilla de San Antonio",
       "sector": "Government & Defense",
       "country": "ES",
-      "domain": "",
+      "domain": "ayto-velilla.es",
       "discovered": "2026-08-20T18:54:17.542Z",
       "link": "https://www.ransomware.live/id/QXl1bnRhbWllbnRvIGRlIFZlbGlsbGEgZGUgU2FuIEFudG9uaW9Aa2Fpcm9z"
     },
@@ -185,7 +203,7 @@
       "group": "play",
       "victim": "Be Media",
       "sector": "Technology",
-      "country": "",
+      "country": "US",
       "domain": "www.bemedia.com",
       "discovered": "2026-08-20T17:28:01.340Z",
       "link": "https://www.ransomware.live/id/QmUgTWVkaWFAcGxheQ=="
@@ -432,24 +450,6 @@
       "domain": "usbank.com",
       "discovered": "2026-08-20T10:36:56.053Z",
       "link": "https://www.ransomware.live/id/dXNiYW5rLmNvbUBsb2NrYml0NQ=="
-    },
-    {
-      "group": "majinahanashi",
-      "victim": "Grand Ion Delemen Hotel",
-      "sector": "Hospitality",
-      "country": "",
-      "domain": "",
-      "discovered": "2026-08-20T10:33:42.058Z",
-      "link": "https://www.ransomware.live/id/R3JhbmQgSW9uIERlbGVtZW4gSG90ZWxAbWFqaW5haGFuYXNoaQ=="
-    },
-    {
-      "group": "majinahanashi",
-      "victim": "The Margo Hotel",
-      "sector": "Hospitality",
-      "country": "GB",
-      "domain": "",
-      "discovered": "2026-08-20T10:33:10.513Z",
-      "link": "https://www.ransomware.live/id/VGhlIE1hcmdvIEhvdGVsQG1hamluYWhhbmFzaGk="
     }
   ]
 }
