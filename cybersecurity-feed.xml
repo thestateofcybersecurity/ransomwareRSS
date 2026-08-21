@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 15:54:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:56:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI Is Learning to Write Genetic Code</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html</guid>
+      <pubDate>Fri, 21 Aug 2026 16:51:50 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage—a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Former NSA Director Paul Nakasone Launches National Security Advisory Firm</title>
+      <link>https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/</guid>
+      <pubDate>Fri, 21 Aug 2026 16:27:52 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm… (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>U.S. Bank says breach claims related to fourth-party incident</title>
+      <link>https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</link>
+      <guid isPermaLink="false">https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</guid>
+      <pubDate>Fri, 21 Aug 2026 16:16:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The bank said there is no evidence that its own systems, networks or data repositories were compromised. (via The Record)</description>
+    </item>
+    <item>
+      <title>Hundreds of leaked AWS keys give full control over corporate accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/</guid>
+      <pubDate>Fri, 21 Aug 2026 15:55:15 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Microsoft Defender&#39;s Own Driver Can Be Weaponized to Delete Security Software at Boot</title>
+      <link>https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html</guid>
+      <pubDate>Fri, 21 Aug 2026 15:52:10 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Check Point Research has disclosed a technique that uses Microsoft Defender&#39;s own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet</title>
+      <link>https://thehackernews.com/2026/08/android-car-malware-spreads-through.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/android-car-malware-spreads-through.html</guid>
+      <pubDate>Fri, 21 Aug 2026 15:41:44 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have flagged a new malware family that&#39;s specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage… (via The Hacker News)</description>
+    </item>
     <item>
       <title>In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug</title>
       <link>https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/</link>
@@ -240,14 +288,6 @@
       <description>Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the… (via Help Net Security)</description>
     </item>
     <item>
-      <title>CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</title>
-      <link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/</guid>
-      <pubDate>Fri, 21 Aug 2026 07:25:50 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>GitLab 19.3 helps enterprises scale agentic development securely</title>
       <link>https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/</guid>
@@ -376,14 +416,6 @@
       <description>A figure carrying a crate around a deep circular rut worn by dozens of layered footprints, with an angular slot at the rut&#39;s edge and one clean line departing from it/images/i-only-do-anything-once.webp/images/i-only-do-anything-once.webp I was walking someone through my setup… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>Hackers poison arrayref Rust crate to push infostealer malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/</guid>
-      <pubDate>Thu, 20 Aug 2026 17:53:52 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers&#39; systems during compilation. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Detailed Timeline of OpenAI’s Cyberattack on Hugging Face</title>
       <link>https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html</guid>
@@ -414,22 +446,6 @@
       <pubDate>Thu, 20 Aug 2026 17:32:51 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More</title>
-      <link>https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html</guid>
-      <pubDate>Thu, 20 Aug 2026 17:23:48 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure</title>
-      <link>https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html</guid>
-      <pubDate>Thu, 20 Aug 2026 16:59:44 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. government on Wednesday warned of an &quot;active threat&quot; targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct… (via The Hacker News)</description>
     </item>
     <item>
       <title>Retail theft bill spurs ‘very large and very dangerous’ surveillance fears</title>
@@ -574,14 +590,6 @@
       <pubDate>Wed, 19 Aug 2026 18:45:53 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The agencies said the hackers are taking aim at Siemens S7 Series programmable logic controllers in what could be a first. The post AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Electronic health record company CareCloud says 3.7 million people affected by breach</title>
-      <link>https://therecord.media/electronic-health-record-company-carecloud-data-breach</link>
-      <guid isPermaLink="false">https://therecord.media/electronic-health-record-company-carecloud-data-breach</guid>
-      <pubDate>Wed, 19 Aug 2026 18:10:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Healthcare software firm CareCloud filed documents with the Department of Health and Human Services confirming that 3,756,469 people had information leaked after a hacker spent eight hours in one of the company’s electronic health record environments. (via The Record)</description>
     </item>
     <item>
       <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
@@ -798,14 +806,6 @@
       <pubDate>Fri, 14 Aug 2026 18:32:14 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Screen-sharing bug lets remote hackers log in without a password. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Upcoming Speaking Engagements</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html</guid>
-      <pubDate>Fri, 14 Aug 2026 16:01:59 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This is a current list of where and when I am scheduled to speak: I’m speaking, signing books, and participating in panel discussions at LAcon V in Anaheim, California, USA. My full schedule is here . I’m speaking online (via Zoom) at a League of Women Voters event on Tuesday,… (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
