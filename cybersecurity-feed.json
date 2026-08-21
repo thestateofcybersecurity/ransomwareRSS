@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T11:48:04.650Z",
+  "updated": "2026-08-21T13:22:26.808Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -122,6 +122,62 @@
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
     },
     {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "North Korean Hackers Tied to Rust Supply Chain Attack",
+      "link": "https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/",
+      "date": "2026-08-21T12:40:00.000Z",
+      "excerpt": "Cybersecurity researchers have linked a malicious backdoor in compromised Rust packages to previous North Korean supply chain attacks"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+      "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+      "date": "2026-08-21T12:26:07.000Z",
+      "excerpt": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "date": "2026-08-21T12:25:33.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)",
+      "link": "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/",
+      "date": "2026-08-21T12:20:33.000Z",
+      "excerpt": "Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, reportedly exploited in the wild. Entra ID is Microsoft’s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to Microsoft 365, Azure,…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "New Agent Tesla Malware Variant Boosts Evasion Capabilities",
+      "link": "https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/",
+      "date": "2026-08-21T12:00:00.000Z",
+      "excerpt": "An Agent Tesla v4 malware campaign used novel emoji-based code obfuscation to evade detection, KnowBe4 has revealed"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Attackers impersonate popular AI brands to spread malware",
+      "link": "https://www.helpnetsecurity.com/2026/08/21/ai-brand-impersonation-malware-malware-research/",
+      "date": "2026-08-21T11:47:39.000Z",
+      "excerpt": "Attackers are impersonating popular AI brands like Perplexity, Claude, ChatGPT, and Copilot to spread information stealers, backdoors, malicious browser extensions, and other malware, according to Sophos. Overview of MDR cases with AI involvement (Source: Sophos) Sophos X-Ops…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "date": "2026-08-21T11:21:39.000Z",
+      "excerpt": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster…"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
@@ -180,10 +236,10 @@
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
-      "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
       "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
       "date": "2026-08-21T08:12:19.000Z",
-      "excerpt": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek ."
+      "excerpt": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek ."
     },
     {
       "source": "Securelist",
@@ -434,14 +490,6 @@
       "excerpt": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "date": "2026-08-20T14:36:27.000Z",
-      "excerpt": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
@@ -522,14 +570,6 @@
       "excerpt": "Defense contractors in the US are doubting their own self-assessment scores under CMMC Phase I, even as those scores hit an all-time high"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "date": "2026-08-20T12:24:53.000Z",
-      "excerpt": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
@@ -546,36 +586,12 @@
       "excerpt": "Corero Network Security has announced AI-Augmented Cloud-Assist for SmartWall ONE, extending its automated DDoS protection with cloud-delivered AI analysis, threat intelligence, and policy optimization. As cybercriminals increasingly leverage AI to develop and evolve attack…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AWS limits AI agents’ data access, even when manipulated",
-      "link": "https://www.helpnetsecurity.com/2026/08/20/aws-ai-agents-access-controls/",
-      "date": "2026-08-20T11:17:21.000Z",
-      "excerpt": "AWS has detailed an approach for propagating user authorization context through AI agents, allowing access controls to be enforced by infrastructure and downstream services rather than relying on the agent itself. Customers using Amazon Bedrock AgentCore can build AI agents that…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "date": "2026-08-20T11:06:14.000Z",
-      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "ICS Operators Warned of AI-Driven Attacks on Siemens PLCs",
       "link": "https://www.infosecurity-magazine.com/news/ics-ai-attacks-siemens/",
       "date": "2026-08-20T11:00:00.000Z",
       "excerpt": "A US government advisory warned that attackers are deploying AI-generated exploitation scripts against exposed Siemens S7 Series PLCs"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fake Gemini installer delivers Vidar infostealer via Google Colab lure",
-      "link": "https://www.helpnetsecurity.com/2026/08/20/fake-google-gemini-installer-vidar-infostealer/",
-      "date": "2026-08-20T10:46:49.000Z",
-      "excerpt": "A malicious executable masquerading as a Google Gemini installer was used to deliver the Vidar infostealer on a company network in the EMEA region, according to Darktrace researchers who investigated the incident. “During the initial analysis, it was noted that the top search…"
     },
     {
       "source": "Unit 42",
@@ -672,22 +688,6 @@
       "link": "https://cyberscoop.com/shasta-county-elections-tina-peters/",
       "date": "2026-08-19T15:57:37.000Z",
       "excerpt": "After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties. The post A California county wants to hire Tina Peters to help run its elections appeared first on CyberScoop ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Exclusive: Linux Foundation's Akrites to Go Live in September",
-      "link": "https://www.infosecurity-magazine.com/news/linux-foundations-akrites-go-live/",
-      "date": "2026-08-19T15:30:00.000Z",
-      "excerpt": "The Linux Foundation's Akrites initiative will become operational in September, when it will begin accepting AI-powered vulnerability reports for open-source projects"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "MaaS Campaign Combines ClickFix, ErrTraffic and Cruciferra",
-      "link": "https://www.infosecurity-magazine.com/news/maas-clickfix-errtraffic-cruciferra/",
-      "date": "2026-08-19T15:00:00.000Z",
-      "excerpt": "eSentire uncovered a malware campaign combining ClickFix lures with ErrTraffic and Cruciferra"
     },
     {
       "source": "CyberScoop",
