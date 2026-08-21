@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 07:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:02:07 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Calling on Cyber Pros to Help Defend City Hall</title>
@@ -14,6 +14,54 @@
       <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>The invisible passenger in your car</title>
+      <link>https://securelist.com/android-head-unit-malware/121106/</link>
+      <guid isPermaLink="false">https://securelist.com/android-head-unit-malware/121106/</guid>
+      <pubDate>Fri, 21 Aug 2026 08:00:29 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It&#39;s delivered through legitimate software for DoFun head units. (via Securelist)</description>
+    </item>
+    <item>
+      <title>Cybersecurity Job Ads Requiring AI Skills Double</title>
+      <link>https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/</guid>
+      <pubDate>Fri, 21 Aug 2026 08:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)</title>
+      <link>https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/</guid>
+      <pubDate>Fri, 21 Aug 2026 07:55:43 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities</title>
+      <link>https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/</guid>
+      <pubDate>Fri, 21 Aug 2026 07:25:50 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>GitLab 19.3 helps enterprises scale agentic development securely</title>
+      <link>https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/</guid>
+      <pubDate>Fri, 21 Aug 2026 07:12:16 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>GitLab has announced updates that give enterprises more control as they scale agentic software development. GitLab Dedicated customers, who already run their most sensitive software delivery workloads on GitLab, can now run GitLab Duo Agent Platform inside that same single… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
+      <link>https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</guid>
+      <pubDate>Fri, 21 Aug 2026 07:04:25 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or… (via The Hacker News)</description>
     </item>
     <item>
       <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
@@ -232,14 +280,6 @@
       <description>We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>JFrog Artifactory Flaws Enable Software Supply Chain Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/</guid>
-      <pubDate>Thu, 20 Aug 2026 14:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Two Artifactory flaws allowed attackers to poison package metadata across software repositories (via Infosecurity Magazine)</description>
-    </item>
-    <item>
       <title>How MSPs can catch phishing attacks email filters miss</title>
       <link>https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/</guid>
@@ -254,14 +294,6 @@
       <pubDate>Thu, 20 Aug 2026 13:48:24 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers</title>
-      <link>https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html</guid>
-      <pubDate>Thu, 20 Aug 2026 13:35:13 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect… (via The Hacker News)</description>
     </item>
     <item>
       <title>The push to designate AI as the next critical infrastructure sector</title>
@@ -408,14 +440,6 @@
       <description>A malicious executable masquerading as a Google Gemini installer was used to deliver the Vidar infostealer on a company network in the EMEA region, according to Darktrace researchers who investigated the incident. “During the initial analysis, it was noted that the top search… (via Help Net Security)</description>
     </item>
     <item>
-      <title>OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses</title>
-      <link>https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/</guid>
-      <pubDate>Thu, 20 Aug 2026 10:36:14 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. The post OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>New Manic Android malware can exfiltrate data through nearby devices</title>
       <link>https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/</guid>
@@ -462,22 +486,6 @@
       <pubDate>Thu, 20 Aug 2026 09:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>OpenAI previews privacy-focused system for detecting AI misuse</title>
-      <link>https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/</guid>
-      <pubDate>Thu, 20 Aug 2026 09:09:12 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>OpenAI is previewing Private Safety Processing with early customers seeking greater certainty about how their data will be protected as AI systems become more capable. The system identifies patterns across related interactions while restricting OpenAI personnel from accessing… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>US agencies warn of AI-powered attacks on Siemens industrial controllers</title>
-      <link>https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/</guid>
-      <pubDate>Thu, 20 Aug 2026 09:07:34 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Threat actors are using AI to write exploit scripts targeting internet-exposed Siemens S7 Series programmable logic controllers (PLCs) used across water, energy, manufacturing, and other critical infrastructure sectors, according to US federal agencies. PLCs are the small… (via Help Net Security)</description>
     </item>
     <item>
       <title>Microsoft says August Windows updates may cause gaming issues</title>
@@ -798,14 +806,6 @@
       <pubDate>Fri, 14 Aug 2026 11:24:35 GMT</pubDate>
       <source url="https://krebsonsecurity.com/">Krebs on Security</source>
       <description>It can be daunting to determine who&#39;s responsible for showing ads on the websites we visit, or who&#39;s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away… (via Krebs on Security)</description>
-    </item>
-    <item>
-      <title>If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html</guid>
-      <pubDate>Fri, 14 Aug 2026 11:03:50 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . OpenAI, and then Anthropic , were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology… (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>

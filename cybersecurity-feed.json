@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T07:13:35.683Z",
+  "updated": "2026-08-21T08:02:07.165Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -120,6 +120,54 @@
       "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
       "date": "2026-08-21T14:00:00.000Z",
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "The invisible passenger in your car",
+      "link": "https://securelist.com/android-head-unit-malware/121106/",
+      "date": "2026-08-21T08:00:29.000Z",
+      "excerpt": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Cybersecurity Job Ads Requiring AI Skills Double",
+      "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/",
+      "date": "2026-08-21T08:00:00.000Z",
+      "excerpt": "An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)",
+      "link": "https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/",
+      "date": "2026-08-21T07:55:43.000Z",
+      "excerpt": "Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "date": "2026-08-21T07:25:50.000Z",
+      "excerpt": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "GitLab 19.3 helps enterprises scale agentic development securely",
+      "link": "https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/",
+      "date": "2026-08-21T07:12:16.000Z",
+      "excerpt": "GitLab has announced updates that give enterprises more control as they scale agentic software development. GitLab Dedicated customers, who already run their most sensitive software delivery workloads on GitLab, can now run GitLab Duo Agent Platform inside that same single…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "date": "2026-08-21T07:04:25.000Z",
+      "excerpt": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or…"
     },
     {
       "source": "The Hacker News",
@@ -338,14 +386,6 @@
       "excerpt": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek ."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "JFrog Artifactory Flaws Enable Software Supply Chain Attacks",
-      "link": "https://www.infosecurity-magazine.com/news/jfrog-flaws-software-supply-chain/",
-      "date": "2026-08-20T14:30:00.000Z",
-      "excerpt": "Two Artifactory flaws allowed attackers to poison package metadata across software repositories"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "How MSPs can catch phishing attacks email filters miss",
@@ -360,14 +400,6 @@
       "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
       "date": "2026-08-20T13:48:24.000Z",
       "excerpt": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "date": "2026-08-20T13:35:13.000Z",
-      "excerpt": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect…"
     },
     {
       "source": "CyberScoop",
@@ -514,14 +546,6 @@
       "excerpt": "A malicious executable masquerading as a Google Gemini installer was used to deliver the Vidar infostealer on a company network in the EMEA region, according to Darktrace researchers who investigated the incident. “During the initial analysis, it was noted that the top search…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
-      "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
-      "date": "2026-08-20T10:36:14.000Z",
-      "excerpt": "The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. The post OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses appeared first on SecurityWeek ."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "New Manic Android malware can exfiltrate data through nearby devices",
@@ -568,22 +592,6 @@
       "link": "https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/",
       "date": "2026-08-20T09:30:00.000Z",
       "excerpt": "Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "OpenAI previews privacy-focused system for detecting AI misuse",
-      "link": "https://www.helpnetsecurity.com/2026/08/20/openai-private-safety-processing-zdr/",
-      "date": "2026-08-20T09:09:12.000Z",
-      "excerpt": "OpenAI is previewing Private Safety Processing with early customers seeking greater certainty about how their data will be protected as AI systems become more capable. The system identifies patterns across related interactions while restricting OpenAI personnel from accessing…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "US agencies warn of AI-powered attacks on Siemens industrial controllers",
-      "link": "https://www.helpnetsecurity.com/2026/08/20/usa-ai-attacks-siemens-s7-plcs-critical-infrastructure/",
-      "date": "2026-08-20T09:07:34.000Z",
-      "excerpt": "Threat actors are using AI to write exploit scripts targeting internet-exposed Siemens S7 Series programmable logic controllers (PLCs) used across water, energy, manufacturing, and other critical infrastructure sectors, according to US federal agencies. PLCs are the small…"
     },
     {
       "source": "BleepingComputer",
@@ -904,14 +912,6 @@
       "link": "https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/",
       "date": "2026-08-14T11:24:35.000Z",
       "excerpt": "It can be daunting to determine who's responsible for showing ads on the websites we visit, or who's harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
-      "link": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
-      "date": "2026-08-14T11:03:50.000Z",
-      "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . OpenAI, and then Anthropic , were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology…"
     }
   ]
 }
