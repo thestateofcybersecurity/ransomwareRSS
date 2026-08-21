@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 10:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:48:04 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Calling on Cyber Pros to Help Defend City Hall</title>
@@ -16,12 +16,36 @@
       <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
     </item>
     <item>
+      <title>Microsoft warns of max severity Entra ID flaw exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</guid>
+      <pubDate>Fri, 21 Aug 2026 11:04:10 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Hackers abuse FTP server banners to deliver new Windows malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/</guid>
+      <pubDate>Fri, 21 Aug 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
       <title>SickKids data breach exposes employee and job applicant info</title>
       <link>https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</guid>
       <pubDate>Fri, 21 Aug 2026 10:10:42 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Toronto&#39;s Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264)… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0</title>
+      <link>https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html</guid>
+      <pubDate>Fri, 21 Aug 2026 10:03:11 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and… (via The Hacker News)</description>
     </item>
     <item>
       <title>More Incidents of AIs Going Rogue in Cybersecurity Challenges</title>
@@ -328,14 +352,6 @@
       <description>AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE</title>
-      <link>https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html</guid>
-      <pubDate>Thu, 20 Aug 2026 13:48:24 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>The push to designate AI as the next critical infrastructure sector</title>
       <link>https://cyberscoop.com/ai-critical-infrastructure-designation-cisa-report/</link>
       <guid isPermaLink="false">https://cyberscoop.com/ai-critical-infrastructure-designation-cisa-report/</guid>
@@ -456,14 +472,6 @@
       <description>A malicious executable masquerading as a Google Gemini installer was used to deliver the Vidar infostealer on a company network in the EMEA region, according to Darktrace researchers who investigated the incident. “During the initial analysis, it was noted that the top search… (via Help Net Security)</description>
     </item>
     <item>
-      <title>New Manic Android malware can exfiltrate data through nearby devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/</guid>
-      <pubDate>Thu, 20 Aug 2026 10:02:02 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Identity Abuse Through Trusted Communication Channels</title>
       <link>https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/communication-channel-identity-risks/</guid>
@@ -486,14 +494,6 @@
       <pubDate>Thu, 20 Aug 2026 09:48:55 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Critical Zimbra RCE flaw now actively exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/</guid>
-      <pubDate>Thu, 20 Aug 2026 09:46:54 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Def Con Attendees Targeted by Persistent Phishing Campaign</title>
