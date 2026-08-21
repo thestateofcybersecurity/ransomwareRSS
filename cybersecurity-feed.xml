@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 05:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:13:35 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Calling on Cyber Pros to Help Defend City Hall</title>
@@ -14,6 +14,14 @@
       <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</guid>
+      <pubDate>Fri, 21 Aug 2026 06:06:11 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting… (via The Hacker News)</description>
     </item>
     <item>
       <title>A $25 template helped scammers build hundreds of phantom bank domains</title>
@@ -270,14 +278,6 @@
       <pubDate>Thu, 20 Aug 2026 13:30:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html</guid>
-      <pubDate>Thu, 20 Aug 2026 13:24:28 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of… (via The Hacker News)</description>
     </item>
     <item>
       <title>Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia</title>
