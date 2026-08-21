@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 09:03:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:56:18 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Calling on Cyber Pros to Help Defend City Hall</title>
@@ -14,6 +14,22 @@
       <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>More Incidents of AIs Going Rogue in Cybersecurity Challenges</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html</guid>
+      <pubDate>Fri, 21 Aug 2026 09:42:34 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>The AI Security Institute has a new report of AI systems engaging in “unsanctioned behavior”—what I have been calling “ genie behavior —while being tested on their cybersecurity capabilities. The incident stemmed from a single evaluation where agents were given a task of solving… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Rust Supply Chain Attack Linked to North Korean Hackers</title>
+      <link>https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</guid>
+      <pubDate>Fri, 21 Aug 2026 09:23:18 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind</title>
@@ -390,14 +406,6 @@
       <pubDate>Thu, 20 Aug 2026 12:14:38 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>MLflow Vulnerability Exploited for Cloud Credential Theft</title>
-      <link>https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/</guid>
-      <pubDate>Thu, 20 Aug 2026 12:05:55 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Corero brings cloud-based AI threat analysis to SmartWall ONE</title>
@@ -798,14 +806,6 @@
       <pubDate>Fri, 14 Aug 2026 16:01:59 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>This is a current list of where and when I am scheduled to speak: I’m speaking, signing books, and participating in panel discussions at LAcon V in Anaheim, California, USA. My full schedule is here . I’m speaking online (via Zoom) at a League of Women Voters event on Tuesday,… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Who’s Tracking You? Use This New Service to Find Out</title>
-      <link>https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/</guid>
-      <pubDate>Fri, 14 Aug 2026 11:24:35 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>It can be daunting to determine who&#39;s responsible for showing ads on the websites we visit, or who&#39;s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditionally much of it has remained walled away… (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>
