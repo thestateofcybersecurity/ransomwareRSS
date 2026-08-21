@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 21 Aug 2026 17:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:02:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>New SynkLoader malware pushed in Microsoft Teams phishing campaign</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/</guid>
+      <pubDate>Fri, 21 Aug 2026 18:01:30 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>OWASP Flags Top AI Skill Risks in New Security Blueprint</title>
       <link>https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint</link>
@@ -224,14 +232,6 @@
       <description>Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>SickKids data breach exposes employee and job applicant info</title>
-      <link>https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/</guid>
-      <pubDate>Fri, 21 Aug 2026 10:10:42 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Toronto&#39;s Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264)… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0</title>
       <link>https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html</guid>
@@ -312,12 +312,12 @@
       <description>A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution</title>
+      <title>Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution</title>
       <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</guid>
       <pubDate>Fri, 21 Aug 2026 06:06:11 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting… (via The Hacker News)</description>
+      <description>Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the &quot;Exploited&quot; field under the Exploitability Assessment table as &quot;Yes,&quot; on August 21, 2026, Microsoft corrected the… (via The Hacker News)</description>
     </item>
     <item>
       <title>A $25 template helped scammers build hundreds of phantom bank domains</title>
@@ -798,14 +798,6 @@
       <pubDate>Fri, 14 Aug 2026 21:01:49 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Fascinating video about searching for life undersea. The video basically makes the point that our bright white searchlights are scaring everything away, and that red light is more neutral. That, plus bait to attract sea creatures, is teaching us a lot about what’s going on down… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Vulnerability giving attackers full control of Macs is under active exploitation</title>
-      <link>https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/</guid>
-      <pubDate>Fri, 14 Aug 2026 18:32:14 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Screen-sharing bug lets remote hackers log in without a password. (via Ars Technica Security)</description>
     </item>
   </channel>
 </rss>
