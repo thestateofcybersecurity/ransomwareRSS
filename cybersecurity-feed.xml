@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 22 Aug 2026 11:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:06:06 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Named Pipes Under Attack: Securing Windows Interprocess Communication</title>
+      <link>https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/</guid>
+      <pubDate>Sat, 22 Aug 2026 13:00:09 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help… (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight</title>
       <link>https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/</link>
@@ -270,14 +278,6 @@
       <pubDate>Fri, 21 Aug 2026 11:04:10 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Hackers abuse FTP server banners to deliver new Windows malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/</guid>
-      <pubDate>Fri, 21 Aug 2026 11:00:00 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0</title>

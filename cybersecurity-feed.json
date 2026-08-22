@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T11:40:52.272Z",
+  "updated": "2026-08-22T13:06:06.387Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "date": "2026-08-22T13:00:09.000Z",
+      "excerpt": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help…"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -376,14 +384,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "date": "2026-08-21T11:04:10.000Z",
       "excerpt": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "date": "2026-08-21T11:00:00.000Z",
-      "excerpt": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]"
     },
     {
       "source": "The Hacker News",
