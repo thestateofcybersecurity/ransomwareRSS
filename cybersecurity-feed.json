@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T07:50:46.850Z",
+  "updated": "2026-08-22T08:52:49.169Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+      "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+      "date": "2026-08-22T08:30:00.000Z",
+      "excerpt": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek ."
+    },
     {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
@@ -410,14 +418,6 @@
       "excerpt": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base. The post Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind appeared first on SecurityWeek ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "date": "2026-08-21T08:12:19.000Z",
-      "excerpt": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek ."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "The invisible passenger in your car",
@@ -706,14 +706,6 @@
       "excerpt": ""
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #481: Never say this to a robot dog",
-      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
-      "date": "2026-08-19T23:10:23.000Z",
-      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn",
@@ -760,14 +752,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
       "date": "2026-08-19T10:46:37.000Z",
       "excerpt": "ICE collected nearly a million DNA samples last year."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer",
-      "date": "2026-08-19T07:26:50.000Z",
-      "excerpt": "When Cameron Curry discovered that his contract as a data analyst wasn't going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.…"
     },
     {
       "source": "Daniel Miessler",
@@ -856,14 +840,6 @@
       "link": "https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T15:51:31.000Z",
       "excerpt": "How AI Builders Will Get Hacked/images/how-ai-builders-get-hacked.webp/images/how-ai-builders-get-hacked.webp If you are building stuff with AI I have a critical security recommendation for you. Create a continuously-running security testing system that: 1. Maintains a list of…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras",
-      "date": "2026-08-17T14:10:48.000Z",
-      "excerpt": "A cybersecurity expert has demonstrated how computer-generated patterns can successfully prevent surveillance cameras from detecting vehicles - such as the controversial AI-powered Flock licence plate readers that are becoming increasingly common on American streets. Read more…"
     },
     {
       "source": "Schneier on Security",
