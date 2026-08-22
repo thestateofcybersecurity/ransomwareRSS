@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 22 Aug 2026 13:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 14:43:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers infect Android car head units with proxy botnet malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/</guid>
+      <pubDate>Sat, 22 Aug 2026 14:14:24 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Named Pipes Under Attack: Securing Windows Interprocess Communication</title>
       <link>https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/</link>
@@ -270,14 +278,6 @@
       <pubDate>Fri, 21 Aug 2026 11:21:39 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Artificial Intelligence (AI) has become one of this decade&#39;s defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Microsoft patches max severity code execution, privilege escalation flaws</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/</guid>
-      <pubDate>Fri, 21 Aug 2026 11:04:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0</title>
