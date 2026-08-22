@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 22 Aug 2026 14:43:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:40:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit</title>
+      <link>https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html</guid>
+      <pubDate>Sat, 22 Aug 2026 14:32:41 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Hackers infect Android car head units with proxy botnet malware</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/</link>
@@ -414,14 +422,6 @@
       <pubDate>Thu, 20 Aug 2026 20:42:18 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads</title>
-      <link>https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html</guid>
-      <pubDate>Thu, 20 Aug 2026 20:22:35 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The… (via The Hacker News)</description>
     </item>
     <item>
       <title>China’s ‘SilkParasite’ espionage operation targeting Central Asia with AI-assisted malware</title>

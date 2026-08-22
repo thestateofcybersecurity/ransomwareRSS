@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:43:21.386Z",
+  "updated": "2026-08-22T15:40:57.688Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "date": "2026-08-22T14:32:41.000Z",
+      "excerpt": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -520,14 +528,6 @@
       "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
       "date": "2026-08-20T20:42:18.000Z",
       "excerpt": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "date": "2026-08-20T20:22:35.000Z",
-      "excerpt": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The…"
     },
     {
       "source": "The Record",
