@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 23 Aug 2026 05:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:07:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Welcoming the Sri Lankan Government to Have I Been Pwned</title>
+      <link>https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/</guid>
+      <pubDate>Sun, 23 Aug 2026 06:39:45 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Today, we welcome the 48th government onboarded to Have I Been Pwned’s free gov service: Sri Lanka. Sri Lanka CERT now has access to monitor Sri Lankan government domains against the data in HIBP, helping identify exposed government accounts and respond when they appear in new… (via Troy Hunt)</description>
+    </item>
     <item>
       <title>Postal Service moves to finalize mail ballot regs before SCOTUS ruling</title>
       <link>https://cyberscoop.com/postal-service-finalizes-mail-in-ballot-rules-before-scotus-ruling/</link>
@@ -784,20 +792,20 @@
       <description>Stolen Authority/images/stolen-authority.webp/images/stolen-authority.webp We need to label this parasitic marketing technique with an adequately strong term. Stolen Authority. From stolen Valorhttps://en.wikipedia.org/wiki/Stolen_valor It&#39;s the deplorable tactic of doing an… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
-      <link>https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</guid>
-      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and… (via Sophos News)</description>
-    </item>
-    <item>
       <title>A heap of overflow in August’s Patch Tuesday haul</title>
       <link>https://www.sophos.com/en-us/blog/2608-patch-tuesday</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/2608-patch-tuesday</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>421 CVEs, a relatively small set of Edge patches, and two spicy stragglers (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Hunting the Undead: Accelerating NetNTLMv1 Lookups Without GPUs</title>
+      <link>https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/accelerating-netntlmv1-lookups-without-gpus</guid>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Outdated protocols, forgotten configurations, and legacy dependencies continue to create opportunities for attackers in modern environments. This research explores how NetNTLMv1 can still be leveraged today and how improvements in attack tooling are reducing the cost and… (via Sophos News)</description>
     </item>
   </channel>
 </rss>
