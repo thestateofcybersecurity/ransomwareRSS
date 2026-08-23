@@ -1,6 +1,33 @@
 {
-  "updated": "2026-08-23T15:42:24.289Z",
+  "updated": "2026-08-23T16:47:20.699Z",
   "items": [
+    {
+      "group": "killsec",
+      "victim": "Global Go",
+      "sector": "Transportation",
+      "country": "PE",
+      "domain": "globalgo.com.pe",
+      "discovered": "2026-08-23T16:20:54.578Z",
+      "link": "https://www.ransomware.live/id/R2xvYmFsIEdvQGtpbGxzZWM="
+    },
+    {
+      "group": "qilin",
+      "victim": "Euroflora srl",
+      "sector": "Agriculture and Food Production",
+      "country": "IT",
+      "domain": "www.euroflorasrl.it",
+      "discovered": "2026-08-23T16:01:21.608Z",
+      "link": "https://www.ransomware.live/id/RXVyb2Zsb3JhIHNybEBxaWxpbg=="
+    },
+    {
+      "group": "qilin",
+      "victim": "Tecnici Associati STP",
+      "sector": "Other",
+      "country": "IT",
+      "domain": "www.tecnici associati stp.it",
+      "discovered": "2026-08-23T16:00:43.418Z",
+      "link": "https://www.ransomware.live/id/VGVjbmljaSBBc3NvY2lhdGkgU1RQQHFpbGlu"
+    },
     {
       "group": "qilin",
       "victim": "Studio BOLDRIN PAOLO",
@@ -365,7 +392,7 @@
       "group": "thegentlemen",
       "victim": "Volktek",
       "sector": "Technology",
-      "country": "SG",
+      "country": "TW",
       "domain": "volktek.com",
       "discovered": "2026-08-23T06:33:10.588Z",
       "link": "https://www.ransomware.live/id/Vm9sa3Rla0B0aGVnZW50bGVtZW4="
@@ -423,33 +450,6 @@
       "domain": "bokfinancial.com",
       "discovered": "2026-08-22T14:13:39.736Z",
       "link": "https://www.ransomware.live/id/Qk9LIEZpbmFuY2lhbEBzaGlueWh1bnRlcnM="
-    },
-    {
-      "group": "coinbasecartel",
-      "victim": "Integrated Health Systems",
-      "sector": "Healthcare",
-      "country": "US",
-      "domain": "ihs911.com",
-      "discovered": "2026-08-22T14:01:24.687Z",
-      "link": "https://www.ransomware.live/id/SW50ZWdyYXRlZCBIZWFsdGggU3lzdGVtc0Bjb2luYmFzZWNhcnRlbA=="
-    },
-    {
-      "group": "coinbasecartel",
-      "victim": "RXPE Group",
-      "sector": "Manufacturing",
-      "country": "CN",
-      "domain": "rxpe.com",
-      "discovered": "2026-08-22T14:00:44.796Z",
-      "link": "https://www.ransomware.live/id/UlhQRSBHcm91cEBjb2luYmFzZWNhcnRlbA=="
-    },
-    {
-      "group": "coinbasecartel",
-      "victim": "Tower Insurance",
-      "sector": "Financial Services",
-      "country": "NZ",
-      "domain": "tower.co.nz",
-      "discovered": "2026-08-22T14:00:01.113Z",
-      "link": "https://www.ransomware.live/id/VG93ZXIgSW5zdXJhbmNlQGNvaW5iYXNlY2FydGVs"
     }
   ]
 }
