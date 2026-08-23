@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T07:52:31.801Z",
+  "updated": "2026-08-23T08:53:41.492Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Sophos News",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs",
+      "link": "https://www.helpnetsecurity.com/2026/08/23/week-in-review-records-allegedly-stolen-from-azure-tenants-medusa-ransomware-hits-500-orgs/",
+      "date": "2026-08-23T08:00:00.000Z",
+      "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Windows 11’s strongest security defenses can be bypassed without a screwdriver Researchers from the University of Birmingham and Durham University have found a way to knock down…"
+    },
     {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
@@ -666,14 +674,6 @@
       "excerpt": "Defense contractors in the US are doubting their own self-assessment scores under CMMC Phase I, even as those scores hit an all-time high"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Corero brings cloud-based AI threat analysis to SmartWall ONE",
-      "link": "https://www.helpnetsecurity.com/2026/08/20/corero-ai-cloud-assist/",
-      "date": "2026-08-20T11:22:26.000Z",
-      "excerpt": "Corero Network Security has announced AI-Augmented Cloud-Assist for SmartWall ONE, extending its automated DDoS protection with cloud-delivered AI analysis, threat intelligence, and policy optimization. As cybercriminals increasingly leverage AI to develop and evolve attack…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "ICS Operators Warned of AI-Driven Attacks on Siemens PLCs",
@@ -738,14 +738,6 @@
       "excerpt": "The agencies said the hackers are taking aim at Siemens S7 Series programmable logic controllers in what could be a first. The post AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn appeared first on CyberScoop ."
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "date": "2026-08-19T17:30:00.000Z",
-      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "A California county wants to hire Tina Peters to help run its elections",
@@ -808,14 +800,6 @@
       "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
       "date": "2026-08-18T19:05:33.000Z",
       "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "date": "2026-08-18T17:08:28.000Z",
-      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
     },
     {
       "source": "Daniel Miessler",
