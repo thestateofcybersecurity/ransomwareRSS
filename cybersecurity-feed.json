@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T17:53:05.747Z",
+  "updated": "2026-08-24T19:07:06.529Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -48,8 +48,8 @@
     },
     {
       "name": "SANS Internet Storm Center",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Unit 42",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Bipartisan Senate bill aims to prepare energy sector for Q-Day",
+      "link": "https://cyberscoop.com/quantum-guard-act-electric-grid-cybersecurity/",
+      "date": "2026-08-24T19:01:05.000Z",
+      "excerpt": "Under the bill, FERC would consider cyber threats from quantum computers and post-quantum cryptography in its reliability standards for the energy sector. The post Bipartisan Senate bill aims to prepare energy sector for Q-Day appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly",
+      "link": "https://therecord.media/cyber-scam-indian-arrested",
+      "date": "2026-08-24T18:30:00.000Z",
+      "excerpt": "A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "TikTok reaches $400M settlement with US over COPPA violations",
+      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
+      "date": "2026-08-24T17:56:24.000Z",
+      "excerpt": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -418,6 +442,14 @@
       "excerpt": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs"
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33274",
+      "date": "2026-08-24T07:23:16.000Z",
+      "excerpt": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#x26;#39;t use real steganography:"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Product showcase: AI Paper Trail shows the privacy cost of talking to AI",
@@ -458,6 +490,14 @@
       "excerpt": "AWS Network Firewall’s rule hit count capability gives security teams visibility into which stateful firewall rules are matching traffic, helping them identify unused or redundant rules and validate whether security controls are working as intended. The capability covers…"
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33276",
+      "date": "2026-08-24T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
@@ -488,14 +528,6 @@
       "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
       "date": "2026-08-22T14:32:41.000Z",
       "excerpt": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers infect Android car head units with proxy botnet malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
-      "date": "2026-08-22T14:14:24.000Z",
-      "excerpt": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]"
     },
     {
       "source": "Unit 42",
@@ -586,14 +618,6 @@
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
-      "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
-      "date": "2026-08-21T13:55:00.000Z",
-      "excerpt": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "OpenAI Adds Controls That Should've Been There Already",
@@ -642,6 +666,30 @@
       "excerpt": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units."
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33272",
+      "date": "2026-08-21T02:47:00.000Z",
+      "excerpt": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#x26;#39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ..."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33270",
+      "date": "2026-08-21T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33268",
+      "date": "2026-08-21T01:49:18.000Z",
+      "excerpt": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent extremist",
@@ -682,12 +730,28 @@
       "excerpt": "The designation would unlock a range of federal services, tools and resources for an industry that policymakers view as increasingly tied to national and economic security. The post The push to designate AI as the next critical infrastructure sector appeared first on CyberScoop ."
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33266",
+      "date": "2026-08-20T13:09:50.000Z",
+      "excerpt": "Building on the last diary on Using MS Graph and Powershell, let&#x26;#39;s look at \"Risky\" logins."
+    },
+    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "date": "2026-08-20T13:00:35.000Z",
       "excerpt": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33264",
+      "date": "2026-08-20T12:45:32.000Z",
+      "excerpt": "Microsoft Graph is a newer API that is meant to replace several others.&#x26;#xc2;&#x26;#xa0; OK, it&#x26;#39;s at version 2.3.9, so it&#x26;#39;s not all that new, but it&#x26;#39;s new enough that lots of folks (and commercial tools) aren&#x26;#39;t using it…"
     },
     {
       "source": "Unit 42",
@@ -704,6 +768,14 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
       "date": "2026-08-20T09:48:55.000Z",
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33262",
+      "date": "2026-08-20T02:00:03.000Z",
+      "excerpt": ""
     },
     {
       "source": "Graham Cluley",
@@ -728,14 +800,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
       "date": "2026-08-19T17:30:00.000Z",
       "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "A California county wants to hire Tina Peters to help run its elections",
-      "link": "https://cyberscoop.com/shasta-county-elections-tina-peters/",
-      "date": "2026-08-19T15:57:37.000Z",
-      "excerpt": "After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties. The post A California county wants to hire Tina Peters to help run its elections appeared first on CyberScoop ."
     },
     {
       "source": "Schneier on Security",
@@ -816,14 +880,6 @@
       "link": "https://www.troyhunt.com/weekly-update-517/",
       "date": "2026-08-18T03:44:58.000Z",
       "excerpt": "The current ransomware situation is a bit of a kludge (deep breath): a lot of ransomware (which often doesn't even involve \"ware\", it's just extortion) is carried out by kids who successfully make a truckload of money but can't spend it without"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "How to Get Started in Cybersecurity 2026",
-      "link": "https://danielmiessler.com/blog/how-to-get-started-in-cybersecurity-2026?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-08-17T19:00:00.000Z",
-      "excerpt": "A person vaulting on a machine lever toward a glowing keyhole/images/how-to-get-started-in-cybersecurity-2026.webp/images/how-to-get-started-in-cybersecurity-2026.webp I've been writing versions of this guide since 2008. The most recent big one was the 2019…"
     }
   ]
 }
