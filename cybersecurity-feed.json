@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T10:58:20.980Z",
+  "updated": "2026-08-24T11:49:11.730Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+      "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+      "date": "2026-08-24T10:59:30.000Z",
+      "excerpt": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "CISA’s logging guidance works beyond government",
+      "link": "https://www.helpnetsecurity.com/2026/08/24/cybersecurity-logging-guidelines-strategy/",
+      "date": "2026-08-24T10:56:44.000Z",
+      "excerpt": "The US Cybersecurity and Infrastructure Security Agency (CISA) wants federal agencies to (re)shape their logging strategy around one question: when an attack hits, can you actually use the logs you’ve collected to catch it and reconstruct what happened afterward? The Logging…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -442,14 +458,6 @@
       "excerpt": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-      "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-      "date": "2026-08-21T15:11:16.000Z",
-      "excerpt": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Lawmakers seek watchdog review of federal hacking of Americans",
@@ -528,14 +536,6 @@
       "link": "https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/",
       "date": "2026-08-21T12:00:00.000Z",
       "excerpt": "An Agent Tesla v4 malware campaign used novel emoji-based code obfuscation to evade detection, KnowBe4 has revealed"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers impersonate popular AI brands to spread malware",
-      "link": "https://www.helpnetsecurity.com/2026/08/21/ai-brand-impersonation-malware-malware-research/",
-      "date": "2026-08-21T11:47:39.000Z",
-      "excerpt": "Attackers are impersonating popular AI brands like Perplexity, Claude, ChatGPT, and Copilot to spread information stealers, backdoors, malicious browser extensions, and other malware, according to Sophos. Overview of MDR cases with AI involvement (Source: Sophos) Sophos X-Ops…"
     },
     {
       "source": "The Hacker News",
@@ -754,14 +754,6 @@
       "excerpt": ""
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #481: Never say this to a robot dog",
-      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
-      "date": "2026-08-19T23:10:23.000Z",
-      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn",
@@ -792,14 +784,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
       "date": "2026-08-19T10:46:37.000Z",
       "excerpt": "ICE collected nearly a million DNA samples last year."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer",
-      "date": "2026-08-19T07:26:50.000Z",
-      "excerpt": "When Cameron Curry discovered that his contract as a data analyst wasn't going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.…"
     },
     {
       "source": "Daniel Miessler",
@@ -880,22 +864,6 @@
       "link": "https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T15:51:31.000Z",
       "excerpt": "How AI Builders Will Get Hacked/images/how-ai-builders-get-hacked.webp/images/how-ai-builders-get-hacked.webp If you are building stuff with AI I have a critical security recommendation for you. Create a continuously-running security testing system that: 1. Maintains a list of…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras",
-      "date": "2026-08-17T14:10:48.000Z",
-      "excerpt": "A cybersecurity expert has demonstrated how computer-generated patterns can successfully prevent surveillance cameras from detecting vehicles - such as the controversial AI-powered Flock licence plate readers that are becoming increasingly common on American streets. Read more…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Fix Execution, Not the SOP",
-      "link": "https://danielmiessler.com/blog/fix-execution-not-the-sop?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-08-17T11:13:47.000Z",
-      "excerpt": "A flood of documents pours into a funnel that drips onto a tiny model a man is polishing, while real unbuilt work waits through an open door/images/fix-execution-not-the-sop.webp/images/fix-execution-not-the-sop.webp AI is multiplying the problem of us having far too many…"
     }
   ]
 }
