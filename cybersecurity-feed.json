@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T03:27:44.708Z",
+  "updated": "2026-08-24T05:06:58.883Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Sophos News",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fake bank websites play dead to evade security scanners",
+      "link": "https://www.helpnetsecurity.com/2026/08/24/chameleon-seo-poisoning-fake-banking-websites-phishing/",
+      "date": "2026-08-24T05:00:18.000Z",
+      "excerpt": "A phishing method, named Chameleon SEO Poisoning, that uses manipulated search results and cloaked fake banking websites to steal credentials while evading security scanners has been discovered by Fortra. The company’s threat intelligence unit, Fortra Intelligence and Research…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Ransomware attackers are zeroing in on mid-market companies",
+      "link": "https://www.helpnetsecurity.com/2026/08/24/black-kite-mid-market-ransomware-risk-report/",
+      "date": "2026-08-24T04:30:08.000Z",
+      "excerpt": "Mid-sized companies accounted for 73% of publicly disclosed ransomware and data-extortion incidents with known revenue in North America and Europe between January 2023 and June 2026, according to Black Kite. The analysis covered 13,336 incidents with known revenue and defined…"
+    },
+    {
+      "source": "Troy Hunt",
+      "sourceUrl": "https://www.troyhunt.com/",
+      "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
+      "link": "https://www.troyhunt.com/weekly-update-518/",
+      "date": "2026-08-24T04:19:51.000Z",
+      "excerpt": "I genuinely think I've nailed the IoT door lock situation! Well, Ubiquiti has, but I think I've worked out how to put it all into a residential house and have it make sense. There are a few basic tenets: Main power (never have to rely on"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AWS makes it easier to spot firewall rules that have gone quiet",
+      "link": "https://www.helpnetsecurity.com/2026/08/24/aws-network-firewall-rule-hit-count-capability/",
+      "date": "2026-08-24T04:00:25.000Z",
+      "excerpt": "AWS Network Firewall’s rule hit count capability gives security teams visibility into which stateful firewall rules are matching traffic, helping them identify unused or redundant rules and validate whether security controls are working as intended. The capability covers…"
+    },
     {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
@@ -522,30 +554,6 @@
       "excerpt": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "A $25 template helped scammers build hundreds of phantom bank domains",
-      "link": "https://www.helpnetsecurity.com/2026/08/21/phantom-bank-websites-fraud-research/",
-      "date": "2026-08-21T05:00:59.000Z",
-      "excerpt": "A phrase on a suspicious website turned into an investigation of phantom banks built to support scams, according to new research from Allure Security. Molly DeQuattro, the company’s VP of Operations, was reviewing a domain that resembled the brand of one of its financial…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Nearly half of enterprises have no one leading PQC migration",
-      "link": "https://www.helpnetsecurity.com/2026/08/21/axiad-pqc-migration-readiness-gaps-report/",
-      "date": "2026-08-21T04:30:46.000Z",
-      "excerpt": "Enterprises believe they are prepared for the security challenges posed by quantum computing, but gaps in ownership, testing and visibility could complicate their transition to post-quantum cryptography (PQC), according to new research from Axiad. Who owns PQC migration?…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "New infosec products of the week: August 21, 2026",
-      "link": "https://www.helpnetsecurity.com/2026/08/21/new-infosec-products-of-the-week-august-21-2026/",
-      "date": "2026-08-21T04:00:20.000Z",
-      "excerpt": "Here’s a look at the most interesting products from the past week, featuring releases from F5 Networks, Intezer, Netscout, and Tufin. NETSCOUT expands Adaptive DDoS Protection with outbound attack mitigation NETSCOUT has announced an extension of its Adaptive DDoS Protection…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
@@ -746,14 +754,6 @@
       "excerpt": "The agencies said the hackers are taking aim at Siemens S7 Series programmable logic controllers in what could be a first. The post AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn appeared first on CyberScoop ."
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "date": "2026-08-19T17:30:00.000Z",
-      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "A California county wants to hire Tina Peters to help run its elections",
@@ -808,14 +808,6 @@
       "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
       "date": "2026-08-18T19:05:33.000Z",
       "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "date": "2026-08-18T17:08:28.000Z",
-      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
     },
     {
       "source": "Daniel Miessler",

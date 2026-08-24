@@ -1,6 +1,24 @@
 {
-  "updated": "2026-08-24T03:27:43.388Z",
+  "updated": "2026-08-24T05:06:57.657Z",
   "items": [
+    {
+      "group": "Storm",
+      "victim": "Sharp Motor Group",
+      "sector": "Transportation",
+      "country": "AU",
+      "domain": "",
+      "discovered": "2026-08-24T04:51:59.732Z",
+      "link": "https://www.ransomware.live/id/U2hhcnAgTW90b3IgR3JvdXBAU3Rvcm0="
+    },
+    {
+      "group": "Storm",
+      "victim": "City of Mitchell",
+      "sector": "Government & Defense",
+      "country": "US",
+      "domain": "",
+      "discovered": "2026-08-24T04:51:29.575Z",
+      "link": "https://www.ransomware.live/id/Q2l0eSBvZiBNaXRjaGVsbEBTdG9ybQ=="
+    },
     {
       "group": "krybit",
       "victim": "resi.com",
@@ -15,7 +33,7 @@
       "victim": "Hospitality Health ER (Longview)",
       "sector": "Healthcare",
       "country": "US",
-      "domain": ".",
+      "domain": "hher24.com",
       "discovered": "2026-08-23T21:27:57.474Z",
       "link": "https://www.ransomware.live/id/SG9zcGl0YWxpdHkgSGVhbHRoIEVSIChMb25ndmlldylAZ2VuZXNpcw=="
     },
@@ -24,7 +42,7 @@
       "victim": "Westwing Group SE",
       "sector": "Retail & E-Commerce",
       "country": "DE",
-      "domain": "",
+      "domain": "westwing.com",
       "discovered": "2026-08-23T21:26:15.633Z",
       "link": "https://www.ransomware.live/id/V2VzdHdpbmcgR3JvdXAgU0VAY29pbmJhc2VjYXJ0ZWw="
     },
@@ -33,7 +51,7 @@
       "victim": "CyrusOne, LLC.",
       "sector": "Technology",
       "country": "US",
-      "domain": "",
+      "domain": "cyrusone.com",
       "discovered": "2026-08-23T20:27:42.698Z",
       "link": "https://www.ransomware.live/id/Q3lydXNPbmUsIExMQy5Ac2hpbnlodW50ZXJz"
     },
@@ -432,24 +450,6 @@
       "domain": "espac.cl",
       "discovered": "2026-08-23T06:33:51.356Z",
       "link": "https://www.ransomware.live/id/RXNwYWNAdGhlZ2VudGxlbWVu"
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "Layher",
-      "sector": "Manufacturing",
-      "country": "CL",
-      "domain": "layher.cl",
-      "discovered": "2026-08-23T06:33:31.225Z",
-      "link": "https://www.ransomware.live/id/TGF5aGVyQHRoZWdlbnRsZW1lbg=="
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "Volktek",
-      "sector": "Technology",
-      "country": "TW",
-      "domain": "volktek.com",
-      "discovered": "2026-08-23T06:33:10.588Z",
-      "link": "https://www.ransomware.live/id/Vm9sa3Rla0B0aGVnZW50bGVtZW4="
     }
   ]
 }
