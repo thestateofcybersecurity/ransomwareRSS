@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T13:26:37.588Z",
+  "updated": "2026-08-24T15:05:37.291Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,10 +116,66 @@
     {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Fake Codex Download Uses Google Sites to Deliver macOS Malware",
+      "link": "https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/",
+      "date": "2026-08-24T15:00:00.000Z",
+      "excerpt": "Fake Codex pages used Google Sites, sponsored search and ClickFix to target Mac users"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+      "date": "2026-08-24T14:34:59.000Z",
+      "excerpt": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "date": "2026-08-24T14:00:19.000Z",
+      "excerpt": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "South Korean startup platform breach exposes key management failures",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "date": "2026-08-24T14:00:10.000Z",
+      "excerpt": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
+      "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
+      "date": "2026-08-24T14:00:00.000Z",
+      "excerpt": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Suspected Iran-linked attack knocked UK power plant offline for days",
+      "link": "https://www.helpnetsecurity.com/2026/08/24/uk-power-plant-cyberattack/",
+      "date": "2026-08-24T13:52:27.000Z",
+      "excerpt": "News that suspected Iranian hackers caused the shutdown of a British power plant broke over the weekend, raising the question of whether UK’s power grid and, indeed, the country’s critical infrastructure can fend off destructive cyber attacks. According to sources of UK news…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Doubloon Dredger Abuses Notion to Harvest Authentication Tokens",
       "link": "https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/",
       "date": "2026-08-24T13:00:00.000Z",
       "excerpt": "Doubloon Dredger abused Notion and malicious PDFs to harvest Microsoft authentication tokens"
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Gunra ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
+      "date": "2026-08-24T12:52:37.000Z",
+      "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
     },
     {
       "source": "SecurityWeek",
@@ -136,6 +192,14 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
       "date": "2026-08-24T12:40:21.000Z",
       "excerpt": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "date": "2026-08-24T12:35:36.000Z",
+      "excerpt": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera…"
     },
     {
       "source": "The Record",
@@ -306,14 +370,6 @@
       "excerpt": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#x26;#39;t use real steganography:"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
-      "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
-      "date": "2026-08-24T07:18:58.000Z",
-      "excerpt": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek ."
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Product showcase: AI Paper Trail shows the privacy cost of talking to AI",
@@ -368,14 +424,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
       "date": "2026-08-23T14:23:46.000Z",
       "excerpt": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Week in review: Records allegedly stolen from Azure tenants, Medusa ransomware hits 500+ orgs",
-      "link": "https://www.helpnetsecurity.com/2026/08/23/week-in-review-records-allegedly-stolen-from-azure-tenants-medusa-ransomware-hits-500-orgs/",
-      "date": "2026-08-23T08:00:00.000Z",
-      "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Windows 11’s strongest security defenses can be bypassed without a screwdriver Researchers from the University of Birmingham and Durham University have found a way to knock down…"
     },
     {
       "source": "Troy Hunt",
@@ -466,14 +514,6 @@
       "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "date": "2026-08-21T18:01:30.000Z",
-      "excerpt": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
@@ -496,22 +536,6 @@
       "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
       "date": "2026-08-21T16:16:00.000Z",
       "excerpt": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "date": "2026-08-21T15:55:15.000Z",
-      "excerpt": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "date": "2026-08-21T15:52:10.000Z",
-      "excerpt": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software…"
     },
     {
       "source": "CyberScoop",
@@ -559,7 +583,7 @@
       "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
       "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
       "date": "2026-08-21T13:10:33.000Z",
-      "excerpt": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses."
+      "excerpt": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses."
     },
     {
       "source": "Infosecurity Magazine",
@@ -666,14 +690,6 @@
       "excerpt": "OpenAI presented details of its AI’s model’s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It’s really interesting to read through—and really impressive cyberoffense work."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "N-able Bug Exposes Password Vault Master Keys",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-      "date": "2026-08-20T17:39:24.000Z",
-      "excerpt": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Retail theft bill spurs ‘very large and very dangerous’ surveillance fears",
@@ -720,14 +736,6 @@
       "link": "https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/",
       "date": "2026-08-20T12:45:00.000Z",
       "excerpt": "NCSC urged sandboxing, oversight and tight access controls for autonomous AI agents"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "US Defense Contractors Admit Their Rising CMMC Scores May Not Be Accurate",
-      "link": "https://www.infosecurity-magazine.com/news/us-defense-contractors-cmmc-scores/",
-      "date": "2026-08-20T12:40:00.000Z",
-      "excerpt": "Defense contractors in the US are doubting their own self-assessment scores under CMMC Phase I, even as those scores hit an all-time high"
     },
     {
       "source": "Unit 42",
@@ -880,14 +888,6 @@
       "link": "https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T15:51:31.000Z",
       "excerpt": "How AI Builders Will Get Hacked/images/how-ai-builders-get-hacked.webp/images/how-ai-builders-get-hacked.webp If you are building stuff with AI I have a critical security recommendation for you. Create a continuously-running security testing system that: 1. Maintains a list of…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "An “invisible” car? Researcher uses machine learning to hide vehicles from Flock cameras",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invisible-car-machine-learning-hide-vehicle-flock-cameras",
-      "date": "2026-08-17T14:10:48.000Z",
-      "excerpt": "A cybersecurity expert has demonstrated how computer-generated patterns can successfully prevent surveillance cameras from detecting vehicles - such as the controversial AI-powered Flock licence plate readers that are becoming increasingly common on American streets. Read more…"
     }
   ]
 }
