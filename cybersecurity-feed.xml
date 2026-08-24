@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 05:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:58:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Product showcase: AI Paper Trail shows the privacy cost of talking to AI</title>
+      <link>https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</guid>
+      <pubDate>Mon, 24 Aug 2026 05:30:33 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Proton’s AI Paper Trail is a free tool designed to make the information accumulated across AI conversations easier to see. It analyzes exported ChatGPT or Claude conversation data and produces a personal privacy report showing what can be inferred from those conversations.… (via Help Net Security)</description>
+    </item>
     <item>
       <title>Fake bank websites play dead to evade security scanners</title>
       <link>https://www.helpnetsecurity.com/2026/08/24/chameleon-seo-poisoning-fake-banking-websites-phishing/</link>
@@ -424,14 +432,6 @@
       <description>Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the… (via Help Net Security)</description>
     </item>
     <item>
-      <title>GitLab 19.3 helps enterprises scale agentic development securely</title>
-      <link>https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/21/gitlab-19-3-updates/</guid>
-      <pubDate>Fri, 21 Aug 2026 07:12:16 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>GitLab has announced updates that give enterprises more control as they scale agentic software development. GitLab Dedicated customers, who already run their most sensitive software delivery workloads on GitLab, can now run GitLab Duo Agent Platform inside that same single… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
       <link>https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html</guid>
@@ -648,6 +648,14 @@
       <description>The agencies said the hackers are taking aim at Siemens S7 Series programmable logic controllers in what could be a first. The post AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
+      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
       <title>A California county wants to hire Tina Peters to help run its elections</title>
       <link>https://cyberscoop.com/shasta-county-elections-tina-peters/</link>
       <guid isPermaLink="false">https://cyberscoop.com/shasta-county-elections-tina-peters/</guid>
@@ -702,6 +710,14 @@
       <pubDate>Tue, 18 Aug 2026 19:05:33 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations&#39; Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August… (via Unit 42)</description>
+    </item>
+    <item>
+      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
+      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>Unconventional Thought Is the Differentiator</title>
