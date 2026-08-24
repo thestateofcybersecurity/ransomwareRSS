@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 09:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:08:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Rethinking Application Security for the AI Era</title>
+      <link>https://www.securityweek.com/rethinking-application-security-for-the-ai-era/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/rethinking-application-security-for-the-ai-era/</guid>
+      <pubDate>Mon, 24 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Android car head units infected with proxy botnet malware through built-in software updaters</title>
+      <link>https://www.helpnetsecurity.com/2026/08/24/android-malware-car-head-unit-badbox/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/24/android-malware-car-head-unit-badbox/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:51:16 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>A newly discovered Android malware, distributed through the built-in updaters in affected Android-based car head units, turns infected devices into ad-fraud tools and nodes in a proxy botnet, Kaspersky has found. According to the researchers, it’s the first documented case of… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Microsoft shares temporary fix for Windows 11 gaming issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:42:05 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Iran-Linked Hackers Shut Down UK Power Plant for Four Days</title>
+      <link>https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:22:09 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on… (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy</title>
+      <link>https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:11:11 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly. The post TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy appeared first on… (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant</title>
+      <link>https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/</guid>
+      <pubDate>Mon, 24 Aug 2026 09:01:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Experts argue Iranian cyber-attack on UK power plant lays bare frailty of critical national infrastructure (via Infosecurity Magazine)</description>
+    </item>
     <item>
       <title>UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit</title>
       <link>https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html</link>
@@ -304,14 +352,6 @@
       <description>Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets</title>
-      <link>https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/</guid>
-      <pubDate>Fri, 21 Aug 2026 14:22:06 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Is Online Privacy Possible? How Digital Identities Can Help</title>
       <link>https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/</guid>
@@ -336,14 +376,6 @@
       <description>The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company&#39;s network traffic analysis platform. (via The Record)</description>
     </item>
     <item>
-      <title>Microsoft rolls out Classic Outlook theme for New Outlook users</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/</guid>
-      <pubDate>Fri, 21 Aug 2026 13:39:35 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>OpenAI Adds Controls That Should&#39;ve Been There Already</title>
       <link>https://www.darkreading.com/application-security/openai-adds-controls-already</link>
       <guid isPermaLink="false">https://www.darkreading.com/application-security/openai-adds-controls-already</guid>
@@ -366,14 +398,6 @@
       <pubDate>Fri, 21 Aug 2026 12:40:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Cybersecurity researchers have linked a malicious backdoor in compromised Rust packages to previous North Korean supply chain attacks (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Critical Isolated-vm Vulnerability Leads to RCE on Host</title>
-      <link>https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/</guid>
-      <pubDate>Fri, 21 Aug 2026 12:26:07 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Microsoft patches critical Entra ID vulnerability (CVE-2026-69836)</title>
@@ -424,14 +448,6 @@
       <description>The AI Security Institute has a new report of AI systems engaging in “unsanctioned behavior”—what I have been calling “ genie behavior —while being tested on their cybersecurity capabilities. The incident stemmed from a single evaluation where agents were given a task of solving… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Rust Supply Chain Attack Linked to North Korean Hackers</title>
-      <link>https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/</guid>
-      <pubDate>Fri, 21 Aug 2026 09:23:18 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>The invisible passenger in your car</title>
       <link>https://securelist.com/android-head-unit-malware/121106/</link>
       <guid isPermaLink="false">https://securelist.com/android-head-unit-malware/121106/</guid>
@@ -446,14 +462,6 @@
       <pubDate>Fri, 21 Aug 2026 08:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Citrix urges customers to fix critical NetScaler authentication bypass (CVE-2026-19490)</title>
-      <link>https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/21/citrix-netscaler-gateway-cve-2026-19490/</guid>
-      <pubDate>Fri, 21 Aug 2026 07:55:43 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Citrix has patched two vulnerabilities in NetScaler ADC and NetScaler Gateway, including a critical authentication bypass flaw tracked as CVE-2026-19490, and is urging customers to upgrade affected appliances as soon as possible. “We strongly recommend that customers review the… (via Help Net Security)</description>
     </item>
     <item>
       <title>GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure</title>
@@ -614,14 +622,6 @@
       <pubDate>Thu, 20 Aug 2026 10:00:25 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Unit 42 details how attackers exploit enterprise collaboration tools for identity phishing and credential theft. Discover key defense strategies. The post Identity Abuse Through Trusted Communication Channels appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Updated ToxicPanda Variant Targets 140+ Banking and Crypto Apps</title>
-      <link>https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/updated-toxicpanda-140-banking/</guid>
-      <pubDate>Thu, 20 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Zimperium lifts the lid on the ToxicPanda 2.0 Android banking Trojan (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>Police Are Hiding Their Use of Flock Surveillance Cameras</title>
