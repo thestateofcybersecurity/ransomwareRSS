@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T16:00:25.983Z",
+  "updated": "2026-08-24T17:00:52.456Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -23,8 +23,8 @@
     },
     {
       "name": "The Record",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 5
     },
     {
       "name": "CyberScoop",
@@ -48,8 +48,8 @@
     },
     {
       "name": "SANS Internet Storm Center",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Unit 42",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Sophos News",
@@ -170,6 +170,14 @@
       "excerpt": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "date": "2026-08-24T14:32:10.000Z",
+      "excerpt": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks…"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Microsoft Teams now lets admins block external bots from meetings",
@@ -184,6 +192,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
       "date": "2026-08-24T14:00:10.000Z",
       "excerpt": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+      "date": "2026-08-24T14:00:00.000Z",
+      "excerpt": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
     },
     {
       "source": "SecurityWeek",
@@ -240,6 +256,14 @@
       "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
       "date": "2026-08-24T12:35:36.000Z",
       "excerpt": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Hackers infecting Android car systems to build proxy botnet",
+      "link": "https://therecord.media/android-botnet-china-hackers",
+      "date": "2026-08-24T12:15:00.000Z",
+      "excerpt": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet."
     },
     {
       "source": "SecurityWeek",
@@ -394,14 +418,6 @@
       "excerpt": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
-      "link": "https://isc.sans.edu/diary/rss/33274",
-      "date": "2026-08-24T07:23:16.000Z",
-      "excerpt": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#x26;#39;t use real steganography:"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Product showcase: AI Paper Trail shows the privacy cost of talking to AI",
@@ -440,14 +456,6 @@
       "link": "https://www.helpnetsecurity.com/2026/08/24/aws-network-firewall-rule-hit-count-capability/",
       "date": "2026-08-24T04:00:25.000Z",
       "excerpt": "AWS Network Firewall’s rule hit count capability gives security teams visibility into which stateful firewall rules are matching traffic, helping them identify unused or redundant rules and validate whether security controls are working as intended. The capability covers…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
-      "link": "https://isc.sans.edu/diary/rss/33276",
-      "date": "2026-08-24T02:00:03.000Z",
-      "excerpt": ""
     },
     {
       "source": "BleepingComputer",
@@ -514,20 +522,20 @@
       "excerpt": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes."
     },
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
+      "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
+      "date": "2026-08-21T19:56:00.000Z",
+      "excerpt": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Apollo discloses data breach from ongoing wave of attacks hitting financial sector",
       "link": "https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/",
       "date": "2026-08-21T19:14:28.000Z",
       "excerpt": "The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "date": "2026-08-21T18:53:00.000Z",
-      "excerpt": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates…"
     },
     {
       "source": "Dark Reading",
@@ -546,6 +554,14 @@
       "excerpt": "This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage—a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing…"
     },
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "U.S. Bank says breach claims related to fourth-party incident",
+      "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
+      "date": "2026-08-21T16:16:00.000Z",
+      "excerpt": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Lawmakers seek watchdog review of federal hacking of Americans",
@@ -554,12 +570,28 @@
       "excerpt": "Sen. Ron Wyden and Rep. Greg Casar want a GAO probe on the government’s use of spyware and other sophisticated hacking tools and authorities. The post Lawmakers seek watchdog review of federal hacking of Americans appeared first on CyberScoop ."
     },
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
+      "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
+      "date": "2026-08-21T15:00:00.000Z",
+      "excerpt": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application."
+    },
+    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "date": "2026-08-21T14:00:00.000Z",
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
+      "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
+      "date": "2026-08-21T13:55:00.000Z",
+      "excerpt": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform."
     },
     {
       "source": "Dark Reading",
@@ -610,38 +642,6 @@
       "excerpt": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33272",
-      "date": "2026-08-21T02:47:00.000Z",
-      "excerpt": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#x26;#39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ..."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33270",
-      "date": "2026-08-21T02:00:03.000Z",
-      "excerpt": ""
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33268",
-      "date": "2026-08-21T01:49:18.000Z",
-      "excerpt": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
-      "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
-      "date": "2026-08-20T20:42:18.000Z",
-      "excerpt": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent extremist",
@@ -682,28 +682,12 @@
       "excerpt": "The designation would unlock a range of federal services, tools and resources for an industry that policymakers view as increasingly tied to national and economic security. The post The push to designate AI as the next critical infrastructure sector appeared first on CyberScoop ."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33266",
-      "date": "2026-08-20T13:09:50.000Z",
-      "excerpt": "Building on the last diary on Using MS Graph and Powershell, let&#x26;#39;s look at \"Risky\" logins."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "date": "2026-08-20T13:00:35.000Z",
       "excerpt": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33264",
-      "date": "2026-08-20T12:45:32.000Z",
-      "excerpt": "Microsoft Graph is a newer API that is meant to replace several others.&#x26;#xc2;&#x26;#xa0; OK, it&#x26;#39;s at version 2.3.9, so it&#x26;#39;s not all that new, but it&#x26;#39;s new enough that lots of folks (and commercial tools) aren&#x26;#39;t using it…"
     },
     {
       "source": "Unit 42",
@@ -722,14 +706,6 @@
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33262",
-      "date": "2026-08-20T02:00:03.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Smashing Security podcast #481: Never say this to a robot dog",
@@ -744,14 +720,6 @@
       "link": "https://cyberscoop.com/hackers-use-ai-target-siemens-plcs-critical-infrastructure/",
       "date": "2026-08-19T18:45:53.000Z",
       "excerpt": "The agencies said the hackers are taking aim at Siemens S7 Series programmable logic controllers in what could be a first. The post AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn appeared first on CyberScoop ."
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "date": "2026-08-19T17:30:00.000Z",
-      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
     },
     {
       "source": "CyberScoop",
@@ -800,14 +768,6 @@
       "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
       "date": "2026-08-18T19:05:33.000Z",
       "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "date": "2026-08-18T17:08:28.000Z",
-      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
     },
     {
       "source": "Daniel Miessler",

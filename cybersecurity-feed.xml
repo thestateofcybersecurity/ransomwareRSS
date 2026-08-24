@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 16:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:00:52 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims</title>
@@ -64,6 +64,14 @@
       <description>The latest version of the Android malware has new features that expand its global reach and put more than users&#39; financial applications at risk. (via Dark Reading)</description>
     </item>
     <item>
+      <title>⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More</title>
+      <link>https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html</guid>
+      <pubDate>Mon, 24 Aug 2026 14:32:10 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks… (via The Hacker News)</description>
+    </item>
+    <item>
       <title>Microsoft Teams now lets admins block external bots from meetings</title>
       <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/</guid>
@@ -78,6 +86,14 @@
       <pubDate>Mon, 24 Aug 2026 14:00:10 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>A breach at South Korea&#39;s government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>The Vulnerability Gap: Why Discovery Is Outrunning Repair</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community. (via Dark Reading)</description>
     </item>
     <item>
       <title>Hired for One Job, Judged on Another: The CISO’s Real Problem</title>
@@ -134,6 +150,14 @@
       <pubDate>Mon, 24 Aug 2026 12:35:36 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that&#39;s used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Hackers infecting Android car systems to build proxy botnet</title>
+      <link>https://therecord.media/android-botnet-china-hackers</link>
+      <guid isPermaLink="false">https://therecord.media/android-botnet-china-hackers</guid>
+      <pubDate>Mon, 24 Aug 2026 12:15:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet. (via The Record)</description>
     </item>
     <item>
       <title>91 Vulnerabilities Patched in Spring Application Framework</title>
@@ -288,14 +312,6 @@
       <description>Truffle Security says it found over 9000 publicly accessible and active AWS key pairs (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>DOUBLECUP&#39;s PNG Payload, (Mon, Aug 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/33274</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33274</guid>
-      <pubDate>Mon, 24 Aug 2026 07:23:16 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&amp;#x26;#39;t use real steganography: (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
       <title>Product showcase: AI Paper Trail shows the privacy cost of talking to AI</title>
       <link>https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</guid>
@@ -334,14 +350,6 @@
       <pubDate>Mon, 24 Aug 2026 04:00:25 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>AWS Network Firewall’s rule hit count capability gives security teams visibility into which stateful firewall rules are matching traffic, helping them identify unused or redundant rules and validate whether security controls are working as intended. The capability covers… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/33276</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33276</guid>
-      <pubDate>Mon, 24 Aug 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>ToxicPanda Android malware uses VPN permissions to block Google Play</title>
@@ -408,20 +416,20 @@
       <description>New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes. (via Dark Reading)</description>
     </item>
     <item>
+      <title>Lawmakers call for investigation into impact of CISA staffing cuts</title>
+      <link>https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts</link>
+      <guid isPermaLink="false">https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts</guid>
+      <pubDate>Fri, 21 Aug 2026 19:56:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced. (via The Record)</description>
+    </item>
+    <item>
       <title>Apollo discloses data breach from ongoing wave of attacks hitting financial sector</title>
       <link>https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</link>
       <guid isPermaLink="false">https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</guid>
       <pubDate>Fri, 21 Aug 2026 19:14:28 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2</title>
-      <link>https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html</guid>
-      <pubDate>Fri, 21 Aug 2026 18:53:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. &quot;When the module loads, it locates… (via The Hacker News)</description>
     </item>
     <item>
       <title>OWASP Flags Top AI Skill Risks in New Security Blueprint</title>
@@ -440,6 +448,14 @@
       <description>This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage—a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing… (via Schneier on Security)</description>
     </item>
     <item>
+      <title>U.S. Bank says breach claims related to fourth-party incident</title>
+      <link>https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</link>
+      <guid isPermaLink="false">https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident</guid>
+      <pubDate>Fri, 21 Aug 2026 16:16:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The bank said there is no evidence that its own systems, networks or data repositories were compromised. (via The Record)</description>
+    </item>
+    <item>
       <title>Lawmakers seek watchdog review of federal hacking of Americans</title>
       <link>https://cyberscoop.com/watchdog-review-federal-government-hacking-americans/</link>
       <guid isPermaLink="false">https://cyberscoop.com/watchdog-review-federal-government-hacking-americans/</guid>
@@ -448,12 +464,28 @@
       <description>Sen. Ron Wyden and Rep. Greg Casar want a GAO probe on the government’s use of spyware and other sophisticated hacking tools and authorities. The post Lawmakers seek watchdog review of federal hacking of Americans appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
+      <title>Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen</title>
+      <link>https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data</link>
+      <guid isPermaLink="false">https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data</guid>
+      <pubDate>Fri, 21 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application. (via The Record)</description>
+    </item>
+    <item>
       <title>Calling on Cyber Pros to Help Defend City Hall</title>
       <link>https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall</guid>
       <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers</title>
+      <link>https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group</link>
+      <guid isPermaLink="false">https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group</guid>
+      <pubDate>Fri, 21 Aug 2026 13:55:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company&#39;s network traffic analysis platform. (via The Record)</description>
     </item>
     <item>
       <title>OpenAI Adds Controls That Should&#39;ve Been There Already</title>
@@ -504,38 +536,6 @@
       <description>Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It&#39;s delivered through legitimate software for DoFun head units. (via Securelist)</description>
     </item>
     <item>
-      <title>Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/33272</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33272</guid>
-      <pubDate>Fri, 21 Aug 2026 02:47:00 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>In every MFA rollout, there will come a time where you think you are closing in on &quot;done&quot;, and some automation to list what&amp;#x26;#39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ... (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/33270</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33270</guid>
-      <pubDate>Fri, 21 Aug 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/33268</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33268</guid>
-      <pubDate>Fri, 21 Aug 2026 01:49:18 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>One thing that folks never seem to do after &quot;going to the CLOOOOUUUUD&quot; is to look at their logs, logs that they would have checked daily when things were on premise. (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>New CUSTODY Framework Constrains AI Agents Inside the Network</title>
-      <link>https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network</link>
-      <guid isPermaLink="false">https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network</guid>
-      <pubDate>Thu, 20 Aug 2026 20:42:18 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent extremist</title>
       <link>https://cyberscoop.com/764-member-sentenced-longest-prison-sentence-kyle-spitze/</link>
       <guid isPermaLink="false">https://cyberscoop.com/764-member-sentenced-longest-prison-sentence-kyle-spitze/</guid>
@@ -576,28 +576,12 @@
       <description>The designation would unlock a range of federal services, tools and resources for an industry that policymakers view as increasingly tied to national and economic security. The post The push to designate AI as the next critical infrastructure sector appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33266</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33266</guid>
-      <pubDate>Thu, 20 Aug 2026 13:09:50 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Building on the last diary on Using MS Graph and Powershell, let&amp;#x26;#39;s look at &quot;Risky&quot; logins. (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
       <title>Grok exfiltrates user data when malicious instructions are encrypted</title>
       <link>https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/</guid>
       <pubDate>Thu, 20 Aug 2026 13:00:35 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Cryptographic Context Injection is only the latest way to break an LLM safety guardrail. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33264</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33264</guid>
-      <pubDate>Thu, 20 Aug 2026 12:45:32 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Microsoft Graph is a newer API that is meant to replace several others.&amp;#x26;#xc2;&amp;#x26;#xa0; OK, it&amp;#x26;#39;s at version 2.3.9, so it&amp;#x26;#39;s not all that new, but it&amp;#x26;#39;s new enough that lots of folks (and commercial tools) aren&amp;#x26;#39;t using it… (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Identity Abuse Through Trusted Communication Channels</title>
@@ -616,14 +600,6 @@
       <description>A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33262</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33262</guid>
-      <pubDate>Thu, 20 Aug 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>Smashing Security podcast #481: Never say this to a robot dog</title>
       <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
       <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-481/</guid>
@@ -638,14 +614,6 @@
       <pubDate>Wed, 19 Aug 2026 18:45:53 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The agencies said the hackers are taking aim at Siemens S7 Series programmable logic controllers in what could be a first. The post AI-fueled attacks pose ‘active threat’ to water, other sectors, U.S. agencies warn appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>A California county wants to hire Tina Peters to help run its elections</title>
@@ -694,14 +662,6 @@
       <pubDate>Tue, 18 Aug 2026 19:05:33 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations&#39; Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August… (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
-      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>Unconventional Thought Is the Differentiator</title>
