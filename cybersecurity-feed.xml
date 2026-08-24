@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 07:33:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:09:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit</title>
+      <link>https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html</guid>
+      <pubDate>Mon, 24 Aug 2026 08:08:31 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that&#39;s targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil,… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Researchers Uncover Thousands of Leaked AWS Keys</title>
+      <link>https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/</guid>
+      <pubDate>Mon, 24 Aug 2026 08:05:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Truffle Security says it found over 9000 publicly accessible and active AWS key pairs (via Infosecurity Magazine)</description>
+    </item>
     <item>
       <title>DOUBLECUP&#39;s PNG Payload, (Mon, Aug 24th)</title>
       <link>https://isc.sans.edu/diary/rss/33274</link>
@@ -448,14 +464,6 @@
       <description>A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html</guid>
-      <pubDate>Fri, 21 Aug 2026 06:06:11 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the &quot;Exploited&quot; field under the Exploitability Assessment table as &quot;Yes,&quot; on August 21, 2026, Microsoft corrected the… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)</title>
       <link>https://isc.sans.edu/diary/rss/33272</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33272</guid>
@@ -622,14 +630,6 @@
       <pubDate>Thu, 20 Aug 2026 09:48:55 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Def Con Attendees Targeted by Persistent Phishing Campaign</title>
-      <link>https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/</guid>
-      <pubDate>Thu, 20 Aug 2026 09:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, August 20th, 2026 https://isc.sans.edu/podcastdetail/10060, (Thu, Aug 20th)</title>

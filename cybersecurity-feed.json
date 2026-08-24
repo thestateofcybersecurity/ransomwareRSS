@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T07:33:30.203Z",
+  "updated": "2026-08-24T09:09:27.135Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
+      "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
+      "date": "2026-08-24T08:08:31.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil,…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Researchers Uncover Thousands of Leaked AWS Keys",
+      "link": "https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/",
+      "date": "2026-08-24T08:05:00.000Z",
+      "excerpt": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs"
+    },
     {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
@@ -554,14 +570,6 @@
       "excerpt": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
-      "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "date": "2026-08-21T06:06:11.000Z",
-      "excerpt": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
@@ -728,14 +736,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
       "date": "2026-08-20T09:48:55.000Z",
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Def Con Attendees Targeted by Persistent Phishing Campaign",
-      "link": "https://www.infosecurity-magazine.com/news/def-con-attendees-persistent/",
-      "date": "2026-08-20T09:30:00.000Z",
-      "excerpt": "Huntress researcher explains how they were targeted by an elaborate and persistent phishing scam following Def Con"
     },
     {
       "source": "SANS Internet Storm Center",
