@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T15:05:37.291Z",
+  "updated": "2026-08-24T16:00:25.983Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -23,8 +23,8 @@
     },
     {
       "name": "The Record",
-      "ok": true,
-      "count": 5
+      "ok": false,
+      "count": 0
     },
     {
       "name": "CyberScoop",
@@ -116,6 +116,46 @@
     {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims",
+      "link": "https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/",
+      "date": "2026-08-24T16:00:00.000Z",
+      "excerpt": "TCG has released new guidance to help proving that trusted platform modules genuinely meet essential quantum-safe requirements"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "NIST Warns of Unique Security Risks in Multi-Cloud Environments",
+      "link": "https://www.infosecurity-magazine.com/news/nist-risks-multi-cloud/",
+      "date": "2026-08-24T15:30:00.000Z",
+      "excerpt": "NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "date": "2026-08-24T15:17:16.000Z",
+      "excerpt": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+      "date": "2026-08-24T15:02:32.000Z",
+      "excerpt": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
+      "date": "2026-08-24T15:00:02.000Z",
+      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Fake Codex Download Uses Google Sites to Deliver macOS Malware",
       "link": "https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/",
       "date": "2026-08-24T15:00:00.000Z",
@@ -200,14 +240,6 @@
       "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
       "date": "2026-08-24T12:35:36.000Z",
       "excerpt": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers infecting Android car systems to build proxy botnet",
-      "link": "https://therecord.media/android-botnet-china-hackers",
-      "date": "2026-08-24T12:15:00.000Z",
-      "excerpt": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet."
     },
     {
       "source": "SecurityWeek",
@@ -458,14 +490,6 @@
       "excerpt": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "date": "2026-08-22T13:00:09.000Z",
-      "excerpt": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help…"
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
@@ -488,14 +512,6 @@
       "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
       "date": "2026-08-21T20:24:42.000Z",
       "excerpt": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Lawmakers call for investigation into impact of CISA staffing cuts",
-      "link": "https://therecord.media/lawmakers-call-for-investigation-into-impact-of-cisa-cuts",
-      "date": "2026-08-21T19:56:00.000Z",
-      "excerpt": "Lawmakers say little is known about how recent cuts have impacted CISA and how the knowledge that was lost has been replaced."
     },
     {
       "source": "CyberScoop",
@@ -530,14 +546,6 @@
       "excerpt": "This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage—a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "U.S. Bank says breach claims related to fourth-party incident",
-      "link": "https://therecord.media/us-bank-says-breach-claims-related-to-fourth-party-incident",
-      "date": "2026-08-21T16:16:00.000Z",
-      "excerpt": "The bank said there is no evidence that its own systems, networks or data repositories were compromised."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Lawmakers seek watchdog review of federal hacking of Americans",
@@ -546,28 +554,12 @@
       "excerpt": "Sen. Ron Wyden and Rep. Greg Casar want a GAO probe on the government’s use of spyware and other sophisticated hacking tools and authorities. The post Lawmakers seek watchdog review of federal hacking of Americans appeared first on CyberScoop ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Canada’s Hospital for Sick Children attacked by cybercriminals again as employee data stolen",
-      "link": "https://therecord.media/canada-hospital-for-sick-children-attacked-again-employee-data",
-      "date": "2026-08-21T15:00:00.000Z",
-      "excerpt": "The Hospital for Sick Children — which was hit in a ransomware incident in 2022 that disabled some of its systems — released a statement on Thursday warning of a data theft incident they believe is tied to a third-party software application."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "date": "2026-08-21T14:00:00.000Z",
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Russian network monitoring firm confirms cyberattack claimed by pro-Ukraine hackers",
-      "link": "https://therecord.media/russian-network-monitoring-firm-confirms-cyberattack-claimed-by-pro-ukraine-group",
-      "date": "2026-08-21T13:55:00.000Z",
-      "excerpt": "The statement came a day after a hacking group calling itself Black Spark claimed it had spent more than a month inside Microolap’s network and gained access to its internal systems, including EtherSensor, the company's network traffic analysis platform."
     },
     {
       "source": "Dark Reading",
@@ -618,14 +610,6 @@
       "excerpt": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Cybersecurity Job Ads Requiring AI Skills Double",
-      "link": "https://www.infosecurity-magazine.com/news/cybersecurity-job-ads-ai-skills/",
-      "date": "2026-08-21T08:00:00.000Z",
-      "excerpt": "An analysis by the AI Workforce Consortium found that technical cybersecurity jobs are becoming more strategic due to the influence of AI"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
@@ -656,14 +640,6 @@
       "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
       "date": "2026-08-20T20:42:18.000Z",
       "excerpt": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-      "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-      "date": "2026-08-20T19:11:15.000Z",
-      "excerpt": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy."
     },
     {
       "source": "CyberScoop",
@@ -728,14 +704,6 @@
       "link": "https://isc.sans.edu/diary/rss/33264",
       "date": "2026-08-20T12:45:32.000Z",
       "excerpt": "Microsoft Graph is a newer API that is meant to replace several others.&#x26;#xc2;&#x26;#xa0; OK, it&#x26;#39;s at version 2.3.9, so it&#x26;#39;s not all that new, but it&#x26;#39;s new enough that lots of folks (and commercial tools) aren&#x26;#39;t using it…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "NCSC Urges Stronger Controls for Agentic AI Systems",
-      "link": "https://www.infosecurity-magazine.com/news/ncsc-stronger-controls-agentic-ai/",
-      "date": "2026-08-20T12:45:00.000Z",
-      "excerpt": "NCSC urged sandboxing, oversight and tight access controls for autonomous AI agents"
     },
     {
       "source": "Unit 42",
@@ -880,14 +848,6 @@
       "link": "https://danielmiessler.com/blog/how-to-get-started-in-cybersecurity-2026?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-17T19:00:00.000Z",
       "excerpt": "A person vaulting on a machine lever toward a glowing keyhole/images/how-to-get-started-in-cybersecurity-2026.webp/images/how-to-get-started-in-cybersecurity-2026.webp I've been writing versions of this guide since 2008. The most recent big one was the 2019…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "How AI Builders Will Get Hacked",
-      "link": "https://danielmiessler.com/blog/how-ai-builders-get-hacked?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-08-17T15:51:31.000Z",
-      "excerpt": "How AI Builders Will Get Hacked/images/how-ai-builders-get-hacked.webp/images/how-ai-builders-get-hacked.webp If you are building stuff with AI I have a critical security recommendation for you. Create a continuously-running security testing system that: 1. Maintains a list of…"
     }
   ]
 }
