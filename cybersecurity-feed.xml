@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 24 Aug 2026 05:58:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:33:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>DOUBLECUP&#39;s PNG Payload, (Mon, Aug 24th)</title>
+      <link>https://isc.sans.edu/diary/rss/33274</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33274</guid>
+      <pubDate>Mon, 24 Aug 2026 07:23:16 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&amp;#x26;#39;t use real steganography: (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund</title>
+      <link>https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/</guid>
+      <pubDate>Mon, 24 Aug 2026 07:18:58 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>Product showcase: AI Paper Trail shows the privacy cost of talking to AI</title>
       <link>https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</link>
@@ -344,12 +360,12 @@
       <description>The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)</title>
+      <title>Microsoft patches critical Entra ID vulnerability (CVE-2026-69836)</title>
       <link>https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/</guid>
       <pubDate>Fri, 21 Aug 2026 12:20:33 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, reportedly exploited in the wild. Entra ID is Microsoft’s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to Microsoft 365, Azure,… (via Help Net Security)</description>
+      <description>Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, initially reported to have been exploited in the wild. Entra ID is Microsoft’s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to… (via Help Net Security)</description>
     </item>
     <item>
       <title>New Agent Tesla Malware Variant Boosts Evasion Capabilities</title>
@@ -398,14 +414,6 @@
       <pubDate>Fri, 21 Aug 2026 09:23:18 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind</title>
-      <link>https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/</guid>
-      <pubDate>Fri, 21 Aug 2026 08:41:06 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base. The post Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>The invisible passenger in your car</title>
@@ -662,14 +670,6 @@
       <pubDate>Wed, 19 Aug 2026 15:57:37 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties. The post A California county wants to hire Tina Peters to help run its elections appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)</title>
-      <link>https://isc.sans.edu/diary/rss/33260</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33260</guid>
-      <pubDate>Wed, 19 Aug 2026 14:24:58 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the… (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>ICE Collecting DNA Samples</title>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T05:58:49.142Z",
+  "updated": "2026-08-24T07:33:30.203Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33274",
+      "date": "2026-08-24T07:23:16.000Z",
+      "excerpt": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#x26;#39;t use real steganography:"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
+      "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
+      "date": "2026-08-24T07:18:58.000Z",
+      "excerpt": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek ."
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -452,10 +468,10 @@
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Critical Microsoft Entra ID vulnerability exploited in the wild (CVE-2026-69836)",
+      "title": "Microsoft patches critical Entra ID vulnerability (CVE-2026-69836)",
       "link": "https://www.helpnetsecurity.com/2026/08/21/microsoft-entra-id-vulnerability-cve-2026-69836/",
       "date": "2026-08-21T12:20:33.000Z",
-      "excerpt": "Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, reportedly exploited in the wild. Entra ID is Microsoft’s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to Microsoft 365, Azure,…"
+      "excerpt": "Microsoft has patched a critical remote code execution vulnerability (CVE-2026-69836) in Entra ID, initially reported to have been exploited in the wild. Entra ID is Microsoft’s cloud identity service, formerly Azure Active Directory, that verifies logins and controls access to…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -504,14 +520,6 @@
       "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
       "date": "2026-08-21T09:23:18.000Z",
       "excerpt": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
-      "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
-      "date": "2026-08-21T08:41:06.000Z",
-      "excerpt": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base. The post Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind appeared first on SecurityWeek ."
     },
     {
       "source": "Securelist",
@@ -768,14 +776,6 @@
       "link": "https://cyberscoop.com/shasta-county-elections-tina-peters/",
       "date": "2026-08-19T15:57:37.000Z",
       "excerpt": "After her prison sentence for felony election-related crimes was commuted, Peters is poised to once again administer critical election duties. The post A California county wants to hire Tina Peters to help run its elections appeared first on CyberScoop ."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Simple Scans for Cloud Metadata Service, (Wed, Aug 19th)",
-      "link": "https://isc.sans.edu/diary/rss/33260",
-      "date": "2026-08-19T14:24:58.000Z",
-      "excerpt": "Cloud providers typically expose a REST API at 169.254.169.254 that allows code running on virtual machines to retrieve machine-specific data. Some of the data is more or less harmless, such as the region the machine is running in or its MAC and IP addresses. However, the…"
     },
     {
       "source": "Schneier on Security",
