@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 20:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:48:53 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers abuse npm mirrors to host phishing redirect pages</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</guid>
+      <pubDate>Tue, 25 Aug 2026 21:39:01 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Hidden Prompts Trick AI Into False Email Summaries</title>
+      <link>https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries</guid>
+      <pubDate>Tue, 25 Aug 2026 21:08:55 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>With some simple HTML that&#39;s invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>The GTA VI leaks are breaking the internet. Security researchers have seen this before.</title>
+      <link>https://cyberscoop.com/grand-theft-auto-6-data-theft-extortion-leaks/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/grand-theft-auto-6-data-theft-extortion-leaks/</guid>
+      <pubDate>Tue, 25 Aug 2026 20:51:39 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>A memecoin, a manifesto, and a week of daily leaks — but to researchers, it&#39;s a familiar extortion playbook with an unusually large audience. The post The GTA VI leaks are breaking the internet. Security researchers have seen this before. appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
     <item>
       <title>58 arrested in international cybercrime crackdown</title>
       <link>https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol</link>
@@ -22,6 +46,14 @@
       <pubDate>Tue, 25 Aug 2026 20:25:26 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw</title>
+      <link>https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw</guid>
+      <pubDate>Tue, 25 Aug 2026 19:50:16 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Attackers can exploit a security bug in NVIDIA&#39;s tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption. (via Dark Reading)</description>
     </item>
     <item>
       <title>Employee benefits platform Paylogix says hackers stole financial and health data</title>
@@ -86,6 +118,14 @@
       <pubDate>Tue, 25 Aug 2026 15:03:33 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Is Cyber Facing an Affordability Crisis?</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</guid>
+      <pubDate>Tue, 25 Aug 2026 14:53:13 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security. (via Dark Reading)</description>
     </item>
     <item>
       <title>Hospital operator Nutex Health says data stolen in cyberattack</title>
@@ -320,14 +360,6 @@
       <description>Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn’t directly mention AI or agents in their taglines, the effects of AI are everywhere. Multiple spaces (Identity, SaaS,… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Police arrests dozens of suspects in global cybercrime crackdown</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/</guid>
-      <pubDate>Tue, 25 Aug 2026 10:53:20 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown</title>
       <link>https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</guid>
@@ -424,6 +456,22 @@
       <description>The 6-3 decision dismisses one lawsuit brought by states, saying they have no standing to sue because the disputed sections “neither requires nor forbids anything of anyone outside the executive branch.” The post SCOTUS tosses one of two injunctions against Trump USPS mail-in… (via CyberScoop)</description>
     </item>
     <item>
+      <title>Exploited Zimbra Flaw Highlights Shrinking Window to Patch</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</guid>
+      <pubDate>Mon, 24 Aug 2026 21:46:55 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user&#39;s communications. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Foul Language: WordlistLoader Disguises Malware as Ordinary Text</title>
+      <link>https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</link>
+      <guid isPermaLink="false">https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</guid>
+      <pubDate>Mon, 24 Aug 2026 20:51:27 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>Inaudible sounds used to fingerprint browsers catch AliExpress red-handed</title>
       <link>https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/</guid>
@@ -462,6 +510,30 @@
       <pubDate>Mon, 24 Aug 2026 15:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Tricky &#39;SynkLoader&#39; Multitool May Herald Ransomware</title>
+      <link>https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware</link>
+      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware</guid>
+      <pubDate>Mon, 24 Aug 2026 15:02:32 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>ToxicPanda Banking Trojan Matures Into Enterprise Threat</title>
+      <link>https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</link>
+      <guid isPermaLink="false">https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</guid>
+      <pubDate>Mon, 24 Aug 2026 14:34:59 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The latest version of the Android malware has new features that expand its global reach and put more than users&#39; financial applications at risk. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>The Vulnerability Gap: Why Discovery Is Outrunning Repair</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</guid>
+      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community. (via Dark Reading)</description>
     </item>
     <item>
       <title>Criminal Deception in Silicon Valley</title>
@@ -526,14 +598,6 @@
       <pubDate>Fri, 21 Aug 2026 21:07:20 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Apollo discloses data breach from ongoing wave of attacks hitting financial sector</title>
-      <link>https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</guid>
-      <pubDate>Fri, 21 Aug 2026 19:14:28 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>AI Is Learning to Write Genetic Code</title>

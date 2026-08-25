@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:51:15.501Z",
+  "updated": "2026-08-25T21:48:53.564Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Dark Reading",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "SecurityWeek",
@@ -114,6 +114,30 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "date": "2026-08-25T21:39:01.000Z",
+      "excerpt": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Hidden Prompts Trick AI Into False Email Summaries",
+      "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+      "date": "2026-08-25T21:08:55.000Z",
+      "excerpt": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "The GTA VI leaks are breaking the internet. Security researchers have seen this before.",
+      "link": "https://cyberscoop.com/grand-theft-auto-6-data-theft-extortion-leaks/",
+      "date": "2026-08-25T20:51:39.000Z",
+      "excerpt": "A memecoin, a manifesto, and a week of daily leaks — but to researchers, it's a familiar extortion playbook with an unusually large audience. The post The GTA VI leaks are breaking the internet. Security researchers have seen this before. appeared first on CyberScoop ."
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "58 arrested in international cybercrime crackdown",
@@ -128,6 +152,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
       "date": "2026-08-25T20:25:26.000Z",
       "excerpt": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+      "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "date": "2026-08-25T19:50:16.000Z",
+      "excerpt": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption."
     },
     {
       "source": "The Record",
@@ -192,6 +224,14 @@
       "link": "https://isc.sans.edu/diary/rss/33280",
       "date": "2026-08-25T15:03:33.000Z",
       "excerpt": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Is Cyber Facing an Affordability Crisis?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+      "date": "2026-08-25T14:53:13.000Z",
+      "excerpt": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security."
     },
     {
       "source": "BleepingComputer",
@@ -426,14 +466,6 @@
       "excerpt": "Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn’t directly mention AI or agents in their taglines, the effects of AI are everywhere. Multiple spaces (Identity, SaaS,…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "date": "2026-08-25T10:53:20.000Z",
-      "excerpt": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown",
@@ -530,6 +562,22 @@
       "excerpt": "The 6-3 decision dismisses one lawsuit brought by states, saying they have no standing to sue because the disputed sections “neither requires nor forbids anything of anyone outside the executive branch.” The post SCOTUS tosses one of two injunctions against Trump USPS mail-in…"
     },
     {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+      "date": "2026-08-24T21:46:55.000Z",
+      "excerpt": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+      "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+      "date": "2026-08-24T20:51:27.000Z",
+      "excerpt": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer."
+    },
+    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
@@ -568,6 +616,30 @@
       "link": "https://www.infosecurity-magazine.com/news/nist-risks-multi-cloud/",
       "date": "2026-08-24T15:30:00.000Z",
       "excerpt": "NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+      "date": "2026-08-24T15:02:32.000Z",
+      "excerpt": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
+      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+      "date": "2026-08-24T14:34:59.000Z",
+      "excerpt": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
+      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
+      "date": "2026-08-24T14:00:00.000Z",
+      "excerpt": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
     },
     {
       "source": "Schneier on Security",
@@ -632,14 +704,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
       "date": "2026-08-21T21:07:20.000Z",
       "excerpt": "The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Apollo discloses data breach from ongoing wave of attacks hitting financial sector",
-      "link": "https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/",
-      "date": "2026-08-21T19:14:28.000Z",
-      "excerpt": "The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop ."
     },
     {
       "source": "Schneier on Security",
