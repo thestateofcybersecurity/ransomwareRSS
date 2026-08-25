@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:56:50.557Z",
+  "updated": "2026-08-25T10:55:55.691Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Sophos News",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Black Hat State of Security Vendors",
+      "link": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
+      "date": "2026-08-25T10:54:50.000Z",
+      "excerpt": "Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn’t directly mention AI or agents in their taglines, the effects of AI are everywhere. Multiple spaces (Identity, SaaS,…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+      "date": "2026-08-25T10:53:20.000Z",
+      "excerpt": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown",
+      "link": "https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/",
+      "date": "2026-08-25T10:30:00.000Z",
+      "excerpt": "A threat actor keeps spreading the WeedHack malware to Minecraft players despite its original infrastructure taken down in July"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Unpatched Zimbra servers are falling to CVE-2026-73570 attacks",
+      "link": "https://www.helpnetsecurity.com/2026/08/25/zimbra-cve-2026-73570-compromised/",
+      "date": "2026-08-25T10:03:28.000Z",
+      "excerpt": "At least 274 internet-facing Zimbra instances have been compromised by unknown attackers via CVE-2026-73570, the Shadowserver Foundation shared on Monday. About CVE-2026-73570 Zimbra Collaboration Suite (ZCS) is a communication and collaboration platform popular with…"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
+      "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
+      "date": "2026-08-25T10:00:57.000Z",
+      "excerpt": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution appeared first on Unit 42 ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+      "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+      "date": "2026-08-25T10:00:00.000Z",
+      "excerpt": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers – They Blind Defenders appeared first on SecurityWeek ."
+    },
     {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
@@ -442,14 +490,6 @@
       "excerpt": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Suspected Iran-linked attack knocked UK power plant offline for days",
-      "link": "https://www.helpnetsecurity.com/2026/08/24/uk-power-plant-cyberattack/",
-      "date": "2026-08-24T13:52:27.000Z",
-      "excerpt": "News that suspected Iranian hackers caused the shutdown of a British power plant broke over the weekend, raising the question of whether UK’s power grid and, indeed, the country’s critical infrastructure can fend off destructive cyber attacks. According to sources of UK news…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Doubloon Dredger Abuses Notion to Harvest Authentication Tokens",
@@ -530,14 +570,6 @@
       "excerpt": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-      "date": "2026-08-24T10:45:12.000Z",
-      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Criminal Deception in Silicon Valley",
@@ -546,28 +578,12 @@
       "excerpt": "Interesting paper : Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception , employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Personal Information Exposed in Apollo Global Data Breach",
-      "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
-      "date": "2026-08-24T10:08:42.000Z",
-      "excerpt": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant",
       "link": "https://www.infosecurity-magazine.com/news/cni-iranian-attack-shuts-uk-power/",
       "date": "2026-08-24T09:01:00.000Z",
       "excerpt": "Experts argue Iranian cyber-attack on UK power plant lays bare frailty of critical national infrastructure"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Researchers Uncover Thousands of Leaked AWS Keys",
-      "link": "https://www.infosecurity-magazine.com/news/researchers-thousands-eaked-aws/",
-      "date": "2026-08-24T08:05:00.000Z",
-      "excerpt": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -802,6 +818,14 @@
       "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
     },
     {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
+      "date": "2026-08-19T17:30:00.000Z",
+      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
+    },
+    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "ICE Collecting DNA Samples",
@@ -842,6 +866,14 @@
       "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
     },
     {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
+      "date": "2026-08-18T17:08:28.000Z",
+      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
+    },
+    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Unconventional Thought Is the Differentiator",
@@ -856,14 +888,6 @@
       "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
       "date": "2026-08-18T13:00:04.000Z",
       "excerpt": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "LLMs and Contextual Integrity",
-      "link": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
-      "date": "2026-08-18T10:40:16.000Z",
-      "excerpt": "I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. “ CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs “: Abstract: Large Language Models (LLMs) increasingly…"
     }
   ]
 }
