@@ -5,8 +5,112 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 13:24:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:10:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/33280</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33280</guid>
+      <pubDate>Tue, 25 Aug 2026 15:03:33 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Is Cyber Facing an Affordability Crisis?</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</guid>
+      <pubDate>Tue, 25 Aug 2026 14:53:13 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Hospital operator Nutex Health says data stolen in cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:44:16 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>ZeroTokens Phishing Platform Steers Attacks in Real Time</title>
+      <link>https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:30:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Interpol targets Black Axe’s illicit financial web in latest international sting</title>
+      <link>https://cyberscoop.com/interpol-operation-jackal-iv-black-axe-arrests/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/interpol-operation-jackal-iv-black-axe-arrests/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:25:51 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The multi-country sting targeted Black Axe financial networks, seizing millions in assets and uncovering Crime-as-a-Service infrastructure across four continents. The post Interpol targets Black Axe’s illicit financial web in latest international sting appeared first on… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</title>
+      <link>https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:11:59 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw</title>
+      <link>https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</guid>
+      <pubDate>Tue, 25 Aug 2026 14:07:37 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>From Fake Workers to Account Recovery: The Growing Identity Verification Risk</title>
+      <link>https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:01:11 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>INTERPOL crackdown on West African crime rings uncovers troubling new trend</title>
+      <link>https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/</guid>
+      <pubDate>Tue, 25 Aug 2026 14:01:06 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Police across 22 countries arrested 58 people and identified 263 suspects during an eight-month INTERPOL operation targeting West African organized crime groups. Suspects detained in an operation targeting West African crime groups (Source: INTERPOL) Operation Jackal IV ran from… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Ukraine to give Britain access to battlefield data to train AI</title>
+      <link>https://therecord.media/ukraine-uk-ai-drone-data</link>
+      <guid isPermaLink="false">https://therecord.media/ukraine-uk-ai-drone-data</guid>
+      <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems. (via The Record)</description>
+    </item>
+    <item>
+      <title>Microsoft PowerToys adds Alt+Tab-style switching for an app&#39;s windows</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/</guid>
+      <pubDate>Tue, 25 Aug 2026 13:51:58 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft updated its Windows PowerToys toolset with a new utility dubbed &quot;Window Hopper&quot; that lets users switch between an app&#39;s windows more quickly. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</title>
+      <link>https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</guid>
+      <pubDate>Tue, 25 Aug 2026 13:33:12 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android</title>
+      <link>https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</guid>
+      <pubDate>Tue, 25 Aug 2026 13:19:41 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Citrix UniconOS dual boot turns Windows endpoints into their own recovery device</title>
       <link>https://www.helpnetsecurity.com/2026/08/25/citrix-uniconos-dual-boot-endpoint-resiliency-capability/</link>
@@ -62,6 +166,14 @@
       <pubDate>Tue, 25 Aug 2026 12:45:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret. (via The Record)</description>
+    </item>
+    <item>
+      <title>Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode</title>
+      <link>https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</guid>
+      <pubDate>Tue, 25 Aug 2026 12:43:51 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck&#39;s CVE Numbering Authority (CNA) record. The CNA… (via The Hacker News)</description>
     </item>
     <item>
       <title>Fake OpenAI Codex download tricks macOS users into installing malware</title>
@@ -232,14 +344,6 @@
       <description>The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data</title>
-      <link>https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html</guid>
-      <pubDate>Tue, 25 Aug 2026 06:12:35 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>AI supply chain risk is showing up in developer workflows first</title>
       <link>https://www.helpnetsecurity.com/2026/08/25/jaushin-lee-ai-zentera-systems-supply-chain-risk/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/jaushin-lee-ai-zentera-systems-supply-chain-risk/</guid>
@@ -254,14 +358,6 @@
       <pubDate>Tue, 25 Aug 2026 05:33:25 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Truffle Security announced TruffleHog AWS Analyze, a new addition to TruffleHog Enterprise. TruffleHog AWS Analyze enriches found AWS credentials to highlight permissions and access levels, so a security team can assess the risk and prioritize its response. TruffleHog Enterprise… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>HOL Guard: Open-source antivirus for AI agents</title>
-      <link>https://www.helpnetsecurity.com/2026/08/25/hol-guard-open-source-antivirus-ai-agents/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/hol-guard-open-source-antivirus-ai-agents/</guid>
-      <pubDate>Tue, 25 Aug 2026 05:30:35 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>HOL Guard is a free, open-source tool that sits between an AI assistant and the computer it runs on. When the assistant tries something risky, the tool pauses it and asks you first. It installs in about a minute, runs on your own machine, and a typical check takes under 50… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)</title>
@@ -352,46 +448,6 @@
       <description>Under the bill, FERC would consider cyber threats from quantum computers and post-quantum cryptography in its reliability standards for the energy sector. The post Bipartisan Senate bill aims to prepare energy sector for Q-Day appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Indian man who fled US arrested on charges he helped scammers siphon $7.5 million from the elderly</title>
-      <link>https://therecord.media/cyber-scam-indian-arrested</link>
-      <guid isPermaLink="false">https://therecord.media/cyber-scam-indian-arrested</guid>
-      <pubDate>Mon, 24 Aug 2026 18:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>A Jersey City resident is facing charges for his alleged role as a money mule for overseas cyberscammers who stole millions from elderly New Yorkers. (via The Record)</description>
-    </item>
-    <item>
-      <title>TikTok reaches $400M settlement with US over COPPA violations</title>
-      <link>https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/</guid>
-      <pubDate>Mon, 24 Aug 2026 17:56:24 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children&#39;s Online Privacy Protection Act (COPPA). [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt</title>
-      <link>https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html</guid>
-      <pubDate>Mon, 24 Aug 2026 17:41:30 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning</title>
-      <link>https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html</guid>
-      <pubDate>Mon, 24 Aug 2026 17:41:11 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited</title>
-      <link>https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/</guid>
-      <pubDate>Mon, 24 Aug 2026 17:38:21 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>New Guidance Helps Businesses Verify Quantum-Safe Hardware Claims</title>
       <link>https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/guidance-verify-quantum-safe/</guid>
@@ -406,14 +462,6 @@
       <pubDate>Mon, 24 Aug 2026 15:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>ReliaQuest confirms failed data-theft attack after ShinyHunters breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:17:16 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Tricky &#39;SynkLoader&#39; Multitool May Herald Ransomware</title>
@@ -432,14 +480,6 @@
       <description>Every time you add an extension or plugin to your browser, there&#39;s a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There&#39;s a chance that you have just handed a complete stranger access… (via Graham Cluley)</description>
     </item>
     <item>
-      <title>Fake Codex Download Uses Google Sites to Deliver macOS Malware</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fake-codex-download-google-sites/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Fake Codex pages used Google Sites, sponsored search and ClickFix to target Mac users (via Infosecurity Magazine)</description>
-    </item>
-    <item>
       <title>ToxicPanda Banking Trojan Matures Into Enterprise Threat</title>
       <link>https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</link>
       <guid isPermaLink="false">https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</guid>
@@ -448,28 +488,12 @@
       <description>The latest version of the Android malware has new features that expand its global reach and put more than users&#39; financial applications at risk. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Microsoft Teams now lets admins block external bots from meetings</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/</guid>
-      <pubDate>Mon, 24 Aug 2026 14:00:19 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>The Vulnerability Gap: Why Discovery Is Outrunning Repair</title>
       <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</link>
       <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</guid>
       <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Hired for One Job, Judged on Another: The CISO’s Real Problem</title>
-      <link>https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/</guid>
-      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Gunra ransomware: what you need to know</title>
@@ -584,14 +608,6 @@
       <description>Sen. Ron Wyden and Rep. Greg Casar want a GAO probe on the government’s use of spyware and other sophisticated hacking tools and authorities. The post Lawmakers seek watchdog review of federal hacking of Americans appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Calling on Cyber Pros to Help Defend City Hall</title>
-      <link>https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Government agencies with smaller budgets need support — and here&#39;s how you can help. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>More Incidents of AIs Going Rogue in Cybersecurity Challenges</title>
       <link>https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html</guid>
@@ -656,14 +672,6 @@
       <description>OpenAI presented details of its AI’s model’s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It’s really interesting to read through—and really impressive cyberoffense work. (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Retail theft bill spurs ‘very large and very dangerous’ surveillance fears</title>
-      <link>https://cyberscoop.com/corca-retail-theft-bill-ice-surveillance/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/corca-retail-theft-bill-ice-surveillance/</guid>
-      <pubDate>Thu, 20 Aug 2026 15:27:24 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The Combating Organized Retail Crime Act has won a big House vote and could be on the fast track in the Senate — and supporters say it could help fight cybercrime. The post Retail theft bill spurs ‘very large and very dangerous’ surveillance fears appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
       <title>Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)</title>
       <link>https://isc.sans.edu/diary/rss/33266</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33266</guid>
@@ -678,14 +686,6 @@
       <pubDate>Thu, 20 Aug 2026 13:00:35 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Cryptographic Context Injection is only the latest way to break an LLM safety guardrail. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33264</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33264</guid>
-      <pubDate>Thu, 20 Aug 2026 12:45:32 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Microsoft Graph is a newer API that is meant to replace several others.&amp;#x26;#xc2;&amp;#x26;#xa0; OK, it&amp;#x26;#39;s at version 2.3.9, so it&amp;#x26;#39;s not all that new, but it&amp;#x26;#39;s new enough that lots of folks (and commercial tools) aren&amp;#x26;#39;t using it… (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Identity Abuse Through Trusted Communication Channels</title>
@@ -766,14 +766,6 @@
       <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Unconventional Thought Is the Differentiator</title>
-      <link>https://danielmiessler.com/blog/unconventional-thought-differentiator?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/unconventional-thought-differentiator?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Tue, 18 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>A rigid purple lattice of identical cells cracking and warping into warm organic curves around a single figure whose chest emits an irregular waveform/images/unconventional-thought-differentiator.webp/images/unconventional-thought-differentiator.webp I think one of the most… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>
