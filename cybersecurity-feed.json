@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:05:22.419Z",
+  "updated": "2026-08-25T19:50:45.325Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Troy Hunt",
@@ -128,6 +128,14 @@
       "link": "https://cyberscoop.com/arrested-man-allegedly-impersonated-nsa-elite-hacking-unit-supreme-court-chief-justice/",
       "date": "2026-08-25T18:43:21.000Z",
       "excerpt": "Joshua Culver, aka “Maverick Young,” is accused of imitating the head of the NSA’s Tailored Access Operations unit during a time it wasn’t called that. The post Arrested man allegedly impersonated NSA elite hacking unit, Supreme Court chief justice appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "date": "2026-08-25T18:17:17.000Z",
+      "excerpt": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial…"
     },
     {
       "source": "CyberScoop",
@@ -474,14 +482,6 @@
       "excerpt": "The US has sanctioned individuals connected to hacking-for-hire group the Mabna Institute"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "date": "2026-08-25T08:34:07.000Z",
-      "excerpt": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
@@ -602,6 +602,14 @@
       "excerpt": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features."
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
+      "date": "2026-08-24T15:00:02.000Z",
+      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
+    },
+    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
@@ -616,6 +624,14 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
       "date": "2026-08-24T14:00:00.000Z",
       "excerpt": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Gunra ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
+      "date": "2026-08-24T12:52:37.000Z",
+      "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
     },
     {
       "source": "Schneier on Security",
@@ -802,6 +818,14 @@
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #481: Never say this to a robot dog",
+      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
+      "date": "2026-08-19T23:10:23.000Z",
+      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
+    },
+    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
@@ -818,6 +842,14 @@
       "excerpt": "ICE collected nearly a million DNA samples last year."
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer",
+      "date": "2026-08-19T07:26:50.000Z",
+      "excerpt": "When Cameron Curry discovered that his contract as a data analyst wasn't going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.…"
+    },
+    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "I'm Worried About a Prompt Injection Worm",
@@ -832,14 +864,6 @@
       "link": "https://www.sophos.com/en-us/blog/fake-ai-real-malware-attackers-impersonating-ai-brands",
       "date": "2026-08-19T00:00:00.000Z",
       "excerpt": "A year of MDR casework shows attackers repeatedly exploiting demand for AI tools"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
-      "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
-      "date": "2026-08-18T19:05:33.000Z",
-      "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
     }
   ]
 }
