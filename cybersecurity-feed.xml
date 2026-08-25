@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 17:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:50:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Water sector passes, government sector fails attempts to spot and halt simulated CISA attack</title>
+      <link>https://cyberscoop.com/cisa-red-team-report-government-water-cybersecurity/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/cisa-red-team-report-government-water-cybersecurity/</guid>
+      <pubDate>Tue, 25 Aug 2026 17:11:33 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Agency red-teamers got initial access to both organizations they tested, but one quickly isolated and shut down the attempts from going further. The post Water sector passes, government sector fails attempts to spot and halt simulated CISA attack appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
     <item>
       <title>Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation</title>
       <link>https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/</link>
@@ -640,14 +648,6 @@
       <description>One thing that folks never seem to do after &quot;going to the CLOOOOUUUUD&quot; is to look at their logs, logs that they would have checked daily when things were on premise. (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent extremist</title>
-      <link>https://cyberscoop.com/764-member-sentenced-longest-prison-sentence-kyle-spitze/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/764-member-sentenced-longest-prison-sentence-kyle-spitze/</guid>
-      <pubDate>Thu, 20 Aug 2026 18:34:23 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Kyle Spitze led an offshoot of the violent extremist collective and victimized dozens of girls, coercing them to degrade themselves under threats of doxing and swatting. The post Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent… (via CyberScoop)</description>
-    </item>
-    <item>
       <title>I Only Do Anything Once</title>
       <link>https://danielmiessler.com/blog/i-only-do-anything-once?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/i-only-do-anything-once?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
@@ -734,14 +734,6 @@
       <pubDate>Tue, 18 Aug 2026 19:05:33 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations&#39; Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August… (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
-      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
     </item>
   </channel>
 </rss>

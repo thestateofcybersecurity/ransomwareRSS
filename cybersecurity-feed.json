@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:01:20.428Z",
+  "updated": "2026-08-25T17:50:44.490Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Water sector passes, government sector fails attempts to spot and halt simulated CISA attack",
+      "link": "https://cyberscoop.com/cisa-red-team-report-government-water-cybersecurity/",
+      "date": "2026-08-25T17:11:33.000Z",
+      "excerpt": "Agency red-teamers got initial access to both organizations they tested, but one quickly isolated and shut down the attempts from going further. The post Water sector passes, government sector fails attempts to spot and halt simulated CISA attack appeared first on CyberScoop ."
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -746,14 +754,6 @@
       "excerpt": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent extremist",
-      "link": "https://cyberscoop.com/764-member-sentenced-longest-prison-sentence-kyle-spitze/",
-      "date": "2026-08-20T18:34:23.000Z",
-      "excerpt": "Kyle Spitze led an offshoot of the violent extremist collective and victimized dozens of girls, coercing them to degrade themselves under threats of doxing and swatting. The post Early 764 member sentenced to 77 years, longest prison term to date for a nihilistic violent…"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "I Only Do Anything Once",
@@ -840,14 +840,6 @@
       "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
       "date": "2026-08-18T19:05:33.000Z",
       "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "date": "2026-08-18T17:08:28.000Z",
-      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
     }
   ]
 }
