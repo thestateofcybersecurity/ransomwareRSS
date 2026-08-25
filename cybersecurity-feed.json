@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T09:03:59.901Z",
+  "updated": "2026-08-25T09:56:50.557Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -48,8 +48,8 @@
     },
     {
       "name": "SANS Internet Storm Center",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Unit 42",
@@ -73,8 +73,8 @@
     },
     {
       "name": "Microsoft Security Blog",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Sophos News",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "ReliaQuest Rejects Compromise Claims After ShinyHunters Incident",
+      "link": "https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/",
+      "date": "2026-08-25T09:30:00.000Z",
+      "excerpt": "ReliaQuest has detailed a social engineering attack linked to ShinyHunters, denying reports that the threat actor successfully compromised its systems"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "ShinyHunters taunts ReliaQuest after its own employee falls for social engineering attack",
+      "link": "https://www.helpnetsecurity.com/2026/08/25/reliaquest-breach-social-engineering/",
+      "date": "2026-08-25T09:24:16.000Z",
+      "excerpt": "Cybersecurity company ReliaQuest has confirmed that one of its own employees fell for a social engineering attack, handing attackers a password and a brief window into the company’s identity system. The admission came after the extortion group ShinyHunters posted screenshots on…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks",
+      "link": "https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/",
+      "date": "2026-08-25T09:10:00.000Z",
+      "excerpt": "The US has sanctioned individuals connected to hacking-for-hire group the Mabna Institute"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+      "date": "2026-08-25T08:34:07.000Z",
+      "excerpt": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
+      "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
+      "date": "2026-08-25T08:30:00.000Z",
+      "excerpt": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China. The post Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff appeared first on SecurityWeek ."
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -176,6 +216,14 @@
       "link": "https://www.helpnetsecurity.com/2026/08/25/cybersecurity-jobs-available-right-now-august-25-2026/",
       "date": "2026-08-25T04:00:18.000Z",
       "excerpt": "Specialist Compliance Security AT&T | USA | On-site – View job details As a Specialist Compliance Security, you will serve as AT&T’s liaison for law enforcement, first responders, and emergency personnel nationwide. Respond 24×7 to emergency requests, process subpoenas,…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)",
+      "link": "https://isc.sans.edu/diary/rss/33278",
+      "date": "2026-08-25T02:00:03.000Z",
+      "excerpt": ""
     },
     {
       "source": "The Record",
@@ -466,28 +514,12 @@
       "excerpt": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability,…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Cybersecurity job ads demanding AI skills double in a year",
-      "link": "https://www.helpnetsecurity.com/2026/08/24/cybersecurity-job-ads-ai-skills-research/",
-      "date": "2026-08-24T11:53:54.000Z",
-      "excerpt": "Job postings asking for AI skills in cybersecurity have doubled in a single year in G7 countries according to new research from the Cisco-founded AI Workforce Consortium. Analysis from recruitment firms Cornerstone and Indeed covering 24 months, from April 2024 to March 2026,…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
       "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
       "date": "2026-08-24T11:51:36.000Z",
       "excerpt": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-      "date": "2026-08-24T11:30:00.000Z",
-      "excerpt": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted…"
     },
     {
       "source": "SecurityWeek",
@@ -522,14 +554,6 @@
       "excerpt": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Rethinking Application Security for the AI Era",
-      "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
-      "date": "2026-08-24T10:00:00.000Z",
-      "excerpt": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Wake-Up Call for CNI After Iranian Attack Shuts Down UK Power Plant",
@@ -546,12 +570,28 @@
       "excerpt": "Truffle Security says it found over 9000 publicly accessible and active AWS key pairs"
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "DOUBLECUP's PNG Payload, (Mon, Aug 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33274",
+      "date": "2026-08-24T07:23:16.000Z",
+      "excerpt": "New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&#x26;#39;t use real steganography:"
+    },
+    {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
       "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
       "link": "https://www.troyhunt.com/weekly-update-518/",
       "date": "2026-08-24T04:19:51.000Z",
       "excerpt": "I genuinely think I've nailed the IoT door lock situation! Well, Ubiquiti has, but I think I've worked out how to put it all into a residential house and have it make sense. There are a few basic tenets: Main power (never have to rely on"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, August 24th, 2026 https://isc.sans.edu/podcastdetail/10064, (Mon, Aug 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33276",
+      "date": "2026-08-24T02:00:03.000Z",
+      "excerpt": ""
     },
     {
       "source": "Troy Hunt",
@@ -642,22 +682,6 @@
       "excerpt": "Government agencies with smaller budgets need support — and here's how you can help."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "North Korean Hackers Tied to Rust Supply Chain Attack",
-      "link": "https://www.infosecurity-magazine.com/news/north-korean-rust-supply-chain/",
-      "date": "2026-08-21T12:40:00.000Z",
-      "excerpt": "Cybersecurity researchers have linked a malicious backdoor in compromised Rust packages to previous North Korean supply chain attacks"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "New Agent Tesla Malware Variant Boosts Evasion Capabilities",
-      "link": "https://www.infosecurity-magazine.com/news/agent-tesla-malware-evasion/",
-      "date": "2026-08-21T12:00:00.000Z",
-      "excerpt": "An Agent Tesla v4 malware campaign used novel emoji-based code obfuscation to evade detection, KnowBe4 has revealed"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
@@ -672,6 +696,30 @@
       "link": "https://securelist.com/android-head-unit-malware/121106/",
       "date": "2026-08-21T08:00:29.000Z",
       "excerpt": "Kaspersky expert has discovered new Android malware designed to serve ads and build a proxy botnet. It's delivered through legitimate software for DoFun head units."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Who Got Missed in the MFA Rollout? More Powershell + Graph + Entra scripting!, (Fri, Aug 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33272",
+      "date": "2026-08-21T02:47:00.000Z",
+      "excerpt": "In every MFA rollout, there will come a time where you think you are closing in on \"done\", and some automation to list what&#x26;#39;s left would be handy. Something quicker than scrolling through the web interface through thousands of accounts ..."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Friday, August 21st, 2026 https://isc.sans.edu/podcastdetail/10062, (Fri, Aug 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33270",
+      "date": "2026-08-21T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33268",
+      "date": "2026-08-21T01:49:18.000Z",
+      "excerpt": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise."
     },
     {
       "source": "CyberScoop",
@@ -706,12 +754,28 @@
       "excerpt": "The Combating Organized Retail Crime Act has won a big House vote and could be on the fast track in the Senate — and supporters say it could help fight cybercrime. The post Retail theft bill spurs ‘very large and very dangerous’ surveillance fears appeared first on CyberScoop ."
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Using Microsoft Graph and Powershell - Risk Detection Commands, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33266",
+      "date": "2026-08-20T13:09:50.000Z",
+      "excerpt": "Building on the last diary on Using MS Graph and Powershell, let&#x26;#39;s look at \"Risky\" logins."
+    },
+    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Grok exfiltrates user data when malicious instructions are encrypted",
       "link": "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
       "date": "2026-08-20T13:00:35.000Z",
       "excerpt": "Cryptographic Context Injection is only the latest way to break an LLM safety guardrail."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Using Microsoft Graph and Powershell to Mine for Information - Stale Accounts and Licenses, (Thu, Aug 20th)",
+      "link": "https://isc.sans.edu/diary/rss/33264",
+      "date": "2026-08-20T12:45:32.000Z",
+      "excerpt": "Microsoft Graph is a newer API that is meant to replace several others.&#x26;#xc2;&#x26;#xa0; OK, it&#x26;#39;s at version 2.3.9, so it&#x26;#39;s not all that new, but it&#x26;#39;s new enough that lots of folks (and commercial tools) aren&#x26;#39;t using it…"
     },
     {
       "source": "Unit 42",
@@ -736,14 +800,6 @@
       "link": "https://grahamcluley.com/smashing-security-podcast-481/",
       "date": "2026-08-19T23:10:23.000Z",
       "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "date": "2026-08-19T17:30:00.000Z",
-      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
     },
     {
       "source": "Schneier on Security",
@@ -784,14 +840,6 @@
       "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
       "date": "2026-08-18T19:05:33.000Z",
       "excerpt": "In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations' Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/",
-      "date": "2026-08-18T17:08:28.000Z",
-      "excerpt": "MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft…"
     },
     {
       "source": "Daniel Miessler",
