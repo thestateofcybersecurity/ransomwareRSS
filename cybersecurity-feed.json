@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T19:50:45.325Z",
+  "updated": "2026-08-25T20:51:15.501Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -13,8 +13,8 @@
     },
     {
       "name": "Dark Reading",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "SecurityWeek",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "58 arrested in international cybercrime crackdown",
+      "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
+      "date": "2026-08-25T20:33:00.000Z",
+      "excerpt": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "date": "2026-08-25T20:25:26.000Z",
+      "excerpt": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]"
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -176,14 +192,6 @@
       "link": "https://isc.sans.edu/diary/rss/33280",
       "date": "2026-08-25T15:03:33.000Z",
       "excerpt": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Is Cyber Facing an Affordability Crisis?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-      "date": "2026-08-25T14:53:13.000Z",
-      "excerpt": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security."
     },
     {
       "source": "BleepingComputer",
@@ -514,44 +522,12 @@
       "excerpt": ""
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "US sanctions Iranian cyber actors as UK discloses power plant attack",
-      "link": "https://therecord.media/iran-cyberattacks-us-uk",
-      "date": "2026-08-24T23:00:00.000Z",
-      "excerpt": "The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "SCOTUS tosses one of two injunctions against Trump USPS mail-in ballot rules",
       "link": "https://cyberscoop.com/supreme-court-ruling-usps-mail-in-ballots/",
       "date": "2026-08-24T22:47:08.000Z",
       "excerpt": "The 6-3 decision dismisses one lawsuit brought by states, saying they have no standing to sue because the disputed sections “neither requires nor forbids anything of anyone outside the executive branch.” The post SCOTUS tosses one of two injunctions against Trump USPS mail-in…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-      "date": "2026-08-24T21:46:55.000Z",
-      "excerpt": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "date": "2026-08-24T21:14:30.000Z",
-      "excerpt": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
-      "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
-      "date": "2026-08-24T20:51:27.000Z",
-      "excerpt": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer."
     },
     {
       "source": "Ars Technica Security",
@@ -592,46 +568,6 @@
       "link": "https://www.infosecurity-magazine.com/news/nist-risks-multi-cloud/",
       "date": "2026-08-24T15:30:00.000Z",
       "excerpt": "NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-      "date": "2026-08-24T15:02:32.000Z",
-      "excerpt": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
-      "date": "2026-08-24T15:00:02.000Z",
-      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
-      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
-      "date": "2026-08-24T14:34:59.000Z",
-      "excerpt": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-      "date": "2026-08-24T14:00:00.000Z",
-      "excerpt": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Gunra ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
-      "date": "2026-08-24T12:52:37.000Z",
-      "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
     },
     {
       "source": "Schneier on Security",
@@ -698,28 +634,12 @@
       "excerpt": "The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-      "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-      "date": "2026-08-21T20:24:42.000Z",
-      "excerpt": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Apollo discloses data breach from ongoing wave of attacks hitting financial sector",
       "link": "https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/",
       "date": "2026-08-21T19:14:28.000Z",
       "excerpt": "The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
-      "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
-      "date": "2026-08-21T17:36:53.000Z",
-      "excerpt": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons."
     },
     {
       "source": "Schneier on Security",
@@ -818,14 +738,6 @@
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #481: Never say this to a robot dog",
-      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
-      "date": "2026-08-19T23:10:23.000Z",
-      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
@@ -840,14 +752,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
       "date": "2026-08-19T10:46:37.000Z",
       "excerpt": "ICE collected nearly a million DNA samples last year."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer",
-      "date": "2026-08-19T07:26:50.000Z",
-      "excerpt": "When Cameron Curry discovered that his contract as a data analyst wasn't going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.…"
     },
     {
       "source": "Daniel Miessler",

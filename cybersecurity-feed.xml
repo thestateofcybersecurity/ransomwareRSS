@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 19:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:51:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>58 arrested in international cybercrime crackdown</title>
+      <link>https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol</link>
+      <guid isPermaLink="false">https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol</guid>
+      <pubDate>Tue, 25 Aug 2026 20:33:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe. (via The Record)</description>
+    </item>
+    <item>
+      <title>AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes</title>
+      <link>https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/</guid>
+      <pubDate>Tue, 25 Aug 2026 20:25:26 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Employee benefits platform Paylogix says hackers stole financial and health data</title>
       <link>https://therecord.media/paylogix-cyberattack-akira-ransomware</link>
@@ -70,14 +86,6 @@
       <pubDate>Tue, 25 Aug 2026 15:03:33 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Is Cyber Facing an Affordability Crisis?</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-</guid>
-      <pubDate>Tue, 25 Aug 2026 14:53:13 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security. (via Dark Reading)</description>
     </item>
     <item>
       <title>Hospital operator Nutex Health says data stolen in cyberattack</title>
@@ -408,44 +416,12 @@
       <description>via SANS Internet Storm Center</description>
     </item>
     <item>
-      <title>US sanctions Iranian cyber actors as UK discloses power plant attack</title>
-      <link>https://therecord.media/iran-cyberattacks-us-uk</link>
-      <guid isPermaLink="false">https://therecord.media/iran-cyberattacks-us-uk</guid>
-      <pubDate>Mon, 24 Aug 2026 23:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The U.S. sanctioned several Iranian nationals for cyberattacks on critical infrastructure just days after reports emerged of a cyber intrusion on a small power plant in the United Kingdom. (via The Record)</description>
-    </item>
-    <item>
       <title>SCOTUS tosses one of two injunctions against Trump USPS mail-in ballot rules</title>
       <link>https://cyberscoop.com/supreme-court-ruling-usps-mail-in-ballots/</link>
       <guid isPermaLink="false">https://cyberscoop.com/supreme-court-ruling-usps-mail-in-ballots/</guid>
       <pubDate>Mon, 24 Aug 2026 22:47:08 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The 6-3 decision dismisses one lawsuit brought by states, saying they have no standing to sue because the disputed sections “neither requires nor forbids anything of anyone outside the executive branch.” The post SCOTUS tosses one of two injunctions against Trump USPS mail-in… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Exploited Zimbra Flaw Highlights Shrinking Window to Patch</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</guid>
-      <pubDate>Mon, 24 Aug 2026 21:46:55 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user&#39;s communications. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Unpatched Calix flaw lets hackers bypass NAT to expose internal devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/</guid>
-      <pubDate>Mon, 24 Aug 2026 21:14:30 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Foul Language: WordlistLoader Disguises Malware as Ordinary Text</title>
-      <link>https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</link>
-      <guid isPermaLink="false">https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</guid>
-      <pubDate>Mon, 24 Aug 2026 20:51:27 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer. (via Dark Reading)</description>
     </item>
     <item>
       <title>Inaudible sounds used to fingerprint browsers catch AliExpress red-handed</title>
@@ -486,46 +462,6 @@
       <pubDate>Mon, 24 Aug 2026 15:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>NIST has set out 23 novel challenges that arise in multi-cloud environments and has encouraged the cyber community to find solutions (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Tricky &#39;SynkLoader&#39; Multitool May Herald Ransomware</title>
-      <link>https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware</link>
-      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware</guid>
-      <pubDate>Mon, 24 Aug 2026 15:02:32 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials</link>
-      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:02 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Every time you add an extension or plugin to your browser, there&#39;s a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There&#39;s a chance that you have just handed a complete stranger access… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>ToxicPanda Banking Trojan Matures Into Enterprise Threat</title>
-      <link>https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</link>
-      <guid isPermaLink="false">https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</guid>
-      <pubDate>Mon, 24 Aug 2026 14:34:59 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The latest version of the Android malware has new features that expand its global reach and put more than users&#39; financial applications at risk. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>The Vulnerability Gap: Why Discovery Is Outrunning Repair</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair</guid>
-      <pubDate>Mon, 24 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Gunra ransomware: what you need to know</title>
-      <link>https://www.fortra.com/blog/gunra-ransomware-what-you-need-know</link>
-      <guid isPermaLink="false">https://www.fortra.com/blog/gunra-ransomware-what-you-need-know</guid>
-      <pubDate>Mon, 24 Aug 2026 12:52:37 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog. (via Graham Cluley)</description>
     </item>
     <item>
       <title>Criminal Deception in Silicon Valley</title>
@@ -592,28 +528,12 @@
       <description>The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>How an Emerging Industrial Protocol Family Could Put OT at Risk</title>
-      <link>https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk</link>
-      <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk</guid>
-      <pubDate>Fri, 21 Aug 2026 20:24:42 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Apollo discloses data breach from ongoing wave of attacks hitting financial sector</title>
       <link>https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</link>
       <guid isPermaLink="false">https://cyberscoop.com/apollo-discloses-data-breach-social-engineering-attack/</guid>
       <pubDate>Fri, 21 Aug 2026 19:14:28 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The private equity firm said attackers broke into some of its cloud platforms during a five-day period in early July, compromising sensitive personal data. The post Apollo discloses data breach from ongoing wave of attacks hitting financial sector appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>OWASP Flags Top AI Skill Risks in New Security Blueprint</title>
-      <link>https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint</link>
-      <guid isPermaLink="false">https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint</guid>
-      <pubDate>Fri, 21 Aug 2026 17:36:53 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons. (via Dark Reading)</description>
     </item>
     <item>
       <title>AI Is Learning to Write Genetic Code</title>
@@ -712,14 +632,6 @@
       <description>A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Smashing Security podcast #481: Never say this to a robot dog</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-481/</link>
-      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-481/</guid>
-      <pubDate>Wed, 19 Aug 2026 23:10:23 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google&#39;s AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room… (via Graham Cluley)</description>
-    </item>
-    <item>
       <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
@@ -734,14 +646,6 @@
       <pubDate>Wed, 19 Aug 2026 10:46:37 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>ICE collected nearly a million DNA samples last year. (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Prison for data analyst who tried to extort $2.5 million from his employer</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer</link>
-      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer</guid>
-      <pubDate>Wed, 19 Aug 2026 07:26:50 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>When Cameron Curry discovered that his contract as a data analyst wasn&#39;t going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.… (via Graham Cluley)</description>
     </item>
     <item>
       <title>I&#39;m Worried About a Prompt Injection Worm</title>
