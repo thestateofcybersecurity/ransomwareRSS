@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 25 Aug 2026 04:59:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:52:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>TruffleHog AWS Analyze reduces remediation time on leaked AWS credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/08/25/trufflehog-aws-analyze-leaked-credentials/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/trufflehog-aws-analyze-leaked-credentials/</guid>
+      <pubDate>Tue, 25 Aug 2026 05:33:25 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Truffle Security announced TruffleHog AWS Analyze, a new addition to TruffleHog Enterprise. TruffleHog AWS Analyze enriches found AWS credentials to highlight permissions and access levels, so a security team can assess the risk and prioritize its response. TruffleHog Enterprise… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>HOL Guard: Open-source antivirus for AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/08/25/hol-guard-open-source-antivirus-ai-agents/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/hol-guard-open-source-antivirus-ai-agents/</guid>
+      <pubDate>Tue, 25 Aug 2026 05:30:35 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>HOL Guard is a free, open-source tool that sits between an AI assistant and the computer it runs on. When the assistant tries something risky, the tool pauses it and asks you first. It installs in about a minute, runs on your own machine, and a typical check takes under 50… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>The cybercrime supply chain has five stages, each with a price</title>
+      <link>https://www.helpnetsecurity.com/2026/08/25/cybercrime-supply-chain-video/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/cybercrime-supply-chain-video/</guid>
+      <pubDate>Tue, 25 Aug 2026 05:00:15 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security video, Chris Nyhuis, CEO at Vigilant, explains why the picture of a lone ransomware attacker is about 15 years out of date. He walks through the cybercrime supply chain and the five businesses inside it: harvesters who run infostealer malware, brokers… (via Help Net Security)</description>
+    </item>
     <item>
       <title>New TCG guidance gives buyers a way to test PQC-ready TPM claims</title>
       <link>https://www.helpnetsecurity.com/2026/08/25/trusted-computing-group-pqc-ready-tpm/</link>
@@ -392,14 +416,6 @@
       <description>As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Android car head units infected with proxy botnet malware through built-in software updaters</title>
-      <link>https://www.helpnetsecurity.com/2026/08/24/android-malware-car-head-unit-badbox/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/24/android-malware-car-head-unit-badbox/</guid>
-      <pubDate>Mon, 24 Aug 2026 09:51:16 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A newly discovered Android malware, distributed through the built-in updaters in affected Android-based car head units, turns infected devices into ad-fraud tools and nodes in a proxy botnet, Kaspersky has found. According to the researchers, it’s the first documented case of… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Iran-Linked Hackers Shut Down UK Power Plant for Four Days</title>
       <link>https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</link>
       <guid isPermaLink="false">https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/</guid>
@@ -438,22 +454,6 @@
       <pubDate>Mon, 24 Aug 2026 07:23:16 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>New malware that uses steganography always gets my attention, but I was disappointed when I looked at the latest DOUBLECUP write-up. It doesn&amp;#x26;#39;t use real steganography: (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Product showcase: AI Paper Trail shows the privacy cost of talking to AI</title>
-      <link>https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/24/product-showcase-ai-paper-trail/</guid>
-      <pubDate>Mon, 24 Aug 2026 05:30:33 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Proton’s AI Paper Trail is a free tool designed to make the information accumulated across AI conversations easier to see. It analyzes exported ChatGPT or Claude conversation data and produces a personal privacy report showing what can be inferred from those conversations.… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Fake bank websites play dead to evade security scanners</title>
-      <link>https://www.helpnetsecurity.com/2026/08/24/chameleon-seo-poisoning-fake-banking-websites-phishing/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/24/chameleon-seo-poisoning-fake-banking-websites-phishing/</guid>
-      <pubDate>Mon, 24 Aug 2026 05:00:18 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A phishing method, named Chameleon SEO Poisoning, that uses manipulated search results and cloaked fake banking websites to steal credentials while evading security scanners has been discovered by Fortra. The company’s threat intelligence unit, Fortra Intelligence and Research… (via Help Net Security)</description>
     </item>
     <item>
       <title>Weekly Update 518: IoT Doorlock Nirvana with UniFi</title>
@@ -696,14 +696,6 @@
       <description>At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google&#39;s AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room… (via Graham Cluley)</description>
     </item>
     <item>
-      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>ICE Collecting DNA Samples</title>
       <link>https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html</guid>
@@ -742,14 +734,6 @@
       <pubDate>Tue, 18 Aug 2026 19:05:33 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>In August 2026, the actor TheHatman claimed to have stolen large volume of credentials from organizations&#39; Microsoft Entra tenants. We provide guidance on mitigating large-scale credential attacks. The post Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August… (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Hunting MacSync Stealer infrastructure through behavioral pivots</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/18/hunting-macsync-stealer-infrastructure-through-behavioral-pivots/</guid>
-      <pubDate>Tue, 18 Aug 2026 17:08:28 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>MacSync Stealer rapidly rotates domains to evade detection, but its behavior remains consistent. Learn how Microsoft uncovered 30+ related domains using durable hunting pivots. The post Hunting MacSync Stealer infrastructure through behavioral pivots appeared first on Microsoft… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>Unconventional Thought Is the Differentiator</title>
