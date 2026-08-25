@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:49:38.851Z",
+  "updated": "2026-08-25T13:24:01.345Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,94 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Citrix UniconOS dual boot turns Windows endpoints into their own recovery device",
+      "link": "https://www.helpnetsecurity.com/2026/08/25/citrix-uniconos-dual-boot-endpoint-resiliency-capability/",
+      "date": "2026-08-25T13:19:05.000Z",
+      "excerpt": "Citrix announced Citrix UniconOS dual boot, a new endpoint resiliency capability designed to help organizations recover access to work in minutes — without spare hardware, central reimaging or prolonged business downtime. Available now as part of Citrix UniconOS Release 7 2607,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fideo Lens reveals connections across identities, accounts and devices",
+      "link": "https://www.helpnetsecurity.com/2026/08/25/fideo-lens-investigative-intelligence-platform/",
+      "date": "2026-08-25T13:13:06.000Z",
+      "excerpt": "Fideo Intelligence introduced Fideo Lens, an investigative intelligence platform that helps fraud and financial crime teams discover hidden relationships among identities, accounts, devices and behaviors. Starting with a single identity signal, investigators can use Fideo Lens…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "date": "2026-08-25T13:00:00.000Z",
+      "excerpt": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
+      "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
+      "date": "2026-08-25T13:00:00.000Z",
+      "excerpt": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Fake Recruiter Scams Target Corporate Credentials on Mobile",
+      "link": "https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/",
+      "date": "2026-08-25T13:00:00.000Z",
+      "excerpt": "RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
+      "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
+      "date": "2026-08-25T12:57:59.000Z",
+      "excerpt": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "UK government seeks powers to secretly block risky tech suppliers",
+      "link": "https://therecord.media/uk-technology-national-security",
+      "date": "2026-08-25T12:45:00.000Z",
+      "excerpt": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fake OpenAI Codex download tricks macOS users into installing malware",
+      "link": "https://www.helpnetsecurity.com/2026/08/25/fake-openai-codex-download-macos-users/",
+      "date": "2026-08-25T12:40:44.000Z",
+      "excerpt": "A malware campaign using a sponsored search ad and a fake OpenAI Codex download page to trick macOS users into pasting a malicious command into Terminal has been uncovered by Cato Networks. It’s a variation of ClickFix, a popular social engineering technique that persuades…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "date": "2026-08-25T12:04:02.000Z",
+      "excerpt": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "date": "2026-08-25T11:56:15.000Z",
+      "excerpt": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "date": "2026-08-25T11:52:43.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while…"
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Large DDoS attack knocks Norwegian public services offline",
@@ -122,12 +210,28 @@
       "excerpt": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online."
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "date": "2026-08-25T11:33:44.000Z",
+      "excerpt": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to…"
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
       "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
       "date": "2026-08-25T11:18:22.000Z",
       "excerpt": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "date": "2026-08-25T11:14:07.000Z",
+      "excerpt": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness.…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -264,30 +368,6 @@
       "link": "https://www.helpnetsecurity.com/2026/08/25/hol-guard-open-source-antivirus-ai-agents/",
       "date": "2026-08-25T05:30:35.000Z",
       "excerpt": "HOL Guard is a free, open-source tool that sits between an AI assistant and the computer it runs on. When the assistant tries something risky, the tool pauses it and asks you first. It installs in about a minute, runs on your own machine, and a typical check takes under 50…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "The cybercrime supply chain has five stages, each with a price",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/cybercrime-supply-chain-video/",
-      "date": "2026-08-25T05:00:15.000Z",
-      "excerpt": "In this Help Net Security video, Chris Nyhuis, CEO at Vigilant, explains why the picture of a lone ransomware attacker is about 15 years out of date. He walks through the cybercrime supply chain and the five businesses inside it: harvesters who run infostealer malware, brokers…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "New TCG guidance gives buyers a way to test PQC-ready TPM claims",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/trusted-computing-group-pqc-ready-tpm/",
-      "date": "2026-08-25T04:30:42.000Z",
-      "excerpt": "The Trusted Computing Group has published requirements that spell out what a Trusted Platform Module has to do before anyone calls it quantum-safe. A TPM is the chip that holds a machine’s keys and records measurements of its firmware, so the platform can later prove it has not…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Cybersecurity jobs available right now: August 25, 2026",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/cybersecurity-jobs-available-right-now-august-25-2026/",
-      "date": "2026-08-25T04:00:18.000Z",
-      "excerpt": "Specialist Compliance Security AT&T | USA | On-site – View job details As a Specialist Compliance Security, you will serve as AT&T’s liaison for law enforcement, first responders, and emergency personnel nationwide. Respond 24×7 to emergency requests, process subpoenas,…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -474,28 +554,12 @@
       "excerpt": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "date": "2026-08-24T14:32:10.000Z",
-      "excerpt": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Microsoft Teams now lets admins block external bots from meetings",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
       "date": "2026-08-24T14:00:19.000Z",
       "excerpt": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "South Korean startup platform breach exposes key management failures",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-      "date": "2026-08-24T14:00:10.000Z",
-      "excerpt": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]"
     },
     {
       "source": "Dark Reading",
@@ -514,76 +578,12 @@
       "excerpt": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek ."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Doubloon Dredger Abuses Notion to Harvest Authentication Tokens",
-      "link": "https://www.infosecurity-magazine.com/news/doubloon-dredger-notion/",
-      "date": "2026-08-24T13:00:00.000Z",
-      "excerpt": "Doubloon Dredger abused Notion and malicious PDFs to harvest Microsoft authentication tokens"
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Gunra ransomware: what you need to know",
       "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
       "date": "2026-08-24T12:52:37.000Z",
       "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
-      "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
-      "date": "2026-08-24T12:42:09.000Z",
-      "excerpt": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation. The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts appeared first on…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-      "date": "2026-08-24T12:40:21.000Z",
-      "excerpt": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "date": "2026-08-24T12:35:36.000Z",
-      "excerpt": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers infecting Android car systems to build proxy botnet",
-      "link": "https://therecord.media/android-botnet-china-hackers",
-      "date": "2026-08-24T12:15:00.000Z",
-      "excerpt": "A new strain of malware is being used to infect Android-based car systems, turning the devices into part of a botnet."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "91 Vulnerabilities Patched in Spring Application Framework",
-      "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
-      "date": "2026-08-24T11:58:28.000Z",
-      "excerpt": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "date": "2026-08-24T11:56:34.000Z",
-      "excerpt": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability,…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "date": "2026-08-24T11:51:36.000Z",
-      "excerpt": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information…"
     },
     {
       "source": "Schneier on Security",
@@ -880,14 +880,6 @@
       "link": "https://danielmiessler.com/blog/unconventional-thought-differentiator?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-18T14:00:00.000Z",
       "excerpt": "A rigid purple lattice of identical cells cracking and warping into warm organic curves around a single figure whose chest emits an irregular waveform/images/unconventional-thought-differentiator.webp/images/unconventional-thought-differentiator.webp I think one of the most…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
-      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
-      "date": "2026-08-18T13:00:04.000Z",
-      "excerpt": "Secret parameter allowed hackers to steal passwords when a target clicked on a link."
     }
   ]
 }
