@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T16:04:48.729Z",
+  "updated": "2026-08-25T17:01:20.428Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
+      "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
+      "date": "2026-08-25T16:23:45.000Z",
+      "excerpt": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation. The post Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "The patch window is collapsing: Why security needs a new control plane",
+      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
+      "date": "2026-08-25T16:00:00.000Z",
+      "excerpt": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Security Blog ."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -450,14 +466,6 @@
       "excerpt": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China. The post Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff appeared first on SecurityWeek ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
-      "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
-      "date": "2026-08-25T07:46:34.000Z",
-      "excerpt": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek ."
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "AI supply chain risk is showing up in developer workflows first",
@@ -578,14 +586,6 @@
       "excerpt": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features."
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
-      "date": "2026-08-24T15:00:02.000Z",
-      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
@@ -600,14 +600,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
       "date": "2026-08-24T14:00:00.000Z",
       "excerpt": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Gunra ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
-      "date": "2026-08-24T12:52:37.000Z",
-      "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
     },
     {
       "source": "Schneier on Security",
@@ -810,14 +802,6 @@
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #481: Never say this to a robot dog",
-      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
-      "date": "2026-08-19T23:10:23.000Z",
-      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
@@ -832,14 +816,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
       "date": "2026-08-19T10:46:37.000Z",
       "excerpt": "ICE collected nearly a million DNA samples last year."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/prison-data-analyst-extort-employer",
-      "date": "2026-08-19T07:26:50.000Z",
-      "excerpt": "When Cameron Curry discovered that his contract as a data analyst wasn't going to be renewed, he could have updated his LinkedIn profile. He could have started sending out his resume. But what the 27-year-old from Charlotte, North Carolina, did instead was turn to extortion.…"
     },
     {
       "source": "Daniel Miessler",
