@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T11:51:31.133Z",
+  "updated": "2026-08-26T13:29:39.659Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,86 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Ubiquiti patches three max severity security vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
+      "date": "2026-08-26T13:17:54.000Z",
+      "excerpt": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Four in Five AI Tools Run with No IT Oversight, New Research Finds",
+      "link": "https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/",
+      "date": "2026-08-26T13:00:00.000Z",
+      "excerpt": "Reco report reveals growing shadow AI problem and surge in vulnerability disclosures"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AnonyMousKIT phishing-as-a-service uses AI voice calls to steal iPhone passcodes",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/anonymouskit-phishing-stolen-iphone/",
+      "date": "2026-08-26T12:46:44.000Z",
+      "excerpt": "A phishing-as-a-service (PhaaS) platform called AnonyMousKIT is automating the theft of Apple ID credentials needed to remove Activation Lock from stolen iPhones, SOCRadar found. “By leveraging a critical flaw – the use of bare relative paths – the investigation unraveled a…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
+      "date": "2026-08-26T12:39:38.000Z",
+      "excerpt": "Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "date": "2026-08-26T12:06:28.000Z",
+      "excerpt": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Spyware for Babies",
+      "link": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
+      "date": "2026-08-26T12:05:52.000Z",
+      "excerpt": "The New York Times has a long article ( alt link ) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Average Cyber Insurance Losses Increase Despite Fewer Claims",
+      "link": "https://www.infosecurity-magazine.com/news/cyber-insurance-losses-increase/",
+      "date": "2026-08-26T12:00:00.000Z",
+      "excerpt": "Chubb reported that growing privacy litigation has contributed to surging cyber claim costs in the US"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
+      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
+      "date": "2026-08-26T11:55:00.000Z",
+      "excerpt": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "date": "2026-08-26T11:36:49.000Z",
+      "excerpt": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
+      "link": "https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month",
+      "date": "2026-08-26T11:33:40.000Z",
+      "excerpt": "The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials."
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
@@ -215,7 +295,7 @@
       "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
       "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
       "date": "2026-08-26T08:30:00.000Z",
-      "excerpt": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe."
+      "excerpt": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe."
     },
     {
       "source": "Dark Reading",
@@ -252,7 +332,7 @@
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
-      "title": "Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
+      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
       "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
       "date": "2026-08-26T07:12:55.000Z",
       "excerpt": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own…"
@@ -304,14 +384,6 @@
       "link": "https://www.helpnetsecurity.com/2026/08/26/ai-vulnerability-discovery-emerging-risks/",
       "date": "2026-08-26T05:00:52.000Z",
       "excerpt": "Risk managers, auditors and senior executives at 316 companies spent April and May ranking 20 threats they have not yet felt. AI discovery of cyber vulnerabilities came back first, according to Gartner. Three months earlier the same quarterly survey put information integrity…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Hottest cybersecurity open-source tools of the month: August 2026",
-      "link": "https://www.helpnetsecurity.com/2026/08/26/hottest-cybersecurity-open-source-tools-august-2026/",
-      "date": "2026-08-26T04:30:59.000Z",
-      "excerpt": "Presented here is a curated selection of noteworthy open-source cybersecurity solutions that have drawn recognition for their ability to enhance security postures across diverse settings. SkillSpector: NVIDIA’s open-source security scanner for AI agent skills SkillSpector is an…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -383,7 +455,7 @@
       "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
       "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
       "date": "2026-08-25T19:50:16.000Z",
-      "excerpt": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption."
+      "excerpt": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption."
     },
     {
       "source": "The Record",
@@ -400,14 +472,6 @@
       "link": "https://cyberscoop.com/arrested-man-allegedly-impersonated-nsa-elite-hacking-unit-supreme-court-chief-justice/",
       "date": "2026-08-25T18:43:21.000Z",
       "excerpt": "Joshua Culver, aka “Maverick Young,” is accused of imitating the head of the NSA’s Tailored Access Operations unit during a time it wasn’t called that. The post Arrested man allegedly impersonated NSA elite hacking unit, Supreme Court chief justice appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
-      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
-      "date": "2026-08-25T18:17:17.000Z",
-      "excerpt": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial…"
     },
     {
       "source": "CyberScoop",
@@ -490,44 +554,12 @@
       "excerpt": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "date": "2026-08-25T14:07:37.000Z",
-      "excerpt": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
-      "date": "2026-08-25T14:01:11.000Z",
-      "excerpt": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Ukraine to give Britain access to battlefield data to train AI",
       "link": "https://therecord.media/ukraine-uk-ai-drone-data",
       "date": "2026-08-25T14:00:00.000Z",
       "excerpt": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "date": "2026-08-25T13:51:58.000Z",
-      "excerpt": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
-      "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
-      "date": "2026-08-25T13:33:12.000Z",
-      "excerpt": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -584,22 +616,6 @@
       "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
       "date": "2026-08-25T10:00:57.000Z",
       "excerpt": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution appeared first on Unit 42 ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "ReliaQuest Rejects Compromise Claims After ShinyHunters Incident",
-      "link": "https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/",
-      "date": "2026-08-25T09:30:00.000Z",
-      "excerpt": "ReliaQuest has detailed a social engineering attack linked to ShinyHunters, denying reports that the threat actor successfully compromised its systems"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks",
-      "link": "https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/",
-      "date": "2026-08-25T09:10:00.000Z",
-      "excerpt": "The US has sanctioned individuals connected to hacking-for-hire group the Mabna Institute"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -664,14 +680,6 @@
       "link": "https://cyberscoop.com/quantum-guard-act-electric-grid-cybersecurity/",
       "date": "2026-08-24T19:01:05.000Z",
       "excerpt": "Under the bill, FERC would consider cyber threats from quantum computers and post-quantum cryptography in its reliability standards for the energy sector. The post Bipartisan Senate bill aims to prepare energy sector for Q-Day appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
-      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
-      "date": "2026-08-24T15:02:32.000Z",
-      "excerpt": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features."
     },
     {
       "source": "Graham Cluley",

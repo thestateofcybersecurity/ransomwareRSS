@@ -5,8 +5,88 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 11:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:29:39 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Ubiquiti patches three max severity security vulnerabilities</title>
+      <link>https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/</guid>
+      <pubDate>Wed, 26 Aug 2026 13:17:54 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Four in Five AI Tools Run with No IT Oversight, New Research Finds</title>
+      <link>https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/four-in-five-ai-tools-no-it/</guid>
+      <pubDate>Wed, 26 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Reco report reveals growing shadow AI problem and surge in vulnerability disclosures (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>AnonyMousKIT phishing-as-a-service uses AI voice calls to steal iPhone passcodes</title>
+      <link>https://www.helpnetsecurity.com/2026/08/26/anonymouskit-phishing-stolen-iphone/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/anonymouskit-phishing-stolen-iphone/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:46:44 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>A phishing-as-a-service (PhaaS) platform called AnonyMousKIT is automating the theft of Apple ID credentials needed to remove Activation Lock from stolen iPhones, SOCRadar found. “By leveraging a critical flaw – the use of bare relative paths – the investigation unraveled a… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Adobe and Nvidia Patch Dozens of Vulnerabilities</title>
+      <link>https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:39:38 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft tests new privacy controls for Windows 11 desktop apps</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:06:28 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Spyware for Babies</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html</guid>
+      <pubDate>Wed, 26 Aug 2026 12:05:52 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>The New York Times has a long article ( alt link ) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Average Cyber Insurance Losses Increase Despite Fewer Claims</title>
+      <link>https://www.infosecurity-magazine.com/news/cyber-insurance-losses-increase/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cyber-insurance-losses-increase/</guid>
+      <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Chubb reported that growing privacy litigation has contributed to surging cyber claim costs in the US (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code</title>
+      <link>https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html</guid>
+      <pubDate>Wed, 26 Aug 2026 11:55:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura&#39;s HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine</title>
+      <link>https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html</guid>
+      <pubDate>Wed, 26 Aug 2026 11:36:49 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The SOC we&#39;ve always known was built around a model that guarantees most of the alert queue will never receive analyst review. There&#39;s never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>&#39;NovaCookies&#39; Kit Steals Microsoft 365 Sessions for $320 a Month</title>
+      <link>https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month</link>
+      <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month</guid>
+      <pubDate>Wed, 26 Aug 2026 11:33:40 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The adversary-in-the-middle (AitM) phishing service lowers the barrier to entry for actors to create attacks and steal more than just user credentials. (via Dark Reading)</description>
+    </item>
     <item>
       <title>CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</title>
       <link>https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/</link>
@@ -109,7 +189,7 @@
       <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure</guid>
       <pubDate>Wed, 26 Aug 2026 08:30:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe. (via Dark Reading)</description>
+      <description>The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe. (via Dark Reading)</description>
     </item>
     <item>
       <title>Nigeria Looks to Sovereign Cloud for Cyber, National Security</title>
@@ -144,7 +224,7 @@
       <description>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode</title>
+      <title>New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode</title>
       <link>https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</guid>
       <pubDate>Wed, 26 Aug 2026 07:12:55 GMT</pubDate>
@@ -198,14 +278,6 @@
       <pubDate>Wed, 26 Aug 2026 05:00:52 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Risk managers, auditors and senior executives at 316 companies spent April and May ranking 20 threats they have not yet felt. AI discovery of cyber vulnerabilities came back first, according to Gartner. Three months earlier the same quarterly survey put information integrity… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Hottest cybersecurity open-source tools of the month: August 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/08/26/hottest-cybersecurity-open-source-tools-august-2026/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/hottest-cybersecurity-open-source-tools-august-2026/</guid>
-      <pubDate>Wed, 26 Aug 2026 04:30:59 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Presented here is a curated selection of noteworthy open-source cybersecurity solutions that have drawn recognition for their ability to enhance security postures across diverse settings. SkillSpector: NVIDIA’s open-source security scanner for AI agent skills SkillSpector is an… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)</title>
@@ -277,7 +349,7 @@
       <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw</guid>
       <pubDate>Tue, 25 Aug 2026 19:50:16 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Attackers can exploit a security bug in NVIDIA&#39;s tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption. (via Dark Reading)</description>
+      <description>Attackers can exploit a security bug in Nvidia&#39;s tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption. (via Dark Reading)</description>
     </item>
     <item>
       <title>Employee benefits platform Paylogix says hackers stole financial and health data</title>
@@ -294,14 +366,6 @@
       <pubDate>Tue, 25 Aug 2026 18:43:21 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Joshua Culver, aka “Maverick Young,” is accused of imitating the head of the NSA’s Tailored Access Operations unit during a time it wasn’t called that. The post Arrested man allegedly impersonated NSA elite hacking unit, Supreme Court chief justice appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches</title>
-      <link>https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html</guid>
-      <pubDate>Tue, 25 Aug 2026 18:17:17 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an &quot;unprecedented, whole-of-government, economic campaign&quot; against the nation and its enablers. &quot;We are launching an economic onslaught against Iran&#39;s financial… (via The Hacker News)</description>
     </item>
     <item>
       <title>Water sector passes, government sector fails attempts to spot and halt simulated CISA attack</title>
@@ -384,44 +448,12 @@
       <description>The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw</title>
-      <link>https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html</guid>
-      <pubDate>Tue, 25 Aug 2026 14:07:37 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>From Fake Workers to Account Recovery: The Growing Identity Verification Risk</title>
-      <link>https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/</guid>
-      <pubDate>Tue, 25 Aug 2026 14:01:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Ukraine to give Britain access to battlefield data to train AI</title>
       <link>https://therecord.media/ukraine-uk-ai-drone-data</link>
       <guid isPermaLink="false">https://therecord.media/ukraine-uk-ai-drone-data</guid>
       <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems. (via The Record)</description>
-    </item>
-    <item>
-      <title>Microsoft PowerToys adds Alt+Tab-style switching for an app&#39;s windows</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:51:58 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft updated its Windows PowerToys toolset with a new utility dubbed &quot;Window Hopper&quot; that lets users switch between an app&#39;s windows more quickly. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities</title>
-      <link>https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:33:12 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Fake Recruiter Scams Target Corporate Credentials on Mobile</title>
@@ -478,22 +510,6 @@
       <pubDate>Tue, 25 Aug 2026 10:00:57 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>ReliaQuest Rejects Compromise Claims After ShinyHunters Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/reliaquest-not-compromised-by/</guid>
-      <pubDate>Tue, 25 Aug 2026 09:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>ReliaQuest has detailed a social engineering attack linked to ShinyHunters, denying reports that the threat actor successfully compromised its systems (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks</title>
-      <link>https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/</guid>
-      <pubDate>Tue, 25 Aug 2026 09:10:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>The US has sanctioned individuals connected to hacking-for-hire group the Mabna Institute (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)</title>
@@ -558,14 +574,6 @@
       <pubDate>Mon, 24 Aug 2026 19:01:05 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Under the bill, FERC would consider cyber threats from quantum computers and post-quantum cryptography in its reliability standards for the energy sector. The post Bipartisan Senate bill aims to prepare energy sector for Q-Day appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Tricky &#39;SynkLoader&#39; Multitool May Herald Ransomware</title>
-      <link>https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware</link>
-      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware</guid>
-      <pubDate>Mon, 24 Aug 2026 15:02:32 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features. (via Dark Reading)</description>
     </item>
     <item>
       <title>Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials</title>
