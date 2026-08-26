@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:08:26.709Z",
+  "updated": "2026-08-26T20:15:27.258Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,62 @@
     }
   ],
   "items": [
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Officials disrupt Chinese espionage operation that hit multiple federal agencies",
+      "link": "https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/",
+      "date": "2026-08-26T19:35:05.000Z",
+      "excerpt": "The full hacking suite, seized by authorities, allowed Chinese government funded attackers to intrude highly sensitive networks undetected for more than eight years. The post Officials disrupt Chinese espionage operation that hit multiple federal agencies appeared first on…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Medical device firm Boston Scientific says cyberattack has disrupted shipment processes",
+      "link": "https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes",
+      "date": "2026-08-26T19:10:00.000Z",
+      "excerpt": "The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "OpenAI: Agent behavior that led to Hugging Face intrusion formed in May",
+      "link": "https://cyberscoop.com/openai-hugging-face-agent-breach-report/",
+      "date": "2026-08-26T19:00:00.000Z",
+      "excerpt": "The company says the breach stemmed from a systemic failure of alignment and security, and has taken measures to prevent agents from independently orchestrating complex cyberattacks. The post OpenAI: Agent behavior that led to Hugging Face intrusion formed in May appeared first…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
+      "date": "2026-08-26T18:48:24.000Z",
+      "excerpt": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Three 10.0 security flaws fixed across Ubiquiti’s UniFi line",
+      "link": "https://cyberscoop.com/ubiquiti-unifi-critical-vulnerabilities-patched/",
+      "date": "2026-08-26T18:47:46.000Z",
+      "excerpt": "The communications product company disclosed 22 total Wednesday, all but one of which was rated “critical” at 9.0 or higher. The post Three 10.0 security flaws fixed across Ubiquiti’s UniFi line appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case",
+      "link": "https://therecord.media/meta-settlement-children-online-safety-social-media",
+      "date": "2026-08-26T18:35:00.000Z",
+      "excerpt": "A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Android Malware Hijacks Update System for Car Head Units",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
+      "date": "2026-08-26T17:33:45.000Z",
+      "excerpt": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections."
+    },
     {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
@@ -338,14 +394,6 @@
       "excerpt": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
-      "date": "2026-08-26T11:07:48.000Z",
-      "excerpt": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
@@ -538,14 +586,6 @@
       "excerpt": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Employee benefits platform Paylogix says hackers stole financial and health data",
-      "link": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
-      "date": "2026-08-25T18:45:00.000Z",
-      "excerpt": "The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Arrested man allegedly impersonated NSA elite hacking unit, Supreme Court chief justice",
@@ -610,14 +650,6 @@
       "excerpt": "The multi-country sting targeted Black Axe financial networks, seizing millions in assets and uncovering Crime-as-a-Service infrastructure across four continents. The post Interpol targets Black Axe’s illicit financial web in latest international sting appeared first on…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Ukraine to give Britain access to battlefield data to train AI",
-      "link": "https://therecord.media/ukraine-uk-ai-drone-data",
-      "date": "2026-08-25T14:00:00.000Z",
-      "excerpt": "Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Fake Recruiter Scams Target Corporate Credentials on Mobile",
@@ -658,14 +690,6 @@
       "excerpt": "Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "SCOTUS tosses one of two injunctions against Trump USPS mail-in ballot rules",
-      "link": "https://cyberscoop.com/supreme-court-ruling-usps-mail-in-ballots/",
-      "date": "2026-08-24T22:47:08.000Z",
-      "excerpt": "The 6-3 decision dismisses one lawsuit brought by states, saying they have no standing to sue because the disputed sections “neither requires nor forbids anything of anyone outside the executive branch.” The post SCOTUS tosses one of two injunctions against Trump USPS mail-in…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
@@ -674,36 +698,12 @@
       "excerpt": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
-      "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
-      "date": "2026-08-24T20:51:27.000Z",
-      "excerpt": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
       "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
       "date": "2026-08-24T19:19:21.000Z",
       "excerpt": "Is the technique outdated? Yes. Is it still creepy? Also yes."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Treasury sanctions alleged Iranian hackers as part of ‘economic D-Day’",
-      "link": "https://cyberscoop.com/us-treasury-sanctions-iranian-hackers-economic-dday/",
-      "date": "2026-08-24T19:06:12.000Z",
-      "excerpt": "It’s a follow-up to an indictment the Justice Department unsealed last week against people affiliated with the Mabna Institute. The post Treasury sanctions alleged Iranian hackers as part of ‘economic D-Day’ appeared first on CyberScoop ."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Bipartisan Senate bill aims to prepare energy sector for Q-Day",
-      "link": "https://cyberscoop.com/quantum-guard-act-electric-grid-cybersecurity/",
-      "date": "2026-08-24T19:01:05.000Z",
-      "excerpt": "Under the bill, FERC would consider cyber threats from quantum computers and post-quantum cryptography in its reliability standards for the energy sector. The post Bipartisan Senate bill aims to prepare energy sector for Q-Day appeared first on CyberScoop ."
     },
     {
       "source": "Graham Cluley",

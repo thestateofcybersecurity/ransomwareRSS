@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 18:08:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 20:15:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Officials disrupt Chinese espionage operation that hit multiple federal agencies</title>
+      <link>https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/</guid>
+      <pubDate>Wed, 26 Aug 2026 19:35:05 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The full hacking suite, seized by authorities, allowed Chinese government funded attackers to intrude highly sensitive networks undetected for more than eight years. The post Officials disrupt Chinese espionage operation that hit multiple federal agencies appeared first on… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Medical device firm Boston Scientific says cyberattack has disrupted shipment processes</title>
+      <link>https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes</link>
+      <guid isPermaLink="false">https://therecord.media/boston-scientific-cyberattack-disrupts-shipment-processes</guid>
+      <pubDate>Wed, 26 Aug 2026 19:10:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The company released a statement and filed documents with the Securities and Exchange Commission (SEC) saying a cybersecurity incident was discovered on Tuesday. (via The Record)</description>
+    </item>
+    <item>
+      <title>OpenAI: Agent behavior that led to Hugging Face intrusion formed in May</title>
+      <link>https://cyberscoop.com/openai-hugging-face-agent-breach-report/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/openai-hugging-face-agent-breach-report/</guid>
+      <pubDate>Wed, 26 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The company says the breach stemmed from a systemic failure of alignment and security, and has taken measures to prevent agents from independently orchestrating complex cyberattacks. The post OpenAI: Agent behavior that led to Hugging Face intrusion formed in May appeared first… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>New GPUThor attack defeats NVIDIA ECC protection for root access</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/</guid>
+      <pubDate>Wed, 26 Aug 2026 18:48:24 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Three 10.0 security flaws fixed across Ubiquiti’s UniFi line</title>
+      <link>https://cyberscoop.com/ubiquiti-unifi-critical-vulnerabilities-patched/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/ubiquiti-unifi-critical-vulnerabilities-patched/</guid>
+      <pubDate>Wed, 26 Aug 2026 18:47:46 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The communications product company disclosed 22 total Wednesday, all but one of which was rated “critical” at 9.0 or higher. The post Three 10.0 security flaws fixed across Ubiquiti’s UniFi line appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Meta pledges to overhaul kids’ safety protections, pay $17 billion to settle social media case</title>
+      <link>https://therecord.media/meta-settlement-children-online-safety-social-media</link>
+      <guid isPermaLink="false">https://therecord.media/meta-settlement-children-online-safety-social-media</guid>
+      <pubDate>Wed, 26 Aug 2026 18:35:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>A multibillion-dollar settlement with attorneys general from nearly every U.S. state and territory will mean new privacy and safety protections in Meta products. (via The Record)</description>
+    </item>
+    <item>
+      <title>Android Malware Hijacks Update System for Car Head Units</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units</guid>
+      <pubDate>Wed, 26 Aug 2026 17:33:45 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections. (via Dark Reading)</description>
+    </item>
     <item>
       <title>When AI infrastructure becomes the target: Securing gateways and control points</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
@@ -232,14 +288,6 @@
       <description>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Hackers now exploit critical Gitea flaw in code injection attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/</guid>
-      <pubDate>Wed, 26 Aug 2026 11:07:48 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>The MFA Identity Trap: When Authentication Creates a False Sense of Security</title>
       <link>https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/</link>
       <guid isPermaLink="false">https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/</guid>
@@ -432,14 +480,6 @@
       <description>Attackers can exploit a security bug in Nvidia&#39;s tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Employee benefits platform Paylogix says hackers stole financial and health data</title>
-      <link>https://therecord.media/paylogix-cyberattack-akira-ransomware</link>
-      <guid isPermaLink="false">https://therecord.media/paylogix-cyberattack-akira-ransomware</guid>
-      <pubDate>Tue, 25 Aug 2026 18:45:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The benefits management firm Paylogix told regulators that hackers stole sensitive information on tens of thousands of people from its systems. (via The Record)</description>
-    </item>
-    <item>
       <title>Arrested man allegedly impersonated NSA elite hacking unit, Supreme Court chief justice</title>
       <link>https://cyberscoop.com/arrested-man-allegedly-impersonated-nsa-elite-hacking-unit-supreme-court-chief-justice/</link>
       <guid isPermaLink="false">https://cyberscoop.com/arrested-man-allegedly-impersonated-nsa-elite-hacking-unit-supreme-court-chief-justice/</guid>
@@ -504,14 +544,6 @@
       <description>The multi-country sting targeted Black Axe financial networks, seizing millions in assets and uncovering Crime-as-a-Service infrastructure across four continents. The post Interpol targets Black Axe’s illicit financial web in latest international sting appeared first on… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Ukraine to give Britain access to battlefield data to train AI</title>
-      <link>https://therecord.media/ukraine-uk-ai-drone-data</link>
-      <guid isPermaLink="false">https://therecord.media/ukraine-uk-ai-drone-data</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Ukraine will give Britain access to a vast trove of battlefield data collected during the war with Russia, allowing U.K. companies and researchers to use it to train and test artificial intelligence systems. (via The Record)</description>
-    </item>
-    <item>
       <title>Fake Recruiter Scams Target Corporate Credentials on Mobile</title>
       <link>https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/</guid>
@@ -552,14 +584,6 @@
       <description>Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets. (via Sophos News)</description>
     </item>
     <item>
-      <title>SCOTUS tosses one of two injunctions against Trump USPS mail-in ballot rules</title>
-      <link>https://cyberscoop.com/supreme-court-ruling-usps-mail-in-ballots/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/supreme-court-ruling-usps-mail-in-ballots/</guid>
-      <pubDate>Mon, 24 Aug 2026 22:47:08 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The 6-3 decision dismisses one lawsuit brought by states, saying they have no standing to sue because the disputed sections “neither requires nor forbids anything of anyone outside the executive branch.” The post SCOTUS tosses one of two injunctions against Trump USPS mail-in… (via CyberScoop)</description>
-    </item>
-    <item>
       <title>Exploited Zimbra Flaw Highlights Shrinking Window to Patch</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</link>
       <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch</guid>
@@ -568,36 +592,12 @@
       <description>CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user&#39;s communications. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Foul Language: WordlistLoader Disguises Malware as Ordinary Text</title>
-      <link>https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</link>
-      <guid isPermaLink="false">https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text</guid>
-      <pubDate>Mon, 24 Aug 2026 20:51:27 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Inaudible sounds used to fingerprint browsers catch AliExpress red-handed</title>
       <link>https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/</guid>
       <pubDate>Mon, 24 Aug 2026 19:19:21 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Is the technique outdated? Yes. Is it still creepy? Also yes. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Treasury sanctions alleged Iranian hackers as part of ‘economic D-Day’</title>
-      <link>https://cyberscoop.com/us-treasury-sanctions-iranian-hackers-economic-dday/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/us-treasury-sanctions-iranian-hackers-economic-dday/</guid>
-      <pubDate>Mon, 24 Aug 2026 19:06:12 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>It’s a follow-up to an indictment the Justice Department unsealed last week against people affiliated with the Mabna Institute. The post Treasury sanctions alleged Iranian hackers as part of ‘economic D-Day’ appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Bipartisan Senate bill aims to prepare energy sector for Q-Day</title>
-      <link>https://cyberscoop.com/quantum-guard-act-electric-grid-cybersecurity/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/quantum-guard-act-electric-grid-cybersecurity/</guid>
-      <pubDate>Mon, 24 Aug 2026 19:01:05 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Under the bill, FERC would consider cyber threats from quantum computers and post-quantum cryptography in its reliability standards for the energy sector. The post Bipartisan Senate bill aims to prepare energy sector for Q-Day appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials</title>
