@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T15:56:18.121Z",
+  "updated": "2026-08-26T18:08:26.709Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,11 +114,43 @@
   ],
   "items": [
     {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "When AI infrastructure becomes the target: Securing gateways and control points",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
+      "date": "2026-08-26T16:43:53.000Z",
+      "excerpt": "Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations",
+      "link": "https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html",
+      "date": "2026-08-26T16:42:03.000Z",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Meta agrees to $18 billion settlement over teen social media harms",
+      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+      "date": "2026-08-26T16:41:05.000Z",
+      "excerpt": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate",
+      "link": "https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools",
+      "date": "2026-08-26T16:25:00.000Z",
+      "excerpt": "The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries."
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
       "link": "https://isc.sans.edu/diary/rss/33284",
-      "date": "2026-08-26T15:53:28.000Z",
+      "date": "2026-08-26T15:58:15.000Z",
       "excerpt": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#x26;#x3f;&#x26;#xc2;&#x26;#xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on…"
     },
     {
@@ -128,6 +160,14 @@
       "link": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
       "date": "2026-08-26T15:45:00.000Z",
       "excerpt": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
+      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
+      "date": "2026-08-26T15:35:05.000Z",
+      "excerpt": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published…"
     },
     {
       "source": "SecurityWeek",
@@ -402,14 +442,6 @@
       "excerpt": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown",
-      "link": "https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html",
-      "date": "2026-08-26T07:54:12.000Z",
-      "excerpt": "An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. \"The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Meta adds three new features to keep WhatsApp accounts secure",
@@ -424,14 +456,6 @@
       "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
       "date": "2026-08-26T07:41:50.000Z",
       "excerpt": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode",
-      "link": "https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html",
-      "date": "2026-08-26T07:12:55.000Z",
-      "excerpt": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own…"
     },
     {
       "source": "Help Net Security",
@@ -472,14 +496,6 @@
       "link": "https://isc.sans.edu/diary/rss/33282",
       "date": "2026-08-26T02:40:13.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "date": "2026-08-25T21:58:14.000Z",
-      "excerpt": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]"
     },
     {
       "source": "Troy Hunt",
@@ -608,14 +624,6 @@
       "link": "https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/",
       "date": "2026-08-25T13:00:00.000Z",
       "excerpt": "RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "UK government seeks powers to secretly block risky tech suppliers",
-      "link": "https://therecord.media/uk-technology-national-security",
-      "date": "2026-08-25T12:45:00.000Z",
-      "excerpt": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret."
     },
     {
       "source": "Schneier on Security",
@@ -856,14 +864,6 @@
       "link": "https://grahamcluley.com/smashing-security-podcast-481/",
       "date": "2026-08-19T23:10:23.000Z",
       "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
-      "date": "2026-08-19T17:30:00.000Z",
-      "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
     }
   ]
 }

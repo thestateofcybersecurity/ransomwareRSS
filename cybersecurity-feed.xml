@@ -5,13 +5,45 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 15:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:08:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>When AI infrastructure becomes the target: Securing gateways and control points</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
+      <pubDate>Wed, 26 Aug 2026 16:43:53 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
+      <title>FBI Disrupts China-Linked QTFY Infrastructure Used to Steal Data From U.S. Organizations</title>
+      <link>https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/fbi-disrupts-china-linked-qtfy.html</guid>
+      <pubDate>Wed, 26 Aug 2026 16:42:03 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Department of Justice (DoJ) on Wednesday announced the disruption of two hacking platforms named QScan and QTRouter operated by Chinese threat actors to target critical infrastructure and other sensitive networks in the country. The activity has been attributed to a… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Meta agrees to $18 billion settlement over teen social media harms</title>
+      <link>https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/</guid>
+      <pubDate>Wed, 26 Aug 2026 16:41:05 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>US takes down alleged Chinese hacking tools used against Federal Reserve, DOJ and Senate</title>
+      <link>https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools</link>
+      <guid isPermaLink="false">https://therecord.media/qscan-qtrouter-us-takedown-alleged-china-hacking-tools</guid>
+      <pubDate>Wed, 26 Aug 2026 16:25:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The DOJ said it disrupted Chinese state-backed tools used to scan, infect and exploit IoT devices for attacks on federal agencies and multiple industries. (via The Record)</description>
+    </item>
     <item>
       <title>Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)</title>
       <link>https://isc.sans.edu/diary/rss/33284</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33284</guid>
-      <pubDate>Wed, 26 Aug 2026 15:53:28 GMT</pubDate>
+      <pubDate>Wed, 26 Aug 2026 15:58:15 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>A common thing that folks should &quot;worry&quot; about in Entra (or any platform really) is &quot;who has rights to administer&quot;&amp;#x26;#x3f;&amp;#x26;#xc2;&amp;#x26;#xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on… (via SANS Internet Storm Center)</description>
     </item>
@@ -22,6 +54,14 @@
       <pubDate>Wed, 26 Aug 2026 15:45:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group. (via The Record)</description>
+    </item>
+    <item>
+      <title>Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler</title>
+      <link>https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html</guid>
+      <pubDate>Wed, 26 Aug 2026 15:35:05 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published… (via The Hacker News)</description>
     </item>
     <item>
       <title>AI Speeds Up Malware Development, Not Its Success Rate: Analysis</title>
@@ -296,14 +336,6 @@
       <description>The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge. (via Dark Reading)</description>
     </item>
     <item>
-      <title>INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown</title>
-      <link>https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</guid>
-      <pubDate>Wed, 26 Aug 2026 07:54:12 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. &quot;The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Meta adds three new features to keep WhatsApp accounts secure</title>
       <link>https://www.helpnetsecurity.com/2026/08/26/meta-whatsapp-security-enhancements/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/meta-whatsapp-security-enhancements/</guid>
@@ -318,14 +350,6 @@
       <pubDate>Wed, 26 Aug 2026 07:41:50 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>New SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode</title>
-      <link>https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</guid>
-      <pubDate>Wed, 26 Aug 2026 07:12:55 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own… (via The Hacker News)</description>
     </item>
     <item>
       <title>Linux Foundation takes on TRACE, a hardware-backed runtime evidence specification for AI agents</title>
@@ -366,14 +390,6 @@
       <pubDate>Wed, 26 Aug 2026 02:40:13 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>LACMA data breach last year exposed social security and medical data</title>
-      <link>https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:58:14 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>A Cautionary Tale About Data Breach Claims, Verification and Carhartt</title>
@@ -502,14 +518,6 @@
       <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>UK government seeks powers to secretly block risky tech suppliers</title>
-      <link>https://therecord.media/uk-technology-national-security</link>
-      <guid isPermaLink="false">https://therecord.media/uk-technology-national-security</guid>
-      <pubDate>Tue, 25 Aug 2026 12:45:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret. (via The Record)</description>
     </item>
     <item>
       <title>Black Hat State of Security Vendors</title>
@@ -750,14 +758,6 @@
       <pubDate>Wed, 19 Aug 2026 23:10:23 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google&#39;s AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
     </item>
   </channel>
 </rss>
