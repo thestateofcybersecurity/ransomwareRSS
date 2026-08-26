@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:00:38.202Z",
+  "updated": "2026-08-26T05:54:50.401Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Production data in testing is still common, and Tricentis’ CISO wants it gone",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/erika-dean-tricentis-production-data-in-testing/",
+      "date": "2026-08-26T05:30:54.000Z",
+      "excerpt": "In this Help Net Security interview, Erika Dean, CISO at Tricentis, talks about keeping production data out of test environments and why she thinks the alternatives are good enough now. She explains how her team caught a prompt injection gap in red-teaming and held a release for…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "CISA Warns of Exploited Gitea Vulnerability",
+      "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
+      "date": "2026-08-26T05:17:28.000Z",
+      "excerpt": "CVE-2026-60004 is a remote code execution vulnerability patched by Gitea developers in late July with the release of version 1.27.1. The post CISA Warns of Exploited Gitea Vulnerability appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI vulnerability discovery scores the highest impact of 20 emerging risks",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/ai-vulnerability-discovery-emerging-risks/",
+      "date": "2026-08-26T05:00:52.000Z",
+      "excerpt": "Risk managers, auditors and senior executives at 316 companies spent April and May ranking 20 threats they have not yet felt. AI discovery of cyber vulnerabilities came back first, according to Gartner. Three months earlier the same quarterly survey put information integrity…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -530,36 +554,12 @@
       "excerpt": "ReliaQuest has detailed a social engineering attack linked to ShinyHunters, denying reports that the threat actor successfully compromised its systems"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "ShinyHunters taunts ReliaQuest after its own employee falls for social engineering attack",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/reliaquest-breach-social-engineering/",
-      "date": "2026-08-25T09:24:16.000Z",
-      "excerpt": "Cybersecurity company ReliaQuest has confirmed that one of its own employees fell for a social engineering attack, handing attackers a password and a brief window into the company’s identity system. The admission came after the extortion group ShinyHunters posted screenshots on…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "US Sanctions Mabna Institute Hackers for Iranian Cyber-Attacks",
       "link": "https://www.infosecurity-magazine.com/news/us-sanctions-mabna-institute/",
       "date": "2026-08-25T09:10:00.000Z",
       "excerpt": "The US has sanctioned individuals connected to hacking-for-hire group the Mabna Institute"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
-      "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
-      "date": "2026-08-25T08:30:00.000Z",
-      "excerpt": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China. The post Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AI supply chain risk is showing up in developer workflows first",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/jaushin-lee-ai-zentera-systems-supply-chain-risk/",
-      "date": "2026-08-25T06:00:50.000Z",
-      "excerpt": "In this Help Net Security interview, Dr. Jaushin Lee, CEO of Zentera Systems, discusses where AI supply chain risk shows up. He says most incidents still hit developer workflows and open-source package repositories, while poisoned model weights and compromised MCP servers stay…"
     },
     {
       "source": "SANS Internet Storm Center",
