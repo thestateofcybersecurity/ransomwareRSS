@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T20:15:27.258Z",
+  "updated": "2026-08-26T23:46:49.835Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,60 @@
   ],
   "items": [
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #482: This hacker leaked GTA 6 – and launched their own cryptocurrency",
+      "link": "https://grahamcluley.com/smashing-security-podcast-482/",
+      "date": "2026-08-26T23:10:11.000Z",
+      "excerpt": "A hacker calling themselves \"CYBERLEEK\" has been leaking gameplay footage from GTA 6 ahead of its official reveal this week - but they're not asking Rockstar Games for a ransom. Instead, they've launched their own cryptocurrency, promising to release ever more juicy clips from a…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Cyber threats nudge Trump to sign executive order on foreign equipment in U.S. energy infrastructure",
+      "link": "https://cyberscoop.com/energy-department-cybersecurity-executive-order-rules/",
+      "date": "2026-08-26T21:38:40.000Z",
+      "excerpt": "The order says any foreign-produced equipment deemed to pose national security risks can’t be purchased or installed. The post Cyber threats nudge Trump to sign executive order on foreign equipment in U.S. energy infrastructure appeared first on CyberScoop ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "date": "2026-08-26T21:33:20.000Z",
+      "excerpt": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+      "date": "2026-08-26T21:33:06.000Z",
+      "excerpt": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Exclusive: NSA to host a hacker reunion in bid to rebuild secretive unit",
+      "link": "https://therecord.media/nsa-to-host-hacker-reunion-in-bid-to-rebuild-secretive-unit",
+      "date": "2026-08-26T20:53:00.000Z",
+      "excerpt": "The National Security Agency will welcome back to campus potentially hundreds of former members of the elite group known as Tailored Access Operations (TAO) to celebrate the division’s recent rebranding."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Officials disrupt Chinese espionage operation that hit multiple federal agencies",
       "link": "https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/",
       "date": "2026-08-26T19:35:05.000Z",
       "excerpt": "The full hacking suite, seized by authorities, allowed Chinese government funded attackers to intrude highly sensitive networks undetected for more than eight years. The post Officials disrupt Chinese espionage operation that hit multiple federal agencies appeared first on…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Red Flags That Expose Fake North Korean IT Workers",
+      "link": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+      "date": "2026-08-26T19:21:24.000Z",
+      "excerpt": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage."
     },
     {
       "source": "The Record",
@@ -336,14 +384,6 @@
       "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
       "date": "2026-08-26T12:39:38.000Z",
       "excerpt": "Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "date": "2026-08-26T12:06:28.000Z",
-      "excerpt": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]"
     },
     {
       "source": "Schneier on Security",
@@ -570,14 +610,6 @@
       "excerpt": "A memecoin, a manifesto, and a week of daily leaks — but to researchers, it's a familiar extortion playbook with an unusually large audience. The post The GTA VI leaks are breaking the internet. Security researchers have seen this before. appeared first on CyberScoop ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "58 arrested in international cybercrime crackdown",
-      "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
-      "date": "2026-08-25T20:33:00.000Z",
-      "excerpt": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
@@ -626,28 +658,12 @@
       "excerpt": "It is pretty obvious that hostnames can replace IP addresses. Pretty much any software accepting an IP address will also accept a hostname as an argument. Last week, I wrote about scans for the cloud metadata service listening at 169.254.169.254. These scans attempted to exploit…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Is Cyber Facing an Affordability Crisis?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-      "date": "2026-08-25T14:53:13.000Z",
-      "excerpt": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "ZeroTokens Phishing Platform Steers Attacks in Real Time",
       "link": "https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/",
       "date": "2026-08-25T14:30:00.000Z",
       "excerpt": "ZeroTokens gives phishing operators live control of victim sessions targeting 53 financial brands"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Interpol targets Black Axe’s illicit financial web in latest international sting",
-      "link": "https://cyberscoop.com/interpol-operation-jackal-iv-black-axe-arrests/",
-      "date": "2026-08-25T14:25:51.000Z",
-      "excerpt": "The multi-country sting targeted Black Axe financial networks, seizing millions in assets and uncovering Crime-as-a-Service infrastructure across four continents. The post Interpol targets Black Axe’s illicit financial web in latest international sting appeared first on…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -688,14 +704,6 @@
       "link": "https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports",
       "date": "2026-08-25T00:00:00.000Z",
       "excerpt": "Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-      "date": "2026-08-24T21:46:55.000Z",
-      "excerpt": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications."
     },
     {
       "source": "Ars Technica Security",
@@ -856,14 +864,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
       "date": "2026-08-20T09:48:55.000Z",
       "excerpt": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #481: Never say this to a robot dog",
-      "link": "https://grahamcluley.com/smashing-security-podcast-481/",
-      "date": "2026-08-19T23:10:23.000Z",
-      "excerpt": "At Black Hat this month, a group of security researchers took a $9,000 robot dog, plugged Google's AI into its brain, and jailbroke it by telling it - with a completely straight face - that it was a Pokemon. What followed involved a wall, a blue ice chest, and anyone in the room…"
     }
   ]
 }
