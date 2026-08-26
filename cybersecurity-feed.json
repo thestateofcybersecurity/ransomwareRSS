@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T13:29:39.659Z",
+  "updated": "2026-08-26T15:56:18.121Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,108 @@
   ],
   "items": [
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)",
+      "link": "https://isc.sans.edu/diary/rss/33284",
+      "date": "2026-08-26T15:53:28.000Z",
+      "excerpt": "A common thing that folks should \"worry\" about in Entra (or any platform really) is \"who has rights to administer\"&#x26;#x3f;&#x26;#xc2;&#x26;#xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Iran-linked hackers expand infrastructure across Europe and Middle East, report says",
+      "link": "https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east",
+      "date": "2026-08-26T15:45:00.000Z",
+      "excerpt": "Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
+      "link": "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/",
+      "date": "2026-08-26T15:23:45.000Z",
+      "excerpt": "Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "date": "2026-08-26T15:19:21.000Z",
+      "excerpt": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "date": "2026-08-26T14:47:51.000Z",
+      "excerpt": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel",
+      "link": "https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/",
+      "date": "2026-08-26T14:30:00.000Z",
+      "excerpt": "Group-IB uncovered new Tortoiseshell infrastructure, including a backdoor and SSH tunneling tool"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "FBI disrupts proxy network enabling Chinese espionage operations",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
+      "date": "2026-08-26T14:17:59.000Z",
+      "excerpt": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Snowflake ends service-account passwords. Now comes the hard part",
+      "link": "https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/",
+      "date": "2026-08-26T14:01:11.000Z",
+      "excerpt": "Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
+      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
+      "date": "2026-08-26T13:44:31.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Election official says Tina Peters would be consultant, won’t have access to election systems",
+      "link": "https://cyberscoop.com/shasta-county-election-clint-curtis-tina-peters-controversy/",
+      "date": "2026-08-26T13:30:44.000Z",
+      "excerpt": "Shasta County registrar Clint Curtis told CyberScoop he needs Peters to help manage the county’s 2026 elections and he’s not concerned about her past conviction. The post Election official says Tina Peters would be consultant, won’t have access to election systems appeared first…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects",
+      "link": "https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/",
+      "date": "2026-08-26T13:30:00.000Z",
+      "excerpt": "Interpol operation leads to 58 arrests and identifies 263 suspects across 22 countries"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Ubiquiti patches three max severity security vulnerabilities",
       "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/",
       "date": "2026-08-26T13:17:54.000Z",
       "excerpt": "Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
+      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
+      "date": "2026-08-26T13:07:02.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -338,28 +434,12 @@
       "excerpt": "An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
-      "date": "2026-08-26T06:27:07.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Linux Foundation takes on TRACE, a hardware-backed runtime evidence specification for AI agents",
       "link": "https://www.helpnetsecurity.com/2026/08/26/the-linux-foundation-trace-ai-agent-security/",
       "date": "2026-08-26T05:54:32.000Z",
       "excerpt": "The Linux Foundation announced the contribution of TRACE (Trust, Runtime Attestation and Compliance Evidence), from OPAQUE. Collaboratively developed by AMD, Intel, Microsoft, OPAQUE and the Technology Innovation Institute (TII), TRACE creates a standard, open evidence layer…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
-      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
-      "date": "2026-08-26T05:47:28.000Z",
-      "excerpt": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar…"
     },
     {
       "source": "Help Net Security",
@@ -410,14 +490,6 @@
       "excerpt": "You're not going to believe this, but turns out you can't always take criminals at their word. Actually, I'll walk that back a bit as it may not even be the cybercrime guys who got this wrong, but it all starts here: 🚨Cyber"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "date": "2026-08-25T21:39:01.000Z",
-      "excerpt": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Hidden Prompts Trick AI Into False Email Summaries",
@@ -440,14 +512,6 @@
       "link": "https://therecord.media/58-arrested-international-cybercrime-crackdown-interpol",
       "date": "2026-08-25T20:33:00.000Z",
       "excerpt": "Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-      "date": "2026-08-25T20:25:26.000Z",
-      "excerpt": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]"
     },
     {
       "source": "Dark Reading",
@@ -498,14 +562,6 @@
       "excerpt": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Security Blog ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Massive DDoS attack disrupts Norway’s government digital services",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
-      "date": "2026-08-25T15:52:36.000Z",
-      "excerpt": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)",
@@ -522,14 +578,6 @@
       "excerpt": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
-      "date": "2026-08-25T14:44:16.000Z",
-      "excerpt": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "ZeroTokens Phishing Platform Steers Attacks in Real Time",
@@ -544,14 +592,6 @@
       "link": "https://cyberscoop.com/interpol-operation-jackal-iv-black-axe-arrests/",
       "date": "2026-08-25T14:25:51.000Z",
       "excerpt": "The multi-country sting targeted Black Axe financial networks, seizing millions in assets and uncovering Crime-as-a-Service infrastructure across four continents. The post Interpol targets Black Axe’s illicit financial web in latest international sting appeared first on…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
-      "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
-      "date": "2026-08-25T14:11:59.000Z",
-      "excerpt": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
@@ -575,23 +615,7 @@
       "title": "UK government seeks powers to secretly block risky tech suppliers",
       "link": "https://therecord.media/uk-technology-national-security",
       "date": "2026-08-25T12:45:00.000Z",
-      "excerpt": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Large DDoS attack knocks Norwegian public services offline",
-      "link": "https://therecord.media/norway-cyberattack-ddos-government",
-      "date": "2026-08-25T11:45:00.000Z",
-      "excerpt": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Australia Warns of Active Exploitation of Critical TeamCity Server Flaw",
-      "link": "https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/",
-      "date": "2026-08-25T11:00:00.000Z",
-      "excerpt": "Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government"
+      "excerpt": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret."
     },
     {
       "source": "Schneier on Security",
@@ -600,14 +624,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/08/black-hat-state-of-security-vendors.html",
       "date": "2026-08-25T10:54:50.000Z",
       "excerpt": "Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn’t directly mention AI or agents in their taglines, the effects of AI are everywhere. Multiple spaces (Identity, SaaS,…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown",
-      "link": "https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/",
-      "date": "2026-08-25T10:30:00.000Z",
-      "excerpt": "A threat actor keeps spreading the WeedHack malware to Minecraft players despite its original infrastructure taken down in July"
     },
     {
       "source": "Unit 42",
@@ -738,14 +754,6 @@
       "excerpt": "Today, we welcome the 48th government onboarded to Have I Been Pwned’s free gov service: Sri Lanka. Sri Lanka CERT now has access to monitor Sri Lankan government domains against the data in HIBP, helping identify exposed government accounts and respond when they appear in new…"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Postal Service moves to finalize mail ballot regs before SCOTUS ruling",
-      "link": "https://cyberscoop.com/postal-service-finalizes-mail-in-ballot-rules-before-scotus-ruling/",
-      "date": "2026-08-22T17:01:11.000Z",
-      "excerpt": "The rules have already been rejected by multiple state courts, but the Trump administration said it’s preparing in case of a favorable Supreme Court decision. The post Postal Service moves to finalize mail ballot regs before SCOTUS ruling appeared first on CyberScoop ."
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
@@ -800,14 +808,6 @@
       "link": "https://isc.sans.edu/diary/rss/33270",
       "date": "2026-08-21T02:00:03.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33268",
-      "date": "2026-08-21T01:49:18.000Z",
-      "excerpt": "One thing that folks never seem to do after \"going to the CLOOOOUUUUD\" is to look at their logs, logs that they would have checked daily when things were on premise."
     },
     {
       "source": "Daniel Miessler",

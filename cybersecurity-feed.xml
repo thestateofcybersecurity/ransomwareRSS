@@ -5,8 +5,96 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 13:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:56:18 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Who Has Admin Rights in your Entra ID Directory?, (Wed, Aug 26th)</title>
+      <link>https://isc.sans.edu/diary/rss/33284</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33284</guid>
+      <pubDate>Wed, 26 Aug 2026 15:53:28 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>A common thing that folks should &quot;worry&quot; about in Entra (or any platform really) is &quot;who has rights to administer&quot;&amp;#x26;#x3f;&amp;#x26;#xc2;&amp;#x26;#xa0; Who can delete or change key things, or modify them in ways that might not be obvious (accidentally or on… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Iran-linked hackers expand infrastructure across Europe and Middle East, report says</title>
+      <link>https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east</link>
+      <guid isPermaLink="false">https://therecord.media/iran-linked-hackers-expand-infrastructure-europe-middle-east</guid>
+      <pubDate>Wed, 26 Aug 2026 15:45:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Researchers said they identified servers and domains associated with several countries in Europe and the Middle East, potentially pointing to a broader targeting profile for an Iranian hacking group. (via The Record)</description>
+    </item>
+    <item>
+      <title>AI Speeds Up Malware Development, Not Its Success Rate: Analysis</title>
+      <link>https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/</guid>
+      <pubDate>Wed, 26 Aug 2026 15:23:45 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Boston Scientific says cyberattack disrupted operations globally</title>
+      <link>https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/</guid>
+      <pubDate>Wed, 26 Aug 2026 15:19:21 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Hackers target Microsoft SharePoint RCE chain with PoC exploit</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/</guid>
+      <pubDate>Wed, 26 Aug 2026 14:47:51 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Tortoiseshell Expands Malware Toolset With New Backdoor, SSH Tunnel</title>
+      <link>https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/tortoiseshell-new-backdoor-ssh/</guid>
+      <pubDate>Wed, 26 Aug 2026 14:30:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Group-IB uncovered new Tortoiseshell infrastructure, including a backdoor and SSH tunneling tool (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>FBI disrupts proxy network enabling Chinese espionage operations</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/</guid>
+      <pubDate>Wed, 26 Aug 2026 14:17:59 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The FBI has disrupted infrastructure associated with a technical &quot;quartermaster&quot; that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Snowflake ends service-account passwords. Now comes the hard part</title>
+      <link>https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/</guid>
+      <pubDate>Wed, 26 Aug 2026 14:01:11 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Snowflake is ending password authentication for legacy service accounts, forcing organizations to migrate them to passwordless methods. Token Security explains why the harder challenge is identifying what uses each account, who owns it, and how much access it still needs. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions</title>
+      <link>https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html</guid>
+      <pubDate>Wed, 26 Aug 2026 13:44:31 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that&#39;s used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Election official says Tina Peters would be consultant, won’t have access to election systems</title>
+      <link>https://cyberscoop.com/shasta-county-election-clint-curtis-tina-peters-controversy/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/shasta-county-election-clint-curtis-tina-peters-controversy/</guid>
+      <pubDate>Wed, 26 Aug 2026 13:30:44 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Shasta County registrar Clint Curtis told CyberScoop he needs Peters to help manage the county’s 2026 elections and he’s not concerned about her past conviction. The post Election official says Tina Peters would be consultant, won’t have access to election systems appeared first… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Interpol Operation Jackal IV Identifies 263 Cybercrime Suspects</title>
+      <link>https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/interpol-operation-jackal-iv/</guid>
+      <pubDate>Wed, 26 Aug 2026 13:30:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Interpol operation leads to 58 arrests and identifies 263 suspects across 22 countries (via Infosecurity Magazine)</description>
+    </item>
     <item>
       <title>Ubiquiti patches three max severity security vulnerabilities</title>
       <link>https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/</link>
@@ -14,6 +102,14 @@
       <pubDate>Wed, 26 Aug 2026 13:17:54 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Ubiquiti has released security patches for three new maximum-severity vulnerabilities that threat actors can exploit remotely without privileges. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing</title>
+      <link>https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html</guid>
+      <pubDate>Wed, 26 Aug 2026 13:07:02 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different… (via The Hacker News)</description>
     </item>
     <item>
       <title>Four in Five AI Tools Run with No IT Oversight, New Research Finds</title>
@@ -232,28 +328,12 @@
       <description>An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload</title>
-      <link>https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html</guid>
-      <pubDate>Wed, 26 Aug 2026 06:27:07 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Linux Foundation takes on TRACE, a hardware-backed runtime evidence specification for AI agents</title>
       <link>https://www.helpnetsecurity.com/2026/08/26/the-linux-foundation-trace-ai-agent-security/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/the-linux-foundation-trace-ai-agent-security/</guid>
       <pubDate>Wed, 26 Aug 2026 05:54:32 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>The Linux Foundation announced the contribution of TRACE (Trust, Runtime Attestation and Compliance Evidence), from OPAQUE. Collaboratively developed by AMD, Intel, Microsoft, OPAQUE and the Technology Innovation Institute (TII), TRACE creates a standard, open evidence layer… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes</title>
-      <link>https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html</guid>
-      <pubDate>Wed, 26 Aug 2026 05:47:28 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple&#39;s Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar… (via The Hacker News)</description>
     </item>
     <item>
       <title>Production data in testing is still common, and Tricentis’ CISO wants it gone</title>
@@ -304,14 +384,6 @@
       <description>You&#39;re not going to believe this, but turns out you can&#39;t always take criminals at their word. Actually, I&#39;ll walk that back a bit as it may not even be the cybercrime guys who got this wrong, but it all starts here: 🚨Cyber (via Troy Hunt)</description>
     </item>
     <item>
-      <title>Hackers abuse npm mirrors to host phishing redirect pages</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/</guid>
-      <pubDate>Tue, 25 Aug 2026 21:39:01 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Hidden Prompts Trick AI Into False Email Summaries</title>
       <link>https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries</guid>
@@ -334,14 +406,6 @@
       <pubDate>Tue, 25 Aug 2026 20:33:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>Interpol officials said it uncovered a crime-as-a-service network in Argentina run by 196 people that provided website domains and money laundering support to West African organized crime groups like Black Axe. (via The Record)</description>
-    </item>
-    <item>
-      <title>AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes</title>
-      <link>https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/</guid>
-      <pubDate>Tue, 25 Aug 2026 20:25:26 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw</title>
@@ -392,14 +456,6 @@
       <description>Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>Massive DDoS attack disrupts Norway’s government digital services</title>
-      <link>https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/</guid>
-      <pubDate>Tue, 25 Aug 2026 15:52:36 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A large distributed denial-of-service (DDoS) attack has disrupted Norway&#39;s shared government digital infrastructure since Monday, affecting services used by the public sector. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Obfuscating IP Addresses as Hostnames, (Tue, Aug 25th)</title>
       <link>https://isc.sans.edu/diary/rss/33280</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33280</guid>
@@ -416,14 +472,6 @@
       <description>As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Hospital operator Nutex Health says data stolen in cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/</guid>
-      <pubDate>Tue, 25 Aug 2026 14:44:16 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>ZeroTokens Phishing Platform Steers Attacks in Real Time</title>
       <link>https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/zerotokens-phishing-real-time/</guid>
@@ -438,14 +486,6 @@
       <pubDate>Tue, 25 Aug 2026 14:25:51 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The multi-country sting targeted Black Axe financial networks, seizing millions in assets and uncovering Crime-as-a-Service infrastructure across four continents. The post Interpol targets Black Axe’s illicit financial web in latest international sting appeared first on… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails</title>
-      <link>https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/</guid>
-      <pubDate>Tue, 25 Aug 2026 14:11:59 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Ukraine to give Britain access to battlefield data to train AI</title>
@@ -469,23 +509,7 @@
       <guid isPermaLink="false">https://therecord.media/uk-technology-national-security</guid>
       <pubDate>Tue, 25 Aug 2026 12:45:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
-      <description>The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret. (via The Record)</description>
-    </item>
-    <item>
-      <title>Large DDoS attack knocks Norwegian public services offline</title>
-      <link>https://therecord.media/norway-cyberattack-ddos-government</link>
-      <guid isPermaLink="false">https://therecord.media/norway-cyberattack-ddos-government</guid>
-      <pubDate>Tue, 25 Aug 2026 11:45:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online. (via The Record)</description>
-    </item>
-    <item>
-      <title>Australia Warns of Active Exploitation of Critical TeamCity Server Flaw</title>
-      <link>https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/australia-exploitation-teamcity/</guid>
-      <pubDate>Tue, 25 Aug 2026 11:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Australian officials are urging TeamCity customers to patch an actively exploited critical flaw, which follows a similar warning from the US government (via Infosecurity Magazine)</description>
+      <description>The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — and to potentially do so in secret. (via The Record)</description>
     </item>
     <item>
       <title>Black Hat State of Security Vendors</title>
@@ -494,14 +518,6 @@
       <pubDate>Tue, 25 Aug 2026 10:54:50 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Andy Ellis has a roundup of the security vendors at Black Hat this year. Key Takeaways: We have entered into an AI world. While nearly half of booths didn’t directly mention AI or agents in their taglines, the effects of AI are everywhere. Multiple spaces (Identity, SaaS,… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Fake Minecraft Clients Deliver WeedHack Malware Despite Infrastructure Takedown</title>
-      <link>https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/</guid>
-      <pubDate>Tue, 25 Aug 2026 10:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>A threat actor keeps spreading the WeedHack malware to Minecraft players despite its original infrastructure taken down in July (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution</title>
@@ -632,14 +648,6 @@
       <description>Today, we welcome the 48th government onboarded to Have I Been Pwned’s free gov service: Sri Lanka. Sri Lanka CERT now has access to monitor Sri Lankan government domains against the data in HIBP, helping identify exposed government accounts and respond when they appear in new… (via Troy Hunt)</description>
     </item>
     <item>
-      <title>Postal Service moves to finalize mail ballot regs before SCOTUS ruling</title>
-      <link>https://cyberscoop.com/postal-service-finalizes-mail-in-ballot-rules-before-scotus-ruling/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/postal-service-finalizes-mail-in-ballot-rules-before-scotus-ruling/</guid>
-      <pubDate>Sat, 22 Aug 2026 17:01:11 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The rules have already been rejected by multiple state courts, but the Trump administration said it’s preparing in case of a favorable Supreme Court decision. The post Postal Service moves to finalize mail ballot regs before SCOTUS ruling appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
       <title>Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain</title>
       <link>https://unit42.paloaltonetworks.com/sdlc-supply-chain/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/sdlc-supply-chain/</guid>
@@ -694,14 +702,6 @@
       <pubDate>Fri, 21 Aug 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Even MOAR Powershell, looking at Entra logins - the good, the bad and the password sprays, (Fri, Aug 21st)</title>
-      <link>https://isc.sans.edu/diary/rss/33268</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33268</guid>
-      <pubDate>Fri, 21 Aug 2026 01:49:18 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>One thing that folks never seem to do after &quot;going to the CLOOOOUUUUD&quot; is to look at their logs, logs that they would have checked daily when things were on premise. (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>I Only Do Anything Once</title>
