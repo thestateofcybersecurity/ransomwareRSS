@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:02:14.272Z",
+  "updated": "2026-08-26T10:56:26.317Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,30 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "RightCrowd Pass unifies mobile, physical, and biometric credentials",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/rightcrowd-pass-credentialing-solution/",
+      "date": "2026-08-26T10:31:09.000Z",
+      "excerpt": "RightCrowd announced RightCrowd Pass, a credentialing solution that issues and manages mobile, physical and biometric access credentials from a single platform. Many large enterprises and universities rely on badge programs-built years ago. As organizations add mobile and…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
+      "link": "https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html",
+      "date": "2026-08-26T10:27:23.000Z",
+      "excerpt": "Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Bogus recruiters go after high-value corporate credentials on mobile",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/recruitment-scam-corporate-passwords-mobile/",
+      "date": "2026-08-26T10:05:55.000Z",
+      "excerpt": "Scammers posing as HR staff at well-known companies are running interview scheduling scams that end with a stolen corporate password, according to Zimperium. Attackers are using a technique called browser-in-the-browser, or BitB, which CTM360 documented in earlier research on…"
+    },
+    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "Exploits and vulnerabilities in Q2 2026",
@@ -128,6 +152,14 @@
       "link": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
       "date": "2026-08-26T09:50:34.000Z",
       "excerpt": "Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities. The post Chrome 152 Patches Over 300 Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation",
+      "link": "https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html",
+      "date": "2026-08-26T09:38:45.000Z",
+      "excerpt": "OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack,…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -474,30 +506,6 @@
       "excerpt": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
-      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
-      "date": "2026-08-25T13:19:41.000Z",
-      "excerpt": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Citrix UniconOS dual boot turns Windows endpoints into their own recovery device",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/citrix-uniconos-dual-boot-endpoint-resiliency-capability/",
-      "date": "2026-08-25T13:19:05.000Z",
-      "excerpt": "Citrix announced Citrix UniconOS dual boot, a new endpoint resiliency capability designed to help organizations recover access to work in minutes — without spare hardware, central reimaging or prolonged business downtime. Available now as part of Citrix UniconOS Release 7 2607,…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fideo Lens reveals connections across identities, accounts and devices",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/fideo-lens-investigative-intelligence-platform/",
-      "date": "2026-08-25T13:13:06.000Z",
-      "excerpt": "Fideo Intelligence introduced Fideo Lens, an investigative intelligence platform that helps fraud and financial crime teams discover hidden relationships among identities, accounts, devices and behaviors. Starting with a single identity signal, investigators can use Fideo Lens…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
@@ -536,14 +544,6 @@
       "link": "https://therecord.media/uk-technology-national-security",
       "date": "2026-08-25T12:45:00.000Z",
       "excerpt": "The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
-      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
-      "date": "2026-08-25T12:43:51.000Z",
-      "excerpt": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA…"
     },
     {
       "source": "The Record",
@@ -856,14 +856,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/08/19/microsoft-named-a-leader-in-the-frost-radar-cloud-workload-protection-platforms-2026/",
       "date": "2026-08-19T17:30:00.000Z",
       "excerpt": "Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "ICE Collecting DNA Samples",
-      "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
-      "date": "2026-08-19T10:46:37.000Z",
-      "excerpt": "ICE collected nearly a million DNA samples last year."
     }
   ]
 }

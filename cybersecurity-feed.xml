@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 10:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:56:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>RightCrowd Pass unifies mobile, physical, and biometric credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/08/26/rightcrowd-pass-credentialing-solution/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/rightcrowd-pass-credentialing-solution/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:31:09 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>RightCrowd announced RightCrowd Pass, a credentialing solution that issues and manages mobile, physical and biometric access credentials from a single platform. Many large enterprises and universities rely on badge programs-built years ago. As organizations add mobile and… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users&#39; Reservations in Tests</title>
+      <link>https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html</guid>
+      <pubDate>Wed, 26 Aug 2026 10:27:23 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Aikido Security has published research that recreates the Australian gym-booking incident in a synthetic environment, finding that Claude Opus 4.6, running on the OpenClaw agent harness, exploited a client-side-only booking restriction in 9 of 10 runs. The original incident was… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Bogus recruiters go after high-value corporate credentials on mobile</title>
+      <link>https://www.helpnetsecurity.com/2026/08/26/recruitment-scam-corporate-passwords-mobile/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/recruitment-scam-corporate-passwords-mobile/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:05:55 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Scammers posing as HR staff at well-known companies are running interview scheduling scams that end with a stolen corporate password, according to Zimperium. Attackers are using a technique called browser-in-the-browser, or BitB, which CTM360 documented in earlier research on… (via Help Net Security)</description>
+    </item>
     <item>
       <title>Exploits and vulnerabilities in Q2 2026</title>
       <link>https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/</link>
@@ -22,6 +46,14 @@
       <pubDate>Wed, 26 Aug 2026 09:50:34 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities. The post Chrome 152 Patches Over 300 Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation</title>
+      <link>https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html</guid>
+      <pubDate>Wed, 26 Aug 2026 09:38:45 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>OpenAI on Tuesday said it banned a cluster of Russian ChatGPT accounts that used VPNs to bypass access restrictions and run an influence operation, which relied on its artificial intelligence (AI) tool to generate social media posts and comments that were shared on Substack,… (via The Hacker News)</description>
     </item>
     <item>
       <title>Linux Foundation Introduces TRACE Standard for AI Runtime Evidence</title>
@@ -368,30 +400,6 @@
       <description>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android</title>
-      <link>https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html</guid>
-      <pubDate>Tue, 25 Aug 2026 13:19:41 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Citrix UniconOS dual boot turns Windows endpoints into their own recovery device</title>
-      <link>https://www.helpnetsecurity.com/2026/08/25/citrix-uniconos-dual-boot-endpoint-resiliency-capability/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/citrix-uniconos-dual-boot-endpoint-resiliency-capability/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:19:05 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Citrix announced Citrix UniconOS dual boot, a new endpoint resiliency capability designed to help organizations recover access to work in minutes — without spare hardware, central reimaging or prolonged business downtime. Available now as part of Citrix UniconOS Release 7 2607,… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Fideo Lens reveals connections across identities, accounts and devices</title>
-      <link>https://www.helpnetsecurity.com/2026/08/25/fideo-lens-investigative-intelligence-platform/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/fideo-lens-investigative-intelligence-platform/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:13:06 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Fideo Intelligence introduced Fideo Lens, an investigative intelligence platform that helps fraud and financial crime teams discover hidden relationships among identities, accounts, devices and behaviors. Starting with a single identity signal, investigators can use Fideo Lens… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>WhatsApp adds stronger two-step verification, multiple passkeys</title>
       <link>https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/</guid>
@@ -430,14 +438,6 @@
       <pubDate>Tue, 25 Aug 2026 12:45:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>The British government is seeking new powers to ban certain technology vendors from supplying companies working in the country’s critical sectors — potentially doing so in secret. (via The Record)</description>
-    </item>
-    <item>
-      <title>Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode</title>
-      <link>https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html</guid>
-      <pubDate>Tue, 25 Aug 2026 12:43:51 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck&#39;s CVE Numbering Authority (CNA) record. The CNA… (via The Hacker News)</description>
     </item>
     <item>
       <title>Large DDoS attack knocks Norwegian public services offline</title>
@@ -750,14 +750,6 @@
       <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Microsoft is named a visionary leader in the 2026 Frost Radar for Cloud Workload Protection Platforms, recognized for unified runtime security with Microsoft Defender for Cloud. The post Microsoft named a Leader in the Frost Radar™: Cloud Workload Protection Platforms, 2026… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>ICE Collecting DNA Samples</title>
-      <link>https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html</guid>
-      <pubDate>Wed, 19 Aug 2026 10:46:37 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>ICE collected nearly a million DNA samples last year. (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
