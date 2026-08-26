@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 08:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:07:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Interpol&#39;s Jackal IV Disrupts West African Crime Infrastructure</title>
+      <link>https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure</link>
+      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure</guid>
+      <pubDate>Wed, 26 Aug 2026 08:30:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe. (via Dark Reading)</description>
+    </item>
     <item>
       <title>Nigeria Looks to Sovereign Cloud for Cyber, National Security</title>
       <link>https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security</link>
@@ -14,6 +22,14 @@
       <pubDate>Wed, 26 Aug 2026 08:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown</title>
+      <link>https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html</guid>
+      <pubDate>Wed, 26 Aug 2026 07:54:12 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>An eight-month INTERPOL operation targeting West African organized crime groups has led to arrests of 58 people and the identification of 263 suspects. &quot;The operation, which brought together 22 countries from six continents, is a response to the escalating global threat posed by… (via The Hacker News)</description>
     </item>
     <item>
       <title>Meta adds three new features to keep WhatsApp accounts secure</title>
@@ -30,6 +46,14 @@
       <pubDate>Wed, 26 Aug 2026 07:41:50 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode</title>
+      <link>https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html</guid>
+      <pubDate>Wed, 26 Aug 2026 07:12:55 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>An independent malware researcher has documented a previously unreported Windows backdoor, dubbed SLEEPWALKER, that stays inert in memory until a specifically crafted network packet reaches the machine and then runs commands written in a 23-instruction language of its own… (via The Hacker News)</description>
     </item>
     <item>
       <title>Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload</title>
@@ -384,22 +408,6 @@
       <description>Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck&#39;s CVE Numbering Authority (CNA) record. The CNA… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows</title>
-      <link>https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html</guid>
-      <pubDate>Tue, 25 Aug 2026 11:56:15 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages</title>
-      <link>https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html</guid>
-      <pubDate>Tue, 25 Aug 2026 11:52:43 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. &quot;While the malware is simply a single HTML page inside the npm package, and while… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Large DDoS attack knocks Norwegian public services offline</title>
       <link>https://therecord.media/norway-cyberattack-ddos-government</link>
       <guid isPermaLink="false">https://therecord.media/norway-cyberattack-ddos-government</guid>
@@ -470,14 +478,6 @@
       <pubDate>Tue, 25 Aug 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Sophos Ranked #1 Overall in Endpoint, XDR, MDR, and Firewall in the G2 Fall 2026 Reports</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports</guid>
-      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets. (via Sophos News)</description>
     </item>
     <item>
       <title>SCOTUS tosses one of two injunctions against Trump USPS mail-in ballot rules</title>
@@ -558,14 +558,6 @@
       <pubDate>Mon, 24 Aug 2026 15:00:02 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>Every time you add an extension or plugin to your browser, there&#39;s a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There&#39;s a chance that you have just handed a complete stranger access… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>ToxicPanda Banking Trojan Matures Into Enterprise Threat</title>
-      <link>https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</link>
-      <guid isPermaLink="false">https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat</guid>
-      <pubDate>Mon, 24 Aug 2026 14:34:59 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The latest version of the Android malware has new features that expand its global reach and put more than users&#39; financial applications at risk. (via Dark Reading)</description>
     </item>
     <item>
       <title>Gunra ransomware: what you need to know</title>
