@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T05:54:50.401Z",
+  "updated": "2026-08-26T07:14:26.385Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "date": "2026-08-26T06:27:07.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Linux Foundation takes on TRACE, a hardware-backed runtime evidence specification for AI agents",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/the-linux-foundation-trace-ai-agent-security/",
+      "date": "2026-08-26T05:54:32.000Z",
+      "excerpt": "The Linux Foundation announced the contribution of TRACE (Trust, Runtime Attestation and Compliance Evidence), from OPAQUE. Collaboratively developed by AMD, Intel, Microsoft, OPAQUE and the Technology Innovation Institute (TII), TRACE creates a standard, open evidence layer…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "date": "2026-08-26T05:47:28.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -474,28 +498,12 @@
       "excerpt": "The Norwegian Digitalisation Agency said it was working with its IT partner to stabilize systems affected by a distributed denial-of-service attack, with some services gradually coming back online."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "date": "2026-08-25T11:33:44.000Z",
-      "excerpt": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
       "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
       "date": "2026-08-25T11:18:22.000Z",
       "excerpt": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "date": "2026-08-25T11:14:07.000Z",
-      "excerpt": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness.…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -520,14 +528,6 @@
       "link": "https://www.infosecurity-magazine.com/news/fake-minecraft-weedhack-malware/",
       "date": "2026-08-25T10:30:00.000Z",
       "excerpt": "A threat actor keeps spreading the WeedHack malware to Minecraft players despite its original infrastructure taken down in July"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Unpatched Zimbra servers are falling to CVE-2026-73570 attacks",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/zimbra-cve-2026-73570-compromised/",
-      "date": "2026-08-25T10:03:28.000Z",
-      "excerpt": "At least 274 internet-facing Zimbra instances have been compromised by unknown attackers via CVE-2026-73570, the Shadowserver Foundation shared on Monday. About CVE-2026-73570 Zimbra Collaboration Suite (ZCS) is a communication and collaboration platform popular with…"
     },
     {
       "source": "Unit 42",
