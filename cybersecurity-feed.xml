@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 26 Aug 2026 10:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:51:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks</title>
+      <link>https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:29:50 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Hackers now exploit critical Gitea flaw in code injection attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:07:48 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>The MFA Identity Trap: When Authentication Creates a False Sense of Security</title>
+      <link>https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Creates a False Sense of Security appeared first on… (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Critical Gitea vulnerability now exploited in the wild (CVE-2026-60004)</title>
+      <link>https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:59:58 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Attackers have begun exploiting CVE-2026-60004, a critical code injection vulnerability in the Gitea Git platform, CISA confirmed on Tuesday by adding the vulnerability to its Known Exploited Vulnerabilities (KEV) catalog. The KEV entry does not contain or point to details about… (via Help Net Security)</description>
+    </item>
     <item>
       <title>RightCrowd Pass unifies mobile, physical, and biometric credentials</title>
       <link>https://www.helpnetsecurity.com/2026/08/26/rightcrowd-pass-credentialing-solution/</link>
@@ -368,14 +400,6 @@
       <description>Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate… (via BleepingComputer)</description>
     </item>
     <item>
-      <title>INTERPOL crackdown on West African crime rings uncovers troubling new trend</title>
-      <link>https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/</guid>
-      <pubDate>Tue, 25 Aug 2026 14:01:06 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Police across 22 countries arrested 58 people and identified 263 suspects during an eight-month INTERPOL operation targeting West African organized crime groups. Suspects detained in an operation targeting West African crime groups (Source: INTERPOL) Operation Jackal IV ran from… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Ukraine to give Britain access to battlefield data to train AI</title>
       <link>https://therecord.media/ukraine-uk-ai-drone-data</link>
       <guid isPermaLink="false">https://therecord.media/ukraine-uk-ai-drone-data</guid>
@@ -400,36 +424,12 @@
       <description>CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>WhatsApp adds stronger two-step verification, multiple passkeys</title>
-      <link>https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update</title>
-      <link>https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Fake Recruiter Scams Target Corporate Credentials on Mobile</title>
       <link>https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/</guid>
       <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference</title>
-      <link>https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/</guid>
-      <pubDate>Tue, 25 Aug 2026 12:57:59 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>UK government seeks powers to secretly block risky tech suppliers</title>

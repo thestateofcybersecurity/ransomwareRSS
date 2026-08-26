@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T10:56:26.317Z",
+  "updated": "2026-08-26T11:51:31.133Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
+      "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
+      "date": "2026-08-26T11:29:50.000Z",
+      "excerpt": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "date": "2026-08-26T11:07:48.000Z",
+      "excerpt": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+      "link": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+      "date": "2026-08-26T11:00:00.000Z",
+      "excerpt": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Creates a False Sense of Security appeared first on…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Critical Gitea vulnerability now exploited in the wild (CVE-2026-60004)",
+      "link": "https://www.helpnetsecurity.com/2026/08/26/gitea-cve-2026-60004-exploited-in-the-wild/",
+      "date": "2026-08-26T10:59:58.000Z",
+      "excerpt": "Attackers have begun exploiting CVE-2026-60004, a critical code injection vulnerability in the Gitea Git platform, CISA confirmed on Tuesday by adding the vulnerability to its Known Exploited Vulnerabilities (KEV) catalog. The KEV entry does not contain or point to details about…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -474,14 +506,6 @@
       "excerpt": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "INTERPOL crackdown on West African crime rings uncovers troubling new trend",
-      "link": "https://www.helpnetsecurity.com/2026/08/25/interpol-jackal-iv-west-african-crime-groups-arrests/",
-      "date": "2026-08-25T14:01:06.000Z",
-      "excerpt": "Police across 22 countries arrested 58 people and identified 263 suspects during an eight-month INTERPOL operation targeting West African organized crime groups. Suspects detained in an operation targeting West African crime groups (Source: INTERPOL) Operation Jackal IV ran from…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Ukraine to give Britain access to battlefield data to train AI",
@@ -506,36 +530,12 @@
       "excerpt": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "date": "2026-08-25T13:00:00.000Z",
-      "excerpt": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
-      "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
-      "date": "2026-08-25T13:00:00.000Z",
-      "excerpt": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Fake Recruiter Scams Target Corporate Credentials on Mobile",
       "link": "https://www.infosecurity-magazine.com/news/fake-recruiter-scams-corporate/",
       "date": "2026-08-25T13:00:00.000Z",
       "excerpt": "RecruitTrap campaigns use mobile-optimized phishing pages to target enterprise credentials"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-      "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-      "date": "2026-08-25T12:57:59.000Z",
-      "excerpt": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
