@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-28T18:50:53.978Z",
+  "updated": "2026-08-29T02:19:07.315Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,86 @@
     }
   ],
   "items": [
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+      "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+      "date": "2026-11-12T16:00:00.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "date": "2026-10-08T15:00:00.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "date": "2026-08-28T22:40:17.000Z",
+      "excerpt": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
+      "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
+      "date": "2026-08-28T22:00:07.000Z",
+      "excerpt": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety appeared first on Unit 42 ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "date": "2026-08-28T21:30:52.000Z",
+      "excerpt": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
+      "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
+      "date": "2026-08-28T21:02:44.000Z",
+      "excerpt": "Ugh : A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the “Squidpocalypse of ’26.” That would be twenty tons of squid. As usual, you…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "date": "2026-08-28T20:38:47.000Z",
+      "excerpt": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "ATF confirms cyberattack hit system containing info on its investigation targets",
+      "link": "https://cyberscoop.com/atf-doj-cyberattack-qilin-ransomware/",
+      "date": "2026-08-28T20:29:38.000Z",
+      "excerpt": "The prolific ransomware group Qilin claimed responsibility for the attack. ATF insists the incident was limited to a standalone system and hasn’t impacted critical operations. The post ATF confirms cyberattack hit system containing info on its investigation targets appeared…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+      "date": "2026-08-28T20:19:22.000Z",
+      "excerpt": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "date": "2026-08-28T19:08:26.000Z",
+      "excerpt": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]"
+    },
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
@@ -274,14 +354,6 @@
       "excerpt": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL",
-      "link": "https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html",
-      "date": "2026-08-28T11:20:32.000Z",
-      "excerpt": "ServiceNow has released patches for four security flaws impacting the ServiceNow AI Platform, three of them rated 10.0 on the CVSS scoring system and exploitable, in certain circumstances, by an unauthenticated attacker. The company said it deployed a security update to hosted…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "North Korean remote workers are broadening their job hunt beyond IT",
@@ -314,14 +386,6 @@
       "excerpt": "Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. The post Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access",
-      "link": "https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html",
-      "date": "2026-08-28T10:58:29.000Z",
-      "excerpt": "VulnCheck has disclosed two previously undocumented factory implants in firmware for routers built by Shenzhen Zhibotong Electronics (ZBT), each of which gives an unauthenticated remote attacker the ability to run commands as root on affected devices. The implants, named…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
@@ -338,14 +402,6 @@
       "excerpt": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]"
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Shai-Hulud hackers: two men charged over TeamPCP’s global supply chain crime spree that hit OpenAI, and thousands more",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps",
-      "date": "2026-08-28T10:23:57.000Z",
-      "excerpt": "More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP's global hacking spree. Read more in my article on the Hot for Security blog."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn",
@@ -360,14 +416,6 @@
       "link": "https://www.helpnetsecurity.com/2026/08/28/android-17-network-security-features/",
       "date": "2026-08-28T09:28:39.000Z",
       "excerpt": "Google introduced a batch of network security changes coming in Android 17, aimed at making it harder for network operators, snoops, and scammers to track what you do on your phone. “When you visit a website or use an app, even if the connection is encrypted by HTTPS, the domain…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Windows 11 KB5120998 update released with 35 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/",
-      "date": "2026-08-28T09:10:13.000Z",
-      "excerpt": "Microsoft released the KB5120998 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 35 changes, including improvements to the Start menu, taskbar, and Windows search. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -426,14 +474,6 @@
       "excerpt": ""
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Nearly 700 rogue AI agents coordinated in the Hugging Face attack",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/",
-      "date": "2026-08-27T21:38:53.000Z",
-      "excerpt": "New details about the July attack on Hugging Face reveal that hundreds of AI agents driven by OpenAI's internal IM1 model coordinated the compromise through an unauthorized message board. [...]"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
@@ -464,14 +504,6 @@
       "link": "https://cyberscoop.com/ai-cyber-defense-global-surge/",
       "date": "2026-08-27T18:29:55.000Z",
       "excerpt": "OpenAI, Anthropic, Google, Microsoft, and others say there’s a narrow “defenders’ window” to strengthen security before AI-powered attacks become more sophisticated. The post 100-plus companies call for ‘global surge’ in AI-powered cyber defense appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026",
-      "date": "2026-08-27T17:25:09.000Z",
-      "excerpt": "This installment of the Reporters' Notebook video series discusses the topics that dominated the cybersecurity conference, such as AI's effects on vulnerability reporting and security research."
     },
     {
       "source": "CyberScoop",
@@ -594,14 +626,6 @@
       "excerpt": "Two vulnerabilities (CVE-2026-82078, CVE-2026-81578) affecting print management solutions PaperCut NG and PaperCut MF are being exploited by attackers, PaperCut Software has warned. “We are aware of confirmed customer incidents and are treating this matter with the highest…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Russian Hackers Phish EU Officials Over Messaging Apps",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps",
-      "date": "2026-08-27T11:16:01.000Z",
-      "excerpt": "EU governments are trying to move away from popular messaging apps as nation-state threat groups shift their focus from email to Signal and WhatsApp."
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Two Alleged ‘TeamPCP’ Hackers Arrested in Australia",
@@ -650,14 +674,6 @@
       "excerpt": "OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before…"
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "US Navy tells sailors and their families: scrub your social media, enemies are watching",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-navy-sailors-families-scrub-social-media-enemies-watching",
-      "date": "2026-08-27T09:46:39.000Z",
-      "excerpt": "The US Navy has told its entire workforce of 340,000 active-duty personnel, 58,000 reservists, and 210,000 civilian employees to clean up their social media profiles, because adversaries might be using them to determine who they are, where they live, and when they may not be at…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "OpenAI: Hugging Face Incident a “Warning Shot” to the World",
@@ -690,28 +706,12 @@
       "excerpt": "Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year."
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #482: This hacker leaked GTA 6 – and launched their own cryptocurrency",
-      "link": "https://grahamcluley.com/smashing-security-podcast-482/",
-      "date": "2026-08-26T23:10:11.000Z",
-      "excerpt": "A hacker calling themselves \"CYBERLEEK\" has been leaking gameplay footage from GTA 6 ahead of its official reveal this week - but they're not asking Rockstar Games for a ransom. Instead, they've launched their own cryptocurrency, promising to release ever more juicy clips from a…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Cyber threats nudge Trump to sign executive order on foreign equipment in U.S. energy infrastructure",
       "link": "https://cyberscoop.com/energy-department-cybersecurity-executive-order-rules/",
       "date": "2026-08-26T21:38:40.000Z",
       "excerpt": "The order says any foreign-produced equipment deemed to pose national security risks can’t be purchased or installed. The post Cyber threats nudge Trump to sign executive order on foreign equipment in U.S. energy infrastructure appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
-      "date": "2026-08-26T21:33:06.000Z",
-      "excerpt": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims."
     },
     {
       "source": "CyberScoop",
@@ -728,14 +728,6 @@
       "link": "https://cyberscoop.com/openai-hugging-face-agent-breach-report/",
       "date": "2026-08-26T19:00:00.000Z",
       "excerpt": "The company says the breach stemmed from a systemic failure of alignment and security, and has taken measures to prevent agents from independently orchestrating complex cyberattacks. The post OpenAI: Agent behavior that led to Hugging Face intrusion formed in May appeared first…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Three 10.0 security flaws fixed across Ubiquiti’s UniFi line",
-      "link": "https://cyberscoop.com/ubiquiti-unifi-critical-vulnerabilities-patched/",
-      "date": "2026-08-26T18:47:46.000Z",
-      "excerpt": "The communications product company disclosed 22 total Wednesday, all but one of which was rated “critical” at 9.0 or higher. The post Three 10.0 security flaws fixed across Ubiquiti’s UniFi line appeared first on CyberScoop ."
     },
     {
       "source": "Microsoft Security Blog",
@@ -842,22 +834,6 @@
       "excerpt": "Is the technique outdated? Yes. Is it still creepy? Also yes."
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
-      "date": "2026-08-24T15:00:02.000Z",
-      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Gunra ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
-      "date": "2026-08-24T12:52:37.000Z",
-      "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Criminal Deception in Silicon Valley",
@@ -880,22 +856,6 @@
       "link": "https://www.troyhunt.com/welcoming-the-sri-lankan-government-to-have-i-been-pwned/",
       "date": "2026-08-23T06:39:45.000Z",
       "excerpt": "Today, we welcome the 48th government onboarded to Have I Been Pwned’s free gov service: Sri Lanka. Sri Lanka CERT now has access to monitor Sri Lankan government domains against the data in HIBP, helping identify exposed government accounts and respond when they appear in new…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain",
-      "link": "https://unit42.paloaltonetworks.com/sdlc-supply-chain/",
-      "date": "2026-08-21T23:00:21.000Z",
-      "excerpt": "Attackers are targeting CI/CD pipelines and developer tools instead of application code, requiring total SDLC visibility and strict security controls The post Connecting the Dots: Securing the Overlooked Corners of the Software Development Lifecycle (SDLC) Supply Chain appeared…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: Neon Flying Squid",
-      "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html",
-      "date": "2026-08-21T21:07:20.000Z",
-      "excerpt": "The neon flying squid can fly in formation. The shoal of about 100 squid rose unexpectedly from a patch of the Pacific Ocean around 370 miles from Tokyo and glided near the boat for about 30 metres. The astonished researchers were the first to capture photographs of such a…"
     }
   ]
 }
