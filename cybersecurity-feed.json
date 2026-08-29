@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29T09:12:19.990Z",
+  "updated": "2026-08-29T14:34:29.799Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Troy Hunt",
@@ -128,6 +128,22 @@
       "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
       "date": "2026-10-08T15:00:00.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "date": "2026-08-29T14:19:23.000Z",
+      "excerpt": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hasbro Data Breach Exposed Employee Personal Information",
+      "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+      "date": "2026-08-29T11:55:00.000Z",
+      "excerpt": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek ."
     },
     {
       "source": "Microsoft Security Blog",
@@ -402,12 +418,12 @@
       "excerpt": "New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks. The post Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "date": "2026-08-28T10:29:42.000Z",
-      "excerpt": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]"
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Shai-Hulud hackers: two men charged over TeamPCP’s global supply chain crime spree that hit OpenAI, and thousands more",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps",
+      "date": "2026-08-28T10:23:57.000Z",
+      "excerpt": "More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP's global hacking spree. Read more in my article on the Hot for Security blog."
     },
     {
       "source": "Infosecurity Magazine",
@@ -602,14 +618,6 @@
       "excerpt": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
-      "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
-      "date": "2026-08-27T12:48:03.000Z",
-      "excerpt": "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison. The post Australia Arrests 2 Alleged TeamPCP Hackers appeared first on SecurityWeek ."
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Cyberattack causes network outage at Boston Scientific, disrupts global operations",
@@ -682,6 +690,14 @@
       "excerpt": "OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before…"
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "US Navy tells sailors and their families: scrub your social media, enemies are watching",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-navy-sailors-families-scrub-social-media-enemies-watching",
+      "date": "2026-08-27T09:46:39.000Z",
+      "excerpt": "The US Navy has told its entire workforce of 340,000 active-duty personnel, 58,000 reservists, and 210,000 civilian employees to clean up their social media profiles, because adversaries might be using them to determine who they are, where they live, and when they may not be at…"
+    },
+    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "OpenAI: Hugging Face Incident a “Warning Shot” to the World",
@@ -712,6 +728,14 @@
       "link": "https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026",
       "date": "2026-08-27T00:00:00.000Z",
       "excerpt": "Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #482: This hacker leaked GTA 6 – and launched their own cryptocurrency",
+      "link": "https://grahamcluley.com/smashing-security-podcast-482/",
+      "date": "2026-08-26T23:10:11.000Z",
+      "excerpt": "A hacker calling themselves \"CYBERLEEK\" has been leaking gameplay footage from GTA 6 ahead of its official reveal this week - but they're not asking Rockstar Games for a ransom. Instead, they've launched their own cryptocurrency, promising to release ever more juicy clips from a…"
     },
     {
       "source": "CyberScoop",
@@ -840,6 +864,22 @@
       "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
       "date": "2026-08-24T19:19:21.000Z",
       "excerpt": "Is the technique outdated? Yes. Is it still creepy? Also yes."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
+      "date": "2026-08-24T15:00:02.000Z",
+      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Gunra ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/gunra-ransomware-what-you-need-know",
+      "date": "2026-08-24T12:52:37.000Z",
+      "excerpt": "The ransomware gang Gunra has been creating havoc - exploiting unpatched VPNs and firewalls to steal data, encrypt systems, and extort victims across healthcare, finance, manufacturing, and more. Read more in my article on the Fortra blog."
     },
     {
       "source": "Schneier on Security",
