@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 30 Aug 2026 06:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 13:00:59 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI</title>
@@ -22,6 +22,30 @@
       <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>via Dark Reading</description>
+    </item>
+    <item>
+      <title>Week in review: Compromised Zimbra servers, previously patched Citrix NetScaler flaw exploited</title>
+      <link>https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/30/week-in-review-compromised-zimbra-servers-previously-patched-citrix-netscaler-flaw-exploited/</guid>
+      <pubDate>Sun, 30 Aug 2026 08:00:48 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Unpatched Zimbra servers are falling to CVE-2026-73570 attacks At least 274 internet-facing Zimbra instances have been compromised by unknown attackers via CVE-2026-73570, the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
+      <link>https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html</guid>
+      <pubDate>Sun, 30 Aug 2026 07:36:33 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. &quot;While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>YARA-X 1.20.0 Release, (Sun, Aug 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/33288</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33288</guid>
+      <pubDate>Sun, 30 Aug 2026 07:14:49 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>YARA-X&amp;#x26;#39;s 1.20.0 release brings 14 improvements and 13 bugfixes. (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Anthropic is cutting Claude Code&#39;s current weekly limits by 17%</title>
@@ -262,14 +286,6 @@
       <pubDate>Fri, 28 Aug 2026 12:36:53 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>CISA has added the exploited flaw, CVE-2026-53362, to its KEV catalog, alongside a JFrog vulnerability exploited by OpenAI agents. The post OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth</title>
-      <link>https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html</guid>
-      <pubDate>Fri, 28 Aug 2026 12:07:24 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot&#39;s Locomotion PC. The flaws are tracked as CVE-2026-76639 and… (via The Hacker News)</description>
     </item>
     <item>
       <title>North Korean remote workers are broadening their job hunt beyond IT</title>
@@ -528,14 +544,6 @@
       <description>The FBI advisory set out QTFY’s distributed hacking ecosystem, allowing it to exploit vulnerabilities at scale and obfuscate its activities (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>PaperCut NG/MF vulnerabilities exploited in zero-day attacks</title>
-      <link>https://www.helpnetsecurity.com/2026/08/27/papercut-ng-mf-vulnerability-attack/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/27/papercut-ng-mf-vulnerability-attack/</guid>
-      <pubDate>Thu, 27 Aug 2026 11:59:33 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Two vulnerabilities (CVE-2026-82078, CVE-2026-81578) affecting print management solutions PaperCut NG and PaperCut MF are being exploited by attackers, PaperCut Software has warned. “We are aware of confirmed customer incidents and are treating this matter with the highest… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</title>
       <link>https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</link>
       <guid isPermaLink="false">https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/</guid>
@@ -734,14 +742,6 @@
       <pubDate>Tue, 25 Aug 2026 10:00:57 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, August 25th, 2026 https://isc.sans.edu/podcastdetail/10066, (Tue, Aug 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/33278</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33278</guid>
-      <pubDate>Tue, 25 Aug 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Sophos Ranked #1 Overall in Endpoint, XDR, MDR, and Firewall in the G2 Fall 2026 Reports</title>
