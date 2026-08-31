@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 31 Aug 2026 14:08:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:12:48 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI</title>
@@ -24,12 +24,148 @@
       <description>via Dark Reading</description>
     </item>
     <item>
+      <title>The Coding-Agent Trap: When a &quot;Free&quot; LLM Endpoint Is the Adversary, (Mon, Aug 31st)</title>
+      <link>https://isc.sans.edu/diary/rss/33298</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33298</guid>
+      <pubDate>Mon, 31 Aug 2026 20:00:34 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide &quot;free&quot; LLM backends. It then received a real coding-agent session &amp;#x26;#xe2;&amp;#x26;#x80;&amp;#x26;#x94; history,… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Fraudsters steal $6 million from Tectonic crypto platform after inflating token price</title>
+      <link>https://therecord.media/crypto-tectonic-hack-cronos</link>
+      <guid isPermaLink="false">https://therecord.media/crypto-tectonic-hack-cronos</guid>
+      <pubDate>Mon, 31 Aug 2026 19:45:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend. (via The Record)</description>
+    </item>
+    <item>
+      <title>Microsoft warns of TerminalFix attacks deploying reverse tunnels</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/</guid>
+      <pubDate>Mon, 31 Aug 2026 18:51:04 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>‘Watershed 250’ test program in Texas looks to private sector for water cybersecurity help</title>
+      <link>https://cyberscoop.com/watershed-250-texas-water-cybersecurity-pilot/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/watershed-250-texas-water-cybersecurity-pilot/</guid>
+      <pubDate>Mon, 31 Aug 2026 18:36:43 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The six-month program will be overseen by the Office of the National Cyber Director and Texas Cyber Command to “find out what works.” The post ‘Watershed 250’ test program in Texas looks to private sector for water cybersecurity help appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Is Someone Hacking DoD Refrigerators?</title>
+      <link>https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html</guid>
+      <pubDate>Mon, 31 Aug 2026 18:20:35 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>It sure seems like it. The stores confirmed to be affected include Fort Irwin , Calif.; F.E. Warren Air Force Base , Wyo.; Fort Huachuca , Ariz.; Naval Station Newport , R.I.; Columbus Air Force Base , Miss.; and Travis Air Force Base , Calif., according to announcements made… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>AI Model Rules Are Not Security Controls</title>
+      <link>https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control</guid>
+      <pubDate>Mon, 31 Aug 2026 17:34:26 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>OpenAI&#39;s Hugging Face attack postmortem shows agents don&#39;t care about rules — they need strong controls. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales</title>
+      <link>https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html</guid>
+      <pubDate>Mon, 31 Aug 2026 17:24:28 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors with ties to the Democratic People&#39;s Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Microsoft Exchange Online outage causes email failures, auth issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/</guid>
+      <pubDate>Mon, 31 Aug 2026 16:56:57 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>OpenAI confirms ChatGPT outage as users report errors</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/</guid>
+      <pubDate>Mon, 31 Aug 2026 16:50:50 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Think twice before installing this device promising free movies</title>
+      <link>https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/</guid>
+      <pubDate>Mon, 31 Aug 2026 16:33:38 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>In exchange for free stuff, devices make home connections part of a proxy network. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>Chinese Fire Ant hackers turn Cisco routers into spying platforms</title>
+      <link>https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:52:03 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The researchers discovered Fire Ant&#39;s new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Berlin says it won’t pay ransom after hackers steal government data</title>
+      <link>https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data</link>
+      <guid isPermaLink="false">https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data</guid>
+      <pubDate>Mon, 31 Aug 2026 14:45:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August. (via The Record)</description>
+    </item>
+    <item>
+      <title>Threat actors are posing as AI crawlers to hunt for exposed credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:39:22 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Attackers are disguising automated scanning as traffic from AI crawlers operated by OpenAI, Anthropic, Google, Perplexity and other companies while searching websites for exposed credentials and configuration files, according to GreyNoise. (Source: GreyNoise) “Every program that… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Attackers plant remote access tools on compromised PaperCut servers</title>
+      <link>https://www.helpnetsecurity.com/2026/08/31/papercut-attack-remote-access-tools/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/31/papercut-attack-remote-access-tools/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:38:33 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The threat actor targeting internet-facing PaperCut Application Servers is covertly installing legitimate remote access software on them, PaperCut Software shared in the most recent update on the ongoing attack campaign. PaperCut zero-days exploited to deploy remote access tools… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit</title>
+      <link>https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:32:34 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>File servers are here to stay. Here’s how to manage them securely</title>
+      <link>https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/</guid>
+      <pubDate>Mon, 31 Aug 2026 14:00:10 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
       <title>ServiceNow Patches 3 Critical Code Injection Vulnerabilities</title>
       <link>https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/</link>
       <guid isPermaLink="false">https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/</guid>
       <pubDate>Mon, 31 Aug 2026 13:59:19 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More</title>
+      <link>https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html</guid>
+      <pubDate>Mon, 31 Aug 2026 13:50:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task… (via The Hacker News)</description>
     </item>
     <item>
       <title>Berlin confirms data theft after Rhysida ransomware attack claims</title>
@@ -208,28 +344,12 @@
       <description>Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’</title>
-      <link>https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/</guid>
-      <pubDate>Mon, 31 Aug 2026 09:07:01 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The ruling is part of Anthropic&#39;s legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year. The post Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’ appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs</title>
       <link>https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html</guid>
       <pubDate>Mon, 31 Aug 2026 09:04:55 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate,… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Microsoft asks users to ignore &#39;Antivirus is turned off&#39; errors</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/</guid>
-      <pubDate>Mon, 31 Aug 2026 08:29:42 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Debian developers rejected an LLM ban and left disclosure voluntary</title>
@@ -256,22 +376,6 @@
       <description>OpenClaw is open source software that hands an AI model small standing jobs across your accounts, the kind of chore where it watches a mailbox for vendor advisories and pings you on Telegram when one names a product you run. OpenClaw 2.0 is the largest update in the project’s… (via Help Net Security)</description>
     </item>
     <item>
-      <title>What vulnerability prioritization looks like when KEV, EPSS, and CVSS disagree</title>
-      <link>https://www.helpnetsecurity.com/2026/08/31/joye-purser-cohesity-kev-epss-cvss-conflicts/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/31/joye-purser-cohesity-kev-epss-cvss-conflicts/</guid>
-      <pubDate>Mon, 31 Aug 2026 06:00:37 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>In this Help Net Security interview, Dr. Joye Purser, Global Field CISO at Cohesity, explains how to rank vulnerabilities when KEV, EPSS, and CVSS point in different directions. Active exploitation comes first, then exploit likelihood, then technical severity, with adjustments… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Halo-record: Open-source audit trails for AI agents</title>
-      <link>https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/</guid>
-      <pubDate>Mon, 31 Aug 2026 05:30:37 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Brian Kuan wrote halo-record, a small Python package that sits inside an AI agent and writes down the moves it makes: tool calls, model calls, data access, approvals. Each action becomes one line in a file that only ever gets appended to, and every line carries a hash of the… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)</title>
       <link>https://isc.sans.edu/diary/rss/33296</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33296</guid>
@@ -286,30 +390,6 @@
       <pubDate>Sun, 30 Aug 2026 22:58:30 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A large purple hand holds a pendulum swinging one man between standing arms-wide on a ship&#39;s prow in warm sienna and collapsed head-in-hands in a purple office chair/images/workplace-situation-mental-health.webp/images/workplace-situation-mental-health.webp One thing I keep… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>FulcrumSec claims Manchester Airports hack, theft of 86 GB of data</title>
-      <link>https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/</guid>
-      <pubDate>Sun, 30 Aug 2026 15:00:21 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller&#39;s record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Anthropic warns infostealer malware is hijacking Claude sessions to drain usage</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/</guid>
-      <pubDate>Sun, 30 Aug 2026 14:30:25 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Chrome Web Store extensions caught stealing crypto, browser data</title>
-      <link>https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/</guid>
-      <pubDate>Sun, 30 Aug 2026 14:17:44 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor</title>
@@ -328,22 +408,6 @@
       <description>YARA-X&amp;#x26;#39;s 1.20.0 release brings 14 improvements and 13 bugfixes. (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>Anthropic is cutting Claude Code&#39;s current weekly limits by 17%</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/</guid>
-      <pubDate>Sat, 29 Aug 2026 23:11:51 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Anthropic is permanently increasing Claude Code&#39;s standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it&#39;s not as good as it sounds. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE</title>
-      <link>https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html</guid>
-      <pubDate>Sat, 29 Aug 2026 16:25:03 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>TerminalFix campaign deploys a reverse tunnel through multistage intrusion</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/</guid>
@@ -358,14 +422,6 @@
       <pubDate>Fri, 28 Aug 2026 22:00:07 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Berlin Refuses to Pay Hackers Who Stole Data From the City&#39;s State Network</title>
-      <link>https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html</guid>
-      <pubDate>Fri, 28 Aug 2026 21:30:52 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Berlin&#39;s state government has confirmed that it is the target of an extortion attempt following the August compromise of the city&#39;s state administrative network, and said it will not meet the extortionists&#39; demands. The same statement disclosed that forensic work had found… (via The Hacker News)</description>
     </item>
     <item>
       <title>Friday Squid Blogging: Truckload of Squid Spills in Rhode Island</title>
@@ -496,22 +552,6 @@
       <description>via SANS Internet Storm Center</description>
     </item>
     <item>
-      <title>White House bans foreign-made equipment for power generation over cyber backdoor concerns</title>
-      <link>https://therecord.media/trump-cyber-electricity-parts</link>
-      <guid isPermaLink="false">https://therecord.media/trump-cyber-electricity-parts</guid>
-      <pubDate>Thu, 27 Aug 2026 19:45:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the technology. (via The Record)</description>
-    </item>
-    <item>
-      <title>Chinese Routers Sold Worldwide Contain Backdoors</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors</guid>
-      <pubDate>Thu, 27 Aug 2026 19:31:45 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Unit 42 warns AI has shifted balance of power from defenders to attackers</title>
       <link>https://cyberscoop.com/unit-42-palo-alto-networks-warning-agentic-ai-frontier-models/</link>
       <guid isPermaLink="false">https://cyberscoop.com/unit-42-palo-alto-networks-warning-agentic-ai-frontier-models/</guid>
@@ -542,14 +582,6 @@
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments. The post ​​​​​​What’s new in Microsoft Security: August 2026… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Finland appeals court revives case against Eagle S Officers over cable breaks</title>
-      <link>https://therecord.media/finland-appeals-court-revives-case-against-eagle-s</link>
-      <guid isPermaLink="false">https://therecord.media/finland-appeals-court-revives-case-against-eagle-s</guid>
-      <pubDate>Thu, 27 Aug 2026 15:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country. (via The Record)</description>
     </item>
     <item>
       <title>Two alleged TeamPCP members arrested and charged after months of software supply-chain chaos</title>
@@ -696,14 +728,6 @@
       <description>The order says any foreign-produced equipment deemed to pose national security risks can’t be purchased or installed. The post Cyber threats nudge Trump to sign executive order on foreign equipment in U.S. energy infrastructure appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Officials disrupt Chinese espionage operation that hit multiple federal agencies</title>
-      <link>https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/</guid>
-      <pubDate>Wed, 26 Aug 2026 19:35:05 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The full hacking suite, seized by authorities, allowed Chinese government funded attackers to intrude highly sensitive networks undetected for more than eight years. The post Officials disrupt Chinese espionage operation that hit multiple federal agencies appeared first on… (via CyberScoop)</description>
-    </item>
-    <item>
       <title>When AI infrastructure becomes the target: Securing gateways and control points</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
@@ -734,14 +758,6 @@
       <pubDate>Wed, 26 Aug 2026 10:00:04 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>This report covers statistics on vulnerabilities, exploits, and C2 frameworks in Q2 2026. For the first time ever, we aggregate data on vulnerabilities in open-source AI agents and AI frameworks. (via Securelist)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)</title>
-      <link>https://isc.sans.edu/diary/rss/33282</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33282</guid>
-      <pubDate>Wed, 26 Aug 2026 02:40:13 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>A Cautionary Tale About Data Breach Claims, Verification and Carhartt</title>
@@ -782,22 +798,6 @@
       <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Inaudible sounds used to fingerprint browsers catch AliExpress red-handed</title>
-      <link>https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/</guid>
-      <pubDate>Mon, 24 Aug 2026 19:19:21 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Is the technique outdated? Yes. Is it still creepy? Also yes. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials</link>
-      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:02 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Every time you add an extension or plugin to your browser, there&#39;s a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There&#39;s a chance that you have just handed a complete stranger access… (via Graham Cluley)</description>
     </item>
   </channel>
 </rss>

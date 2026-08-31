@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T14:08:53.310Z",
+  "updated": "2026-08-31T20:12:48.714Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -130,12 +130,148 @@
       "excerpt": ""
     },
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "The Coding-Agent Trap: When a \"Free\" LLM Endpoint Is the Adversary, (Mon, Aug 31st)",
+      "link": "https://isc.sans.edu/diary/rss/33298",
+      "date": "2026-08-31T20:00:34.000Z",
+      "excerpt": "One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide \"free\" LLM backends. It then received a real coding-agent session &#x26;#xe2;&#x26;#x80;&#x26;#x94; history,…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Fraudsters steal $6 million from Tectonic crypto platform after inflating token price",
+      "link": "https://therecord.media/crypto-tectonic-hack-cronos",
+      "date": "2026-08-31T19:45:00.000Z",
+      "excerpt": "At least $6 million was stolen from crypto platform Tectonic after an attacker manipulated the price of the Tonic coin over the weekend."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "date": "2026-08-31T18:51:04.000Z",
+      "excerpt": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "‘Watershed 250’ test program in Texas looks to private sector for water cybersecurity help",
+      "link": "https://cyberscoop.com/watershed-250-texas-water-cybersecurity-pilot/",
+      "date": "2026-08-31T18:36:43.000Z",
+      "excerpt": "The six-month program will be overseen by the Office of the National Cyber Director and Texas Cyber Command to “find out what works.” The post ‘Watershed 250’ test program in Texas looks to private sector for water cybersecurity help appeared first on CyberScoop ."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Is Someone Hacking DoD Refrigerators?",
+      "link": "https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html",
+      "date": "2026-08-31T18:20:35.000Z",
+      "excerpt": "It sure seems like it. The stores confirmed to be affected include Fort Irwin , Calif.; F.E. Warren Air Force Base , Wyo.; Fort Huachuca , Ariz.; Naval Station Newport , R.I.; Columbus Air Force Base , Miss.; and Travis Air Force Base , Calif., according to announcements made…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Model Rules Are Not Security Controls",
+      "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
+      "date": "2026-08-31T17:34:26.000Z",
+      "excerpt": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
+      "link": "https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html",
+      "date": "2026-08-31T17:24:28.000Z",
+      "excerpt": "Threat actors with ties to the Democratic People's Republic of Korea (aka DPRK or North Korea) have been observed seeking job opportunities beyond the information technology (IT) sector, with recent investigations identifying suspected workers employed in sales and marketing and…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
+      "date": "2026-08-31T16:56:57.000Z",
+      "excerpt": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "OpenAI confirms ChatGPT outage as users report errors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
+      "date": "2026-08-31T16:50:50.000Z",
+      "excerpt": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Think twice before installing this device promising free movies",
+      "link": "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+      "date": "2026-08-31T16:33:38.000Z",
+      "excerpt": "In exchange for free stuff, devices make home connections part of a proxy network."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
+      "date": "2026-08-31T14:52:03.000Z",
+      "excerpt": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Berlin says it won’t pay ransom after hackers steal government data",
+      "link": "https://therecord.media/berlin-says-it-wont-pay-ransom-after-hackers-steal-gov-data",
+      "date": "2026-08-31T14:45:00.000Z",
+      "excerpt": "Governing Mayor Kai Wegner said that Berlin had received an extortion demand following the cyberattack, which was discovered in mid-August."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Threat actors are posing as AI crawlers to hunt for exposed credentials",
+      "link": "https://www.helpnetsecurity.com/2026/08/31/ai-crawlers-scan-exposed-credentials/",
+      "date": "2026-08-31T14:39:22.000Z",
+      "excerpt": "Attackers are disguising automated scanning as traffic from AI crawlers operated by OpenAI, Anthropic, Google, Perplexity and other companies while searching websites for exposed credentials and configuration files, according to GreyNoise. (Source: GreyNoise) “Every program that…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Attackers plant remote access tools on compromised PaperCut servers",
+      "link": "https://www.helpnetsecurity.com/2026/08/31/papercut-attack-remote-access-tools/",
+      "date": "2026-08-31T14:38:33.000Z",
+      "excerpt": "The threat actor targeting internet-facing PaperCut Application Servers is covertly installing legitimate remote access software on them, PaperCut Software shared in the most recent update on the ongoing attack campaign. PaperCut zero-days exploited to deploy remote access tools…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
+      "date": "2026-08-31T14:32:34.000Z",
+      "excerpt": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "File servers are here to stay. Here’s how to manage them securely",
+      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
+      "date": "2026-08-31T14:00:10.000Z",
+      "excerpt": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...]"
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
       "link": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
       "date": "2026-08-31T13:59:19.000Z",
       "excerpt": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html",
+      "date": "2026-08-31T13:50:00.000Z",
+      "excerpt": "The boring parts caused most of the trouble. A router shipped ready to listen. A fake check turned the user into the installer. Trusted systems collected traffic and passwords, then cleaned the logs. Old bugs formed new attack chains. Even an AI agent decided its assigned task…"
     },
     {
       "source": "BleepingComputer",
@@ -314,28 +450,12 @@
       "excerpt": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’",
-      "link": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
-      "date": "2026-08-31T09:07:01.000Z",
-      "excerpt": "The ruling is part of Anthropic's legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year. The post Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’ appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
       "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
       "date": "2026-08-31T09:04:55.000Z",
       "excerpt": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate,…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "date": "2026-08-31T08:29:42.000Z",
-      "excerpt": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]"
     },
     {
       "source": "Help Net Security",
@@ -362,22 +482,6 @@
       "excerpt": "OpenClaw is open source software that hands an AI model small standing jobs across your accounts, the kind of chore where it watches a mailbox for vendor advisories and pings you on Telegram when one names a product you run. OpenClaw 2.0 is the largest update in the project’s…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "What vulnerability prioritization looks like when KEV, EPSS, and CVSS disagree",
-      "link": "https://www.helpnetsecurity.com/2026/08/31/joye-purser-cohesity-kev-epss-cvss-conflicts/",
-      "date": "2026-08-31T06:00:37.000Z",
-      "excerpt": "In this Help Net Security interview, Dr. Joye Purser, Global Field CISO at Cohesity, explains how to rank vulnerabilities when KEV, EPSS, and CVSS point in different directions. Active exploitation comes first, then exploit likelihood, then technical severity, with adjustments…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Halo-record: Open-source audit trails for AI agents",
-      "link": "https://www.helpnetsecurity.com/2026/08/31/halo-record-open-source-ai-agent-audit-trail/",
-      "date": "2026-08-31T05:30:37.000Z",
-      "excerpt": "Brian Kuan wrote halo-record, a small Python package that sits inside an AI agent and writes down the moves it makes: tool calls, model calls, data access, approvals. Each action becomes one line in a file that only ever gets appended to, and every line carries a hash of the…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Monday, August 31st, 2026 https://isc.sans.edu/podcastdetail/10074, (Mon, Aug 31st)",
@@ -392,30 +496,6 @@
       "link": "https://danielmiessler.com/blog/workplace-situation-mental-health?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-08-30T22:58:30.000Z",
       "excerpt": "A large purple hand holds a pendulum swinging one man between standing arms-wide on a ship's prow in warm sienna and collapsed head-in-hands in a purple office chair/images/workplace-situation-mental-health.webp/images/workplace-situation-mental-health.webp One thing I keep…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-      "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-      "date": "2026-08-30T15:00:21.000Z",
-      "excerpt": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-      "date": "2026-08-30T14:30:25.000Z",
-      "excerpt": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-      "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-      "date": "2026-08-30T14:17:44.000Z",
-      "excerpt": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]"
     },
     {
       "source": "The Hacker News",
@@ -434,22 +514,6 @@
       "excerpt": "YARA-X&#x26;#39;s 1.20.0 release brings 14 improvements and 13 bugfixes."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-      "date": "2026-08-29T23:11:51.000Z",
-      "excerpt": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
-      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
-      "date": "2026-08-29T16:25:03.000Z",
-      "excerpt": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
@@ -464,14 +528,6 @@
       "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
       "date": "2026-08-28T22:00:07.000Z",
       "excerpt": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety appeared first on Unit 42 ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-      "date": "2026-08-28T21:30:52.000Z",
-      "excerpt": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found…"
     },
     {
       "source": "Schneier on Security",
@@ -602,22 +658,6 @@
       "excerpt": ""
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "White House bans foreign-made equipment for power generation over cyber backdoor concerns",
-      "link": "https://therecord.media/trump-cyber-electricity-parts",
-      "date": "2026-08-27T19:45:00.000Z",
-      "excerpt": "The Trump administration is banning the acquisition of foreign-made components used to manage electricity and power, alleging that “certain foreign actors are increasingly creating and exploiting vulnerabilities” in the technology."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-      "date": "2026-08-27T19:31:45.000Z",
-      "excerpt": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Unit 42 warns AI has shifted balance of power from defenders to attackers",
@@ -648,14 +688,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/",
       "date": "2026-08-27T16:00:00.000Z",
       "excerpt": "This month’s updates provide new capabilities to help organizations gain insights into agent activity, expand security coverage across supported environments, and enhance security management across their environments. The post ​​​​​​What’s new in Microsoft Security: August 2026…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Finland appeals court revives case against Eagle S Officers over cable breaks",
-      "link": "https://therecord.media/finland-appeals-court-revives-case-against-eagle-s",
-      "date": "2026-08-27T15:30:00.000Z",
-      "excerpt": "The appeals court sent the case back to the Helsinki District Court to be heard on its merits, although the three men, who had previously been detained in Finland, have since left the country."
     },
     {
       "source": "CyberScoop",
@@ -802,14 +834,6 @@
       "excerpt": "The order says any foreign-produced equipment deemed to pose national security risks can’t be purchased or installed. The post Cyber threats nudge Trump to sign executive order on foreign equipment in U.S. energy infrastructure appeared first on CyberScoop ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Officials disrupt Chinese espionage operation that hit multiple federal agencies",
-      "link": "https://cyberscoop.com/qtfy-china-espionage-group-infrastructure-seized/",
-      "date": "2026-08-26T19:35:05.000Z",
-      "excerpt": "The full hacking suite, seized by authorities, allowed Chinese government funded attackers to intrude highly sensitive networks undetected for more than eight years. The post Officials disrupt Chinese espionage operation that hit multiple federal agencies appeared first on…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "When AI infrastructure becomes the target: Securing gateways and control points",
@@ -840,14 +864,6 @@
       "link": "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/",
       "date": "2026-08-26T10:00:04.000Z",
       "excerpt": "This report covers statistics on vulnerabilities, exploits, and C2 frameworks in Q2 2026. For the first time ever, we aggregate data on vulnerabilities in open-source AI agents and AI frameworks."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Wednesday, August 26th, 2026 https://isc.sans.edu/podcastdetail/10068, (Wed, Aug 26th)",
-      "link": "https://isc.sans.edu/diary/rss/33282",
-      "date": "2026-08-26T02:40:13.000Z",
-      "excerpt": ""
     },
     {
       "source": "Troy Hunt",
@@ -888,22 +904,6 @@
       "link": "https://www.sophos.com/en-us/blog/sophos-g2-fall-2026-reports",
       "date": "2026-08-25T00:00:00.000Z",
       "excerpt": "Sophos is the only vendor recognized as a Leader across all five of these core cybersecurity markets."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Inaudible sounds used to fingerprint browsers catch AliExpress red-handed",
-      "link": "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-      "date": "2026-08-24T19:19:21.000Z",
-      "excerpt": "Is the technique outdated? Yes. Is it still creepy? Also yes."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
-      "date": "2026-08-24T15:00:02.000Z",
-      "excerpt": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access…"
     }
   ]
 }
