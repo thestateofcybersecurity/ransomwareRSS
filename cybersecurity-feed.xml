@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 02 Sep 2026 00:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 04:49:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Anthropic’s Enterprise Frontier Safeguards lets your Claude logs stay in your cloud</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/anthropic-enterprise-frontier-safeguards/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/anthropic-enterprise-frontier-safeguards/</guid>
+      <pubDate>Wed, 02 Sep 2026 04:30:59 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Eight members of the Analysis and Resilience Center for Systemic Risk, a group whose roster includes the CISOs of Goldman Sachs, Morgan Stanley, Citi, Bank of America, and Wells Fargo, spent months working with Anthropic on a question their examiners care about more than… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>An AI CAPTCHA solver talked itself out of the right answer</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/ai-captcha-solver-research/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/ai-captcha-solver-research/</guid>
+      <pubDate>Wed, 02 Sep 2026 04:00:48 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>You have probably spent a few seconds of your life turning a picture until it lines up. Some sites, instead of asking you to tick a box, show you a circular chunk of a photo that has been spun around, and you drag it until the inside matches the ring around it. Simple enough.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33304</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33304</guid>
+      <pubDate>Wed, 02 Sep 2026 02:00:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency</guid>
+      <pubDate>Wed, 02 Sep 2026 01:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores. (via Dark Reading)</description>
+    </item>
     <item>
       <title>Counterfeit installers to system compromise: Tracking a deceptive software download campaign</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/</link>
@@ -464,22 +496,6 @@
       <description>Askeal takes the opposite approach to omniscient Gen AI: rather than pretending to know everything, it combines AI with community expertise. Vetted vendors, researchers, and practitioners contribute their intelligence and tools to help users conduct manual investigations. The… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Bot detection arrives in CrowdSec 1.8.0, along with two DoS fixes</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/</guid>
-      <pubDate>Tue, 01 Sep 2026 05:04:35 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Failed SSH logins pile up in an auth log, and a scanner walks a website looking for exposed admin paths. CrowdSec reads log sources and HTTP requests, works out which addresses are misbehaving, and hands the block to a separate remediation component sitting in front of the… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>NIS2 compliance: Fixing IAM and access control before the 2026 audit</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/nis2-credential-compliance-before-audit/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/nis2-credential-compliance-before-audit/</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:08 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>The NIS2 Directive places direct obligations on organizations across supply chain risk management, incident reporting, and board-level accountability. October brings a new wave of legally binding deadlines across the EU, as member states move from transposition into enforcement.… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)</title>
       <link>https://isc.sans.edu/diary/rss/33302</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33302</guid>
@@ -526,14 +542,6 @@
       <pubDate>Mon, 31 Aug 2026 20:25:36 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations&#39; networks. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>The Guardrails Debate: Security Researcher Changes His Mind</title>
-      <link>https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind</guid>
-      <pubDate>Mon, 31 Aug 2026 20:09:24 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules. (via Dark Reading)</description>
     </item>
     <item>
       <title>The Coding-Agent Trap: When a &quot;Free&quot; LLM Endpoint Is the Adversary, (Mon, Aug 31st)</title>
@@ -758,14 +766,6 @@
       <pubDate>Thu, 27 Aug 2026 10:05:43 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>The report contains statistics on industrial threats for Q2 2026, including ransomware, miners, spyware and other threats that were detected and blocked on industrial control systems. (via Securelist)</description>
-    </item>
-    <item>
-      <title>A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/33290</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33290</guid>
-      <pubDate>Thu, 27 Aug 2026 09:57:28 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>As I&amp;#x27ve mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center. (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>LLM-Based Social Engineering Scams</title>

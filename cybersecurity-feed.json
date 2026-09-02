@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T00:20:40.729Z",
+  "updated": "2026-09-02T04:49:45.059Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Anthropic’s Enterprise Frontier Safeguards lets your Claude logs stay in your cloud",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/anthropic-enterprise-frontier-safeguards/",
+      "date": "2026-09-02T04:30:59.000Z",
+      "excerpt": "Eight members of the Analysis and Resilience Center for Systemic Risk, a group whose roster includes the CISOs of Goldman Sachs, Morgan Stanley, Citi, Bank of America, and Wells Fargo, spent months working with Anthropic on a question their examiners care about more than…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "An AI CAPTCHA solver talked itself out of the right answer",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/ai-captcha-solver-research/",
+      "date": "2026-09-02T04:00:48.000Z",
+      "excerpt": "You have probably spent a few seconds of your life turning a picture until it lines up. Some sites, instead of asking you to tick a box, show you a circular chunk of a photo that has been spun around, and you drag it until the inside matches the ring around it. Simple enough.…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33304",
+      "date": "2026-09-02T02:00:02.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
+      "date": "2026-09-02T01:00:00.000Z",
+      "excerpt": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
+    },
     {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
@@ -570,22 +602,6 @@
       "excerpt": "Askeal takes the opposite approach to omniscient Gen AI: rather than pretending to know everything, it combines AI with community expertise. Vetted vendors, researchers, and practitioners contribute their intelligence and tools to help users conduct manual investigations. The…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Bot detection arrives in CrowdSec 1.8.0, along with two DoS fixes",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/crowdsec-1-8-0-bot-detection/",
-      "date": "2026-09-01T05:04:35.000Z",
-      "excerpt": "Failed SSH logins pile up in an auth log, and a scanner walks a website looking for exposed admin paths. CrowdSec reads log sources and HTTP requests, works out which addresses are misbehaving, and hands the block to a separate remediation component sitting in front of the…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "NIS2 compliance: Fixing IAM and access control before the 2026 audit",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/nis2-credential-compliance-before-audit/",
-      "date": "2026-09-01T05:00:08.000Z",
-      "excerpt": "The NIS2 Directive places direct obligations on organizations across supply chain risk management, incident reporting, and board-level accountability. October brings a new wave of legally binding deadlines across the EU, as member states move from transposition into enforcement.…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
@@ -632,14 +648,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
       "date": "2026-08-31T20:25:36.000Z",
       "excerpt": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "The Guardrails Debate: Security Researcher Changes His Mind",
-      "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
-      "date": "2026-08-31T20:09:24.000Z",
-      "excerpt": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -864,14 +872,6 @@
       "link": "https://securelist.com/industrial-threat-report-q2-2026/121159/",
       "date": "2026-08-27T10:05:43.000Z",
       "excerpt": "The report contains statistics on industrial threats for Q2 2026, including ransomware, miners, spyware and other threats that were detected and blocked on industrial control systems."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "A polymorphic phishing page (that occasionally breaks itself), (Thu, Aug 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33290",
-      "date": "2026-08-27T09:57:28.000Z",
-      "excerpt": "As I&#x27ve mentioned before in some of my diaries, from time to time, I like to go over phishing messages that get caught in my various spam traps or sent to us here at the Internet Storm Center."
     },
     {
       "source": "Schneier on Security",
