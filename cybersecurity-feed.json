@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T04:49:45.059Z",
+  "updated": "2026-09-02T09:44:00.741Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,20 +114,172 @@
   ],
   "items": [
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Anthropic’s Enterprise Frontier Safeguards lets your Claude logs stay in your cloud",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/anthropic-enterprise-frontier-safeguards/",
-      "date": "2026-09-02T04:30:59.000Z",
-      "excerpt": "Eight members of the Analysis and Resilience Center for Systemic Risk, a group whose roster includes the CISOs of Goldman Sachs, Morgan Stanley, Citi, Bank of America, and Wells Fargo, spent months working with Anthropic on a question their examiners care about more than…"
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+      "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+      "date": "2026-09-02T09:18:02.000Z",
+      "excerpt": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8,…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Chrome and Firefox Updates Patch Dozens of Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/",
+      "date": "2026-09-02T09:12:29.000Z",
+      "excerpt": "The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+      "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+      "date": "2026-09-02T09:10:23.000Z",
+      "excerpt": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "US charges Russian for infecting 80,000 freelancers with malware",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+      "date": "2026-09-02T09:06:48.000Z",
+      "excerpt": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]"
     },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "An AI CAPTCHA solver talked itself out of the right answer",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/ai-captcha-solver-research/",
-      "date": "2026-09-02T04:00:48.000Z",
-      "excerpt": "You have probably spent a few seconds of your life turning a picture until it lines up. Some sites, instead of asking you to tick a box, show you a circular chunk of a photo that has been spun around, and you drag it until the inside matches the ring around it. Simple enough.…"
+      "title": "A battery storage cyberattack would look exactly like a badly tuned controller",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/grid-battery-storage-cyberattack/",
+      "date": "2026-09-02T09:00:35.000Z",
+      "excerpt": "Batteries connected to the grid make money by reacting to frequency, pushing power out when it sags and soaking it up when it rises. A few hundred of them moving together, on command from someone who should not have the command, would look the same on a control room screen right…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Hackers Chain Two New SonicWall Zero-Day Vulnerabilities",
+      "link": "https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/",
+      "date": "2026-09-02T09:00:00.000Z",
+      "excerpt": "SonicWall has urged customers to patch two new zero-day vulnerabilities being exploited in the wild"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Global sinkhole operation ends Sality botnet’s 23-year run",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/sality-botnet-disruption-crowdstrike-law-enforcement/",
+      "date": "2026-09-02T08:56:24.000Z",
+      "excerpt": "Sality, a peer-to-peer (P2P) botnet that had been running for 23 years and infecting more than 15,000 machines worldwide, has been taken down in a joint operation by international law enforcement agencies, working with CrowdStrike and the Shadowserver Foundation. The operation…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "23-Year-Old Sality P2P Botnet Disrupted",
+      "link": "https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/",
+      "date": "2026-09-02T08:38:00.000Z",
+      "excerpt": "The shutdown operation involved peer list manipulation and Sality payload URL takedown. The post 23-Year-Old Sality P2P Botnet Disrupted appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "FulcrumSec Claims Responsibility for Manchester Airport Group Breach",
+      "link": "https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/",
+      "date": "2026-09-02T08:15:00.000Z",
+      "excerpt": "Threat group FulcrumSec claims MAG breach and leaks 550GB of data online"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Keepnet launches free SMS/Call Reporter for iOS",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/",
+      "date": "2026-09-02T08:00:45.000Z",
+      "excerpt": "Keepnet, an Extended Human Risk Management (xHRM) and Secure Behavior Management platform, today launched the Keepnet SMS/Call Reporter. It is a free app that turns a suspicious SMS or phone call into a one-tap report. Anyone can download it for personal protection.…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Sality botnet infrastructure dismantled in joint global takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+      "date": "2026-09-02T08:00:43.000Z",
+      "excerpt": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
+      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
+      "date": "2026-09-02T07:47:13.000Z",
+      "excerpt": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
+      "date": "2026-09-02T07:08:50.000Z",
+      "excerpt": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
+      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
+      "date": "2026-09-02T06:56:30.000Z",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary,…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+      "date": "2026-09-02T06:39:29.000Z",
+      "excerpt": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Visa enhances A2A Protect to stop fraud before money leaves the account",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/visa-enhanced-a2a-protect-version/",
+      "date": "2026-09-02T06:37:26.000Z",
+      "excerpt": "Visa announced an enhanced version of A2A Protect, delivering real-time risk insights that help banks stop account-to-account fraud before money leaves customer accounts. The expanded solution introduces a new unified fraud score—Visa’s integration of Featurespace…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Edge Case launches Guardian, an AI platform for tracking risk across autonomous systems",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/edge-case-guardian-ai-driven-platform/",
+      "date": "2026-09-02T06:30:09.000Z",
+      "excerpt": "Edge Case launched Guardian, an AI-driven platform that connects safety analysis, engineering data, and operational signals to give teams a continuous understanding of how system risk evolves. At launch, Guardian will support some of the world’s most advanced autonomous…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "DuckDB stays open source while the team behind it goes to work for Amazon",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/",
+      "date": "2026-09-02T06:29:25.000Z",
+      "excerpt": "Hannes Mühleisen and Mark Raasveldt started as AWS employees. The two built DuckDB, an analytical database that runs inside your process instead of on a server somebody has to administer. If you ship anything on top of DuckDB, your license does not change. Amazon did not buy the…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "F5 speeds up virtual patching to counter AI-driven threats",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/f5-waf-anomaly-detection-ai-threats/",
+      "date": "2026-09-02T06:24:04.000Z",
+      "excerpt": "F5 announced innovations to block frontier AI-driven threats in the data path and enable faster virtual patching, giving security leaders time to make intelligent risk-based decisions rather than reactive operational compromises. With new features such as anomaly detection and…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Vali Cyber ZeroLock 5 brings MFA to the hypervisor command line",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/vali-cyber-zerolock-5-hypervisor-security/",
+      "date": "2026-09-02T06:10:42.000Z",
+      "excerpt": "Vali Cyber released ZeroLock 5, a major release focused on closing the two most dangerous gaps in hypervisor security: insider threats and stolen credentials on ESX and Linux hosts. The hypervisor is now the target Over the past two years, ransomware operators and nation-state…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks",
+      "link": "https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/",
+      "date": "2026-09-02T05:04:52.000Z",
+      "excerpt": "The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek ."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -330,14 +482,6 @@
       "excerpt": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "CISA review makes the case for eliminating vulnerability classes",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/",
-      "date": "2026-09-01T15:23:19.000Z",
-      "excerpt": "For years, the security industry has treated vulnerabilities as an endless queue of individual fixes. A recent CISA review argues that this is precisely why attackers keep winning. The solution to this problem, they believe, is eliminating entire categories of weaknesses at the…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
@@ -370,22 +514,6 @@
       "excerpt": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Vishing campaign abuses Microsoft Teams to give attackers a foothold in company networks",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/",
-      "date": "2026-09-01T14:07:16.000Z",
-      "excerpt": "A coordinated voice-phishing (vishing) campaign, named Spring Ring, used fake IT support accounts on Microsoft Teams to trick employees into installing malware or granting remote access to their computers, according to Unit 42, Palo Alto Networks’ threat intelligence team. The…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-      "date": "2026-09-01T14:01:11.000Z",
-      "excerpt": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Whistleblower says USPS deploying new, ‘untested’ IT systems governing mail-in ballots",
@@ -410,28 +538,12 @@
       "excerpt": "EMA survey finds 65% of enterprises have seen AI agents act beyond intended scope"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-      "date": "2026-09-01T13:08:58.000Z",
-      "excerpt": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "White House Launches Pilot Program in Texas to Protect Water Infrastructure",
       "link": "https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/",
       "date": "2026-09-01T12:45:00.000Z",
       "excerpt": "Project Watershed 250 will see water providers in Texas provided with federal and private sector cybersecurity resources amid rising nation-state threats"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-      "date": "2026-09-01T12:38:35.000Z",
-      "excerpt": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -458,14 +570,6 @@
       "excerpt": "Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to “prepare for more severe scenarios involving simultaneous disruption across multiple firms or shared technology dependencies.”"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fake Claude Opus 5 app delivers malware and wipes its own tracks",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/",
-      "date": "2026-09-01T12:21:35.000Z",
-      "excerpt": "A malicious GitHub repository impersonating Anthropic and claiming to offer free access to “Claude Opus 5” is delivering RevStealer, Windows information-stealing malware that targets passwords, cryptocurrency wallet data and login credentials, according to Morphisec. Repository…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
@@ -474,44 +578,12 @@
       "excerpt": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-      "date": "2026-09-01T11:30:00.000Z",
-      "excerpt": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
-      "link": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
-      "date": "2026-09-01T11:24:25.000Z",
-      "excerpt": "The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash. The post Five Venezuelans Plead Guilty in US Court to ATM Jackpotting appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Ransomware Gang Claims Nutex Health Data Breach",
-      "link": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
-      "date": "2026-09-01T10:47:47.000Z",
-      "excerpt": "The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information. The post Ransomware Gang Claims Nutex Health Data Breach appeared first on SecurityWeek ."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "The Collective Cyber Defense letter wrote your next vendor questionnaire",
       "link": "https://cyberscoop.com/collective-cyber-defense-letter-vendor-questionnaire-op-ed/",
       "date": "2026-09-01T10:00:00.000Z",
       "excerpt": "More than 200 companies have now signed to an August 27 letter about improving cyber defenses in the age of AI. Buried in it are three metrics every one of them endorse under its own logo: coverage, containment speed, and whether fixes work. The post The Collective Cyber Defense…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
-      "link": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
-      "date": "2026-09-01T09:59:44.000Z",
-      "excerpt": "Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure. The post Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild appeared first on SecurityWeek ."
     },
     {
       "source": "Schneier on Security",
@@ -530,38 +602,6 @@
       "excerpt": "The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
-      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
-      "date": "2026-09-01T09:15:07.000Z",
-      "excerpt": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Berlin refuses to be blackmailed after network breach",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/",
-      "date": "2026-09-01T09:07:44.000Z",
-      "excerpt": "Berlin’s state government has confirmed an extortion attempt following a data theft from its administrative network in August. Governing Mayor Kai Wegner and Interior Senator Iris Spranger addressed the extortion attempt on Friday, following an emergency Senate session at the…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-      "date": "2026-09-01T09:05:30.000Z",
-      "excerpt": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\"…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-      "date": "2026-09-01T08:26:24.000Z",
-      "excerpt": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Healthcare Giant McKesson Investigates Data Breach Incident",
@@ -570,36 +610,12 @@
       "excerpt": "ShinyHunters claims to have stolen 284 million records from McKesson"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-      "date": "2026-09-01T07:22:30.000Z",
-      "excerpt": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability…"
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "Mirage Kitten targeting aviation and FinTech sectors across the Middle East and Africa with a new malware set",
       "link": "https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/",
       "date": "2026-09-01T07:00:26.000Z",
       "excerpt": "Kaspersky researchers have discovered new Mirage Kitten attacks using previously undocumented malware families: NodeRabbit in Node.js and PollCat in JavaScript."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "LastPass enhancements improve visibility, governance, and control",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/lastpass-security-product-enhancements-innovations/",
-      "date": "2026-09-01T05:52:08.000Z",
-      "excerpt": "LastPass announced a series of strategic product innovations, customer experience enhancements, and industry milestones. These advancements reflect the company’s continued focus on providing practical tools to protect access and identity in an increasingly AI-driven threat…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Askeal, the AI cybersecurity assistant that gives verifiable, expert-backed answers",
-      "link": "https://www.helpnetsecurity.com/2026/09/01/askeal-ai-cybersecurity-assistant/",
-      "date": "2026-09-01T05:30:27.000Z",
-      "excerpt": "Askeal takes the opposite approach to omniscient Gen AI: rather than pretending to know everything, it combines AI with community expertise. Vetted vendors, researchers, and practitioners contribute their intelligence and tools to help users conduct manual investigations. The…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -800,22 +816,6 @@
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps",
       "date": "2026-08-28T10:23:57.000Z",
       "excerpt": "More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP's global hacking spree. Read more in my article on the Hot for Security blog."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn",
-      "link": "https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/",
-      "date": "2026-08-28T09:30:00.000Z",
-      "excerpt": "More than 100 companies, including OpenAI, Anthropic, Google and Microsoft, have urged collective action to unlock the power of AI to protect critical public services"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations",
-      "link": "https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/",
-      "date": "2026-08-28T08:00:00.000Z",
-      "excerpt": "Aurora ransomware operators are abusing SpaceX’s Cursor Agent AI tool to conduct tasks such as reconnaissance and exploitation activities"
     },
     {
       "source": "SANS Internet Storm Center",

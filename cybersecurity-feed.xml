@@ -5,23 +5,175 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 02 Sep 2026 04:49:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 09:44:00 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Anthropic’s Enterprise Frontier Safeguards lets your Claude logs stay in your cloud</title>
-      <link>https://www.helpnetsecurity.com/2026/09/02/anthropic-enterprise-frontier-safeguards/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/anthropic-enterprise-frontier-safeguards/</guid>
-      <pubDate>Wed, 02 Sep 2026 04:30:59 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Eight members of the Analysis and Resilience Center for Systemic Risk, a group whose roster includes the CISOs of Goldman Sachs, Morgan Stanley, Citi, Bank of America, and Wells Fargo, spent months working with Anthropic on a question their examiners care about more than… (via Help Net Security)</description>
+      <title>GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends</title>
+      <link>https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html</guid>
+      <pubDate>Wed, 02 Sep 2026 09:18:02 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals. The project shipped fixes in versions 4.4.12 and 4.2.17 on July 8,… (via The Hacker News)</description>
     </item>
     <item>
-      <title>An AI CAPTCHA solver talked itself out of the right answer</title>
-      <link>https://www.helpnetsecurity.com/2026/09/02/ai-captcha-solver-research/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/ai-captcha-solver-research/</guid>
-      <pubDate>Wed, 02 Sep 2026 04:00:48 GMT</pubDate>
+      <title>Chrome and Firefox Updates Patch Dozens of Vulnerabilities</title>
+      <link>https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/chrome-and-firefox-updates-patch-dozens-of-vulnerabilities/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:12:29 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The browser refreshes fix multiple use-after-free, sandbox escape, and privilege escalation bugs. The post Chrome and Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands</title>
+      <link>https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html</guid>
+      <pubDate>Wed, 02 Sep 2026 09:10:23 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 2017. Searzhudin Tamirlanovich… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>US charges Russian for infecting 80,000 freelancers with malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:06:48 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>A battery storage cyberattack would look exactly like a badly tuned controller</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/grid-battery-storage-cyberattack/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/grid-battery-storage-cyberattack/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:35 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>You have probably spent a few seconds of your life turning a picture until it lines up. Some sites, instead of asking you to tick a box, show you a circular chunk of a photo that has been spun around, and you drag it until the inside matches the ring around it. Simple enough.… (via Help Net Security)</description>
+      <description>Batteries connected to the grid make money by reacting to frequency, pushing power out when it sags and soaking it up when it rises. A few hundred of them moving together, on command from someone who should not have the command, would look the same on a control room screen right… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Hackers Chain Two New SonicWall Zero-Day Vulnerabilities</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/hackers-chain-sonicwall-zeroday/</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>SonicWall has urged customers to patch two new zero-day vulnerabilities being exploited in the wild (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Global sinkhole operation ends Sality botnet’s 23-year run</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/sality-botnet-disruption-crowdstrike-law-enforcement/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/sality-botnet-disruption-crowdstrike-law-enforcement/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:56:24 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Sality, a peer-to-peer (P2P) botnet that had been running for 23 years and infecting more than 15,000 machines worldwide, has been taken down in a joint operation by international law enforcement agencies, working with CrowdStrike and the Shadowserver Foundation. The operation… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>23-Year-Old Sality P2P Botnet Disrupted</title>
+      <link>https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/23-year-old-sality-p2p-botnet-disrupted/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:38:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The shutdown operation involved peer list manipulation and Sality payload URL takedown. The post 23-Year-Old Sality P2P Botnet Disrupted appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>FulcrumSec Claims Responsibility for Manchester Airport Group Breach</title>
+      <link>https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fulcrumsec-manchester-airport/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:15:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Threat group FulcrumSec claims MAG breach and leaks 550GB of data online (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Keepnet launches free SMS/Call Reporter for iOS</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:45 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Keepnet, an Extended Human Risk Management (xHRM) and Secure Behavior Management platform, today launched the Keepnet SMS/Call Reporter. It is a free app that turns a suspicious SMS or phone call into a one-tap report. Anyone can download it for personal protection.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Sality botnet infrastructure dismantled in joint global takedown</title>
+      <link>https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</guid>
+      <pubDate>Wed, 02 Sep 2026 08:00:43 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another</title>
+      <link>https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html</guid>
+      <pubDate>Wed, 02 Sep 2026 07:47:13 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Forescout Research - Vedere Labs said it used Anthropic&#39;s Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials</title>
+      <link>https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html</guid>
+      <pubDate>Wed, 02 Sep 2026 07:08:50 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Authorities Turn Sality&#39;s P2P Network Against Itself, Cutting Off New Malware Payloads</title>
+      <link>https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html</guid>
+      <pubDate>Wed, 02 Sep 2026 06:56:30 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary,… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>SonicWall warns of actively exploited SMA1000 zero-day flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/</guid>
+      <pubDate>Wed, 02 Sep 2026 06:39:29 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Visa enhances A2A Protect to stop fraud before money leaves the account</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/visa-enhanced-a2a-protect-version/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/visa-enhanced-a2a-protect-version/</guid>
+      <pubDate>Wed, 02 Sep 2026 06:37:26 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Visa announced an enhanced version of A2A Protect, delivering real-time risk insights that help banks stop account-to-account fraud before money leaves customer accounts. The expanded solution introduces a new unified fraud score—Visa’s integration of Featurespace… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Edge Case launches Guardian, an AI platform for tracking risk across autonomous systems</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/edge-case-guardian-ai-driven-platform/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/edge-case-guardian-ai-driven-platform/</guid>
+      <pubDate>Wed, 02 Sep 2026 06:30:09 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Edge Case launched Guardian, an AI-driven platform that connects safety analysis, engineering data, and operational signals to give teams a continuous understanding of how system risk evolves. At launch, Guardian will support some of the world’s most advanced autonomous… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>DuckDB stays open source while the team behind it goes to work for Amazon</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/</guid>
+      <pubDate>Wed, 02 Sep 2026 06:29:25 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Hannes Mühleisen and Mark Raasveldt started as AWS employees. The two built DuckDB, an analytical database that runs inside your process instead of on a server somebody has to administer. If you ship anything on top of DuckDB, your license does not change. Amazon did not buy the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>F5 speeds up virtual patching to counter AI-driven threats</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/f5-waf-anomaly-detection-ai-threats/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/f5-waf-anomaly-detection-ai-threats/</guid>
+      <pubDate>Wed, 02 Sep 2026 06:24:04 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>F5 announced innovations to block frontier AI-driven threats in the data path and enable faster virtual patching, giving security leaders time to make intelligent risk-based decisions rather than reactive operational compromises. With new features such as anomaly detection and… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Vali Cyber ZeroLock 5 brings MFA to the hypervisor command line</title>
+      <link>https://www.helpnetsecurity.com/2026/09/02/vali-cyber-zerolock-5-hypervisor-security/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/vali-cyber-zerolock-5-hypervisor-security/</guid>
+      <pubDate>Wed, 02 Sep 2026 06:10:42 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Vali Cyber released ZeroLock 5, a major release focused on closing the two most dangerous gaps in hypervisor security: insider threats and stolen credentials on ESX and Linux hosts. The hypervisor is now the target Over the past two years, ransomware operators and nation-state… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks</title>
+      <link>https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/sonicwall-warns-of-two-sma1000-zero-days-exploited-in-attacks/</guid>
+      <pubDate>Wed, 02 Sep 2026 05:04:52 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The vulnerabilities CVE-2026-83549 and CVE-2026-83548 can be chained for unauthenticated remote code execution. The post SonicWall Warns of Two SMA1000 Zero-Days Exploited in Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, September 2nd, 2026 https://isc.sans.edu/podcastdetail/10078, (Wed, Sep 2nd)</title>
@@ -224,14 +376,6 @@
       <description>Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators. (via The Record)</description>
     </item>
     <item>
-      <title>CISA review makes the case for eliminating vulnerability classes</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/cisa-on-eliminating-recurring-security-weaknesses/</guid>
-      <pubDate>Tue, 01 Sep 2026 15:23:19 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>For years, the security industry has treated vulnerabilities as an endless queue of individual fixes. A recent CISA review argues that this is precisely why attackers keep winning. The solution to this problem, they believe, is eliminating entire categories of weaknesses at the… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Hackers push malicious Virtualizor update in BGP hijacking attack</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/</guid>
@@ -264,22 +408,6 @@
       <description>Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Vishing campaign abuses Microsoft Teams to give attackers a foothold in company networks</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/spring-ring-vishing-campaign-microsoft-teams/</guid>
-      <pubDate>Tue, 01 Sep 2026 14:07:16 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A coordinated voice-phishing (vishing) campaign, named Spring Ring, used fake IT support accounts on Microsoft Teams to trick employees into installing malware or granting remote access to their computers, according to Unit 42, Palo Alto Networks’ threat intelligence team. The… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Why Even the Best Edge Security Still Misses High-Risk Sessions</title>
-      <link>https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/</guid>
-      <pubDate>Tue, 01 Sep 2026 14:01:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Whistleblower says USPS deploying new, ‘untested’ IT systems governing mail-in ballots</title>
       <link>https://cyberscoop.com/usps-whistleblower-ballot-system-2026-midterms/</link>
       <guid isPermaLink="false">https://cyberscoop.com/usps-whistleblower-ballot-system-2026-midterms/</guid>
@@ -304,28 +432,12 @@
       <description>EMA survey finds 65% of enterprises have seen AI agents act beyond intended scope (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests</title>
-      <link>https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html</guid>
-      <pubDate>Tue, 01 Sep 2026 13:08:58 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>White House Launches Pilot Program in Texas to Protect Water Infrastructure</title>
       <link>https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/white-house-texas-protect-water/</guid>
       <pubDate>Tue, 01 Sep 2026 12:45:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Project Watershed 250 will see water providers in Texas provided with federal and private sector cybersecurity resources amid rising nation-state threats (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/</guid>
-      <pubDate>Tue, 01 Sep 2026 12:38:35 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars</title>
@@ -352,14 +464,6 @@
       <description>Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to “prepare for more severe scenarios involving simultaneous disruption across multiple firms or shared technology dependencies.” (via The Record)</description>
     </item>
     <item>
-      <title>Fake Claude Opus 5 app delivers malware and wipes its own tracks</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/revstealer-malware-claude-opus-5-github/</guid>
-      <pubDate>Tue, 01 Sep 2026 12:21:35 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A malicious GitHub repository impersonating Anthropic and claiming to offer free access to “Claude Opus 5” is delivering RevStealer, Windows information-stealing malware that targets passwords, cryptocurrency wallet data and login credentials, according to Morphisec. Repository… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Hackers Start Exploiting Critical Langflow Vulnerability</title>
       <link>https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/</link>
       <guid isPermaLink="false">https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/</guid>
@@ -368,44 +472,12 @@
       <description>Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones</title>
-      <link>https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html</guid>
-      <pubDate>Tue, 01 Sep 2026 11:30:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Five Venezuelans Plead Guilty in US Court to ATM Jackpotting</title>
-      <link>https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/</guid>
-      <pubDate>Tue, 01 Sep 2026 11:24:25 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash. The post Five Venezuelans Plead Guilty in US Court to ATM Jackpotting appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Ransomware Gang Claims Nutex Health Data Breach</title>
-      <link>https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/</guid>
-      <pubDate>Tue, 01 Sep 2026 10:47:47 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information. The post Ransomware Gang Claims Nutex Health Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>The Collective Cyber Defense letter wrote your next vendor questionnaire</title>
       <link>https://cyberscoop.com/collective-cyber-defense-letter-vendor-questionnaire-op-ed/</link>
       <guid isPermaLink="false">https://cyberscoop.com/collective-cyber-defense-letter-vendor-questionnaire-op-ed/</guid>
       <pubDate>Tue, 01 Sep 2026 10:00:00 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>More than 200 companies have now signed to an August 27 letter about improving cyber defenses in the age of AI. Buried in it are three metrics every one of them endorse under its own logo: coverage, containment speed, and whether fixes work. The post The Collective Cyber Defense… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild</title>
-      <link>https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/</guid>
-      <pubDate>Tue, 01 Sep 2026 09:59:44 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure. The post Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Rewiring Democracy Series on The Renovator</title>
@@ -424,38 +496,6 @@
       <description>The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Five Venezuelans plead guilty to ATM jackpotting attacks in US</title>
-      <link>https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/</guid>
-      <pubDate>Tue, 01 Sep 2026 09:15:07 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Berlin refuses to be blackmailed after network breach</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/berlin-data-breach-rhysida-ransomware/</guid>
-      <pubDate>Tue, 01 Sep 2026 09:07:44 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Berlin’s state government has confirmed an extortion attempt following a data theft from its administrative network in August. Governing Mayor Kai Wegner and Interior Senator Iris Spranger addressed the extortion attempt on Friday, following an emergency Senate session at the… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Attackers Steal METR API Key and Consume AI Credits Worth About $600,000</title>
-      <link>https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html</guid>
-      <pubDate>Tue, 01 Sep 2026 09:05:30 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>METR (short for Model Evaluation and Threat Research and pronounced &quot;Meter&quot;), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered &quot;two notable security incidents&quot;… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis</title>
-      <link>https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html</guid>
-      <pubDate>Tue, 01 Sep 2026 08:26:24 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that&#39;s been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Healthcare Giant McKesson Investigates Data Breach Incident</title>
       <link>https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/</guid>
@@ -464,36 +504,12 @@
       <description>ShinyHunters claims to have stolen 284 million records from McKesson (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity</title>
-      <link>https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html</guid>
-      <pubDate>Tue, 01 Sep 2026 07:22:30 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Mirage Kitten targeting aviation and FinTech sectors across the Middle East and Africa with a new malware set</title>
       <link>https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</link>
       <guid isPermaLink="false">https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/</guid>
       <pubDate>Tue, 01 Sep 2026 07:00:26 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky researchers have discovered new Mirage Kitten attacks using previously undocumented malware families: NodeRabbit in Node.js and PollCat in JavaScript. (via Securelist)</description>
-    </item>
-    <item>
-      <title>LastPass enhancements improve visibility, governance, and control</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/lastpass-security-product-enhancements-innovations/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/lastpass-security-product-enhancements-innovations/</guid>
-      <pubDate>Tue, 01 Sep 2026 05:52:08 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>LastPass announced a series of strategic product innovations, customer experience enhancements, and industry milestones. These advancements reflect the company’s continued focus on providing practical tools to protect access and identity in an increasingly AI-driven threat… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Askeal, the AI cybersecurity assistant that gives verifiable, expert-backed answers</title>
-      <link>https://www.helpnetsecurity.com/2026/09/01/askeal-ai-cybersecurity-assistant/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/01/askeal-ai-cybersecurity-assistant/</guid>
-      <pubDate>Tue, 01 Sep 2026 05:30:27 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Askeal takes the opposite approach to omniscient Gen AI: rather than pretending to know everything, it combines AI with community expertise. Vetted vendors, researchers, and practitioners contribute their intelligence and tools to help users conduct manual investigations. The… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)</title>
@@ -694,22 +710,6 @@
       <pubDate>Fri, 28 Aug 2026 10:23:57 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP&#39;s global hacking spree. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Window to Tackle Surge in AI-Enabled Cyber Attacks Narrowing, Tech Giants Warn</title>
-      <link>https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/window-ai-attacks-narrowing-tech/</guid>
-      <pubDate>Fri, 28 Aug 2026 09:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>More than 100 companies, including OpenAI, Anthropic, Google and Microsoft, have urged collective action to unlock the power of AI to protect critical public services (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Threat Actors Abuse Cursor Agent AI to Assist Ransomware Operations</title>
-      <link>https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/abuse-cursor-agent-ransomware/</guid>
-      <pubDate>Fri, 28 Aug 2026 08:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Aurora ransomware operators are abusing SpaceX’s Cursor Agent AI tool to conduct tasks such as reconnaissance and exploitation activities (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>Some Malicious PE Stats, (Thu, Aug 27th)</title>
