@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T09:44:00.741Z",
+  "updated": "2026-09-02T14:34:12.218Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,6 +116,214 @@
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
+      "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+      "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+      "date": "2026-09-02T14:06:59.000Z",
+      "excerpt": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication. The command executes as the…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+      "date": "2026-09-02T14:02:12.000Z",
+      "excerpt": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring operations quickly. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Gambling Goblin Turns Brazilian Government Sites Into SEO Weapons",
+      "link": "https://www.infosecurity-magazine.com/news/gambling-goblin-brazilian/",
+      "date": "2026-09-02T14:00:00.000Z",
+      "excerpt": "Gambling Goblin compromised Brazilian government sites to drive gambling traffic through SEO fraud"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+      "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+      "date": "2026-09-02T13:44:16.000Z",
+      "excerpt": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-controlled pages promoting…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Nearly 22,000 Microsoft Exchange servers remain exposed to critical security flaw (CVE-2026-62911)",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/microsoft-exchange-cve-2026-62911-critical-authentication-bypass-flaw/",
+      "date": "2026-09-02T13:24:09.000Z",
+      "excerpt": "Nearly 22,000 Microsoft Exchange servers remain unpatched against CVE-2026-62911, a critical authentication bypass vulnerability, according to daily scans from the Shadowserver Foundation. The United States and Germany top the list with 6,200 and 5,100 unpatched servers.…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+      "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+      "date": "2026-09-02T13:12:45.000Z",
+      "excerpt": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separately said 5 of its 34 checked…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Download: The Agentic Software Development Guide",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/download-the-agentic-software-development-guide/",
+      "date": "2026-09-02T13:00:33.000Z",
+      "excerpt": "AI makes it easy to ship more code. It does not make that code easier to trust. Most teams don’t fail because their developers can’t use AI. They fail because the dev’s job changed and nobody redefined it. Under AI, cracks appear: Reviews weaken while output multiplies Code…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
+      "link": "https://therecord.media/hackers-russia-fundraisers-ukraine",
+      "date": "2026-09-02T13:00:00.000Z",
+      "excerpt": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Exploitation of Sangoma Switchvox flaw is underway (CVE-2026-9586)",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/exploitation-of-sangoma-switchvox-flaw-underway-cve-2026-9586/",
+      "date": "2026-09-02T12:42:26.000Z",
+      "excerpt": "A threat actor is actively targeting internet-exposed Sangoma Switchvox instance through a recently patched SQL injection flaw (CVE-2026-9586), and organizations running them should check for signs of compromise immediately. How CVE-2026-9586 works Switchvox is a VoIP-based…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products",
+      "link": "https://www.securityweek.com/rockwell-automation-patches-over-a-dozen-vulnerabilities-across-products/",
+      "date": "2026-09-02T12:39:07.000Z",
+      "excerpt": "The industrial giant has released advisories for its RSLinx Classic, ArmorStart, ControlFLASH, FactoryTalk, and other products. The post Rockwell Automation Patches Over a Dozen Vulnerabilities Across Products appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Dropbox accounts breached through Lenovo email verification flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+      "date": "2026-09-02T12:30:22.000Z",
+      "excerpt": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+      "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+      "date": "2026-09-02T12:22:02.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infected devices. ThreatFabric said…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Exploit Published for Fresh Cleo Harmony Vulnerability",
+      "link": "https://www.securityweek.com/exploit-published-for-fresh-cleo-harmony-vulnerability/",
+      "date": "2026-09-02T12:18:15.000Z",
+      "excerpt": "The security defect allows remote attackers to bypass authentication through argument bearer manipulation. The post Exploit Published for Fresh Cleo Harmony Vulnerability appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Sality, one of the longest-running botnets, finally gets disrupted",
+      "link": "https://therecord.media/sality-botnet-cyber-doj",
+      "date": "2026-09-02T12:15:00.000Z",
+      "excerpt": "U.S. and European authorities disrupted the long-running botnet Sality, turning the malware’s peer-to-peer architecture against itself to cut thousands of infected computers off from operators."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards",
+      "link": "https://www.securityweek.com/anthropic-details-response-to-security-incidents-unveils-enterprise-safeguards/",
+      "date": "2026-09-02T11:48:31.000Z",
+      "excerpt": "Anthropic introduced Enterprise Frontier Safeguards (EFS), a system that combines zero data retention with automated monitoring for misuse. The post Anthropic Details Response to Security Incidents, Unveils Enterprise Safeguards appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Malicious Virtualizor Update Served via BGP Hijacking",
+      "link": "https://www.securityweek.com/malicious-virtualizor-update-served-via-bgp-hijacking/",
+      "date": "2026-09-02T11:31:36.000Z",
+      "excerpt": "Using a technically valid TLS certificate for Softaculous’ domains, a threat actor diverted traffic to fake software updates. The post Malicious Virtualizor Update Served via BGP Hijacking appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+      "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+      "date": "2026-09-02T11:30:00.000Z",
+      "excerpt": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed without losing control of…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "date": "2026-09-02T11:00:43.000Z",
+      "excerpt": "What can we learn from a BGP hijacking that poisoned production software? Plenty."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Attackers are going after prominent individuals through OAuth phishing, FBI warns",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/oauth-consent-phishing-fbi-warning/",
+      "date": "2026-09-02T10:58:22.000Z",
+      "excerpt": "Attackers are targeting prominent individuals, their relatives and personal contacts to gain persistent access to their accounts, including private emails and files, the FBI has warned. The FBI’s Internet Crime Complaint Center (IC3) says the activity, which uses a technique…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+      "date": "2026-09-02T10:53:49.000Z",
+      "excerpt": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks. The vulnerabilities, discovered internally by SonicWall's William Perry and Adam Babis, are…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Nutex Health Says Patient Data Stolen, Hackers Threaten Leak",
+      "link": "https://www.infosecurity-magazine.com/news/nutex-patient-data-stolen/",
+      "date": "2026-09-02T10:45:00.000Z",
+      "excerpt": "The US healthcare provider confirmed that sensitive patient and employee data, alongside financial and business information, were exfiltrated by a third party"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days",
+      "link": "https://www.securityweek.com/openais-astra-becomes-first-model-to-cross-critical-cybersecurity-threshold/",
+      "date": "2026-09-02T10:38:13.000Z",
+      "excerpt": "The designation applies when a model can independently find and exploit zero-day vulnerabilities across many well-defended systems. The post OpenAI’s Astra Crosses ‘Critical’ Cyber Threshold After Finding Zero-Days appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft Defender flags legitimate Google search links as malicious",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+      "date": "2026-09-02T10:29:39.000Z",
+      "excerpt": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Wireless Routers as Motion Detectors",
+      "link": "https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html",
+      "date": "2026-09-02T10:22:46.000Z",
+      "excerpt": "Comcast has added motion detection as a feature to its wireless routers: The feature sends push notifications to users when motion is detected near a connected device, such as a TV or printer. It has different settings for when people are home, asleep, or away. The Xfinity app…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "SonicWall SMA 1000 appliances under attack via zero-day flaws",
+      "link": "https://www.helpnetsecurity.com/2026/09/02/sonicwall-sma-1000-cve-2026-83548-cve-2026-83549-zero-day-attacks/",
+      "date": "2026-09-02T10:13:16.000Z",
+      "excerpt": "Attackers are exploiting two previously undisclosed vulnerabilities (CVE-2026-83548, CVE-2026-83549) in SonicWall SMA 1000 appliances, the vendor confirmed on Tuesday. The vulnerabilities (CVE-2026-83548, CVE-2026-83549) The SonicWall SMA 1000 series is a line of secure remote…"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
+      "link": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
+      "date": "2026-09-02T10:00:46.000Z",
+      "excerpt": "Using autonomous AI agents, an attacker breached an enterprise network in a matter of hours. Understand how to address and defend against agentic attacks. The post An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation appeared first on Unit 42 ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
       "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
       "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
       "date": "2026-09-02T09:18:02.000Z",
@@ -202,76 +410,12 @@
       "excerpt": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-      "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-      "date": "2026-09-02T07:47:13.000Z",
-      "excerpt": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live hardware. The exploit targets…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-      "date": "2026-09-02T07:08:50.000Z",
-      "excerpt": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution. The vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unauthenticated SQL injection…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-      "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-      "date": "2026-09-02T06:56:30.000Z",
-      "excerpt": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation. The effort was undertaken on August 31, 2026, by authorities from the U.S., Bulgaria, Hungary,…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
       "date": "2026-09-02T06:39:29.000Z",
       "excerpt": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Visa enhances A2A Protect to stop fraud before money leaves the account",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/visa-enhanced-a2a-protect-version/",
-      "date": "2026-09-02T06:37:26.000Z",
-      "excerpt": "Visa announced an enhanced version of A2A Protect, delivering real-time risk insights that help banks stop account-to-account fraud before money leaves customer accounts. The expanded solution introduces a new unified fraud score—Visa’s integration of Featurespace…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Edge Case launches Guardian, an AI platform for tracking risk across autonomous systems",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/edge-case-guardian-ai-driven-platform/",
-      "date": "2026-09-02T06:30:09.000Z",
-      "excerpt": "Edge Case launched Guardian, an AI-driven platform that connects safety analysis, engineering data, and operational signals to give teams a continuous understanding of how system risk evolves. At launch, Guardian will support some of the world’s most advanced autonomous…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "DuckDB stays open source while the team behind it goes to work for Amazon",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/duckdb-aws-acquisition-open-source/",
-      "date": "2026-09-02T06:29:25.000Z",
-      "excerpt": "Hannes Mühleisen and Mark Raasveldt started as AWS employees. The two built DuckDB, an analytical database that runs inside your process instead of on a server somebody has to administer. If you ship anything on top of DuckDB, your license does not change. Amazon did not buy the…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "F5 speeds up virtual patching to counter AI-driven threats",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/f5-waf-anomaly-detection-ai-threats/",
-      "date": "2026-09-02T06:24:04.000Z",
-      "excerpt": "F5 announced innovations to block frontier AI-driven threats in the data path and enable faster virtual patching, giving security leaders time to make intelligent risk-based decisions rather than reactive operational compromises. With new features such as anomaly detection and…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Vali Cyber ZeroLock 5 brings MFA to the hypervisor command line",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/vali-cyber-zerolock-5-hypervisor-security/",
-      "date": "2026-09-02T06:10:42.000Z",
-      "excerpt": "Vali Cyber released ZeroLock 5, a major release focused on closing the two most dangerous gaps in hypervisor security: insider threats and stolen credentials on ESX and Linux hosts. The hypervisor is now the target Over the past two years, ransomware operators and nation-state…"
     },
     {
       "source": "SecurityWeek",
@@ -295,7 +439,7 @@
       "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
       "date": "2026-09-02T01:00:00.000Z",
-      "excerpt": "Threat actors exploited commodity in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
+      "excerpt": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
     },
     {
       "source": "Microsoft Security Blog",
@@ -340,7 +484,7 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
       "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
       "date": "2026-09-01T21:05:53.000Z",
       "excerpt": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems."
@@ -364,7 +508,7 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "title": "Critical Langflow Vulnerability Exploited as Attacks on AI Platform Rise",
       "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
       "date": "2026-09-01T20:48:52.000Z",
       "excerpt": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year."
@@ -376,14 +520,6 @@
       "link": "https://therecord.media/router-hacks-fire-ant-group-china",
       "date": "2026-09-01T20:35:00.000Z",
       "excerpt": "A hacking operation dubbed Fire Ant \"didn’t just compromise systems,\" according to researchers. \"It compromised the trust layer those systems depend on.\""
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Palo Alto Networks Acquires AI Agent Platform Console",
-      "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
-      "date": "2026-09-01T20:29:42.000Z",
-      "excerpt": "The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR. The post Palo Alto Networks Acquires AI Agent Platform Console appeared first on SecurityWeek ."
     },
     {
       "source": "CyberScoop",
@@ -418,52 +554,12 @@
       "excerpt": "Cyber resilience starts before a crisis. Gain practical insights from DART to strengthen readiness and response. The post Cybersecurity IR Workshop: The workshop you shouldn’t miss appeared first on Microsoft Security Blog ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense",
-      "link": "https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/",
-      "date": "2026-09-01T18:30:00.000Z",
-      "excerpt": "Sevii has expanded its ADR platform with AI agents designed to investigate, contain, and remediate AI-driven attacks within minutes. The post Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Coast Guard Establishes Office of Maritime Cybersecurity Policy",
-      "link": "https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/",
-      "date": "2026-09-01T18:26:22.000Z",
-      "excerpt": "The new office will serve as the central authority for cybersecurity policy covering US ports, vessels, and maritime facilities. The post Coast Guard Establishes Office of Maritime Cybersecurity Policy appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-      "date": "2026-09-01T17:54:22.000Z",
-      "excerpt": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html",
-      "date": "2026-09-01T17:53:11.000Z",
-      "excerpt": "Threat actors are exploiting a newly patched critical security flaw impacting JFrog Artifactory merely days after public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-82329 (CVSS score: 9.8), a case of authentication bypass that could lead to…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "What’s the Scam?",
       "link": "https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html",
       "date": "2026-09-01T17:36:13.000Z",
       "excerpt": "To subscribe to my monthly email newsletter, you have to enter your information on the webpage, and then reply to an automatically generated email. This is, of course, to prevent people from subscribing addresses other than their own. Starting last weekend, I have been receiving…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems",
-      "link": "https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html",
-      "date": "2026-09-01T17:19:24.000Z",
-      "excerpt": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024. Google Threat Intelligence Group (GTIG) and Mandiant teams described the threat actor as…"
     },
     {
       "source": "Schneier on Security",
@@ -482,36 +578,12 @@
       "excerpt": "Cybercriminals breached company data and made an extortion attempt with it, Houston-based Nutex Health said in a filing with federal regulators."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-      "date": "2026-09-01T14:45:06.000Z",
-      "excerpt": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Attackers Steal METR API Key and Burn $600,000 in AI Credits",
       "link": "https://www.infosecurity-magazine.com/news/attackers-steal-metr-api-key/",
       "date": "2026-09-01T14:30:00.000Z",
       "excerpt": "Attackers used a stolen METR API key for three weeks, consuming model credits worth $600,000"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Novocure data breach affects more than 1,400 cancer patients",
-      "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-      "date": "2026-09-01T14:28:40.000Z",
-      "excerpt": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-      "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-      "date": "2026-09-01T14:07:20.000Z",
-      "excerpt": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of spyware aimed at unpatched iOS…"
     },
     {
       "source": "CyberScoop",
@@ -546,36 +618,12 @@
       "excerpt": "Project Watershed 250 will see water providers in Texas provided with federal and private sector cybersecurity resources amid rising nation-state threats"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
-      "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
-      "date": "2026-09-01T12:37:15.000Z",
-      "excerpt": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Iranian cyber spies target aviation, fintech developers with new malware",
       "link": "https://therecord.media/iranian-cyber-spies-target-aviation-fintech-new-malware",
       "date": "2026-09-01T12:33:00.000Z",
       "excerpt": "In a report published Tuesday, Kaspersky said it first discovered NodeRabbit on a system in Afghanistan and later identified variants on systems in Egypt and Ethiopia."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Cyber risk from frontier AI poses ‘most immediate concern’ to global financial system, watchdog warns",
-      "link": "https://therecord.media/cyber-risk-from-frontier-ai-most-immediate-concern-to-global-finance",
-      "date": "2026-09-01T12:28:00.000Z",
-      "excerpt": "Andrew Bailey, chair of the Financial Stability Board, called on financial institutions and technology providers to “prepare for more severe scenarios involving simultaneous disruption across multiple firms or shared technology dependencies.”"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
-      "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
-      "date": "2026-09-01T12:07:54.000Z",
-      "excerpt": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek ."
     },
     {
       "source": "CyberScoop",
@@ -600,14 +648,6 @@
       "link": "https://www.infosecurity-magazine.com/news/financial-stability-board-alarm/",
       "date": "2026-09-01T09:20:00.000Z",
       "excerpt": "The Financial Stability Board has warned G20 banking leaders about the cyber risks of frontier AI"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Healthcare Giant McKesson Investigates Data Breach Incident",
-      "link": "https://www.infosecurity-magazine.com/news/healthcare-mckesson-investigates/",
-      "date": "2026-09-01T08:25:00.000Z",
-      "excerpt": "ShinyHunters claims to have stolen 284 million records from McKesson"
     },
     {
       "source": "Securelist",
@@ -648,14 +688,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
       "date": "2026-08-31T21:08:46.000Z",
       "excerpt": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Five plead guilty in latest federal ATM jackpotting case",
-      "link": "https://therecord.media/kansas-atm-jackpotting-guilty-pleas",
-      "date": "2026-08-31T20:31:00.000Z",
-      "excerpt": "Federal law enforcement continued to warn about ATM jackpotting gangs as it announced guilty pleas from five Venezuelan nationals."
     },
     {
       "source": "Dark Reading",
@@ -786,14 +818,6 @@
       "excerpt": "The prolific ransomware group Qilin claimed responsibility for the attack. ATF insists the incident was limited to a standalone system and hasn’t impacted critical operations. The post ATF confirms cyberattack hit system containing info on its investigation targets appeared…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Fake Voicemail SVG Attachments Fuel Large-Scale Phishing Campaign",
-      "link": "https://www.infosecurity-magazine.com/news/fake-voicemail-svg-files-bypass/",
-      "date": "2026-08-28T13:00:00.000Z",
-      "excerpt": "A large-scale phishing campaign used fake voicemail SVG attachments to bypass email defenses, targeting 5527 organizations with over 26,000 malicious messages"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Authorities arrest 2 alleged members of prolific hacking group TeamPCP",
@@ -874,14 +898,6 @@
       "excerpt": "The report contains statistics on industrial threats for Q2 2026, including ransomware, miners, spyware and other threats that were detected and blocked on industrial control systems."
     },
     {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "LLM-Based Social Engineering Scams",
-      "link": "https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html",
-      "date": "2026-08-27T09:56:56.000Z",
-      "excerpt": "OpenAI disrupted a social engineering group from Cambodia that used ChatGPT. Its scope is impressive: The network simultaneously conducted multiple types of scams, often blending elements from different schemes. For instance, operators used dating personas to build trust before…"
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "US Navy tells sailors and their families: scrub your social media, enemies are watching",
@@ -896,22 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/collective-action-cyber-defense",
       "date": "2026-08-27T00:00:00.000Z",
       "excerpt": "Sophos joins organizations worldwide in supporting a coordinated and responsible approach to cyber defense."
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "The State of Ransomware in Education 2026",
-      "link": "https://www.sophos.com/en-us/blog/state-of-ransomware-in-education-2026",
-      "date": "2026-08-27T00:00:00.000Z",
-      "excerpt": "Insights from 226 IT and cybersecurity leaders across the education sector in 17 countries whose organizations were hit by ransomware in the past year."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #482: This hacker leaked GTA 6 – and launched their own cryptocurrency",
-      "link": "https://grahamcluley.com/smashing-security-podcast-482/",
-      "date": "2026-08-26T23:10:11.000Z",
-      "excerpt": "A hacker calling themselves \"CYBERLEEK\" has been leaking gameplay footage from GTA 6 ahead of its official reveal this week - but they're not asking Rockstar Games for a ransom. Instead, they've launched their own cryptocurrency, promising to release ever more juicy clips from a…"
     }
   ]
 }
