@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 01 Sep 2026 21:51:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:20:40 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Counterfeit installers to system compromise: Tracking a deceptive software download campaign</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:48:28 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
+      <title>FBI Probes Service Selling 153M+ Drivers Licenses</title>
+      <link>https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</link>
+      <guid isPermaLink="false">https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:40:28 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it… (via Krebs on Security)</description>
+    </item>
+    <item>
+      <title>Weekly Update 519: Breaches &amp; Data Integrity</title>
+      <link>https://www.troyhunt.com/weekly-update-519/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-519/</guid>
+      <pubDate>Tue, 01 Sep 2026 22:26:38 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>It does feel like I&#39;ve bitten off too much and am now chewing like crazy this week. The 3D printing talk with Elle in Oslo, the &quot;normal&quot; NDC infosec talk, the cyber-broken talk with Scott in Copenhagen and then those ratbag hackers keep dumping more (via Troy Hunt)</description>
+    </item>
     <item>
       <title>FBI raises alarm over deceptive phishing campaign targeting prominent people</title>
       <link>https://cyberscoop.com/fbi-alert-oauth-consent-phishing-campaign/</link>
@@ -782,22 +806,6 @@
       <pubDate>Wed, 26 Aug 2026 23:10:11 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>A hacker calling themselves &quot;CYBERLEEK&quot; has been leaking gameplay footage from GTA 6 ahead of its official reveal this week - but they&#39;re not asking Rockstar Games for a ransom. Instead, they&#39;ve launched their own cryptocurrency, promising to release ever more juicy clips from a… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>When AI infrastructure becomes the target: Securing gateways and control points</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/</guid>
-      <pubDate>Wed, 26 Aug 2026 16:43:53 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Exploits and vulnerabilities in Q2 2026</title>
-      <link>https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/</link>
-      <guid isPermaLink="false">https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:04 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>This report covers statistics on vulnerabilities, exploits, and C2 frameworks in Q2 2026. For the first time ever, we aggregate data on vulnerabilities in open-source AI agents and AI frameworks. (via Securelist)</description>
     </item>
   </channel>
 </rss>

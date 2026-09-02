@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:51:41.935Z",
+  "updated": "2026-09-02T00:20:40.729Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,30 @@
     }
   ],
   "items": [
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/01/counterfeit-installers-system-compromise-tracking-deceptive-software-download-campaign/",
+      "date": "2026-09-01T22:48:28.000Z",
+      "excerpt": "An active campaign is impersonating legitimate software vendors to deliver malware through look-alike download pages and regenerated installer archives. Microsoft Defender Experts shares observed attack techniques, Defender XDR detections, indicators of compromise, and practical…"
+    },
+    {
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/",
+      "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+      "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
+      "date": "2026-09-01T22:40:28.000Z",
+      "excerpt": "A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are available for purchase on this service, it…"
+    },
+    {
+      "source": "Troy Hunt",
+      "sourceUrl": "https://www.troyhunt.com/",
+      "title": "Weekly Update 519: Breaches & Data Integrity",
+      "link": "https://www.troyhunt.com/weekly-update-519/",
+      "date": "2026-09-01T22:26:38.000Z",
+      "excerpt": "It does feel like I've bitten off too much and am now chewing like crazy this week. The 3D printing talk with Elle in Oslo, the \"normal\" NDC infosec talk, the cyber-broken talk with Scott in Copenhagen and then those ratbag hackers keep dumping more"
+    },
     {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
@@ -888,22 +912,6 @@
       "link": "https://grahamcluley.com/smashing-security-podcast-482/",
       "date": "2026-08-26T23:10:11.000Z",
       "excerpt": "A hacker calling themselves \"CYBERLEEK\" has been leaking gameplay footage from GTA 6 ahead of its official reveal this week - but they're not asking Rockstar Games for a ransom. Instead, they've launched their own cryptocurrency, promising to release ever more juicy clips from a…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "When AI infrastructure becomes the target: Securing gateways and control points",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/26/when-ai-infrastructure-becomes-target-securing-gateways-control-points/",
-      "date": "2026-08-26T16:43:53.000Z",
-      "excerpt": "Microsoft Threat Intelligence examines attacks on exposed AI workloads, including LiteLLM gateway exploitation, credential harvesting, persistence, and cryptomining activity. The post When AI infrastructure becomes the target: Securing gateways and control points appeared first…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Exploits and vulnerabilities in Q2 2026",
-      "link": "https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/",
-      "date": "2026-08-26T10:00:04.000Z",
-      "excerpt": "This report covers statistics on vulnerabilities, exploits, and C2 frameworks in Q2 2026. For the first time ever, we aggregate data on vulnerabilities in open-source AI agents and AI frameworks."
     }
   ]
 }
