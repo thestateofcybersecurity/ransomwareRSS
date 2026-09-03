@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T18:47:17.424Z",
+  "updated": "2026-09-03T21:46:02.222Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,68 @@
   ],
   "items": [
     {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Large Enterprises Targeted in Fake Merger & Acquisition Scams",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/large-enterprises-fake-merger-acquisition-scams",
+      "date": "2026-09-03T20:18:14.000Z",
+      "excerpt": "Threat actors behind the \"Phantom Deal\" campaign are studying companies in extreme detail, aiming to dupe midlevel employees into initiating large financial transfers."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Coder's registry infrastructure compromised to push malicious modules",
+      "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+      "date": "2026-09-03T20:04:24.000Z",
+      "excerpt": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Confused about which VPN is right, US senator asks the NSA for guidance",
+      "link": "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
+      "date": "2026-09-03T19:52:06.000Z",
+      "excerpt": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
+      "date": "2026-09-03T19:42:39.000Z",
+      "excerpt": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Large group of Serbian opposition, activist figures targeted with spyware",
+      "link": "https://therecord.media/serbia-spyware-pegasus-europe",
+      "date": "2026-09-03T19:30:41.000Z",
+      "excerpt": "At least 14 Serbians have been targeted with advanced spyware since December, with victims including a member of Parliament, a local opposition politician and student protesters, according to digital forensic researchers."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "The G7 tells industry to hurry up and prep for post-quantum encryption",
+      "link": "https://cyberscoop.com/g7-quantum-computing-encryption-warning/",
+      "date": "2026-09-03T19:29:30.000Z",
+      "excerpt": "The nations warn that governments and industry can no longer treat quantum codebreaking as a distant or theoretical possibility. The post The G7 tells industry to hurry up and prep for post-quantum encryption appeared first on CyberScoop ."
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
       "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
       "date": "2026-09-03T18:28:12.000Z",
       "excerpt": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+      "date": "2026-09-03T18:02:47.000Z",
+      "excerpt": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door? That idea runs through this edition. Attackers use real tools, fake login pages, old account links,…"
     },
     {
       "source": "Microsoft Security Blog",
@@ -322,14 +378,6 @@
       "excerpt": "Researchers built a fake company to study fake employee scams ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Plex warns users to patch security vulnerabilities immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerabilities-immediately/",
-      "date": "2026-09-03T11:02:22.000Z",
-      "excerpt": "Plex urged users this week to update their desktop clients and media servers immediately to patch multiple security vulnerabilities. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "153 Million Driver License Images Offered on Dark Web",
@@ -432,14 +480,6 @@
       "link": "https://www.helpnetsecurity.com/2026/09/03/seemplicity-response-options-vulnerability-management/",
       "date": "2026-09-03T07:17:45.000Z",
       "excerpt": "Seemplicity announced Response Options for vulnerability management and exposure management workflows. This new capability gives security teams multiple, actionable paths to closing a vulnerability finding based on context. The problem Response Options addresses is…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-      "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-      "date": "2026-09-03T06:26:59.000Z",
-      "excerpt": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a privilege escalation flaw impacting Crowdstrike Falcon. \"FalconFlank is a 0day privilege escalation that abuses the…"
     },
     {
       "source": "Help Net Security",
@@ -634,14 +674,6 @@
       "excerpt": "Gambling Goblin compromised Brazilian government sites to drive gambling traffic through SEO fraud"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers expose donor data from Russian fundraisers for Ukrainians, political prisoners",
-      "link": "https://therecord.media/hackers-russia-fundraisers-ukraine",
-      "date": "2026-09-02T13:00:00.000Z",
-      "excerpt": "Hackers reportedly gained access to payment accounts used by two Russian fundraising projects supporting Ukrainians and political prisoners, exposing donor email addresses and limited payment card information."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
@@ -672,14 +704,6 @@
       "link": "https://isc.sans.edu/diary/rss/33304",
       "date": "2026-09-02T02:00:02.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "date": "2026-09-02T01:00:00.000Z",
-      "excerpt": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores."
     },
     {
       "source": "Sophos News",
@@ -730,14 +754,6 @@
       "excerpt": "Introduction"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Attackers Pounce on Critical Artifactory Bug Following Disclosure",
-      "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
-      "date": "2026-09-01T21:05:53.000Z",
-      "excerpt": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Tina Peters, through attorney, backs off formal role in Shasta County elections",
@@ -768,14 +784,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html",
       "date": "2026-09-01T16:29:10.000Z",
       "excerpt": "This is interesting: The records describe a force-generation mechanism for several General Staff components, including the GRU, Main Operational Directorate, and 8th Directorate, which is associated with protected communications, cryptography, and information security. […] The…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Whistleblower says USPS deploying new, ‘untested’ IT systems governing mail-in ballots",
-      "link": "https://cyberscoop.com/usps-whistleblower-ballot-system-2026-midterms/",
-      "date": "2026-09-01T13:58:05.000Z",
-      "excerpt": "The Federal Ballot Mail Portal is described by a federal official as one of several IT systems that will be used to potentially deny thousands of mail-in ballots or more to states. The post Whistleblower says USPS deploying new, ‘untested’ IT systems governing mail-in ballots…"
     },
     {
       "source": "Schneier on Security",
@@ -904,14 +912,6 @@
       "link": "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
       "date": "2026-08-28T11:15:05.000Z",
       "excerpt": "The group infected more than 1,000 organizations in a relentless supply-chain attack campaign."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Shai-Hulud hackers: two men charged over TeamPCP’s global supply chain crime spree that hit OpenAI, and thousands more",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps",
-      "date": "2026-08-28T10:23:57.000Z",
-      "excerpt": "More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP's global hacking spree. Read more in my article on the Hot for Security blog."
     }
   ]
 }
