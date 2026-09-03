@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 03 Sep 2026 00:22:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 04:50:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Windows memory integrity switches on automatically for eligible devices in October 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/09/03/windows-memory-integrity-update/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/03/windows-memory-integrity-update/</guid>
+      <pubDate>Thu, 03 Sep 2026 04:30:32 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Beginning in October 2026, Windows quality updates start enabling memory integrity protection on eligible devices with little or no additional configuration. On machines where Virtualization-based Security is not already running, those same updates enable VBS too. Memory… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33306</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33306</guid>
+      <pubDate>Thu, 03 Sep 2026 02:02:56 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program] (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33308</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33308</guid>
+      <pubDate>Thu, 03 Sep 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>Smashing Security podcast #483: This AI helps thieves steal your iPhone</title>
       <link>https://grahamcluley.com/smashing-security-podcast-483/</link>
@@ -14,6 +38,14 @@
       <pubDate>Wed, 02 Sep 2026 23:10:47 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>You&#39;ve had your iPhone stolen. A day later, you get a text from Apple saying they&#39;ve found it, and a very helpful woman called Alice from Apple Support calls to walk you through recovering it. She&#39;s polite. She&#39;s professional. But she is not from Apple. She&#39;s not even human. And… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>Impersonating IT support: how threat actors turn a remote session into enterprise-wide access</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/</guid>
+      <pubDate>Wed, 02 Sep 2026 22:51:18 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>AI’s Vulnerability Surge May Be More Manageable Than First Feared</title>
@@ -456,14 +488,6 @@
       <description>Threat group FulcrumSec claims MAG breach and leaks 550GB of data online (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Keepnet launches free SMS/Call Reporter for iOS</title>
-      <link>https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/</guid>
-      <pubDate>Wed, 02 Sep 2026 08:00:45 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Keepnet, an Extended Human Risk Management (xHRM) and Secure Behavior Management platform, today launched the Keepnet SMS/Call Reporter. It is a free app that turns a suspicious SMS or phone call into a one-tap report. Anyone can download it for personal protection.… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Sality botnet infrastructure dismantled in joint global takedown</title>
       <link>https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/</guid>
@@ -768,22 +792,6 @@
       <description>More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP&#39;s global hacking spree. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
     </item>
     <item>
-      <title>Some Malicious PE Stats, (Thu, Aug 27th)</title>
-      <link>https://isc.sans.edu/diary/rss/33292</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33292</guid>
-      <pubDate>Fri, 28 Aug 2026 07:04:13 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files? A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware[1]. Can we go a bit further? I (vibe-)coded a… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33294</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33294</guid>
-      <pubDate>Fri, 28 Aug 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>​​​​​​What’s new in Microsoft Security: August 2026</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/08/27/whats-new-in-microsoft-security-august-2026/</guid>
@@ -798,14 +806,6 @@
       <pubDate>Thu, 27 Aug 2026 14:00:13 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>227 install commands were found in corporate docs pointing at code nobody owns. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>How OpenAI let a mob of LLM agents game a test and ransack Hugging Face</title>
-      <link>https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/</guid>
-      <pubDate>Thu, 27 Aug 2026 12:58:59 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Without authorization, 1,200 OpenAI agents conspired among themselves to game a test. (via Ars Technica Security)</description>
     </item>
   </channel>
 </rss>

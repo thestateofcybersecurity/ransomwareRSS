@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T00:22:07.096Z",
+  "updated": "2026-09-03T04:50:29.146Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,44 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Windows memory integrity switches on automatically for eligible devices in October 2026",
+      "link": "https://www.helpnetsecurity.com/2026/09/03/windows-memory-integrity-update/",
+      "date": "2026-09-03T04:30:32.000Z",
+      "excerpt": "Beginning in October 2026, Windows quality updates start enabling memory integrity protection on eligible devices with little or no additional configuration. On machines where Virtualization-based Security is not already running, those same updates enable VBS too. Memory…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33306",
+      "date": "2026-09-03T02:02:56.000Z",
+      "excerpt": "[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Thursday, September 3rd, 2026 https://isc.sans.edu/podcastdetail/10080, (Thu, Sep 3rd)",
+      "link": "https://isc.sans.edu/diary/rss/33308",
+      "date": "2026-09-03T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Smashing Security podcast #483: This AI helps thieves steal your iPhone",
       "link": "https://grahamcluley.com/smashing-security-podcast-483/",
       "date": "2026-09-02T23:10:47.000Z",
       "excerpt": "You've had your iPhone stolen. A day later, you get a text from Apple saying they've found it, and a very helpful woman called Alice from Apple Support calls to walk you through recovering it. She's polite. She's professional. But she is not from Apple. She's not even human. And…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Impersonating IT support: how threat actors turn a remote session into enterprise-wide access",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/02/impersonating-it-support-threat-actors-turn-remote-session-into-enterprise-wide-access/",
+      "date": "2026-09-02T22:51:18.000Z",
+      "excerpt": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement…"
     },
     {
       "source": "Dark Reading",
@@ -562,14 +594,6 @@
       "excerpt": "Threat group FulcrumSec claims MAG breach and leaks 550GB of data online"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Keepnet launches free SMS/Call Reporter for iOS",
-      "link": "https://www.helpnetsecurity.com/2026/09/02/keepnet-launches-free-sms-call-reporter-for-ios/",
-      "date": "2026-09-02T08:00:45.000Z",
-      "excerpt": "Keepnet, an Extended Human Risk Management (xHRM) and Secure Behavior Management platform, today launched the Keepnet SMS/Call Reporter. It is a free app that turns a suspicious SMS or phone call into a one-tap report. Anyone can download it for personal protection.…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Sality botnet infrastructure dismantled in joint global takedown",
@@ -874,22 +898,6 @@
       "excerpt": "More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP's global hacking spree. Read more in my article on the Hot for Security blog."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Some Malicious PE Stats, (Thu, Aug 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33292",
-      "date": "2026-08-28T07:04:13.000Z",
-      "excerpt": "During my last FOR610 session, a student asked me if I had some statistics in mind about the compilers used to generate malicious PE files? A couple of months ago, I shared some stats about the trend in 64bits VS. 32bits malware[1]. Can we go a bit further? I (vibe-)coded a…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Friday, August 28th, 2026 https://isc.sans.edu/podcastdetail/10072, (Fri, Aug 28th)",
-      "link": "https://isc.sans.edu/diary/rss/33294",
-      "date": "2026-08-28T02:00:02.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "​​​​​​What’s new in Microsoft Security: August 2026",
@@ -904,14 +912,6 @@
       "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
       "date": "2026-08-27T14:00:13.000Z",
       "excerpt": "227 install commands were found in corporate docs pointing at code nobody owns."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
-      "link": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-      "date": "2026-08-27T12:58:59.000Z",
-      "excerpt": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test."
     }
   ]
 }
