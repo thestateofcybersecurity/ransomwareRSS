@@ -5,15 +5,31 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 12:50:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 16:08:10 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>HPE Patches Critical RCE Vulnerabilities in AOS-CX</title>
-      <link>https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx-2/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hpe-patches-critical-rce-vulnerabilities-in-aos-cx-2/</guid>
-      <pubDate>Sat, 05 Sep 2026 12:50:14 GMT</pubDate>
+      <title>Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/</guid>
+      <pubDate>Sat, 05 Sep 2026 14:29:13 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers&#39; Data It Said Was Deleted</title>
+      <link>https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html</guid>
+      <pubDate>Sat, 05 Sep 2026 14:17:02 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk. The exposed information includes customer names, email addresses, phone numbers, shipping addresses, and order… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites</title>
+      <link>https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/elementor-pro-wordpress-plugin-vulnerability-exploited-to-hack-sites/</guid>
+      <pubDate>Sat, 05 Sep 2026 13:00:28 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>An unauthenticated attacker could exploit the security defects by sending crafted packets to the vulnerable service, achieving RCE with elevated privileges The post HPE Patches Critical RCE Vulnerabilities in AOS-CX appeared first on SecurityWeek . (via SecurityWeek)</description>
+      <description>Tracked as CVE-2026-32475 (CVSS score of 9.8), the bug described as an arbitrary file upload issue in the function that handles form submissions. The post Elementor Pro WordPress Plugin Vulnerability Exploited to Hack Sites appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>OpenAI admits it didn&#39;t disclose rogue AI wiki hijacking incident</title>
@@ -304,14 +320,6 @@
       <description>Catch promises the capabilities of a trusted executive assistant, with built-in controls governing what data and systems it can access. The post Catch Raises $5 Million for AI Executive Assistant With Guardrails appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Google warns of new Chrome zero-day flaw exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/google-warns-of-new-chrome-zero-day-flaw-exploited-in-attacks/</guid>
-      <pubDate>Fri, 04 Sep 2026 11:48:17 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Google has updated the Chrome browser to address an actively exploited high-severity zero-day flaw in the V8 engine and 11 other vulnerabilities. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>VMware Workstation and Fusion Updates Patch Critical Vulnerability</title>
       <link>https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/</link>
       <guid isPermaLink="false">https://www.securityweek.com/vmware-workstation-and-fusion-updates-patch-critical-vulnerability/</guid>
@@ -390,14 +398,6 @@
       <pubDate>Fri, 04 Sep 2026 07:35:14 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Plex is urging users to update their instances to the latest version following the release of an update that patches multiple security flaws. The fixes are available in Plex Media Server 1.43.3 and Plex Desktop 1.115.0. The streaming media service did not elaborate on what those… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Google Releases Chrome Update to Patch Actively Exploited V8 Zero-Day</title>
-      <link>https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html</guid>
-      <pubDate>Fri, 04 Sep 2026 07:18:47 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Google on Thursday released security updates to patch 12 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-85046 (CVSS score: 8.8), has been described as a type confusion bug in V8, Chrome&#39;s… (via The Hacker News)</description>
     </item>
     <item>
       <title>September 2026 Patch Tuesday forecast: All we need is more time</title>
