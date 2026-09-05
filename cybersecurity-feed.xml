@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 18:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 21:23:11 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores</title>
+      <link>https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html</guid>
+      <pubDate>Sat, 05 Sep 2026 20:14:47 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store&#39;s server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials</title>
       <link>https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html</link>
@@ -214,14 +222,6 @@
       <pubDate>Fri, 04 Sep 2026 15:20:19 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>New Ted Backdoor Hides Inside Victims&#39; Own HAProxy Builds to Intercept Web Traffic</title>
-      <link>https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html</guid>
-      <pubDate>Fri, 04 Sep 2026 14:51:13 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug… (via The Hacker News)</description>
     </item>
     <item>
       <title>UK account-hack losses surge as new reporting system exposes hidden cases</title>

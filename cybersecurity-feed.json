@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T18:25:41.362Z",
+  "updated": "2026-09-05T21:23:11.745Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
+      "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
+      "date": "2026-09-05T20:14:47.000Z",
+      "excerpt": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published on September 5. Sansec, which…"
+    },
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
@@ -320,14 +328,6 @@
       "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
       "date": "2026-09-04T15:20:19.000Z",
       "excerpt": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server. The flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), has been present since logical…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-      "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-      "date": "2026-09-04T14:51:13.000Z",
-      "excerpt": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors. The attackers named the implant ted in debug…"
     },
     {
       "source": "The Record",
