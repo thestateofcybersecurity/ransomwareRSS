@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 05 Sep 2026 00:12:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 04:41:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>numbat - AI agent observability, (Fri, Sep 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/33312</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33312</guid>
+      <pubDate>Sat, 05 Sep 2026 03:39:52 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>OpenAI agents discussed ways to escape their sandbox on public wiki</title>
       <link>https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/</link>
@@ -798,14 +806,6 @@
       <pubDate>Mon, 31 Aug 2026 20:00:34 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide &quot;free&quot; LLM backends. It then received a real coding-agent session &amp;#x26;#xe2;&amp;#x26;#x80;&amp;#x26;#x94; history,… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Think twice before installing this device promising free movies</title>
-      <link>https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/</guid>
-      <pubDate>Mon, 31 Aug 2026 16:33:38 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>In exchange for free stuff, devices make home connections part of a proxy network. (via Ars Technica Security)</description>
     </item>
   </channel>
 </rss>
