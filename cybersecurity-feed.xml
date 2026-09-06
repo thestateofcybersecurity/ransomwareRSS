@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 06 Sep 2026 14:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:09:22 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Attackers conceal phishing lures using invisible Unicode characters</title>
+      <link>https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</guid>
+      <pubDate>Sun, 06 Sep 2026 14:23:46 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
       <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
@@ -294,14 +302,6 @@
       <pubDate>Fri, 04 Sep 2026 12:34:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>In a joint advisory released Thursday, the G7 Cyber Security Working Group and the U.S. Cybersecurity and Infrastructure Security Agency, CISA, said organizations should begin moving to post-quantum cryptography now. (via The Record)</description>
-    </item>
-    <item>
-      <title>Exchange Online outage causes email delays, &#39;Server busy&#39; errors</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/exchange-online-outage-causes-email-delays-server-busy-errors/</guid>
-      <pubDate>Fri, 04 Sep 2026 12:22:30 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft is working to resolve an ongoing Exchange Online outage that is delaying email sent to and received from external domains. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Synology ActiveProtect Manager 2.0 improves AI-driven security</title>
