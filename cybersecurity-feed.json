@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T16:32:42.002Z",
+  "updated": "2026-09-07T20:39:35.538Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+      "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+      "date": "2026-09-07T18:12:09.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. \"Requiring prior administrative or code execution access, its installer injects the extension…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
+      "date": "2026-09-07T16:50:29.000Z",
+      "excerpt": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]"
+    },
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
@@ -394,14 +410,6 @@
       "excerpt": "ETSI has published TR 104 180, a technical report that defines 18 metrics for measuring data quality, giving companies a way to check whether their data is good enough for AI before they use it. The report defines each metric and includes the formulas needed to calculate it. The…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-      "date": "2026-09-07T01:15:43.000Z",
-      "excerpt": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]"
-    },
-    {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
       "title": "Dissecting a PHP web server rootkit",
@@ -424,14 +432,6 @@
       "link": "https://isc.sans.edu/diary/rss/33314",
       "date": "2026-09-06T21:43:17.000Z",
       "excerpt": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-      "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-      "date": "2026-09-06T09:32:38.000Z",
-      "excerpt": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on September 5. Successful…"
     },
     {
       "source": "Help Net Security",

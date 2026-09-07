@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 07 Sep 2026 16:32:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 20:39:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution</title>
+      <link>https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html</guid>
+      <pubDate>Mon, 07 Sep 2026 18:12:09 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser. &quot;Requiring prior administrative or code execution access, its installer injects the extension… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Magento StyleSmuggler zero-day exploited to deploy Linux backdoor</title>
+      <link>https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/</guid>
+      <pubDate>Mon, 07 Sep 2026 16:50:29 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A zero-day vulnerability dubbed &quot;StyleSmuggler&quot; affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks</title>
       <link>https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html</link>
@@ -288,14 +304,6 @@
       <description>ETSI has published TR 104 180, a technical report that defines 18 metrics for measuring data quality, giving companies a way to check whether their data is good enough for AI before they use it. The report defines each metric and includes the formulas needed to calculate it. The… (via Help Net Security)</description>
     </item>
     <item>
-      <title>ChatGPT Astra is now rolling out to $20 Plus subscription</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/</guid>
-      <pubDate>Mon, 07 Sep 2026 01:15:43 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there&#39;s no word on when free users will get access.. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Dissecting a PHP web server rootkit</title>
       <link>https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit</guid>
@@ -318,14 +326,6 @@
       <pubDate>Sun, 06 Sep 2026 21:43:17 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication</title>
-      <link>https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html</guid>
-      <pubDate>Sun, 06 Sep 2026 09:32:38 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska&#39;s attack warning, published on September 5. Successful… (via The Hacker News)</description>
     </item>
     <item>
       <title>Week in review: Claude accounts compromised through infostealer, Patch Tuesday forecast</title>
