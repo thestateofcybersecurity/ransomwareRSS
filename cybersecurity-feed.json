@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T04:56:25.399Z",
+  "updated": "2026-09-07T10:30:21.565Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,86 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+      "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+      "date": "2026-09-07T10:06:38.000Z",
+      "excerpt": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Attackers spread malware through ScreenConnect file transfers",
+      "link": "https://www.helpnetsecurity.com/2026/09/07/connectwise-screenconnect-file-transfer-flaw/",
+      "date": "2026-09-07T09:13:06.000Z",
+      "excerpt": "A file transfer flaw in ScreenConnect Remote Access Support and Access sessions affects both Cloud and On-Premise deployments, ConnectWise confirmed. “A CVE identifier and an official fix will be issued within the week,” the company wrote in its September 3 advisory.…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Multiple Class Action Lawsuits Filed Against IDScan",
+      "link": "https://www.infosecurity-magazine.com/news/multiple-class-action-lawsuits/",
+      "date": "2026-09-07T09:10:00.000Z",
+      "excerpt": "Several victims of a recent breach of driver’s license information have sued the company they believe responsible"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OpenAI just hit a milestone on the road to self-improving AI",
+      "link": "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern/",
+      "date": "2026-09-07T09:05:18.000Z",
+      "excerpt": "OpenAI has announced that it has reached a goal set last fall of having an automated research intern by September 2026. The milestone means a system can carry out well-defined research tasks under human direction, including work that would take a skilled researcher several days.…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+      "date": "2026-09-07T08:31:12.000Z",
+      "excerpt": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Researcher Publishes CrowdStrike Privilege Escalation Zero Day",
+      "link": "https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/",
+      "date": "2026-09-07T08:28:00.000Z",
+      "excerpt": "A security researcher has posted a zero-day exploit in CrowdStrike which could allow hackers to escalate privileges"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+      "date": "2026-09-07T07:53:04.000Z",
+      "excerpt": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+      "date": "2026-09-07T06:17:41.000Z",
+      "excerpt": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "ToolHive: The open-source way to run any MCP server securely",
+      "link": "https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/",
+      "date": "2026-09-07T05:30:26.000Z",
+      "excerpt": "ToolHive is an open-source platform that runs Model Context Protocol servers inside containers. An MCP server is the connector that lets an AI client like Cursor or Claude Code reach an outside tool, and Stacklok ships ToolHive under Apache 2.0, so the runtime, the Kubernetes…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Zero trust AI agents demand a different kind of security",
+      "link": "https://www.helpnetsecurity.com/2026/09/07/chris-webber-teleport-zero-trust-ai-agents/",
+      "date": "2026-09-07T05:00:25.000Z",
+      "excerpt": "In this interview, Chris Webber, VP, Product Marketing at Teleport, explains why zero trust principles need to change for AI agents. He covers how agents act fast, unpredictably, and continuously, and why old ideas like least privilege and point-in-time verification fall short.…"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "18 ways to check whether data can be trusted for AI",
@@ -128,6 +208,14 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
       "date": "2026-09-07T01:15:43.000Z",
       "excerpt": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Dissecting a PHP web server rootkit",
+      "link": "https://www.sophos.com/en-us/blog/dissecting-a-php-web-server-rootkit",
+      "date": "2026-09-07T00:00:00.000Z",
+      "excerpt": "Sophos X-Ops takes a deep dive into an insidious piece of malware"
     },
     {
       "source": "Troy Hunt",
@@ -232,22 +320,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
       "date": "2026-09-05T11:11:50.000Z",
       "excerpt": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-      "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-      "date": "2026-09-05T07:55:10.000Z",
-      "excerpt": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers to a timed web task and pass…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-      "date": "2026-09-05T07:31:53.000Z",
-      "excerpt": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe. The Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-81578 and CVE-2026-82078 – an…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -386,22 +458,6 @@
       "excerpt": "In its first annual assessment, published Friday, the City of London Police said victims reported losing £6.3 million ($8.5 million) to account hacks in the year ending March 31, up from £1.2 million ($1.6 million) a year earlier."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft says some users can’t open the Teams desktop client",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-open-the-teams-desktop-client/",
-      "date": "2026-09-04T14:30:15.000Z",
-      "excerpt": "Microsoft is working to resolve a known issue that causes delays or blocks some users from opening the Microsoft Teams desktop client on Windows systems. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "39 New Methods That Compromise Passkey Authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/39-new-methods-that-compromise-passkey-authentication/",
-      "date": "2026-09-04T14:01:11.000Z",
-      "excerpt": "Passkeys eliminate many password-based attacks, but researchers have documented 39 methods for compromising authentication built around them. Token explains how attackers can abuse authentication prompts, synced credentials, enrollment, recovery, and other trust boundaries…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Russian data centers face new security requirements amid Ukraine's drone threats",
@@ -528,38 +584,6 @@
       "link": "https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/",
       "date": "2026-09-04T09:25:00.000Z",
       "excerpt": "The G7 has published a call to action, urging governments to launch national strategies dedicated to the post-quantum encryption transition"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Microsoft Teams is about to make QR code phishing much harder",
-      "link": "https://www.helpnetsecurity.com/2026/09/04/microsoft-teams-qr-code-phishing-protection/",
-      "date": "2026-09-04T08:28:51.000Z",
-      "excerpt": "Microsoft is preparing a new feature for Teams users that will help them stay safe from QR code phishing. Teams will automatically hide QR codes sent by people outside the organization. Users will need to reveal the image first before they can view or scan it. It’s currently in…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "September 2026 Patch Tuesday forecast: All we need is more time",
-      "link": "https://www.helpnetsecurity.com/2026/09/04/september-2026-patch-tuesday-forecast/",
-      "date": "2026-09-04T06:00:19.000Z",
-      "excerpt": "The Patch Apocalypse is continuing unabated. We are seeing record numbers of patches being released and reported CVEs continue to grow as well. August 2026 Patch Tuesday was the second biggest in history with 398 resolved CVEs: 42 rated Critical, 355 rated Important, and 1 rated…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "A five-part inventory for your AI agent credentials",
-      "link": "https://www.helpnetsecurity.com/2026/09/04/ai-agent-credentials-video/",
-      "date": "2026-09-04T05:30:39.000Z",
-      "excerpt": "In this Help Net Security video, Roy Katmor, co-founder and CEO of Orchid, explains why AI agents hold credentials that nobody reviews. Organizations build agents in AI studios, connect them to enterprise tools, and give them accounts to do useful work. The agent is approved,…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Scammers have figured out the best time to text you",
-      "link": "https://www.helpnetsecurity.com/2026/09/04/scam-texts-peak-research/",
-      "date": "2026-09-04T05:00:59.000Z",
-      "excerpt": "The suspicious calls, texts, and DMs you got recently aren’t a coincidence, according to Malwarebytes. Scammers have worked out which platform gets them the best results for each type of con, and they stick to that formula. (Source: Malwarebytes) The company looked at its own…"
     },
     {
       "source": "The Record",
@@ -704,22 +728,6 @@
       "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
       "date": "2026-09-03T10:00:58.000Z",
       "excerpt": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America appeared first on Unit 42 ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "FBI Probes Possible Breach of 153 Million Driver’s Licenses",
-      "link": "https://www.infosecurity-magazine.com/news/fbi-probes-breach-153-million/",
-      "date": "2026-09-03T09:33:00.000Z",
-      "excerpt": "The FBI is investigating how scans of over 153 million driver’s licenses are being sold on the dark web"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "International Operation Disrupts Sality P2P Botnet",
-      "link": "https://www.infosecurity-magazine.com/news/international-operation-disrupts/",
-      "date": "2026-09-03T08:30:00.000Z",
-      "excerpt": "US-led action sinkholes machines caught up in Sality botnet"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -904,14 +912,6 @@
       "link": "https://securelist.com/mirage-kitten-new-backdoors-noderabbit-pollcat/121244/",
       "date": "2026-09-01T07:00:26.000Z",
       "excerpt": "Kaspersky researchers have discovered new Mirage Kitten attacks using previously undocumented malware families: NodeRabbit in Node.js and PollCat in JavaScript."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Tuesday, September 1st, 2026 https://isc.sans.edu/podcastdetail/10076, (Tue, Sep 1st)",
-      "link": "https://isc.sans.edu/diary/rss/33302",
-      "date": "2026-09-01T02:00:03.000Z",
-      "excerpt": ""
     }
   ]
 }
