@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 06 Sep 2026 21:28:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:04:38 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Weekly Update 520: The Unscripted Edition</title>
+      <link>https://www.troyhunt.com/weekly-update-520/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-520/</guid>
+      <pubDate>Sun, 06 Sep 2026 23:31:36 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>I&#39;ve started playing around with YouTube&#39;s &quot;create video thumbnail&quot;, which hopefully will give me back a bit of time in my day (it used to be a manual job in Photoshop) and be a bit more interesting. And on that note, the imagery it&amp; (via Troy Hunt)</description>
+    </item>
+    <item>
+      <title>Critical MikroTik Vulnerability - Patch Now, (Sun, Sep 6th)</title>
+      <link>https://isc.sans.edu/diary/rss/33314</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33314</guid>
+      <pubDate>Sun, 06 Sep 2026 21:43:17 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access… (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>Attackers conceal phishing lures using invisible Unicode characters</title>
       <link>https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/</link>
@@ -790,22 +806,6 @@
       <pubDate>Tue, 01 Sep 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Ungentlemanly behavior: Insights into a ransomware operation</title>
-      <link>https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ungentlemanly-behavior-insights-into-a-ransomware-operation</guid>
-      <pubDate>Tue, 01 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Analysis of 15 intrusions revealed tradecraft used by GOLD SHERWOOD affiliates (via Sophos News)</description>
-    </item>
-    <item>
-      <title>The Coding-Agent Trap: When a &quot;Free&quot; LLM Endpoint Is the Adversary, (Mon, Aug 31st)</title>
-      <link>https://isc.sans.edu/diary/rss/33298</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33298</guid>
-      <pubDate>Mon, 31 Aug 2026 20:00:34 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>One of my internet-exposed inference honeypots was discovered, relabeled with sought-after model names, and incorporated into infrastructure apparently used to provide &quot;free&quot; LLM backends. It then received a real coding-agent session &amp;#x26;#xe2;&amp;#x26;#x80;&amp;#x26;#x94; history,… (via SANS Internet Storm Center)</description>
     </item>
   </channel>
 </rss>
