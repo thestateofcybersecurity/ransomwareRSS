@@ -1,6 +1,123 @@
 {
-  "updated": "2026-09-07T10:30:19.835Z",
+  "updated": "2026-09-07T16:32:39.933Z",
   "items": [
+    {
+      "group": "interlock",
+      "victim": "NFM Lending",
+      "sector": "Financial Services",
+      "country": "US",
+      "domain": "https:nfmlending.com",
+      "discovered": "2026-09-07T15:31:55.699Z",
+      "link": "https://www.ransomware.live/id/TkZNIExlbmRpbmdAaW50ZXJsb2Nr"
+    },
+    {
+      "group": "everest",
+      "victim": "GGS",
+      "sector": "",
+      "country": "",
+      "domain": "",
+      "discovered": "2026-09-07T15:29:41.803Z",
+      "link": "https://www.ransomware.live/id/R0dTQGV2ZXJlc3Q="
+    },
+    {
+      "group": "everest",
+      "victim": "KÖRBER",
+      "sector": "Manufacturing",
+      "country": "DE",
+      "domain": "",
+      "discovered": "2026-09-07T15:29:01.556Z",
+      "link": "https://www.ransomware.live/id/S8OWUkJFUkBldmVyZXN0"
+    },
+    {
+      "group": "everest",
+      "victim": "GENESILICO",
+      "sector": "Technology",
+      "country": "IT",
+      "domain": "",
+      "discovered": "2026-09-07T15:28:22.826Z",
+      "link": "https://www.ransomware.live/id/R0VORVNJTElDT0BldmVyZXN0"
+    },
+    {
+      "group": "direwolf",
+      "victim": "Lightcast",
+      "sector": "Professional Services",
+      "country": "US",
+      "domain": "lightcast.io",
+      "discovered": "2026-09-07T14:27:42.434Z",
+      "link": "https://www.ransomware.live/id/TGlnaHRjYXN0QGRpcmV3b2xm"
+    },
+    {
+      "group": "aurora",
+      "victim": "Jinny Beauty Supply",
+      "sector": "Retail & E-Commerce",
+      "country": "US",
+      "domain": "jinny beauty supply",
+      "discovered": "2026-09-07T14:25:08.483Z",
+      "link": "https://www.ransomware.live/id/SmlubnkgQmVhdXR5IFN1cHBseUBhdXJvcmE="
+    },
+    {
+      "group": "aurora",
+      "victim": "Benshaw, Inc.",
+      "sector": "Manufacturing",
+      "country": "US",
+      "domain": "benshaw, inc.",
+      "discovered": "2026-09-07T13:52:58.625Z",
+      "link": "https://www.ransomware.live/id/QmVuc2hhdywgSW5jLkBhdXJvcmE="
+    },
+    {
+      "group": "direwolf",
+      "victim": "Semper Laser",
+      "sector": "Manufacturing",
+      "country": "SE",
+      "domain": "semperlaser.com",
+      "discovered": "2026-09-07T13:26:15.875Z",
+      "link": "https://www.ransomware.live/id/U2VtcGVyIExhc2VyQGRpcmV3b2xm"
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "EllisDon Corporation",
+      "sector": "Professional Services",
+      "country": "CA",
+      "domain": "www.ellisdon.com",
+      "discovered": "2026-09-07T13:01:37.828Z",
+      "link": "https://www.ransomware.live/id/RWxsaXNEb24gQ29ycG9yYXRpb25AbWV0YWVuY3J5cHRvcg=="
+    },
+    {
+      "group": "qilin",
+      "victim": "Jbc",
+      "sector": "",
+      "country": "ES",
+      "domain": "www.jbctools.com",
+      "discovered": "2026-09-07T12:04:38.555Z",
+      "link": "https://www.ransomware.live/id/SmJjQHFpbGlu"
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "SIFCO Industries INC.",
+      "sector": "Manufacturing",
+      "country": "US",
+      "domain": "sifco.com",
+      "discovered": "2026-09-07T12:03:26.153Z",
+      "link": "https://www.ransomware.live/id/U0lGQ08gSW5kdXN0cmllcyBJTkMuQG1ldGFlbmNyeXB0b3I="
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "ST Engineering",
+      "sector": "Government & Defense",
+      "country": "SG",
+      "domain": "stenng.com",
+      "discovered": "2026-09-07T12:02:41.941Z",
+      "link": "https://www.ransomware.live/id/U1QgRW5naW5lZXJpbmdAbWV0YWVuY3J5cHRvcg=="
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "Hologic, Inc.",
+      "sector": "Healthcare",
+      "country": "US",
+      "domain": "www.hologic.com",
+      "discovered": "2026-09-07T12:01:46.084Z",
+      "link": "https://www.ransomware.live/id/SG9sb2dpYywgSW5jLkBtZXRhZW5jcnlwdG9y"
+    },
     {
       "group": "Vexy Ransomware",
       "victim": "LIBRERIA SANTA FE A P S SRL",
@@ -333,123 +450,6 @@
       "domain": "kalahealth.eu",
       "discovered": "2026-09-04T20:57:31.960Z",
       "link": "https://www.ransomware.live/id/a2FsYWhlYWx0aC5ldUBsb2NrYml0NQ=="
-    },
-    {
-      "group": "lockbit5",
-      "victim": "huisartsencentrumkleiniterson.nl",
-      "sector": "Healthcare",
-      "country": "NL",
-      "domain": "huisartsencentrumkleiniterson.nl",
-      "discovered": "2026-09-04T20:56:55.403Z",
-      "link": "https://www.ransomware.live/id/aHVpc2FydHNlbmNlbnRydW1rbGVpbml0ZXJzb24ubmxAbG9ja2JpdDU="
-    },
-    {
-      "group": "SilentRansomGroup",
-      "victim": "H... C...",
-      "sector": "",
-      "country": "",
-      "domain": "",
-      "discovered": "2026-09-04T19:57:57.547Z",
-      "link": "https://www.ransomware.live/id/SC4uLiBDLi4uQFNpbGVudFJhbnNvbUdyb3Vw"
-    },
-    {
-      "group": "direwolf",
-      "victim": "Wolfram Research",
-      "sector": "Technology",
-      "country": "US",
-      "domain": "wolfram.com",
-      "discovered": "2026-09-04T17:55:01.272Z",
-      "link": "https://www.ransomware.live/id/V29sZnJhbSBSZXNlYXJjaEBkaXJld29sZg=="
-    },
-    {
-      "group": "spacebears",
-      "victim": "Sports Endeavors",
-      "sector": "Retail & E-Commerce",
-      "country": "US",
-      "domain": "www.sportsendeavors.com",
-      "discovered": "2026-09-04T17:33:43.256Z",
-      "link": "https://www.ransomware.live/id/U3BvcnRzIEVuZGVhdm9yc0BzcGFjZWJlYXJz"
-    },
-    {
-      "group": "DYSPHOR1A",
-      "victim": "MBT Telecom",
-      "sector": "Technology",
-      "country": "MM",
-      "domain": "mbt.com.mm",
-      "discovered": "2026-09-04T16:50:33.931Z",
-      "link": "https://www.ransomware.live/id/TUJUIFRlbGVjb21ARFlTUEhPUjFB"
-    },
-    {
-      "group": "Vexy Ransomware",
-      "victim": "Palsana Enviro (PEPL)",
-      "sector": "Manufacturing",
-      "country": "IN",
-      "domain": "palsanaenviro.com",
-      "discovered": "2026-09-04T16:23:53.260Z",
-      "link": "https://www.ransomware.live/id/UGFsc2FuYSBFbnZpcm8gKFBFUEwpQFZleHkgUmFuc29td2FyZQ=="
-    },
-    {
-      "group": "Vexy Ransomware",
-      "victim": "Annapurna Fashion",
-      "sector": "Retail & E-Commerce",
-      "country": "IN",
-      "domain": "annapurnafashion.com",
-      "discovered": "2026-09-04T16:23:32.912Z",
-      "link": "https://www.ransomware.live/id/QW5uYXB1cm5hIEZhc2hpb25AVmV4eSBSYW5zb213YXJl"
-    },
-    {
-      "group": "Vexy Ransomware",
-      "victim": "Sancity Soft Touch",
-      "sector": "Technology",
-      "country": "US",
-      "domain": "softtouch4u.com",
-      "discovered": "2026-09-04T16:23:12.456Z",
-      "link": "https://www.ransomware.live/id/U2FuY2l0eSBTb2Z0IFRvdWNoQFZleHkgUmFuc29td2FyZQ=="
-    },
-    {
-      "group": "akira",
-      "victim": "Stransky Heiz-Mess-Regeltechnik GmbH",
-      "sector": "Manufacturing",
-      "country": "DE",
-      "domain": "",
-      "discovered": "2026-09-04T14:53:27.302Z",
-      "link": "https://www.ransomware.live/id/U3RyYW5za3kgSGVpei1NZXNzLVJlZ2VsdGVjaG5payBHbWJIQGFraXJh"
-    },
-    {
-      "group": "qilin",
-      "victim": "AP CAPITAL PARTNERS LIMITED",
-      "sector": "Financial Services",
-      "country": "",
-      "domain": "www.apcapitalpartners.com",
-      "discovered": "2026-09-04T14:32:00.090Z",
-      "link": "https://www.ransomware.live/id/QVAgQ0FQSVRBTCBQQVJUTkVSUyBMSU1JVEVEQHFpbGlu"
-    },
-    {
-      "group": "tridentlocker",
-      "victim": "SouthernCarlson",
-      "sector": "",
-      "country": "",
-      "domain": "southerncarlson.com",
-      "discovered": "2026-09-04T14:04:00.266Z",
-      "link": "https://www.ransomware.live/id/U291dGhlcm5DYXJsc29uQHRyaWRlbnRsb2NrZXI="
-    },
-    {
-      "group": "akira",
-      "victim": "Worrell",
-      "sector": "",
-      "country": "",
-      "domain": "worrellcorp.com",
-      "discovered": "2026-09-04T13:51:54.499Z",
-      "link": "https://www.ransomware.live/id/V29ycmVsbEBha2lyYQ=="
-    },
-    {
-      "group": "qilin",
-      "victim": "Commission de la construction du Quebec (CCQ)",
-      "sector": "Government & Defense",
-      "country": "CA",
-      "domain": "www.ccq.org",
-      "discovered": "2026-09-04T11:30:59.887Z",
-      "link": "https://www.ransomware.live/id/Q29tbWlzc2lvbiBkZSBsYSBjb25zdHJ1Y3Rpb24gZHUgUXVlYmVjIChDQ1EpQHFpbGlu"
     }
   ]
 }
