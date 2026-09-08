@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T04:52:40.214Z",
+  "updated": "2026-09-08T09:51:01.946Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,86 @@
     }
   ],
   "items": [
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "BigBear 2 PhaaS Campaign Steals 5000+ Microsoft Credentials",
+      "link": "https://www.infosecurity-magazine.com/news/bigbear-2-phaas-5000-microsoft/",
+      "date": "2026-09-08T09:45:00.000Z",
+      "excerpt": "CloudSEK has uncovered BigBear 2.0, a new phishing-as-a-service operation targeting Microsoft 365"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+      "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+      "date": "2026-09-08T09:13:47.000Z",
+      "excerpt": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild. The vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), has been codenamed…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Trezor Supply Chain Breach Now Impacts 81,000 Customers",
+      "link": "https://www.infosecurity-magazine.com/news/trezor-supply-chain-breach-impacts/",
+      "date": "2026-09-08T09:08:00.000Z",
+      "excerpt": "Crypto wallet-maker Trezor says a data breach at supplier ShipMonk is far worse than originally thought"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Mathspace breach exposes data on over a million students and parents",
+      "link": "https://www.helpnetsecurity.com/2026/09/08/mathspace-data-breach-metabase-vulnerability/",
+      "date": "2026-09-08T08:45:59.000Z",
+      "excerpt": "Mathspace has confirmed that attackers broke into its internal reporting system through an unpatched Metabase vulnerability and stole data belonging to more than a million students, parents, and school staff. The Sydney-based maths education company wrote in a blog post that the…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+      "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+      "date": "2026-09-08T08:43:51.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams. The campaign, discovered by the DFIR Report in March 2026, has been codenamed BengalSEO. It has…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Jellyfin 12.0 security fixes arrive alongside the removal of legacy client logins",
+      "link": "https://www.helpnetsecurity.com/2026/09/08/jellyfin-12-0-security-fixes/",
+      "date": "2026-09-08T08:41:53.000Z",
+      "excerpt": "Jellyfin shipped version 12.0 of its media server. Several of the security fixes in it block requests built to reach files outside the folders the server is supposed to hand out. The rest of the security work touches first-run setup, plugin installs, parental controls, and the…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+      "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+      "date": "2026-09-08T07:35:50.000Z",
+      "excerpt": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed the Vietnam-linked system…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+      "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+      "date": "2026-09-08T07:00:43.000Z",
+      "excerpt": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties. Grindr, which is the largest LGBTQ+ dating app, was sued in April…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Ransomware negotiation tactics have turned into a business process",
+      "link": "https://www.helpnetsecurity.com/2026/09/08/ransomware-negotiation-tactics-video/",
+      "date": "2026-09-08T05:40:27.000Z",
+      "excerpt": "In this Help Net Security video, Dave Ross, Senior Director of the Intelligence Fusion Team at Intel 471, explains what happens behind the scenes during ransomware negotiations. Ross walks through the tactics groups use once an attack begins, from research on a victim’s revenue…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Product showcase: Doppler secures secrets for humans, pipelines, and AI agents",
+      "link": "https://www.helpnetsecurity.com/2026/09/08/product-showcase-doppler-secrets-management-platform/",
+      "date": "2026-09-08T05:00:56.000Z",
+      "excerpt": "Every engineering team has spent years trying to keep credentials out of source code. Then AI agents moved the problem. Coding agents review code, agents run workflows, and MCP servers broker access to databases, cloud providers, and internal APIs on a developer’s behalf. For…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -322,14 +402,6 @@
       "excerpt": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems. According to Huntress, three unrelated incidents have been found to use…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-      "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-      "date": "2026-09-07T11:20:14.000Z",
-      "excerpt": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. There are no confirmed reports…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Automobile Camouflage to Hide from Flock Cameras",
@@ -378,14 +450,6 @@
       "excerpt": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers use rogue ScreenConnect clients to spread malware",
-      "link": "https://www.helpnetsecurity.com/2026/09/07/connectwise-screenconnect-file-transfer-flaw/",
-      "date": "2026-09-07T09:13:06.000Z",
-      "excerpt": "A file transfer flaw in ScreenConnect Remote Access Support and Access sessions affects both Cloud and On-Premise deployments, ConnectWise confirmed. “A CVE identifier and an official fix will be issued within the week,” the company wrote in its September 3 advisory.…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Multiple Class Action Lawsuits Filed Against IDScan",
@@ -394,60 +458,12 @@
       "excerpt": "Several victims of a recent breach of driver’s license information have sued the company they believe responsible"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "OpenAI just hit a milestone on the road to self-improving AI",
-      "link": "https://www.helpnetsecurity.com/2026/09/07/openai-research-automation-intern/",
-      "date": "2026-09-07T09:05:18.000Z",
-      "excerpt": "OpenAI has announced that it has reached a goal set last fall of having an automated research intern by September 2026. The milestone means a system can carry out well-defined research tasks under human direction, including work that would take a skilled researcher several days.…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-      "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-      "date": "2026-09-07T08:31:12.000Z",
-      "excerpt": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed. N-able has released its fourth hotfix in…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Researcher Publishes CrowdStrike Privilege Escalation Zero Day",
       "link": "https://www.infosecurity-magazine.com/news/crowdstrike-privilege-escalation/",
       "date": "2026-09-07T08:28:00.000Z",
       "excerpt": "A security researcher has posted a zero-day exploit in CrowdStrike which could allow hackers to escalate privileges"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-      "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-      "date": "2026-09-07T07:53:04.000Z",
-      "excerpt": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities. \"The payloads are protected with javascript-obfuscator, using multiple techniques including…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "N-able patches max severity N-central flaw amid ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
-      "date": "2026-09-07T06:17:41.000Z",
-      "excerpt": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "ToolHive: The open-source way to run any MCP server securely",
-      "link": "https://www.helpnetsecurity.com/2026/09/07/toolhive-open-source-mcp-server-security/",
-      "date": "2026-09-07T05:30:26.000Z",
-      "excerpt": "ToolHive is an open-source platform that runs Model Context Protocol servers inside containers. An MCP server is the connector that lets an AI client like Cursor or Claude Code reach an outside tool, and Stacklok ships ToolHive under Apache 2.0, so the runtime, the Kubernetes…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Zero trust AI agents demand a different kind of security",
-      "link": "https://www.helpnetsecurity.com/2026/09/07/chris-webber-teleport-zero-trust-ai-agents/",
-      "date": "2026-09-07T05:00:25.000Z",
-      "excerpt": "In this interview, Chris Webber, VP, Product Marketing at Teleport, explains why zero trust principles need to change for AI agents. He covers how agents act fast, unpredictably, and continuously, and why old ideas like least privilege and point-in-time verification fall short.…"
     },
     {
       "source": "Sophos News",
@@ -642,14 +658,6 @@
       "excerpt": "We cannot forget that AI coding agents are not yet trustworthy : Researchers at a stealth startup in Israel scanned 6,214 live domains belonging to defense contractors, Fortune 500, and Big Tech companies. Of the 8,265 llms.txt and llms-full.txt files they found (many sites…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "OpenAI Pledges $1bn to Bring its AI Cybersecurity Tools to Essential Services",
-      "link": "https://www.infosecurity-magazine.com/news/openai-pledges-ai-tools-essential/",
-      "date": "2026-09-04T10:15:00.000Z",
-      "excerpt": "OpenAI has committed to subsidizing access to Daybreak, helping defenders deploy its AI models in its existing cybersecurity infrastructure"
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "Angry Birds: Toy Ghouls’ new toys",
@@ -664,14 +672,6 @@
       "link": "https://cyberscoop.com/ai-security-operations-human-context-ciso-op-ed/",
       "date": "2026-09-04T10:00:00.000Z",
       "excerpt": "AI is getting better at much of what security teams have long spent time on: analyzing information, identifying patterns, and providing technically sound recommendations quickly. As those capabilities become more routine, they are changing what security practitioners spend their…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "G7 Urges Fast-Track on Quantum-Safe Cybersecurity Rules",
-      "link": "https://www.infosecurity-magazine.com/news/g7-urges-quantum-safe-cyber-rules/",
-      "date": "2026-09-04T09:25:00.000Z",
-      "excerpt": "The G7 has published a call to action, urging governments to launch national strategies dedicated to the post-quantum encryption transition"
     },
     {
       "source": "Daniel Miessler",
