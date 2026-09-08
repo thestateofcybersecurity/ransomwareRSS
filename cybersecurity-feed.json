@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T18:49:26.404Z",
+  "updated": "2026-09-08T21:55:46.523Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,142 @@
     }
   ],
   "items": [
+    {
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/",
+      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
+      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
+      "date": "2026-09-08T21:44:22.000Z",
+      "excerpt": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Patch Tuesday Sets Another Record With 974 CVEs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/patch-tuesday-another-record-974-cves",
+      "date": "2026-09-08T21:26:02.000Z",
+      "excerpt": "Attackers are actively exploiting two of the vulnerabilities and another 58 are more likely to be exploited, according to Microsoft."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "date": "2026-09-08T21:11:46.000Z",
+      "excerpt": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
+      "date": "2026-09-08T21:03:46.000Z",
+      "excerpt": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Scammer behind $245 million crypto heist pleads guilty to RICO charges",
+      "link": "https://therecord.media/scammer-behind-245-million-crypto-heist-pleads-guilty-rico",
+      "date": "2026-09-08T20:52:00.000Z",
+      "excerpt": "Malone Lam was indicted on scamming charges in September 2024 after drawing law enforcement scrutiny for parlaying stolen crypto into lavish Hamptons vacations, cars and private jets."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Feds accuse China of ‘systematic’ distillation of U.S. AI models",
+      "link": "https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/",
+      "date": "2026-09-08T20:47:53.000Z",
+      "excerpt": "A joint advisory alleges Chinese companies are using sophisticated systems to route millions of data requests to US AI models across different accounts and platforms. The post Feds accuse China of ‘systematic’ distillation of U.S. AI models appeared first on CyberScoop ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
+      "date": "2026-09-08T20:36:15.000Z",
+      "excerpt": "Researchers and OpenAI disagree on whether the earlier incident involving DseWiki was a “hack” that the company did not disclose."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
+      "date": "2026-09-08T20:35:14.000Z",
+      "excerpt": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Russian national extradited to US for alleged involvement in bank-account takeover scheme",
+      "link": "https://cyberscoop.com/russian-national-extradited-bank-account-takeover-sergei-filimonov/",
+      "date": "2026-09-08T20:32:03.000Z",
+      "excerpt": "Authorities accuse the 36-year-old and co-conspirators of collecting more than 5,000 victim login credentials to various banks. The post Russian national extradited to US for alleged involvement in bank-account takeover scheme appeared first on CyberScoop ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
+      "date": "2026-09-08T20:24:16.000Z",
+      "excerpt": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilities were discovered will be…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
+      "date": "2026-09-08T20:08:55.000Z",
+      "excerpt": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "CIA’s Michael Ellis says cyber intelligence is changing how the agency operates",
+      "link": "https://cyberscoop.com/cia-cyber-operations-operation-absolute-resolve-michael-ellis-billington-cybersecurity/",
+      "date": "2026-09-08T19:49:14.000Z",
+      "excerpt": "The deputy director cited Operation Absolute Resolve as evidence that cyber teams have become central to CIA missions. The post CIA’s Michael Ellis says cyber intelligence is changing how the agency operates appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "CIA official touts agency’s Cyber Mission Center in capture of Venezuela’s Maduro",
+      "link": "https://therecord.media/cia-cyber-operations-maduro-capture-venezuela",
+      "date": "2026-09-08T19:46:00.000Z",
+      "excerpt": "A \"flawless\" performance by the CIA's Cyber Mission Center contributed to the capture of Venezuelan President Nicolás Maduro in January, agency Deputy Director Michael Ellis says."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Russian suspect in bank account takeovers is extradited to US",
+      "link": "https://therecord.media/russian-cybercrime-bank-extradition",
+      "date": "2026-09-08T19:37:42.000Z",
+      "excerpt": "A Russian web developer who played a role in a multimillion-dollar bank account takeover scheme has been extradited to the U.S. to face an indictment."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
+      "link": "https://isc.sans.edu/diary/rss/33320",
+      "date": "2026-09-08T19:20:30.000Z",
+      "excerpt": "This month, Microsoft released patches for a record-breaking 973 vulnerabilities, including 113 rated critical. It is by far the largest Patch Tuesday to date, well ahead of the previous high of 664 set in July 2026. Two vulnerabilities are listed as exploited in the wild, while…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days",
+      "link": "https://www.securityweek.com/microsoft-patches-record-974-vulnerabilities-including-two-exploited-zero-days/",
+      "date": "2026-09-08T19:20:06.000Z",
+      "excerpt": "The record-breaking September security update fixes two exploited privilege-escalation zero-days and 20 potentially wormable vulnerabilities. The post Microsoft Patches Record 974 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Italian tech collective Autistici/Inventati shuts down after US terrorist designation",
+      "link": "https://therecord.media/autistici-inventati-shuts-down-after-us-terrorist-designation",
+      "date": "2026-09-08T19:12:00.000Z",
+      "excerpt": "On August 26, the State Department labeled A/I an “extremist group” operating infrastructure for “far-left militants across the world” and announced that anyone engaging with the group financially risked exposure to sanctions."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -234,28 +370,12 @@
       "excerpt": "Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-      "date": "2026-09-08T15:22:33.000Z",
-      "excerpt": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta",
       "link": "https://www.securityweek.com/cylake-raises-245-million-ahead-of-cybersecurity-platform-beta/",
       "date": "2026-09-08T15:21:01.000Z",
       "excerpt": "The startup founded by Palo Alto Networks’ Nir Zuk has raised $290 million to build an AI-native security platform for highly regulated organizations that cannot rely on the public cloud. The post Cylake Raises $245 Million Ahead of Cybersecurity Platform Beta appeared first on…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-      "date": "2026-09-08T14:55:20.000Z",
-      "excerpt": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -274,14 +394,6 @@
       "excerpt": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back. Liquid is a Bitcoin sidechain that holds real bitcoin to back a token called L-BTC. The…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
-      "date": "2026-09-08T14:40:32.000Z",
-      "excerpt": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "France Establishes New Government-Focused Cyber Incident Response Unit",
@@ -296,14 +408,6 @@
       "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
       "date": "2026-09-08T14:19:17.000Z",
       "excerpt": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual. In the company's proof of concept, that hidden work read data from…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Where the backlash against Flock Safety is having the biggest impact",
-      "link": "https://therecord.media/flock-safety-backlash-places-with-biggest-impact",
-      "date": "2026-09-08T14:03:00.000Z",
-      "excerpt": "Two populous states and two large cities are among the U.S. jurisdictions where leaders have taken direct action to address criticisms of automated license plate readers (ALPRs)."
     },
     {
       "source": "The Hacker News",
@@ -354,28 +458,12 @@
       "excerpt": "Grindr settled UK claims over alleged unlawful processing of sensitive user data"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "French prosecutors confirm arrest of suspected ZeroBytes hacker behind tax cyberattack",
-      "link": "https://therecord.media/france-hacker-arrest-zerobytes",
-      "date": "2026-09-08T12:30:00.000Z",
-      "excerpt": "French authorities detained an 18-year-old suspected member of the ZeroBytes hacking group over cyberattacks against the country's tax authority and other organizations."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "AI Coding Tools Now a Prime Target for Threat Actors, Google Warns",
       "link": "https://www.infosecurity-magazine.com/news/ai-coding-tools-threat-actors/",
       "date": "2026-09-08T12:02:00.000Z",
       "excerpt": "Google warned that the rapid integration of AI-assisted coding tools has significantly expanded software supply chain risks"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Cyberattack encrypts systems at Bavarian municipal utility",
-      "link": "https://therecord.media/cyberattack-bavaria-germany-utility",
-      "date": "2026-09-08T12:00:00.000Z",
-      "excerpt": "A municipal utility in Bavaria is recovering from a cyberattack that encrypted its internal IT systems but did not affect water and electricity services."
     },
     {
       "source": "The Hacker News",
@@ -432,14 +520,6 @@
       "link": "https://www.infosecurity-magazine.com/news/thost9-android-rat-packed-loader/",
       "date": "2026-09-08T11:15:00.000Z",
       "excerpt": "THost9 hides its payload and uses ADB to spread across exposed Android devices and containers"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Mathspace Data Breach Exposes Over 1 Million People",
-      "link": "https://www.securityweek.com/mathspace-data-breach-exposes-over-1-million-people/",
-      "date": "2026-09-08T10:47:36.000Z",
-      "excerpt": "Hackers stole the information of students, teachers, staff, and parents/guardians from a self-hosted Metabase instance. The post Mathspace Data Breach Exposes Over 1 Million People appeared first on SecurityWeek ."
     },
     {
       "source": "Schneier on Security",
@@ -560,14 +640,6 @@
       "link": "https://www.infosecurity-magazine.com/news/nable-hotfix-critical-rce/",
       "date": "2026-09-07T12:45:00.000Z",
       "excerpt": "The vulnerability, CVE-2026-86218, was allocated a maximum-severity rating by the software provider itself"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Berlin investigates new data leak after hackers publish stolen login credentials",
-      "link": "https://therecord.media/germany-berlin-second-data-breach-city-agencies",
-      "date": "2026-09-07T11:50:00.000Z",
-      "excerpt": "Another trove of data from Berlin's government has appeared online, authorities said. Germany's information security agency separately warned about the Rhysida cybercrime group."
     },
     {
       "source": "Schneier on Security",
@@ -778,44 +850,12 @@
       "excerpt": "Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What We Missed: Did ShinyHunters 'Breach' ReliaQuest?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/what-we-missed-did-shinyhunters-breach-reliaquest",
-      "date": "2026-09-03T19:42:39.000Z",
-      "excerpt": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the latest antics of ShinyHunters to new research about the prevalence (or lack thereof) of AI-generated malware."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "The G7 tells industry to hurry up and prep for post-quantum encryption",
-      "link": "https://cyberscoop.com/g7-quantum-computing-encryption-warning/",
-      "date": "2026-09-03T19:29:30.000Z",
-      "excerpt": "The nations warn that governments and industry can no longer treat quantum codebreaking as a distant or theoretical possibility. The post The G7 tells industry to hurry up and prep for post-quantum encryption appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What the AI Warning Letter Completely Missed",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-warning-letter-missed-people",
-      "date": "2026-09-03T17:23:14.000Z",
-      "excerpt": "The recent AI warning letter is right about the \"window,\" but it omits naming who is coming through it or, critically, who will close it."
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
       "date": "2026-09-03T16:00:00.000Z",
       "excerpt": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI 'Machine Speed' Cuts 2-Week Attack Down to 10 Hours",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-machine-speed-2-week-attack-10-hours",
-      "date": "2026-09-03T14:38:49.000Z",
-      "excerpt": "The incident demonstrates how frontier AI agents can dramatically compress an attack timeline and coordinate a large-scale breach, according to researchers."
     },
     {
       "source": "Schneier on Security",
@@ -866,52 +906,12 @@
       "excerpt": "Microsoft Threat Intelligence observed a human-operated intrusion campaign that abuses Microsoft Teams external collaboration to impersonate IT support, gain remote access, and deploy a Node.js-based implant. Learn how attackers move from social engineering to lateral movement…"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Jail time for Maine child in 764 marks turning point in federal law enforcement",
-      "link": "https://cyberscoop.com/maine-teenager-first-underage-detained-764/",
-      "date": "2026-09-02T21:03:43.000Z",
-      "excerpt": "Researcher tracking 764 said the first-of-its-kind case has a wider impact that will cause ripples across the landscape of violent extremist crime. The post Jail time for Maine child in 764 marks turning point in federal law enforcement appeared first on CyberScoop ."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "I rented a car, and within hours, my driver's license was for sale",
       "link": "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
       "date": "2026-09-02T20:32:02.000Z",
       "excerpt": "The FBI is reportedly investigating a massive data breach that is unfolding in real time."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "FCC proposes public scorecard to rate telecoms on anti-robocall efforts",
-      "link": "https://cyberscoop.com/the-fcc-wants-consumers-to-rate-their-telecoms-anti-robocall-protections/",
-      "date": "2026-09-02T17:57:42.000Z",
-      "excerpt": "The agency also booted 14 phone service providers from U.S. networks for violating existing robocalling regulations. The post FCC proposes public scorecard to rate telecoms on anti-robocall efforts appeared first on CyberScoop ."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Revolut scam wave steals £180,000 from Jersey residents in just four weeks",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/revolut-scam-jersey",
-      "date": "2026-09-02T14:48:00.000Z",
-      "excerpt": "If you live in Jersey and bank with Revolut, you should be on your guard against scam phone calls. Because local police on the largest of the Channel Islands have warned that over a single four-week period, an astonishing 75% of all scam crime reports they have received have…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
-      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
-      "date": "2026-09-02T11:00:43.000Z",
-      "excerpt": "What can we learn from a BGP hijacking that poisoned production software? Plenty."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation",
-      "link": "https://unit42.paloaltonetworks.com/ai-assisted-cyber-attack-inside-a-unit-42-investigation/",
-      "date": "2026-09-02T10:00:46.000Z",
-      "excerpt": "Using autonomous AI agents, an attacker breached an enterprise network in a matter of hours. Understand how to address and defend against agentic attacks. The post An AI-Assisted Cyber Attack: Inside a Unit 42 Investigation appeared first on Unit 42 ."
     }
   ]
 }
