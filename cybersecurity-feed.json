@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T18:43:37.094Z",
+  "updated": "2026-09-09T21:46:11.390Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,102 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
+      "date": "2026-09-09T21:40:44.000Z",
+      "excerpt": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
+      "date": "2026-09-09T21:30:36.000Z",
+      "excerpt": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
+      "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
+      "date": "2026-09-09T21:25:00.000Z",
+      "excerpt": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Andersen says."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
+      "link": "https://www.darkreading.com/application-security/mythos-vulnerability-firehose-hits-human-bottleneck",
+      "date": "2026-09-09T21:19:55.000Z",
+      "excerpt": "An analysis of Project Glasswing findings shows only a fraction have reached disclosure, and an even smaller number have been fixed."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Chinese espionage groups swarm to exploit triple-link chain of zero-days",
+      "link": "https://cyberscoop.com/china-espionage-groups-exploit-chain-zero-days/",
+      "date": "2026-09-09T21:17:32.000Z",
+      "excerpt": "Multiple China-aligned threat groups exploited the defects quickly to target various organizations. Proofpoint said the activity is ongoing and expects it to widen. The post Chinese espionage groups swarm to exploit triple-link chain of zero-days appeared first on CyberScoop ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
+      "date": "2026-09-09T21:02:14.000Z",
+      "excerpt": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "4 groups caught using the same Chrome and Windows exploit kit",
+      "link": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+      "date": "2026-09-09T20:55:02.000Z",
+      "excerpt": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
+      "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
+      "date": "2026-09-09T19:54:00.000Z",
+      "excerpt": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
+      "link": "https://www.darkreading.com/application-security/us-government-chinese-ai-firms-distilling-frontier-models",
+      "date": "2026-09-09T19:47:50.000Z",
+      "excerpt": "US agencies claim Chinese companies covertly extracted billions of tokens from OpenAI, Anthropic, Google Gemini, and SpaceX's Grok to reduce development costs."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "FTC rescinds policy requiring health apps to notify customers after a breach",
+      "link": "https://cyberscoop.com/ftc-rescinds-health-app-data-breach-policy/",
+      "date": "2026-09-09T19:18:32.000Z",
+      "excerpt": "The policy, passed under the Biden administration, forced health apps to disclose when users’ personal health records were exposed in a breach or shared without authorization. The post FTC rescinds policy requiring health apps to notify customers after a breach appeared first on…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Lawmakers call on Treasury to sanction hackers-for-hire",
+      "link": "https://cyberscoop.com/us-lawmakers-treasury-sanctions-india-hack-for-hire/",
+      "date": "2026-09-09T18:43:58.000Z",
+      "excerpt": "The groups have allegedly targeted American citizens and companies, including the wife of GOP Senate candidate Mike Rogers, a former representative running in a Michigan swing race. The post Lawmakers call on Treasury to sanction hackers-for-hire appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
+      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
+      "date": "2026-09-09T18:26:05.000Z",
+      "excerpt": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and…"
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Grindr settles privacy lawsuit tied to disclosure of users’ HIV statuses for $35 million",
@@ -128,6 +224,14 @@
       "link": "https://isc.sans.edu/diary/rss/33324",
       "date": "2026-09-09T17:46:24.000Z",
       "excerpt": "About a week ago, Proxmox published an advisory revealing a vulnerability in older versions of Proxmox VE, its flagship Virtual Environment product. The vulnerability only affects version 7, which has not been supported for a couple of years now."
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Passkey-themed social engineering leads to identity and cloud compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/passkey-themed-social-engineering-leads-identity-cloud-compromise/",
+      "date": "2026-09-09T17:41:18.000Z",
+      "excerpt": "Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and…"
     },
     {
       "source": "SecurityWeek",
@@ -162,6 +266,14 @@
       "excerpt": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]"
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
+      "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
+      "date": "2026-09-09T16:34:05.000Z",
+      "excerpt": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome. The first in-the-wild use of BlueMoon has been attributed…"
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Android’s September 2026 Updates Patch 180 Vulnerabilities",
@@ -192,14 +304,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html",
       "date": "2026-09-09T16:05:00.000Z",
       "excerpt": "A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "FBI puts its cyber strategy on paper",
-      "link": "https://therecord.media/fbi-releases-first-public-cybersecurity-strategy",
-      "date": "2026-09-09T15:37:00.000Z",
-      "excerpt": "The first public cybersecurity strategy issued by the FBI \"directs our teams, our field offices, our global presence\" to align their efforts on countering malicious hackers and cybercrime groups, senior official Brett Leatherman says."
     },
     {
       "source": "BleepingComputer",
@@ -312,14 +416,6 @@
       "link": "https://www.securityweek.com/us-agencies-warn-china-is-systematically-extracting-frontier-ai-capabilities/",
       "date": "2026-09-09T12:32:13.000Z",
       "excerpt": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Ukraine prosecutor general steps down amid scam call center bribery probe",
-      "link": "https://therecord.media/ukraine-prosecutor-general-scam-center",
-      "date": "2026-09-09T12:15:00.000Z",
-      "excerpt": "Ukraine’s prosecutor general, Ruslan Kravchenko, resigned this week over allegations that officials in his office took bribes to shield scam call centers from law enforcement."
     },
     {
       "source": "Help Net Security",
@@ -474,14 +570,6 @@
       "excerpt": "CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "date": "2026-09-09T08:19:32.000Z",
-      "excerpt": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user.…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "SAP Patches Maximum Severity “Overpass” Flaw",
@@ -490,44 +578,12 @@
       "excerpt": "Onapsis urges SAP customers to patch “Overpass” vulnerability, which has a CVSS score of 10.0"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "date": "2026-09-09T07:36:49.000Z",
-      "excerpt": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-      "date": "2026-09-09T07:30:15.000Z",
-      "excerpt": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-      "date": "2026-09-09T06:25:48.000Z",
-      "excerpt": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
       "link": "https://isc.sans.edu/diary/rss/33322",
       "date": "2026-09-09T02:00:02.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-      "date": "2026-09-09T01:16:27.000Z",
-      "excerpt": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]"
     },
     {
       "source": "CyberScoop",
@@ -594,14 +650,6 @@
       "excerpt": "Authorities accuse the 36-year-old and co-conspirators of collecting more than 5,000 victim login credentials to various banks. The post Russian national extradited to US for alleged involvement in bank-account takeover scheme appeared first on CyberScoop ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "CIA’s Michael Ellis says cyber intelligence is changing how the agency operates",
-      "link": "https://cyberscoop.com/cia-cyber-operations-operation-absolute-resolve-michael-ellis-billington-cybersecurity/",
-      "date": "2026-09-08T19:49:14.000Z",
-      "excerpt": "The deputy director cited Operation Absolute Resolve as evidence that cyber teams have become central to CIA missions. The post CIA’s Michael Ellis says cyber intelligence is changing how the agency operates appeared first on CyberScoop ."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
@@ -616,14 +664,6 @@
       "link": "https://danielmiessler.com/blog/the-socrates-agent?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-08T18:45:00.000Z",
       "excerpt": "A charcoal sketch of four slumped people being fed sheets of paper by a tall purple machine, while across the room one person writes at a wooden desk and a small purple Socrates leans in with open, empty hands/images/the-socrates-agent.webp/images/the-socrates-agent.webp One of…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Why federal cyber defense demands an offense-driven mindset",
-      "link": "https://cyberscoop.com/offense-driven-federal-cyber-defense/",
-      "date": "2026-09-08T18:30:00.000Z",
-      "excerpt": "Static checklists and annual penetration tests leave agencies with dangerous blind spots. True resilience requires moving from reactive attestation to continuous, automated validation. The post Why federal cyber defense demands an offense-driven mindset appeared first on…"
     },
     {
       "source": "Dark Reading",
@@ -680,14 +720,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
       "date": "2026-09-08T10:20:04.000Z",
       "excerpt": "Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "In most cities, nobody owns the whole network",
-      "link": "https://cyberscoop.com/water-utility-cybersecurity-network-segmentation-op-ed/",
-      "date": "2026-09-08T10:00:00.000Z",
-      "excerpt": "July’s intrusions reached water controllers that sat on a cellular link no city network scan would find. Naming an owner and paying for the fix are decisions a utility can make this fiscal year, out of money it already applies for. The post In most cities, nobody owns the whole…"
     },
     {
       "source": "Google Project Zero",
@@ -834,22 +866,6 @@
       "excerpt": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact. An off-the-shelf VM is not…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Companies Have 6 Months to Prepare for Automated Attacks",
-      "link": "https://www.darkreading.com/cybersecurity-operations/companies-six-months-prepare-automated-attacks",
-      "date": "2026-09-04T15:57:31.000Z",
-      "excerpt": "Frontier AI models have already demonstrated they can autonomously — and in some cases, inadvertently — conduct end-to-end compromises, but the situation will become more urgent very soon."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Is Ending the Era of Hidden Vulnerabilities — Are Vendors Ready?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-ending-era-hidden-vulnerabilities-are-vendors-ready",
-      "date": "2026-09-04T13:00:00.000Z",
-      "excerpt": "A tidal wave of bug reports is overwhelming software vendors, exposing secure-by-design failures and creating disclosure bottlenecks."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Security Vulnerability in a Voting System",
@@ -896,22 +912,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
       "date": "2026-09-03T16:00:00.000Z",
       "excerpt": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog ."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
-      "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
-      "date": "2026-09-03T10:00:58.000Z",
-      "excerpt": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America appeared first on Unit 42 ."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Honeypot-Omaha and batch.py [Guest Diary], (Wed, Sep 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33306",
-      "date": "2026-09-03T02:02:56.000Z",
-      "excerpt": "[This is a Guest Diary by Frank Igbokwe, an ISC intern as part of the SANS.edu BACS program]"
     }
   ]
 }
