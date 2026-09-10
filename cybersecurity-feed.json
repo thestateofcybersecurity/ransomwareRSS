@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T04:57:59.813Z",
+  "updated": "2026-09-10T09:52:09.827Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,118 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
+      "date": "2026-09-10T09:10:20.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Anthropic Reveals Yet Another Cybersecurity Incident",
+      "link": "https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/",
+      "date": "2026-09-10T08:45:00.000Z",
+      "excerpt": "Anthropic has found a fourth case of its model accessing third-party systems without authorization"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Apple is building photo verification for the people who need it most",
+      "link": "https://www.helpnetsecurity.com/2026/09/10/apple-reference-image-iphone-18-pro/",
+      "date": "2026-09-10T08:18:59.000Z",
+      "excerpt": "Apple has introduced Apple Reference Image, an opt-in feature designed to verify the authenticity of photos taken with iPhone 18 Pro models. Apple Reference Image provides users with an unalterable reference photo, visually confirming what the sensor saw at the moment of…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft fixes bug that wiped Windows desktop settings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
+      "date": "2026-09-10T08:08:16.000Z",
+      "excerpt": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "OFAC Sanctions Chinese Scam Platform Xinbi Guarantee",
+      "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
+      "date": "2026-09-10T08:00:00.000Z",
+      "excerpt": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+      "date": "2026-09-10T07:12:55.000Z",
+      "excerpt": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender",
+      "link": "https://www.securityweek.com/new-shieldcrash-zero-day-exploit-targets-microsoft-defender/",
+      "date": "2026-09-10T07:09:36.000Z",
+      "excerpt": "The exploit provides full System privileges on Windows machines running the September 2026 patches. The post New ‘ShieldCrash’ Zero-Day Exploit Targets Microsoft Defender appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+      "date": "2026-09-10T07:04:01.000Z",
+      "excerpt": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents. The AI company…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "EU Cyber Resilience Act to Enforce New Reporting Requirements",
+      "link": "https://www.darkreading.com/cybersecurity-operations/eu-cyber-resilience-act-reporting-requirements",
+      "date": "2026-09-10T07:00:00.000Z",
+      "excerpt": "Starting Friday, businesses operating in the EU will have just 24 hours to notify the government any time they discover serious product security incidents."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Trezor warns users of email provider breach, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-users-of-email-provider-breach-phishing-attacks/",
+      "date": "2026-09-10T06:56:33.000Z",
+      "excerpt": "Trezor warned customers on Wednesday that threat actors who breached its third-party email provider are targeting them in phishing attacks. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks",
+      "link": "https://www.securityweek.com/fortinet-code-execution-flaw-exploited-in-pivotc2-rat-attacks/",
+      "date": "2026-09-10T06:33:36.000Z",
+      "excerpt": "The high-severity, unauthenticated vulnerability tracked as CVE-2025-25249 was patched in January 2026. The post Fortinet Code Execution Flaw Exploited in PivotC2 RAT Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "The Slow Path to AI Takeover",
+      "link": "https://danielmiessler.com/blog/slow-path-to-ai-takeover?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-10T06:15:00.000Z",
+      "excerpt": "A charcoal sketch of a faceless purple robot working the levers of a dense industrial machine, beside an empty office chair with a worker's cap left hanging on it/images/slow-path-to-ai-takeover.webp/images/slow-path-to-ai-takeover.webp One way to think about the existential…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Product showcase: GitGuardian Honeytoken catches credential theft as it happens",
+      "link": "https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/",
+      "date": "2026-09-10T05:30:24.000Z",
+      "excerpt": "Credential harvesting on developer machines has widened. Earlier infostealers worked from a short list of known targets, mostly browser stores and a few cloud credential paths. The families active now cast a much wider net. Shai-Hulud, for instance, ran a secret scanner across…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Cybercriminals are building phishing pages that exist only inside victims’ browsers",
+      "link": "https://www.helpnetsecurity.com/2026/09/10/browser-based-phishing-blob-urls-microsoft-oauth/",
+      "date": "2026-09-10T05:00:14.000Z",
+      "excerpt": "A phishing campaign routes victims through genuine Microsoft OAuth and Teams infrastructure before showing them a fake login page built entirely inside their own browser, according to researchers at Barracuda. “Instead of delivering a phishing page from a web server, the…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -410,14 +522,6 @@
       "excerpt": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. Information stealers like Lumma Stealer or Vidar are equipped…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
-      "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
-      "date": "2026-09-09T14:01:11.000Z",
-      "excerpt": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing social engineering attacks…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Akeyless adds real-time enforcement for AI agents in production",
@@ -432,14 +536,6 @@
       "link": "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/",
       "date": "2026-09-09T13:45:00.000Z",
       "excerpt": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Orchid Security targets AI agent risk with drift detection and kill switches",
-      "link": "https://www.helpnetsecurity.com/2026/09/09/orchid-security-ai-agents-application-level-kill-switches/",
-      "date": "2026-09-09T13:29:17.000Z",
-      "excerpt": "Orchid Security has announced identity drift detection and application-level kill switches for AI agents. They can complete authorized objectives beyond their initial privilege level within seconds. AI agents do not need to “break” security controls or workflow guardrails. AI…"
     },
     {
       "source": "CyberScoop",
@@ -466,22 +562,6 @@
       "excerpt": "Distillation is an ‘attack’ against an AI model designed to capture outputs, understand reasoning processes, and subsequently train a different model. The post US Agencies Warn China Is Systematically Extracting Frontier AI Capabilities appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "$245 million in stolen crypto funded racketeering crew’s lavish lifestyle",
-      "link": "https://www.helpnetsecurity.com/2026/09/09/singapore-man-pleads-guilty-245-million-crypto-theft/",
-      "date": "2026-09-09T12:11:36.000Z",
-      "excerpt": "A 22-year-old man built his fortune by breaking into strangers’ digital wallets, then spent it on nightclub tabs, private jets, and a fleet of cars worth millions. Malone Lam, a Singapore citizen, pleaded guilty this week in a Washington D.C. federal court to running a…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy",
-      "link": "https://www.securityweek.com/meta-launches-personal-ai-agent-muse-emphasizes-safety-and-privacy/",
-      "date": "2026-09-09T12:00:00.000Z",
-      "excerpt": "Muse runs on a dedicated, secure virtual machine that houses both the agent and the user’s data. The post Meta Launches Personal AI Agent, Muse, Emphasizes Safety and Privacy appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
@@ -506,36 +586,12 @@
       "excerpt": "Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It’s good at things that involve lots of searching and testing."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Hackers deploy Linux rootkit on F5 BIG-IP APM devices, hiding web shell in memory",
-      "link": "https://www.helpnetsecurity.com/2026/09/09/f5-big-ip-apm-rootkit-hides-web-shell-in-memory/",
-      "date": "2026-09-09T11:05:32.000Z",
-      "excerpt": "A rootkit found on hacked F5 BIG-IP APM devices skips the usual step of writing a web shell to disk, hiding it in memory instead, according to Sophos. F5 BIG-IP APM provides access policy enforcement to secure access to apps, APIs, and data. It’s primarily used by enterprises,…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-schneider-electric-siemens-fix-critical-flaws/",
-      "date": "2026-09-09T10:49:30.000Z",
-      "excerpt": "AVEVA and Rockwell Automation also released patches for vulnerabilities affecting industrial control system products. The post ICS Patch Tuesday: Schneider Electric, Siemens Fix Critical Flaws appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
       "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
       "date": "2026-09-09T10:43:04.000Z",
       "excerpt": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet. Alby Hub is a self-hosted Lightning wallet, meaning the owner runs…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-      "date": "2026-09-09T10:11:29.000Z",
-      "excerpt": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]"
     },
     {
       "source": "Unit 42",
@@ -552,30 +608,6 @@
       "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record/",
       "date": "2026-09-09T09:40:00.000Z",
       "excerpt": "The update contained 119 critical flaws and two zero days, with security teams needing to prioritize updates"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-      "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-      "date": "2026-09-09T09:32:26.000Z",
-      "excerpt": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attacks. The activity has been…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
-      "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
-      "date": "2026-09-09T09:11:03.000Z",
-      "excerpt": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-      "date": "2026-09-09T08:44:22.000Z",
-      "excerpt": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]"
     },
     {
       "source": "Graham Cluley",
@@ -704,30 +736,6 @@
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones",
       "date": "2026-09-08T15:33:07.000Z",
       "excerpt": "Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "France Establishes New Government-Focused Cyber Incident Response Unit",
-      "link": "https://www.infosecurity-magazine.com/news/france-new-government-cyber/",
-      "date": "2026-09-08T14:30:00.000Z",
-      "excerpt": "After a major cyber-attack targeted France's national tax authority, the Prime Minister called for the establishment of a new dedicated cyber incident response capability"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Grindr Settles UK Data Privacy Claims for £26m",
-      "link": "https://www.infosecurity-magazine.com/news/grindr-settles-uk-data-privacy/",
-      "date": "2026-09-08T13:00:00.000Z",
-      "excerpt": "Grindr settled UK claims over alleged unlawful processing of sensitive user data"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Cybercriminals Hack Brazilian Government Servers to Host Phishing Sites",
-      "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-hack-brazilian-government-servers-host-phishing-sites",
-      "date": "2026-09-08T12:00:00.000Z",
-      "excerpt": "A Chinese-language group is compromising government and education sites to create a reverse-proxy network with gambling-themed sites."
     },
     {
       "source": "Schneier on Security",
@@ -904,14 +912,6 @@
       "link": "https://danielmiessler.com/blog/peak-human-readership?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-04T03:47:00.000Z",
       "excerpt": "A lone writer in warm sienna works at a desk on top of a purple machine that crushes his pages into tiny slips for a crowd below staring at their phones, while one person in sienna stands apart reading a full…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Friday, September 4th, 2026 https://isc.sans.edu/podcastdetail/10082, (Fri, Sep 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33310",
-      "date": "2026-09-04T02:00:02.000Z",
-      "excerpt": ""
     }
   ]
 }
