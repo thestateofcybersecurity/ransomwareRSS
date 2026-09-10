@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 09 Sep 2026 21:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:19:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Smashing Security podcast #484: How websites are tracking you with silence</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-484/</link>
+      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-484/</guid>
+      <pubDate>Wed, 09 Sep 2026 23:05:54 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>When a chap called Matt noticed his Bluetooth headphones wouldn&#39;t switch to his phone, he was surprised to realise the reason was a single AliExpress webpage sitting open in his browser - playing nothing at all, at zero volume. And yet somehow his hardware could hear it. Audio… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>OpenSSL’s new alpha build speeds up post-quantum crypto</title>
+      <link>https://www.helpnetsecurity.com/2026/09/10/openssl-4-1-0-alpha1-released/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/10/openssl-4-1-0-alpha1-released/</guid>
+      <pubDate>Wed, 09 Sep 2026 22:15:28 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The OpenSSL project released the first alpha of OpenSSL 4.1.0, giving developers an early look at a version built for encrypted communication over unreliable connections and faster post-quantum cryptography. This marks the opening test build for a version still months from… (via Help Net Security)</description>
+    </item>
     <item>
       <title>Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/</link>
@@ -22,6 +38,14 @@
       <pubDate>Wed, 09 Sep 2026 21:30:36 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Threat matrix: Mapping threats across cloud web applications</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/</guid>
+      <pubDate>Wed, 09 Sep 2026 21:30:00 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&amp;CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. The post Threat matrix: Mapping threats across cloud web… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>CISA head says agency must change quickly to prevent the &#39;worst that could happen&#39;</title>
@@ -440,14 +464,6 @@
       <description>Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild. The medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been described as an out-of-bounds… (via The Hacker News)</description>
     </item>
     <item>
-      <title>September 2026 Patch Tuesday: Record patch count, 2 zero-days, and a SigRed successor</title>
-      <link>https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/09/september-2026-patch-tuesday-zero-days-sigred-successor/</guid>
-      <pubDate>Wed, 09 Sep 2026 09:04:18 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>September 2026 Patch Tuesday is here, with Microsoft delivering another record-breaking number of patches, including those for two vulnerabilities that have been exploited as zero-days. Another “new normal” is the anonymous security researcher Nightmare Eclipse publishing a… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Man gets 15 years for extorting women with AI-generated porn videos</title>
       <link>https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/</guid>
@@ -790,22 +806,6 @@
       <pubDate>Fri, 04 Sep 2026 02:00:02 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Confused about which VPN is right, US senator asks the NSA for guidance</title>
-      <link>https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/</guid>
-      <pubDate>Thu, 03 Sep 2026 19:52:06 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Open source, commercial, single-hop, multi-hop, mixnet? The array of options is dizzying. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>ASCII smuggling crosses over from AI prompt injection to phishing evasion</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/</guid>
-      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
     </item>
   </channel>
 </rss>
