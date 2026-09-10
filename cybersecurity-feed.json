@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T18:34:09.068Z",
+  "updated": "2026-09-10T21:42:13.346Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,108 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New Android malware encrypts files, steals data, and harasses victims",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
+      "date": "2026-09-10T21:40:43.000Z",
+      "excerpt": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Treasury urges banks to file cyber scam reports, noting nearly $13 billion in losses since 2023",
+      "link": "https://therecord.media/treasury-urges-banks-report-cyber-scams",
+      "date": "2026-09-10T21:15:00.000Z",
+      "excerpt": "As the cyber scam industry expands globally, the U.S. government wants banks to share more information about what's happening to their customers."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Voice Callers Exploit BYOD to Reach Microsoft 365, Corporate Data",
+      "link": "https://www.darkreading.com/threat-intelligence/voice-callers-exploit-byod-microsoft-365-corporate-data",
+      "date": "2026-09-10T20:36:03.000Z",
+      "excerpt": "Threat actors are leveraging Microsoft's Graph API to identify lucrative targets, then passing their access to extortion groups like ShinyHunters."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "September Windows Server updates break Remote Desktop Services",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+      "date": "2026-09-10T20:34:37.000Z",
+      "excerpt": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore functionality. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Conti ransomware crew member sentenced to four years in prison",
+      "link": "https://cyberscoop.com/conti-ransomware-developer-sentenced/",
+      "date": "2026-09-10T20:31:35.000Z",
+      "excerpt": "Oleksii Lytvynenko joined the notorious group in 2021 and was directly involved in attacks on at least 12 companies. The post Conti ransomware crew member sentenced to four years in prison appeared first on CyberScoop ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
+      "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
+      "date": "2026-09-10T20:30:44.000Z",
+      "excerpt": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board. The post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first on SecurityWeek ."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Hawley probes OpenAI over Hugging Face breach",
+      "link": "https://cyberscoop.com/openai-hugging-face-probe-senate-hawley/",
+      "date": "2026-09-10T19:54:27.000Z",
+      "excerpt": "The Republican lawmaker called OpenAI’s leadership decisions “reckless,” and used recent warnings about the existential risk of AI to bolster his inquiry. The post Hawley probes OpenAI over Hugging Face breach appeared first on CyberScoop ."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "AI lets small actors run state-level hacking campaigns, Anthropic report finds",
+      "link": "https://cyberscoop.com/anthropic-report-ai-enabled-cyber-attacks/",
+      "date": "2026-09-10T19:45:29.000Z",
+      "excerpt": "The report details a Russian-aligned espionage campaign against more than 20 organizations, an exploit foundry run by Chinese undergraduates and ShinyHunters-affiliated breaches, among other disrupted operations. The post AI lets small actors run state-level hacking campaigns,…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
+      "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
+      "date": "2026-09-10T19:15:07.000Z",
+      "excerpt": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
+      "date": "2026-09-10T19:07:33.000Z",
+      "excerpt": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "IDScan confirms breach after hackers offer 153 million driver’s license scans for sale",
+      "link": "https://therecord.media/idscan-data-breach-notice-drivers-licenses",
+      "date": "2026-09-10T18:55:00.000Z",
+      "excerpt": "A notice dated September 4 but not widely shared shows that IDScan acknowledged a data breach but did not specify how many people were affected."
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Cyber Command turns to veteran of intelligence agencies for top AI role",
       "link": "https://therecord.media/cyber-command-ai-leader-ronzelle-green",
       "date": "2026-09-10T18:25:00.000Z",
       "excerpt": "Ronzelle Green, most recently a senior official at the National Geospatial-Intelligence Agency, will be U.S. Cyber Command's chief AI officer."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
+      "date": "2026-09-10T17:47:38.000Z",
+      "excerpt": "A lot of this week’s security news has the same awkward answer to one question: “Why was that allowed to work?” An extension asks for access and takes too much. A trusted service becomes part of a phishing chain. An old bug still gets results. An exposed system stays exposed. A…"
     },
     {
       "source": "Microsoft Security Blog",
@@ -216,14 +312,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
       "date": "2026-09-10T14:11:34.000Z",
       "excerpt": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "date": "2026-09-10T14:00:10.000Z",
-      "excerpt": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others were blocked. [...]"
     },
     {
       "source": "Infosecurity Magazine",
@@ -362,22 +450,6 @@
       "excerpt": "State-sponsored and financially-motivated attackers are actively exploiting CVE-2026-20079, a critical authentication bypass vulnerability in Cisco Secure Firewall Management Center (FMC), which is used for centrally managing multiple Cisco Secure Firewall devices across a…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "4.1 Million Impacted by AdaptHealth Data Breach",
-      "link": "https://www.securityweek.com/4-1-million-impacted-by-adapthealth-data-breach/",
-      "date": "2026-09-10T11:20:43.000Z",
-      "excerpt": "In June 2026, hackers stole personal, health, and insurance information from AdaptHealth’s systems. The post 4.1 Million Impacted by AdaptHealth Data Breach appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "date": "2026-09-10T11:14:28.000Z",
-      "excerpt": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "AIs Compress Exploit Timeline",
@@ -434,14 +506,6 @@
       "excerpt": "Grand Theft Auto VI (GTA 6) is still three months from release, but cybercriminals are not waiting for the launch date. Security firm Huntress found malware disguised as a leaked copy of the game, aimed at fans hoping to get their hands on it early. The sample Huntress pulled…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "CISA: WatchGuard RCE flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/",
-      "date": "2026-09-10T09:10:20.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has confirmed that ransomware gangs are also exploiting a critical WatchGuard Firebox firewall vulnerability, which it flagged as actively exploited in December. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Anthropic Reveals Yet Another Cybersecurity Incident",
@@ -456,14 +520,6 @@
       "link": "https://www.helpnetsecurity.com/2026/09/10/apple-reference-image-iphone-18-pro/",
       "date": "2026-09-10T08:18:59.000Z",
       "excerpt": "Apple has introduced Apple Reference Image, an opt-in feature designed to verify the authenticity of photos taken with iPhone 18 Pro models. Apple Reference Image provides users with an unalterable reference photo, visually confirming what the sensor saw at the moment of…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft fixes bug that wiped Windows desktop settings",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-wiped-windows-desktop-settings/",
-      "date": "2026-09-10T08:08:16.000Z",
-      "excerpt": "Microsoft says the September 2026 Patch Tuesday updates fix a known issue causing desktop settings to be lost or reset on some Windows devices. [...]"
     },
     {
       "source": "Infosecurity Magazine",
@@ -500,10 +556,10 @@
     {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
-      "title": "The Slow Path to AI Takeover",
+      "title": "The Boring Way to Get to AI Taking Over Everything",
       "link": "https://danielmiessler.com/blog/slow-path-to-ai-takeover?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-10T06:15:00.000Z",
-      "excerpt": "A charcoal sketch of a faceless purple robot working the levers of a dense industrial machine, beside an empty office chair with a worker's cap left hanging on it/images/slow-path-to-ai-takeover.webp/images/slow-path-to-ai-takeover.webp One way to think about the existential…"
+      "excerpt": "A charcoal sketch of a faceless purple robot working the levers of a dense industrial machine, beside an empty office chair with a worker's cap left hanging on it/images/slow-path-to-ai-takeover.webp/images/slow-path-to-ai-takeover.webp There's a lot of conversation about how AI…"
     },
     {
       "source": "Help Net Security",
@@ -530,14 +586,6 @@
       "excerpt": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. The post Threat matrix: Mapping threats across cloud web…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "CISA head says agency must change quickly to prevent the 'worst that could happen'",
-      "link": "https://therecord.media/cisa-hiring-nick-andersen-warning",
-      "date": "2026-09-09T21:25:00.000Z",
-      "excerpt": "CISA's cybersecurity, infrastructure security and emergency communications divisions are among the priorities as the agency fills vacancies created at the beginning of the Trump administration, acting director Nick Andersen says."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
@@ -562,14 +610,6 @@
       "excerpt": "A patch gap and the hastened pace of AI-based vulnerability discovery are likely contributors."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "US disrupts Xinbi Guarantee marketplace fueling the cyber scam economy",
-      "link": "https://therecord.media/us-disrupts-xinbi-guarantee-marketplace-cybercrime",
-      "date": "2026-09-09T19:54:00.000Z",
-      "excerpt": "The U.S. government also carried out a seizure of $52.8 million from 52 wallets connected to the platform."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "US Government Accuses Chinese AI Firms of Distilling Frontier Models",
@@ -592,14 +632,6 @@
       "link": "https://cyberscoop.com/us-lawmakers-treasury-sanctions-india-hack-for-hire/",
       "date": "2026-09-09T18:43:58.000Z",
       "excerpt": "The groups have allegedly targeted American citizens and companies, including the wife of GOP Senate candidate Mike Rogers, a former representative running in a Michigan swing race. The post Lawmakers call on Commerce to sanction hackers-for-hire appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-      "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-      "date": "2026-09-09T18:26:05.000Z",
-      "excerpt": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cryptocurrency wallets, and…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -666,14 +698,6 @@
       "excerpt": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "FBI officials say AI is bolstering adversaries, emphasizing need to focus on cyber basics, patching",
-      "link": "https://cyberscoop.com/fbi-cyber-strategy-ai-threats-patching/",
-      "date": "2026-09-09T13:00:00.000Z",
-      "excerpt": "The remarks, to both CyberScoop and at the Billington CyberSecurity Summit, dovetail with the release of a new bureau cyber strategy. The post FBI officials say AI is bolstering adversaries, emphasizing need to focus on cyber basics, patching appeared first on CyberScoop ."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Claude Fable Solves a Historical Cipher",
@@ -706,14 +730,6 @@
       "excerpt": ""
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Microsoft discloses two actively exploited zero-days among 974 vulnerabilities",
-      "link": "https://cyberscoop.com/microsoft-patch-tuesday-september-2026/",
-      "date": "2026-09-08T22:50:41.000Z",
-      "excerpt": "While the vendor hit another monthly record, it hasn’t resulted in a flood of active exploits. Researchers encourage customers to focus on their specific areas of risk and exposure. The post Microsoft discloses two actively exploited zero-days among 974 vulnerabilities appeared…"
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Microsoft Plugs Nearly 1,000 Security Holes",
@@ -744,22 +760,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
       "date": "2026-09-08T21:03:46.000Z",
       "excerpt": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Feds accuse China of ‘systematic’ distillation of U.S. AI models",
-      "link": "https://cyberscoop.com/us-accuses-chinese-ai-companies-distillation/",
-      "date": "2026-09-08T20:47:53.000Z",
-      "excerpt": "A joint advisory alleges Chinese companies are using sophisticated systems to route millions of data requests to US AI models across different accounts and platforms. The post Feds accuse China of ‘systematic’ distillation of U.S. AI models appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "OpenAI Agents Took Over Wiki Site Before Hugging Face Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agents-wiki-site-hugging-face-attack",
-      "date": "2026-09-08T20:36:15.000Z",
-      "excerpt": "Researchers and OpenAI disagree on whether an earlier incident involving DseWiki, which the company did not disclose, was a “hack.\""
     },
     {
       "source": "SANS Internet Storm Center",
