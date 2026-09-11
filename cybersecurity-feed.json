@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T00:15:32.054Z",
+  "updated": "2026-09-11T04:52:33.769Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI is changing what Salesforce security needs to govern",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/withsecure-salesforce-ai-trust-governance-paper/",
+      "date": "2026-09-11T04:30:42.000Z",
+      "excerpt": "Existing security and governance practices have largely focused on identities, permissions, access, configurations and controls. WithSecure’s Navigating Trust in the Modern Salesforce Ecosystem paper says Salesforce environments also require organizations to understand what…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Ubuntu 24.04.5 LTS release patches security bugs across ten flavors",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/ubuntu-24-04-5-lts-released/",
+      "date": "2026-09-11T04:07:41.000Z",
+      "excerpt": "Canonical shipped Ubuntu 24.04.5 LTS, bundling security updates and fixes for high-severity bugs into new installation media for the “Noble Numbat” release. Anyone installing fresh now gets those corrections baked in from the start, cutting the batch of updates that would…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "New infosec products of the week: September 11, 2026",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/new-infosec-products-of-the-week-september-11-2026/",
+      "date": "2026-09-11T04:00:08.000Z",
+      "excerpt": "Here’s a look at the most interesting products from the past week, featuring releases from Akeyless, Orchid Security, Scytale, and Securin. Securin Platform helps security teams prove when attack paths are closed Securin has announced the general availability of the Securin…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
+      "link": "https://isc.sans.edu/diary/rss/33330",
+      "date": "2026-09-11T02:00:02.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
+      "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
+      "date": "2026-09-11T01:00:00.000Z",
+      "excerpt": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -338,6 +378,14 @@
       "excerpt": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek ."
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars",
+      "date": "2026-09-10T13:32:28.000Z",
+      "excerpt": "Here's a tip for any budding cybercriminals out there. If you're going to steal a quarter of a billion dollars worth of cryptocurrency, maybe don't broadcast on a group chat every time you buy a Lamborghini, or blow half a million dollars on a single night out at a nightclub.…"
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
@@ -490,28 +538,12 @@
       "excerpt": "Learn how root access on a compromised K8s node allows attackers to utilize SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities. The post The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE appeared first on Unit 42 ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fake GTA 6 download delivers malware-packed bundle to impatient gamers",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/fake-gta-6-downloads-malware-ransomware/",
-      "date": "2026-09-10T09:51:44.000Z",
-      "excerpt": "Grand Theft Auto VI (GTA 6) is still three months from release, but cybercriminals are not waiting for the launch date. Security firm Huntress found malware disguised as a leaked copy of the game, aimed at fans hoping to get their hands on it early. The sample Huntress pulled…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Anthropic Reveals Yet Another Cybersecurity Incident",
       "link": "https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/",
       "date": "2026-09-10T08:45:00.000Z",
       "excerpt": "Anthropic has found a fourth case of its model accessing third-party systems without authorization"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Apple is building photo verification for the people who need it most",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/apple-reference-image-iphone-18-pro/",
-      "date": "2026-09-10T08:18:59.000Z",
-      "excerpt": "Apple has introduced Apple Reference Image, an opt-in feature designed to verify the authenticity of photos taken with iPhone 18 Pro models. Apple Reference Image provides users with an unalterable reference photo, visually confirming what the sensor saw at the moment of…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -554,12 +586,12 @@
       "excerpt": "A charcoal sketch of a faceless purple robot working the levers of a dense industrial machine, beside an empty office chair with a worker's cap left hanging on it/images/slow-path-to-ai-takeover.webp/images/slow-path-to-ai-takeover.webp There's a lot of conversation about how AI…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Product showcase: GitGuardian Honeytoken catches credential theft as it happens",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/product-showcase-gitguardian-honeytoken-decoy-service/",
-      "date": "2026-09-10T05:30:24.000Z",
-      "excerpt": "Credential harvesting on developer machines has widened. Earlier infostealers worked from a short list of known targets, mostly browser stores and a few cloud credential paths. The families active now cast a much wider net. Shai-Hulud, for instance, ran a secret scanner across…"
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #484: How websites are tracking you with silence",
+      "link": "https://grahamcluley.com/smashing-security-podcast-484/",
+      "date": "2026-09-09T23:05:54.000Z",
+      "excerpt": "When a chap called Matt noticed his Bluetooth headphones wouldn't switch to his phone, he was surprised to realise the reason was a single AliExpress webpage sitting open in his browser - playing nothing at all, at zero volume. And yet somehow his hardware could hear it. Audio…"
     },
     {
       "source": "Microsoft Security Blog",
@@ -698,6 +730,14 @@
       "excerpt": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42 ."
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "CRPx0 ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/crpx0-ransomware-what-you-need-know",
+      "date": "2026-09-09T08:42:55.000Z",
+      "excerpt": "CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog."
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
@@ -730,14 +770,6 @@
       "excerpt": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Attackers Use Multi-Hop Google Redirects for Phishing Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-multi-hop-google-redirects-phishing-campaign",
-      "date": "2026-09-08T21:03:46.000Z",
-      "excerpt": "Threat actors are abusing multiple Google services to evade detection, ultimately harvesting credentials or installing ScreenConnect remote access."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "September 2026 Microsoft Patch Tuesday, (Tue, Sep 8th)",
@@ -760,6 +792,14 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/ais-as-modern-genies.html",
       "date": "2026-09-08T17:12:42.000Z",
       "excerpt": "This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its…"
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "The US military just turned off ad tracking on its phones. Maybe you should too",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones",
+      "date": "2026-09-08T15:33:07.000Z",
+      "excerpt": "Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog."
     },
     {
       "source": "Schneier on Security",
@@ -818,6 +858,14 @@
       "excerpt": "Not sure it’s practical, but it’s certainly striking ."
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "How a hole in Lenovo’s login system let hackers walk into 5,000 Dropbox accounts",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox",
+      "date": "2026-09-07T10:30:27.000Z",
+      "excerpt": "If you ever linked your Dropbox account to a Lenovo ID - perhaps to make life easier when logging in via a Lenovo laptop - you might want to take heed. Read more in my article on the Hot for Security blog."
+    },
+    {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
       "title": "Dissecting a PHP web server rootkit",
@@ -842,14 +890,6 @@
       "excerpt": "Mikrotik released a patch late last week for an already-exploited vulnerability. The vulnerability allows an SSH authentication bypass and is already being exploited. At this point, assume compromise. Attackers have been adding new accounts to affected devices to maintain access…"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "numbat - AI agent observability, (Fri, Sep 4th)",
-      "link": "https://isc.sans.edu/diary/rss/33312",
-      "date": "2026-09-05T03:39:52.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
@@ -872,46 +912,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
       "date": "2026-09-04T19:10:10.000Z",
       "excerpt": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models. The post How to secure edge AI in customer-owned environments appeared first on Microsoft…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Socratic AI",
-      "link": "https://danielmiessler.com/blog/socratic-ai?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-04T19:05:00.000Z",
-      "excerpt": "A charcoal sketch of a student at a desk with a finished handwritten page in front of him while a purple AI figure across the desk hands his pencil back to him, its other palm open and empty/images/socratic-ai-pencil.webp/images/socratic-ai-pencil.webp I've been thinking about…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Cliff's Notes for Everything",
-      "link": "https://danielmiessler.com/blog/cliffs-notes-for-everything?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-04T18:43:00.000Z",
-      "excerpt": "A sienna sketch of a man squatting under a giant open book he is lifting overhead, while a purple robot arm on a desk hands a striped summary sheet to a faint gray figure/images/cliffs-notes-for-everything.webp/images/cliffs-notes-for-everything.webp There's something really…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
-      "date": "2026-09-04T17:18:12.000Z",
-      "excerpt": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Using a VM to Contain an AI Agent",
-      "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
-      "date": "2026-09-04T16:31:38.000Z",
-      "excerpt": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact. An off-the-shelf VM is not…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Angry Birds: Toy Ghouls’ new toys",
-      "link": "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/",
-      "date": "2026-09-04T10:00:05.000Z",
-      "excerpt": "Kaspersky GERT experts have discovered new backdoors used by the Toy Ghouls group. One version of the backdoor uses the HiveMQ MQTT broker as its command-and-control server; the other uses the Matrix-based Element messenger."
     }
   ]
 }
