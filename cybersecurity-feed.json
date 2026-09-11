@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T04:52:33.769Z",
+  "updated": "2026-09-11T09:51:21.943Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,142 @@
   ],
   "items": [
     {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Surfshark Systems Targeted by Hackers",
+      "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
+      "date": "2026-09-11T09:41:03.000Z",
+      "excerpt": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
+      "date": "2026-09-11T09:39:37.000Z",
+      "excerpt": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Most Organizations Skip Permissions Reviews Before Deploying AI Tools",
+      "link": "https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/",
+      "date": "2026-09-11T09:30:00.000Z",
+      "excerpt": "A new Syskit study has shown that only 43% of organizations with AI agents deployed in Microsoft 365 environments completed a permission review before doing so"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion",
+      "link": "https://www.securityweek.com/anthropic-says-russian-hackers-used-claude-ai-to-automate-malware-evasion/",
+      "date": "2026-09-11T08:47:07.000Z",
+      "excerpt": "Anthropic reveals how criminal groups are increasingly targeting AI vendors' own infrastructure, including to steal a pre-release Claude model. The post Anthropic Says Russian Hackers Used Claude AI to Automate Malware Evasion appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "IDScan confirms breach after 153 million driver’s licenses leak on dark web",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
+      "date": "2026-09-11T08:39:33.000Z",
+      "excerpt": "Days after reports linked IDScan to a dark web database holding more than 153 million driver’s license scans, the identity verification company has confirmed hackers accessed customer data stored on its cloud platform. The Louisiana-based firm, which processes ID checks for car…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "PaperCut Flaws Exploited in AI-Powered Attacks",
+      "link": "https://www.securityweek.com/papercut-flaws-exploited-in-ai-powered-attacks/",
+      "date": "2026-09-11T08:18:23.000Z",
+      "excerpt": "A Russian threat actor used AI to build, test, and deploy exploits against hundreds of organizations worldwide. The post PaperCut Flaws Exploited in AI-Powered Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Kiteworks expands runtime data governance with Bonfy.AI acquisition",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/",
+      "date": "2026-09-11T08:04:07.000Z",
+      "excerpt": "Kiteworks has acquired Bonfy.AI, extending runtime data governance across its control plane. The acquisition enables organizations to govern data exchanges as they happen, whether initiated by a person, machine, or autonomous agent. The acquisition addresses a structural gap in…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Trezor: 347,000 users targeted in phishing attacks after Brevo breach",
+      "link": "https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/",
+      "date": "2026-09-11T07:55:15.000Z",
+      "excerpt": "Trezor has revealed that phishing attacks against its customers earlier this week targeted 347,000 email addresses and affected 2,500 users who clicked an embedded malicious link. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Automox Mitigation Worklets cut endpoint exposure to unpatchable flaws",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/",
+      "date": "2026-09-11T07:48:56.000Z",
+      "excerpt": "Automox has announced its AI-speed Mitigation Worklet Pipeline, which automates mitigation to reduce risk from the increased volume and velocity of frontier-model AI vulnerabilities. Now the time from vulnerability disclosure to exposure mitigation is shortened from days or…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors",
+      "link": "https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html",
+      "date": "2026-09-11T07:31:05.000Z",
+      "excerpt": "Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "China-Linked UNC3569 Exploited Sogou Input Method Flaw to Deploy GRAYRABBIT Backdoor",
+      "link": "https://thehackernews.com/2026/09/china-linked-unc3569-exploited-sogou.html",
+      "date": "2026-09-11T07:14:09.000Z",
+      "excerpt": "A China-linked hacking group exploited a flaw in Sogou Input Method, one of the most widely used tools for typing Chinese characters on Windows, to install a backdoor on victims' computers, security company Gen Digital said in research published Thursday. The attack started with…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Conti ransomware gang member sentenced to 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/conti-ransomware-gang-member-sentenced-to-four-years-in-prison/",
+      "date": "2026-09-11T06:48:37.000Z",
+      "excerpt": "A Ukrainian national has been sentenced to four years in prison for his role in Conti ransomware attacks between 2021 and 2022. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "PaperCut Replaces Emergency Patches With Fixes for Two Actively Exploited Flaws",
+      "link": "https://thehackernews.com/2026/09/papercut-replaces-emergency-patches.html",
+      "date": "2026-09-11T06:46:18.000Z",
+      "excerpt": "PaperCut on Thursday released a new security maintenance release that replaces all previously published emergency patches that were pushed to address two security flaws that have come under active exploitation. The software development company said PaperCut NG/MF versions…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Cisco FMC Flaws Exploited to Steal Credentials and Deploy Qilin Ransomware",
+      "link": "https://thehackernews.com/2026/09/cisco-fmc-flaws-exploited-to-steal.html",
+      "date": "2026-09-11T06:19:59.000Z",
+      "excerpt": "Cisco has revealed that three distinct threat clusters linked to ransomware and state-sponsored attacks have been exploiting two recently patched Secure Firewall Management Center (FMC) vulnerabilities. The attacks leverage CVE-2026-20079 (CVSS score: 10.0), an authentication…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Getting a stranger’s phone kicked off the cellular network costs a few dollars",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/cellular-network-lost-phone-reporting/",
+      "date": "2026-09-11T06:00:16.000Z",
+      "excerpt": "Researchers at Michigan State University and three partner schools bought a Samsung Galaxy Z Fold 7, copied the identification number printed on the sealed box, and reported the phone to its carrier as lost. Then they opened the box and set the phone up the way a launch-day…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Building a ransomware decision tree before the call comes in",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/ransomware-decision-tree-video/",
+      "date": "2026-09-11T05:30:53.000Z",
+      "excerpt": "In this Help Net Security video, Kerri Shafer-Page, VP of Incident Response at Arctic Wolf, walks through the ransomware decision tree in this video. She covers four areas where decisions need settling in advance, starting with containment. Someone has to know the network well…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Companies may be measuring phishing resilience the wrong way",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/",
+      "date": "2026-09-11T05:00:07.000Z",
+      "excerpt": "Companies that judge phishing simulation programs by how often employees click simulated attack emails may be overlooking more important indicators of cyber resilience, according to Pistachio’s Phishing Behaviour Report 2026. Examples of difficult simulations (Source: Pistachio)…"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "AI is changing what Salesforce security needs to govern",
@@ -128,14 +264,6 @@
       "link": "https://www.helpnetsecurity.com/2026/09/11/ubuntu-24-04-5-lts-released/",
       "date": "2026-09-11T04:07:41.000Z",
       "excerpt": "Canonical shipped Ubuntu 24.04.5 LTS, bundling security updates and fixes for high-severity bugs into new installation media for the “Noble Numbat” release. Anyone installing fresh now gets those corrections baked in from the start, cutting the batch of updates that would…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "New infosec products of the week: September 11, 2026",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/new-infosec-products-of-the-week-september-11-2026/",
-      "date": "2026-09-11T04:00:08.000Z",
-      "excerpt": "Here’s a look at the most interesting products from the past week, featuring releases from Akeyless, Orchid Security, Scytale, and Securin. Securin Platform helps security teams prove when attack paths are closed Securin has announced the general availability of the Securin…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -274,14 +402,6 @@
       "excerpt": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Your passkeys can now move between password managers on Android",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/google-android-password-manager-transfer/",
-      "date": "2026-09-10T16:00:09.000Z",
-      "excerpt": "Google turned on a transfer feature in Android that moves passwords and passkeys straight from one password manager to another, with no file to download along the way. You start it from inside the app you are switching to, and Google says the data moves between the apps in a few…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
@@ -298,28 +418,12 @@
       "excerpt": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
-      "date": "2026-09-10T15:43:58.000Z",
-      "excerpt": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
       "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
       "date": "2026-09-10T15:29:12.000Z",
       "excerpt": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
-      "date": "2026-09-10T14:55:33.000Z",
-      "excerpt": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -344,14 +448,6 @@
       "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
       "date": "2026-09-10T14:30:00.000Z",
       "excerpt": "Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox. The post Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
-      "date": "2026-09-10T14:11:34.000Z",
-      "excerpt": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]"
     },
     {
       "source": "Infosecurity Magazine",
@@ -394,22 +490,6 @@
       "excerpt": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to track and withdraw their earnings."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation",
-      "link": "https://www.securityweek.com/webinar-today-keep-pace-with-ai-a-new-operating-model-for-endpoint-remediation/",
-      "date": "2026-09-10T13:30:00.000Z",
-      "excerpt": "Join the webinar for a focused, 20-minute discussion on Frontier Pace Governance, an approach to balancing automation, policy, and business risk as IT operations accelerate. The post Webinar Today: Keep Pace With AI – A New Operating Model for Endpoint Remediation appeared first…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers call employees’ personal phones to break into Microsoft 365 accounts",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/microsoft-365-social-engineering-personal-phones/",
-      "date": "2026-09-10T13:26:23.000Z",
-      "excerpt": "Attackers are calling or texting employees on their personal phones, posing as internal IT staff, in a social engineering campaign that tricks them into handing over access to corporate cloud accounts. Once inside, they pull files and email from Microsoft 365 apps, SharePoint,…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "MantaxOtax Android Malware Combines Ransomware With Spyware",
@@ -434,28 +514,12 @@
       "excerpt": "The individual has not yet been avowed — the formal process in Britain by which an intelligence or security figure’s identity is publicly acknowledged — as routine security considerations are still being worked through."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Critical NetScaler Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-netscaler-vulnerability-exploited-in-attacks/",
-      "date": "2026-09-10T12:20:21.000Z",
-      "excerpt": "Tracked as CVE-2026-19490, the authentication bypass flaw has been exploited in the wild since at least September 3. The post Critical NetScaler Vulnerability Exploited in Attacks appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors",
       "link": "https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/",
       "date": "2026-09-10T12:15:00.000Z",
       "excerpt": "The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Widened Scan Turns Up Fourth Rogue Claude Cyber Incident",
-      "link": "https://www.securityweek.com/widened-scan-turns-up-fourth-rogue-claude-cyber-incident/",
-      "date": "2026-09-10T11:52:44.000Z",
-      "excerpt": "Anthropic is most concerned about Claude Mythos 5’s reckless behavior after recent incidents in which real systems were hacked. The post Widened Scan Turns Up Fourth Rogue Claude Cyber Incident appeared first on SecurityWeek ."
     },
     {
       "source": "The Hacker News",
@@ -474,22 +538,6 @@
       "excerpt": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-      "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-      "date": "2026-09-10T11:33:43.000Z",
-      "excerpt": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9. A work profile is a separate space that Android typically…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Cisco FMC bugs exploited by nation-state and ransomware actors (CVE-2026-20079, CVE-2026-20316)",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/cisco-fmc-exploited-cve-2026-20079-cve-2026-20316/",
-      "date": "2026-09-10T11:22:38.000Z",
-      "excerpt": "State-sponsored and financially-motivated attackers are actively exploiting CVE-2026-20079, a critical authentication bypass vulnerability in Cisco Secure Firewall Management Center (FMC), which is used for centrally managing multiple Cisco Secure Firewall devices across a…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "AIs Compress Exploit Timeline",
@@ -498,36 +546,12 @@
       "excerpt": "Give an AI agent a mere rumor of an exploit, and it’s enough for them to find it. What’s worse, I found I could use my own agents to find the exploit just by knowing roughly what it was about and so could have been exploiting it well before the public patch was available! Given…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-      "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-      "date": "2026-09-10T10:36:46.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the patches by…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Scytale expands vendor risk management with AI-powered TPRM tools",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/scytale-ai-third-party-risk-management-capabilities/",
-      "date": "2026-09-10T10:22:01.000Z",
-      "excerpt": "Scytale has announced the launch of their latest AI-powered third-party risk management (TPRM) capabilities within its Vendors module. The release further extends vendor risk management from a periodic review exercise into a continuously updated vendor risk intelligence engine,…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)",
       "link": "https://isc.sans.edu/diary/rss/33328",
       "date": "2026-09-10T10:10:11.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "WordPress adds automated security checks to block risky plugin releases",
-      "link": "https://www.helpnetsecurity.com/2026/09/10/wordpress-automated-plugin-security-review/",
-      "date": "2026-09-10T10:06:31.000Z",
-      "excerpt": "WordPress’ automated security review will now assess every plugin release before it is distributed through the WordPress.org update API. Releases considered a potential security risk will be blocked automatically. “A plugin can be secure today and introduce a vulnerability, or…"
     },
     {
       "source": "Unit 42",
@@ -552,22 +576,6 @@
       "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
       "date": "2026-09-10T08:00:00.000Z",
       "excerpt": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-      "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-      "date": "2026-09-10T07:12:55.000Z",
-      "excerpt": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide. LiteLLM is an open-source AI gateway, the software a company puts between its applications and the model providers…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-      "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-      "date": "2026-09-10T07:04:01.000Z",
-      "excerpt": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomous AI agents. The AI company…"
     },
     {
       "source": "Dark Reading",
@@ -704,14 +712,6 @@
       "link": "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/",
       "date": "2026-09-09T14:30:00.000Z",
       "excerpt": "Gigabud clones banking apps into a work profile to break the link between malware alerts and fraud"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "ClickFix Moves into the Browser to Steal Cryptocurrency",
-      "link": "https://www.infosecurity-magazine.com/news/clickfix-browser-cryptocurrency/",
-      "date": "2026-09-09T13:45:00.000Z",
-      "excerpt": "ClickFix campaign uses browser-injected JavaScript and Google Sheets to steal cryptocurrency"
     },
     {
       "source": "Schneier on Security",
