@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T09:51:21.943Z",
+  "updated": "2026-09-11T14:30:49.190Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,118 @@
     }
   ],
   "items": [
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+      "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+      "date": "2026-09-11T14:19:18.000Z",
+      "excerpt": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced,…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
+      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
+      "date": "2026-09-11T14:01:11.000Z",
+      "excerpt": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
+      "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
+      "date": "2026-09-11T13:30:00.000Z",
+      "excerpt": "KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365’s Direct Send to send malicious emails"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
+      "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
+      "date": "2026-09-11T12:48:04.000Z",
+      "excerpt": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Anthropic caught Russia-linked spies using Claude in hacking operations",
+      "link": "https://therecord.media/anthropic-russia-hackers-claude",
+      "date": "2026-09-11T12:45:00.000Z",
+      "excerpt": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
+      "link": "https://therecord.media/conti-ransomware-ukraine-hacker",
+      "date": "2026-09-11T12:00:00.000Z",
+      "excerpt": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "ClickFix attacks infecting PCs and Macs are going viral",
+      "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
+      "date": "2026-09-11T11:30:58.000Z",
+      "excerpt": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+      "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+      "date": "2026-09-11T11:30:00.000Z",
+      "excerpt": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise. A critical vulnerability may look alarming on a…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
+      "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
+      "date": "2026-09-11T11:29:09.000Z",
+      "excerpt": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "GitLab urges users to patch max severity path traversal flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+      "date": "2026-09-11T11:15:22.000Z",
+      "excerpt": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Check Point Patches Critical VPN Vulnerabilities",
+      "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
+      "date": "2026-09-11T11:10:02.000Z",
+      "excerpt": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Cliff Stoll’s DEF CON Talk",
+      "link": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
+      "date": "2026-09-11T11:09:55.000Z",
+      "excerpt": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance",
+      "link": "https://www.securityweek.com/kiteworks-acquires-bonfy-ai-to-fill-the-ai-gap-in-data-governance/",
+      "date": "2026-09-11T10:56:16.000Z",
+      "excerpt": "Financials have not been disclosed, but the estimated cost is in the tens of millions of dollars. The post Kiteworks Acquires Bonfy.AI to Fill the AI Gap in Data Governance appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI agents exploited PaperCut flaws to breach 395 organizations",
+      "link": "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/",
+      "date": "2026-09-11T10:05:32.000Z",
+      "excerpt": "A threat actor built a working exploit for PaperCut print management software, then handed the job of breaking into hundreds of organizations to AI agents that did most of the work on their own, according to GreyNoise. The result was at least 440 compromised PaperCut instances…"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -258,14 +370,6 @@
       "excerpt": "Existing security and governance practices have largely focused on identities, permissions, access, configurations and controls. WithSecure’s Navigating Trust in the Modern Salesforce Ecosystem paper says Salesforce environments also require organizations to understand what…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Ubuntu 24.04.5 LTS release patches security bugs across ten flavors",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/ubuntu-24-04-5-lts-released/",
-      "date": "2026-09-11T04:07:41.000Z",
-      "excerpt": "Canonical shipped Ubuntu 24.04.5 LTS, bundling security updates and fixes for high-severity bugs into new installation media for the “Noble Numbat” release. Anyone installing fresh now gets those corrections baked in from the start, cutting the batch of updates that would…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
@@ -322,14 +426,6 @@
       "excerpt": "Oleksii Lytvynenko joined the notorious group in 2021 and was directly involved in attacks on at least 12 companies. The post Conti ransomware crew member sentenced to four years in prison appeared first on CyberScoop ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-      "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-      "date": "2026-09-10T20:30:44.000Z",
-      "excerpt": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board. The post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first on SecurityWeek ."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Hawley probes OpenAI over Hugging Face breach",
@@ -352,14 +448,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
       "date": "2026-09-10T19:15:07.000Z",
       "excerpt": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft Excel KB5002914 update breaks copy and paste for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/",
-      "date": "2026-09-10T19:07:33.000Z",
-      "excerpt": "Microsoft Excel users report that this week's KB5002914 Office security update is breaking copy-and-paste operations and formula dragging, with affected users saying that removing or rolling back the update restores normal functionality. [...]"
     },
     {
       "source": "The Record",
@@ -394,28 +482,12 @@
       "excerpt": "Microsoft examines an AI-assisted business email compromise campaign that used executive impersonation and fake invoices to target finance teams with ACH payment fraud. The post Protecting organizations from AI-assisted executive impersonation and invoice fraud appeared first on…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-      "date": "2026-09-10T16:14:58.000Z",
-      "excerpt": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared first on SecurityWeek ."
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/10/detect-and-disrupt-ai-themed-attacks-with-microsoft-defender/",
       "date": "2026-09-10T16:00:00.000Z",
       "excerpt": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft Defender appeared first on Microsoft Security Blog ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "date": "2026-09-10T15:55:56.000Z",
-      "excerpt": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]"
     },
     {
       "source": "Dark Reading",
@@ -426,28 +498,12 @@
       "excerpt": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
-      "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
-      "date": "2026-09-10T14:52:07.000Z",
-      "excerpt": "Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns. The post Anthropic Researcher Resigns With Warning About the Dangers of AI Development appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
       "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
       "date": "2026-09-10T14:36:47.000Z",
       "excerpt": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster",
-      "link": "https://www.securityweek.com/hacker-conversations-vinnie-liu-performer-turned-ringmaster/",
-      "date": "2026-09-10T14:30:00.000Z",
-      "excerpt": "Vinnie Liu was recruited by the NSA when he was just 17 years old. He is now the CEO of Bishop Fox. The post Hacker Conversations: Vinnie Liu, Performer Turned Ringmaster appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -466,28 +522,12 @@
       "excerpt": "Sean Cairncross also said AI has shown long-standing issues in cyber rather than creating new ones. The post Governments ‘buying time’ in race between innovation, security, national cyber director says appeared first on CyberScoop ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews",
-      "link": "https://www.securityweek.com/deceptive-android-apps-exploit-google-play-early-access-to-evade-reviews/",
-      "date": "2026-09-10T13:39:52.000Z",
-      "excerpt": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek ."
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars",
       "date": "2026-09-10T13:32:28.000Z",
       "excerpt": "Here's a tip for any budding cybercriminals out there. If you're going to steal a quarter of a billion dollars worth of cryptocurrency, maybe don't broadcast on a group chat every time you buy a Lamborghini, or blow half a million dollars on a single night out at a nightclub.…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
-      "link": "https://therecord.media/russian-e-commerce-giant-wildberries-says-payments-disrupted",
-      "date": "2026-09-10T13:31:00.000Z",
-      "excerpt": "Wildberries told several Russian media outlets earlier this week that payments to some sellers were delayed by security measures introduced after a distributed denial-of-service (DDoS) attack targeted systems used to track and withdraw their earnings."
     },
     {
       "source": "Infosecurity Magazine",
@@ -506,14 +546,6 @@
       "excerpt": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "UK appoints new commander of National Cyber Force",
-      "link": "https://therecord.media/uk-appoints-new-commander-of-national-cyber-force",
-      "date": "2026-09-10T12:44:00.000Z",
-      "excerpt": "The individual has not yet been avowed — the formal process in Britain by which an intelligence or security figure’s identity is publicly acknowledged — as routine security considerations are still being worked through."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors",
@@ -528,14 +560,6 @@
       "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
       "date": "2026-09-10T11:45:05.000Z",
       "excerpt": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that it has not described. One…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
-      "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
-      "date": "2026-09-10T11:41:53.000Z",
-      "excerpt": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances. According to independent reports from…"
     },
     {
       "source": "Schneier on Security",
@@ -704,14 +728,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/identity-based-ai-attack-security-enterprise-data",
       "date": "2026-09-09T14:39:44.000Z",
       "excerpt": "\"Workflow identity hijacking\" can bypass standard security controls and hijack an organization's data by sending a basic request through an unauthenticated entry point."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Gigabud Uses Android App Cloning to Evade Fraud Detection",
-      "link": "https://www.infosecurity-magazine.com/news/gigabud-android-app-cloning-fraud/",
-      "date": "2026-09-09T14:30:00.000Z",
-      "excerpt": "Gigabud clones banking apps into a work profile to break the link between malware alerts and fraud"
     },
     {
       "source": "Schneier on Security",
@@ -896,22 +912,6 @@
       "link": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
       "date": "2026-09-04T22:17:36.000Z",
       "excerpt": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: Squid on a Stick at the New York State Fair",
-      "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html",
-      "date": "2026-09-04T21:01:35.000Z",
-      "excerpt": "Looks tasty . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "How to secure edge AI in customer-owned environments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-      "date": "2026-09-04T19:10:10.000Z",
-      "excerpt": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models. The post How to secure edge AI in customer-owned environments appeared first on Microsoft…"
     }
   ]
 }
