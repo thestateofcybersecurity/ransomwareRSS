@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T21:42:13.346Z",
+  "updated": "2026-09-11T00:15:32.054Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Troy Hunt",
@@ -338,14 +338,6 @@
       "excerpt": "Deceptive apps in Early Access are being used by dishonest developers for their own benefit. The post Deceptive Android Apps Exploit Google Play Early Access to Evade Reviews appeared first on SecurityWeek ."
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars",
-      "date": "2026-09-10T13:32:28.000Z",
-      "excerpt": "Here's a tip for any budding cybercriminals out there. If you're going to steal a quarter of a billion dollars worth of cryptocurrency, maybe don't broadcast on a group chat every time you buy a Lamborghini, or blow half a million dollars on a single night out at a nightclub.…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Russian e-commerce giant Wildberries says DDoS attack delayed payments to sellers",
@@ -570,14 +562,6 @@
       "excerpt": "Credential harvesting on developer machines has widened. Earlier infostealers worked from a short list of known targets, mostly browser stores and a few cloud credential paths. The families active now cast a much wider net. Shai-Hulud, for instance, ran a secret scanner across…"
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #484: How websites are tracking you with silence",
-      "link": "https://grahamcluley.com/smashing-security-podcast-484/",
-      "date": "2026-09-09T23:05:54.000Z",
-      "excerpt": "When a chap called Matt noticed his Bluetooth headphones wouldn't switch to his phone, he was surprised to realise the reason was a single AliExpress webpage sitting open in his browser - playing nothing at all, at zero volume. And yet somehow his hardware could hear it. Audio…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Threat matrix: Mapping threats across cloud web applications",
@@ -714,14 +698,6 @@
       "excerpt": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42 ."
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "CRPx0 ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/crpx0-ransomware-what-you-need-know",
-      "date": "2026-09-09T08:42:55.000Z",
-      "excerpt": "CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)",
@@ -786,14 +762,6 @@
       "excerpt": "This essay was written with Barath Raghavan, and originally appeared in Lawfare . In April, an artificial intelligence (AI) agent conducting a routine task at a company hit a snag, tried to solve it, and soon ended up deleting the company’s database along with all of its…"
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "The US military just turned off ad tracking on its phones. Maybe you should too",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones",
-      "date": "2026-09-08T15:33:07.000Z",
-      "excerpt": "Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Stealing AI Reasoning Traces",
@@ -850,14 +818,6 @@
       "excerpt": "Not sure it’s practical, but it’s certainly striking ."
     },
     {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "How a hole in Lenovo’s login system let hackers walk into 5,000 Dropbox accounts",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox",
-      "date": "2026-09-07T10:30:27.000Z",
-      "excerpt": "If you ever linked your Dropbox account to a Lenovo ID - perhaps to make life easier when logging in via a Lenovo laptop - you might want to take heed. Read more in my article on the Hot for Security blog."
-    },
-    {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
       "title": "Dissecting a PHP web server rootkit",
@@ -912,6 +872,46 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
       "date": "2026-09-04T19:10:10.000Z",
       "excerpt": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models. The post How to secure edge AI in customer-owned environments appeared first on Microsoft…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Socratic AI",
+      "link": "https://danielmiessler.com/blog/socratic-ai?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-04T19:05:00.000Z",
+      "excerpt": "A charcoal sketch of a student at a desk with a finished handwritten page in front of him while a purple AI figure across the desk hands his pencil back to him, its other palm open and empty/images/socratic-ai-pencil.webp/images/socratic-ai-pencil.webp I've been thinking about…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Cliff's Notes for Everything",
+      "link": "https://danielmiessler.com/blog/cliffs-notes-for-everything?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-04T18:43:00.000Z",
+      "excerpt": "A sienna sketch of a man squatting under a giant open book he is lifting overhead, while a purple robot arm on a desk hands a striped summary sheet to a faint gray figure/images/cliffs-notes-for-everything.webp/images/cliffs-notes-for-everything.webp There's something really…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "link": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "date": "2026-09-04T17:18:12.000Z",
+      "excerpt": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Using a VM to Contain an AI Agent",
+      "link": "https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html",
+      "date": "2026-09-04T16:31:38.000Z",
+      "excerpt": "It won’t work : My suspicion was that GPT 5.6-Cyber would succeed, but the frequency and manner of its success removed all doubt. We have to reassess sandboxing quality for capable AI agents, and in general the software stack with which they interact. An off-the-shelf VM is not…"
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Angry Birds: Toy Ghouls’ new toys",
+      "link": "https://securelist.com/toy-ghouls-new-hivemq-and-element-backdoors/121270/",
+      "date": "2026-09-04T10:00:05.000Z",
+      "excerpt": "Kaspersky GERT experts have discovered new backdoors used by the Toy Ghouls group. One version of the backdoor uses the HiveMQ MQTT broker as its command-and-control server; the other uses the Matrix-based Element messenger."
     }
   ]
 }
