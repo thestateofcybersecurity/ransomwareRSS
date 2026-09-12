@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 12 Sep 2026 17:17:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:28:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</title>
+      <link>https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html</guid>
+      <pubDate>Sat, 12 Sep 2026 15:54:45 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent</title>
       <link>https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/</link>
@@ -390,14 +398,6 @@
       <pubDate>Fri, 11 Sep 2026 07:48:56 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Automox has announced its AI-speed Mitigation Worklet Pipeline, which automates mitigation to reduce risk from the increased volume and velocity of frontier-model AI vulnerabilities. Now the time from vulnerability disclosure to exposure mitigation is shortened from days or… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Attackers Chain JFrog Artifactory Flaws to Gain Admin Control and Plant Backdoors</title>
-      <link>https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-chain-jfrog-artifactory-flaws.html</guid>
-      <pubDate>Fri, 11 Sep 2026 07:31:05 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Attackers have chained two flaws in JFrog Artifactory, the repository that software build pipelines pull from, to take administrator control of self-hosted servers and plant backdoors, cloud security company Wiz said in a report. Wiz saw the attacks between August 15 and… (via The Hacker News)</description>
     </item>
     <item>
       <title>Getting a stranger’s phone kicked off the cellular network costs a few dollars</title>
