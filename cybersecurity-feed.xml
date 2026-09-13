@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 13 Sep 2026 12:08:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:28:33 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers exploit Tencent app flaw to deploy GrayRabbit malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/</guid>
+      <pubDate>Sun, 13 Sep 2026 14:26:32 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent&#39;s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up</title>
+      <link>https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/</guid>
+      <pubDate>Sun, 13 Sep 2026 13:27:25 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data</title>
       <link>https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</link>
@@ -344,14 +360,6 @@
       <description>GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Check Point Patches Critical VPN Vulnerabilities</title>
-      <link>https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:10:02 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Cliff Stoll’s DEF CON Talk</title>
       <link>https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html</guid>
@@ -366,14 +374,6 @@
       <pubDate>Fri, 11 Sep 2026 10:05:32 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>A threat actor built a working exploit for PaperCut print management software, then handed the job of breaking into hundreds of organizations to AI agents that did most of the work on their own, according to GreyNoise. The result was at least 440 compromised PaperCut instances… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/</guid>
-      <pubDate>Fri, 11 Sep 2026 09:39:37 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Most Organizations Skip Permissions Reviews Before Deploying AI Tools</title>

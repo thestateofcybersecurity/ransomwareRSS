@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T12:08:36.248Z",
+  "updated": "2026-09-13T16:28:33.139Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "date": "2026-09-13T14:26:32.000Z",
+      "excerpt": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+      "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
+      "date": "2026-09-13T13:27:25.000Z",
+      "excerpt": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek ."
+    },
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
@@ -450,14 +466,6 @@
       "excerpt": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Check Point Patches Critical VPN Vulnerabilities",
-      "link": "https://www.securityweek.com/check-point-patches-critical-vpn-vulnerabilities/",
-      "date": "2026-09-11T11:10:02.000Z",
-      "excerpt": "Tracked as CVE-2026-85102 and CVE-2026-85103, the flaws could be exploited for remote code execution. The post Check Point Patches Critical VPN Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Cliff Stoll’s DEF CON Talk",
@@ -472,14 +480,6 @@
       "link": "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/",
       "date": "2026-09-11T10:05:32.000Z",
       "excerpt": "A threat actor built a working exploit for PaperCut print management software, then handed the job of breaking into hundreds of organizations to AI agents that did most of the work on their own, according to GreyNoise. The result was at least 440 compromised PaperCut instances…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
-      "date": "2026-09-11T09:39:37.000Z",
-      "excerpt": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]"
     },
     {
       "source": "Infosecurity Magazine",
