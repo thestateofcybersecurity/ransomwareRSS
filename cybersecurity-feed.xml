@@ -5,47 +5,263 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 06:28:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:15:45 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Turn it off and on again, but for critical infrastructure</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/</guid>
-      <pubDate>Mon, 14 Sep 2026 06:00:04 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Researchers at KTH Royal Institute of Technology built a container replica of a segmented industrial network, attacked it repeatedly across 14 days of running time, and used the captured traffic to train a defense agent that decides on its own when to intervene. The agent sees… (via Help Net Security)</description>
+      <title>Human Attacker Hits Machine-Speed Exploitation of Marimo RCE</title>
+      <link>https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:15:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Permify: Open-source authorization as a service</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/</guid>
-      <pubDate>Mon, 14 Sep 2026 05:30:58 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Permify is an open-source authorization service that answers access questions at run time: can user X view document Y, which posts can members of team Y edit. It keeps those rules in one place, apart from the application code that would otherwise carry them. Permify follows the… (via Help Net Security)</description>
+      <title>Why Patch Automation Needs Brakes, Not Just an Accelerator</title>
+      <link>https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:01:11 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing… (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Cybersecurity attention fades within months after a breach</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/</guid>
-      <pubDate>Mon, 14 Sep 2026 05:00:57 GMT</pubDate>
+      <title>Entrust turns cryptographic inventory data into security action</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/entrust-cbom-capabilities/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/entrust-cbom-capabilities/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:54:15 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Cybersecurity attention often rises after an incident, then recedes as organizations return to their existing priorities and practices, according to a new ManageEngine survey of 700 IT and cybersecurity leaders in the US and Canada. (Source: ManageEngine) All of them had already… (via Help Net Security)</description>
+      <description>Entrust has unveiled new capabilities for its Cryptographic Security Platform (CSP) that help organizations turn Cryptographic Bill of Materials (CBOMs) data into action. Government agencies, financial institutions, healthcare organizations, and other critical infrastructure… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Certificate failures can cost firms over $250,000</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/</guid>
-      <pubDate>Mon, 14 Sep 2026 04:30:38 GMT</pubDate>
+      <title>Bitsight connects threat intelligence and exposure monitoring across the supply chain</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/bitsight-beacon/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/bitsight-beacon/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:42:56 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>The move toward 47-day public TLS certificates by 2029 will increase the certificate management workload for enterprises, according to DigiCert’s Certificate Management Outlook. Organizations will need to renew certificates more than eight times as often as under the previous… (via Help Net Security)</description>
+      <description>Bitsight access to a broad risk dataset, combining threat intelligence and continuous exposure monitoring to help teams mitigate risk across the supply chain. “The surge in third-party-originating cybersecurity breaches demands a fundamental shift in how cybersecurity leaders… (via Help Net Security)</description>
     </item>
     <item>
-      <title>AWS puts AI vulnerability detection to the test, and false positives pile up</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/</guid>
-      <pubDate>Mon, 14 Sep 2026 04:00:14 GMT</pubDate>
+      <title>New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate</title>
+      <link>https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:31:15 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on… (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Dataminr uses agentic AI to predict and verify security threats</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/dataminr-uses-agentic-ai-to-predict-and-verify-security-threats/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/dataminr-uses-agentic-ai-to-predict-and-verify-security-threats/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:25:25 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>AWS’ Deception Benchmark measures how well AI models distinguish genuine security vulnerabilities from code that looks risky but is safe. AWS is making it publicly available so researchers can use the dataset and evaluation process without repeating the cost of generating and… (via Help Net Security)</description>
+      <description>Dataminr has announced Dataminr Advanced for Corporate Security, delivering agentic AI capabilities that give corporate security teams the confidence to protect their people, sites, and operations before risk escalates. With Agentic Corroboration, Agentic Context, and Near-Term… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Personal, Financial Info Exposed in Revolut Data Breach</title>
+      <link>https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:03:35 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>The Race to Control AI and Protect What Makes Us Human</title>
+      <link>https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems</title>
+      <link>https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:45:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the military (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>ENISA launched the CRA Single Reporting Platform for actively exploited vulnerabilities</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/enisa-cra-single-reporting-platform/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/enisa-cra-single-reporting-platform/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:23:42 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The EU Agency for Cybersecurity switched on the Cyber Resilience Act‘s Single Reporting Platform on 11 September 2026, the same day the law’s reporting obligations started binding manufacturers. ENISA built the tool and runs its day-to-day operations, a job Article 16(1) of the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Webinar: How malicious OAuth apps can lead to Google Workspace breaches</title>
+      <link>https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</guid>
+      <pubDate>Mon, 14 Sep 2026 12:15:23 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Revolut handed customer data to fraudsters using government email account</title>
+      <link>https://therecord.media/revolut-scam-crypto-impersonation</link>
+      <guid isPermaLink="false">https://therecord.media/revolut-scam-crypto-impersonation</guid>
+      <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>British fintech Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account. (via The Record)</description>
+    </item>
+    <item>
+      <title>AI Changed the Exposure Problem. Validation Needs to Change With It.</title>
+      <link>https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</guid>
+      <pubDate>Mon, 14 Sep 2026 11:58:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>There&#39;s a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution</title>
+      <link>https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:51:29 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Revolut Confirms Data Breach Through Fake Government Requests</title>
+      <link>https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:20:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>An unauthorized party used a legitimate government email domain to fraudulently request Revolut customer data (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Microsoft’s Patching</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html</guid>
+      <pubDate>Mon, 14 Sep 2026 11:03:26 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Airrived adds Agentic Observability to track AI agent actions and risks</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/airrived-agentic-observability-expansion/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/airrived-agentic-observability-expansion/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:51:32 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Airrived will reveal Agentic Observability, a major expansion of its enterprise Agentic OS built to give organizations end-to-end visibility into how AI agents behave, from the moment enterprise data enters the platform, through agent reasoning and execution, to the final… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>CISOs Race to Control AI Agents Without Destroying Their Value</title>
+      <link>https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:30:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection</title>
+      <link>https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:00:01 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
+    <item>
+      <title>Hackers Exploit Maximum Severity Flaw in GitLab</title>
+      <link>https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/</guid>
+      <pubDate>Mon, 14 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>CISA warns that threat actors are exploiting a vulnerability with a CVSS score of 10.0 (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Telus Warns Customers of Account Breaches</title>
+      <link>https://www.securityweek.com/telus-warns-customers-of-account-breaches/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/telus-warns-customers-of-account-breaches/</guid>
+      <pubDate>Mon, 14 Sep 2026 09:56:57 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft: September updates cause RDS failures on Windows Server</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/</guid>
+      <pubDate>Mon, 14 Sep 2026 09:50:25 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Three JFrog Artifactory Flaws Exploited for Backdoor Deployment</title>
+      <link>https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/</guid>
+      <pubDate>Mon, 14 Sep 2026 09:27:29 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>OpenAI Agent Swarm Hacks RubyGems Package Manager</title>
+      <link>https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/</guid>
+      <pubDate>Mon, 14 Sep 2026 08:50:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Revolut discloses data breach exposing financial info, passports</title>
+      <link>https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/</guid>
+      <pubDate>Mon, 14 Sep 2026 08:48:24 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks</title>
+      <link>https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/</guid>
+      <pubDate>Mon, 14 Sep 2026 08:25:14 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft: September updates break audio on some Windows PCs</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/</guid>
+      <pubDate>Mon, 14 Sep 2026 08:08:16 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>WhatsApp Restricted Chat locks a conversation to your primary phone</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/</guid>
+      <pubDate>Mon, 14 Sep 2026 08:08:04 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>WhatsApp is building a per-chat setting that keeps a conversation on a single phone. The setting, called Restricted Chat, sits in the Android beta distributed through Google Play as version 2.26.36.5, and it stops the app from syncing a chosen conversation to linked devices.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Debian 13.7 ships the fixes behind 92 security advisories, updates 106 packages</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/</guid>
+      <pubDate>Mon, 14 Sep 2026 07:40:52 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The Debian project shipped Debian 13.7 codenamed “trixie.” The project folded in 92 security advisories it had already published separately, added corrections to 106 source packages, and rebuilt the installer around both. Six of the 92 advisories cover the Linux kernel, each… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users</title>
+      <link>https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</guid>
+      <pubDate>Mon, 14 Sep 2026 07:24:39 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named &quot;Twitch Enhanced Viewer | JeetBot,&quot; lists HISHIMIRO/jeetbot.cc as its developer and… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>CISA: Hackers now exploit max severity GitLab flaw in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/</guid>
+      <pubDate>Mon, 14 Sep 2026 07:06:27 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>What we know about the Revolut data breach so far</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/</guid>
+      <pubDate>Mon, 14 Sep 2026 07:02:51 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Someone impersonating a government agency, using an email address on that agency’s domain, obtained sensitive customer records from Revolut. The bank confirmed the incident on Saturday, September 12. The London-based fintech told TechCrunch that a limited number of customers… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)</title>
@@ -54,6 +270,14 @@
       <pubDate>Mon, 14 Sep 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>ATT&amp;CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split</title>
+      <link>https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Artifacts and tooling for the new Enterprise MITRE ATT&amp;CK matrix tactics, distilled from the field. (via Sophos News)</description>
     </item>
     <item>
       <title>Thorough reorganization at NSA will create five &#39;mission centers,&#39; including cyber and AI</title>
@@ -72,28 +296,12 @@
       <description>Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent&#39;s Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up</title>
-      <link>https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/</guid>
-      <pubDate>Sun, 13 Sep 2026 13:27:25 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data</title>
       <link>https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html</guid>
       <pubDate>Sun, 13 Sep 2026 10:11:48 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant,… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited</title>
-      <link>https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/</guid>
-      <pubDate>Sun, 13 Sep 2026 08:00:57 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Zero trust AI agents demand a different kind of security In this interview, Chris Webber, VP, Product Marketing at Teleport, explains why zero trust principles need to change for AI… (via Help Net Security)</description>
     </item>
     <item>
       <title>CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV</title>
@@ -112,14 +320,6 @@
       <description>The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days</title>
-      <link>https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/</guid>
-      <pubDate>Sat, 12 Sep 2026 11:10:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>When the Whole Company Adopts AI: What It Does to Your SOC</title>
       <link>https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html</guid>
@@ -134,14 +334,6 @@
       <pubDate>Sat, 12 Sep 2026 09:07:56 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>The &quot;major malicious attack&quot; that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says</title>
-      <link>https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/</guid>
-      <pubDate>Sat, 12 Sep 2026 01:50:53 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems</title>
@@ -176,14 +368,6 @@
       <description>I think what really resonates with me this week is being able to completely turn the tables on perceptions around things like AI being the big bad hacking tool the news would have you believe. There&#39;s the stat I talk about where it&#39;s had literally 0% (via Troy Hunt)</description>
     </item>
     <item>
-      <title>Hackers abused Claude to extract secrets from 1.8M Android apps</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:19:09 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device</title>
       <link>https://therecord.media/florida-shiny-hunters-motor-vehicle</link>
       <guid isPermaLink="false">https://therecord.media/florida-shiny-hunters-motor-vehicle</guid>
@@ -198,14 +382,6 @@
       <pubDate>Fri, 11 Sep 2026 19:21:08 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Florida confirms DMV database breached via stolen police account</title>
-      <link>https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/</guid>
-      <pubDate>Fri, 11 Sep 2026 19:00:29 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate</title>
@@ -232,6 +408,14 @@
       <description>Researchers analyzed a flood of fraudulent business emails and found that the threat actors had doubled-up on tactics to make them appear legitimate, including help from AI. (via The Record)</description>
     </item>
     <item>
+      <title>SpiderSilk Hunts External Threats With AI-Based Scanner</title>
+      <link>https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning</link>
+      <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning</guid>
+      <pubDate>Fri, 11 Sep 2026 18:27:28 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>Why AI Is So Good at Scamming Humans</title>
       <link>https://www.darkreading.com/cyber-risk/ai-scamming-humans</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/ai-scamming-humans</guid>
@@ -246,22 +430,6 @@
       <pubDate>Fri, 11 Sep 2026 18:06:24 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It’s a combination of the potentialities I raised in my 2022 book A Hacker’s Mind and the lessons we’re learning from current AI models engaging in hacking behavior. I’m really proud of the… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Passkey-themed phishing attacks lead to Microsoft 365 data theft</title>
-      <link>https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:26:50 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Phishing Research Challenges Conventional Security Awareness Testing</title>
-      <link>https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/</guid>
-      <pubDate>Fri, 11 Sep 2026 17:23:36 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Evolution, LitRPG, and AI Harnesses</title>
@@ -288,28 +456,12 @@
       <description>GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Artifactory flaws chained in attacks deploying backdoor malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/</guid>
-      <pubDate>Fri, 11 Sep 2026 16:29:44 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks</title>
       <link>https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html</guid>
       <pubDate>Fri, 11 Sep 2026 16:15:29 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>GitLab Vulnerability Exploited One Day After Disclosure</title>
-      <link>https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/</guid>
-      <pubDate>Fri, 11 Sep 2026 16:11:08 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain</title>
@@ -328,52 +480,12 @@
       <description>I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a… (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>Claude Used to Automate Exploitation and Data Theft Across Multiple Victims</title>
-      <link>https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html</guid>
-      <pubDate>Fri, 11 Sep 2026 14:29:47 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review</title>
-      <link>https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/</guid>
-      <pubDate>Fri, 11 Sep 2026 14:19:18 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced,… (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection</title>
-      <link>https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html</guid>
-      <pubDate>Fri, 11 Sep 2026 14:10:20 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface</title>
-      <link>https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/</guid>
-      <pubDate>Fri, 11 Sep 2026 14:01:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Hackers Favor US Eastern Business Hours in M365 Phishing Campaign</title>
       <link>https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/</guid>
       <pubDate>Fri, 11 Sep 2026 13:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365’s Direct Send to send malicious emails (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack</title>
-      <link>https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/</guid>
-      <pubDate>Fri, 11 Sep 2026 12:48:04 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Anthropic caught Russia-linked spies using Claude in hacking operations</title>
@@ -384,36 +496,12 @@
       <description>Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations. (via The Record)</description>
     </item>
     <item>
-      <title>Ukrainian hacker gets four years in US prison over Conti ransomware attacks</title>
-      <link>https://therecord.media/conti-ransomware-ukraine-hacker</link>
-      <guid isPermaLink="false">https://therecord.media/conti-ransomware-ukraine-hacker</guid>
-      <pubDate>Fri, 11 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022. (via The Record)</description>
-    </item>
-    <item>
       <title>ClickFix attacks infecting PCs and Macs are going viral</title>
       <link>https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/</guid>
       <pubDate>Fri, 11 Sep 2026 11:30:58 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison</title>
-      <link>https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:29:09 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>GitLab urges users to patch max severity path traversal flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:15:22 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Cliff Stoll’s DEF CON Talk</title>
@@ -424,28 +512,12 @@
       <description>In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun. (via Schneier on Security)</description>
     </item>
     <item>
-      <title>AI agents exploited PaperCut flaws to breach 395 organizations</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/</guid>
-      <pubDate>Fri, 11 Sep 2026 10:05:32 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A threat actor built a working exploit for PaperCut print management software, then handed the job of breaking into hundreds of organizations to AI agents that did most of the work on their own, according to GreyNoise. The result was at least 440 compromised PaperCut instances… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Most Organizations Skip Permissions Reviews Before Deploying AI Tools</title>
       <link>https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/</guid>
       <pubDate>Fri, 11 Sep 2026 09:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>A new Syskit study has shown that only 43% of organizations with AI agents deployed in Microsoft 365 environments completed a permission review before doing so (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>IDScan confirms breach after 153 million driver’s licenses leak on dark web</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/</guid>
-      <pubDate>Fri, 11 Sep 2026 08:39:33 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Days after reports linked IDScan to a dark web database holding more than 153 million driver’s license scans, the identity verification company has confirmed hackers accessed customer data stored on its cloud platform. The Louisiana-based firm, which processes ID checks for car… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)</title>
@@ -520,14 +592,6 @@
       <description>See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft Defender appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>Nightmare-Eclipse Strikes Again With &#39;ShieldCrash&#39; Windows Exploit</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit</guid>
-      <pubDate>Thu, 10 Sep 2026 15:29:12 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>CISA Updates Insider Threat Guide With New Mitigation Advice</title>
       <link>https://www.infosecurity-magazine.com/news/cisa-updates-insider-threat-guide/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cisa-updates-insider-threat-guide/</guid>
@@ -552,28 +616,12 @@
       <description>Here&#39;s a tip for any budding cybercriminals out there. If you&#39;re going to steal a quarter of a billion dollars worth of cryptocurrency, maybe don&#39;t broadcast on a group chat every time you buy a Lamborghini, or blow half a million dollars on a single night out at a nightclub.… (via Graham Cluley)</description>
     </item>
     <item>
-      <title>MantaxOtax Android Malware Combines Ransomware With Spyware</title>
-      <link>https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/</guid>
-      <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>MantaxOtax Android malware combines ransomware with extensive spyware capabilities (via Infosecurity Magazine)</description>
-    </item>
-    <item>
       <title>Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)</title>
       <link>https://isc.sans.edu/diary/rss/33326</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33326</guid>
       <pubDate>Thu, 10 Sep 2026 12:58:10 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program] (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors</title>
-      <link>https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/</guid>
-      <pubDate>Thu, 10 Sep 2026 12:15:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>AIs Compress Exploit Timeline</title>
@@ -598,22 +646,6 @@
       <pubDate>Thu, 10 Sep 2026 10:00:43 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Learn how root access on a compromised K8s node allows attackers to utilize SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities. The post The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Anthropic Reveals Yet Another Cybersecurity Incident</title>
-      <link>https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/</guid>
-      <pubDate>Thu, 10 Sep 2026 08:45:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Anthropic has found a fourth case of its model accessing third-party systems without authorization (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>OFAC Sanctions Chinese Scam Platform Xinbi Guarantee</title>
-      <link>https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/</guid>
-      <pubDate>Thu, 10 Sep 2026 08:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>The Boring Way to Get to AI Taking Over Everything</title>
@@ -680,20 +712,12 @@
       <description>A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail . (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls</title>
-      <link>https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/</guid>
-      <pubDate>Wed, 09 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>The hacking tool, built using a combination of AI models, is effective against Android and iOS devices (via Infosecurity Magazine)</description>
-    </item>
-    <item>
       <title>Claude Fable Solves a Historical Cipher</title>
       <link>https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html</guid>
       <pubDate>Wed, 09 Sep 2026 11:08:26 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It’s good at things that involve lots of searching and testing. (via Schneier on Security)</description>
+      <description>Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It’s good at things that involve lots of searching and testing. EDITED TO ADD (9/14): I’m not sure if this result is correct . The blog comments have… (via Schneier on Security)</description>
     </item>
     <item>
       <title>Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure</title>
@@ -768,14 +792,6 @@
       <description>Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
     </item>
     <item>
-      <title>Stealing AI Reasoning Traces</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html</guid>
-      <pubDate>Tue, 08 Sep 2026 10:20:04 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than… (via Schneier on Security)</description>
-    </item>
-    <item>
       <title>Testing race conditions with memory access tracing and stack-based delay injection</title>
       <link>https://projectzero.google/2026/09/maccconc-race-condition.html</link>
       <guid isPermaLink="false">https://projectzero.google/2026/09/maccconc-race-condition.html</guid>
@@ -790,22 +806,6 @@
       <pubDate>Tue, 08 Sep 2026 01:16:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>Charcoal cutaway of a three-story building: a small purple glass lab on top where researchers admire a humanoid robot, and two much larger sienna floors below crowded with a family at a kitchen table, an old man in a sickbed, a child reading under a bare bulb, and a mother… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>The Good Person Bank</title>
-      <link>https://danielmiessler.com/blog/the-good-person-bank?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/the-good-person-bank?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Tue, 08 Sep 2026 00:30:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>A charcoal sketch of a man whose head is an open purple ledger with a rubber stamp on it, dropping coins into a donation box held by a smiling person on his left while his other arm shoves a startled waiter away on his… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Humans Aren&#39;t Aligned Either</title>
-      <link>https://danielmiessler.com/blog/humans-arent-aligned-either?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/humans-arent-aligned-either?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Tue, 08 Sep 2026 00:27:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Charcoal sketch of a man in a long coat holding a carpenter&#39;s level against an upright purple machine, while behind him a toppled column smokes and small figures huddle in the rubble/images/humans-arent-aligned-either-header.webp/images/humans-arent-aligned-either-header.webp… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>

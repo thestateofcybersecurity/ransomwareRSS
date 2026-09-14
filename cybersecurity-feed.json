@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T06:28:29.648Z",
+  "updated": "2026-09-14T14:15:45.857Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,44 +114,260 @@
   ],
   "items": [
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Turn it off and on again, but for critical infrastructure",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/",
-      "date": "2026-09-14T06:00:04.000Z",
-      "excerpt": "Researchers at KTH Royal Institute of Technology built a container replica of a segmented industrial network, attacked it repeatedly across 14 days of running time, and used the captured traffic to train a defense agent that decides on its own when to intervene. The agent sees…"
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Human Attacker Hits Machine-Speed Exploitation of Marimo RCE",
+      "link": "https://www.infosecurity-magazine.com/news/human-attacker-machine-speed/",
+      "date": "2026-09-14T14:15:00.000Z",
+      "excerpt": "A human attacker exploited a Marimo RCE and reached an SSH bastion in eight seconds"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+      "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+      "date": "2026-09-14T14:01:11.000Z",
+      "excerpt": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching faster without sacrificing…"
     },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Permify: Open-source authorization as a service",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/",
-      "date": "2026-09-14T05:30:58.000Z",
-      "excerpt": "Permify is an open-source authorization service that answers access questions at run time: can user X view document Y, which posts can members of team Y edit. It keeps those rules in one place, apart from the application code that would otherwise carry them. Permify follows the…"
+      "title": "Entrust turns cryptographic inventory data into security action",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/entrust-cbom-capabilities/",
+      "date": "2026-09-14T13:54:15.000Z",
+      "excerpt": "Entrust has unveiled new capabilities for its Cryptographic Security Platform (CSP) that help organizations turn Cryptographic Bill of Materials (CBOMs) data into action. Government agencies, financial institutions, healthcare organizations, and other critical infrastructure…"
     },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Cybersecurity attention fades within months after a breach",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/",
-      "date": "2026-09-14T05:00:57.000Z",
-      "excerpt": "Cybersecurity attention often rises after an incident, then recedes as organizations return to their existing priorities and practices, according to a new ManageEngine survey of 700 IT and cybersecurity leaders in the US and Canada. (Source: ManageEngine) All of them had already…"
+      "title": "Bitsight connects threat intelligence and exposure monitoring across the supply chain",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/bitsight-beacon/",
+      "date": "2026-09-14T13:42:56.000Z",
+      "excerpt": "Bitsight access to a broad risk dataset, combining threat intelligence and continuous exposure monitoring to help teams mitigate risk across the supply chain. “The surge in third-party-originating cybersecurity breaches demands a fundamental shift in how cybersecurity leaders…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate",
+      "link": "https://www.securityweek.com/new-warnings-about-the-risks-of-ai-to-humanity-revive-a-long-running-debate/",
+      "date": "2026-09-14T13:31:15.000Z",
+      "excerpt": "Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on…"
     },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Certificate failures can cost firms over $250,000",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/",
-      "date": "2026-09-14T04:30:38.000Z",
-      "excerpt": "The move toward 47-day public TLS certificates by 2029 will increase the certificate management workload for enterprises, according to DigiCert’s Certificate Management Outlook. Organizations will need to renew certificates more than eight times as often as under the previous…"
+      "title": "Dataminr uses agentic AI to predict and verify security threats",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/dataminr-uses-agentic-ai-to-predict-and-verify-security-threats/",
+      "date": "2026-09-14T13:25:25.000Z",
+      "excerpt": "Dataminr has announced Dataminr Advanced for Corporate Security, delivering agentic AI capabilities that give corporate security teams the confidence to protect their people, sites, and operations before risk escalates. With Agentic Corroboration, Agentic Context, and Near-Term…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Personal, Financial Info Exposed in Revolut Data Breach",
+      "link": "https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/",
+      "date": "2026-09-14T13:03:35.000Z",
+      "excerpt": "The company unintentionally disclosed users’ information to a third party impersonating a government agency. The post Personal, Financial Info Exposed in Revolut Data Breach appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "The Race to Control AI and Protect What Makes Us Human",
+      "link": "https://www.securityweek.com/the-race-to-control-ai-and-protect-what-makes-us-human/",
+      "date": "2026-09-14T13:00:00.000Z",
+      "excerpt": "As researchers warn that misaligned AI could threaten human survival, even beneficial systems may erode the critical thinking that defines our humanity. The post The Race to Control AI and Protect What Makes Us Human appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Defense Cyber Spending Set to Surge Amid Rising Attacks on Military Systems",
+      "link": "https://www.infosecurity-magazine.com/news/defense-cyber-spending-attacks/",
+      "date": "2026-09-14T12:45:00.000Z",
+      "excerpt": "MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the military"
     },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AWS puts AI vulnerability detection to the test, and false positives pile up",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/",
-      "date": "2026-09-14T04:00:14.000Z",
-      "excerpt": "AWS’ Deception Benchmark measures how well AI models distinguish genuine security vulnerabilities from code that looks risky but is safe. AWS is making it publicly available so researchers can use the dataset and evaluation process without repeating the cost of generating and…"
+      "title": "ENISA launched the CRA Single Reporting Platform for actively exploited vulnerabilities",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/enisa-cra-single-reporting-platform/",
+      "date": "2026-09-14T12:23:42.000Z",
+      "excerpt": "The EU Agency for Cybersecurity switched on the Cyber Resilience Act‘s Single Reporting Platform on 11 September 2026, the same day the law’s reporting obligations started binding manufacturers. ENISA built the tool and runs its day-to-day operations, a job Article 16(1) of the…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
+      "date": "2026-09-14T12:15:23.000Z",
+      "excerpt": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Revolut handed customer data to fraudsters using government email account",
+      "link": "https://therecord.media/revolut-scam-crypto-impersonation",
+      "date": "2026-09-14T12:00:00.000Z",
+      "excerpt": "British fintech Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
+      "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
+      "date": "2026-09-14T11:58:00.000Z",
+      "excerpt": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution",
+      "link": "https://www.securityweek.com/chinese-hackers-exploit-critical-tencent-software-flaw-for-one-click-code-execution/",
+      "date": "2026-09-14T11:51:29.000Z",
+      "excerpt": "The Chinese-language input method editor for Windows can allow attackers to execute arbitrary code remotely. The post Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Revolut Confirms Data Breach Through Fake Government Requests",
+      "link": "https://www.infosecurity-magazine.com/news/revolut-data-breach-fake-government/",
+      "date": "2026-09-14T11:20:00.000Z",
+      "excerpt": "An unauthorized party used a legitimate government email domain to fraudulently request Revolut customer data"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Microsoft’s Patching",
+      "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
+      "date": "2026-09-14T11:03:26.000Z",
+      "excerpt": "Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Airrived adds Agentic Observability to track AI agent actions and risks",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/airrived-agentic-observability-expansion/",
+      "date": "2026-09-14T10:51:32.000Z",
+      "excerpt": "Airrived will reveal Agentic Observability, a major expansion of its enterprise Agentic OS built to give organizations end-to-end visibility into how AI agents behave, from the moment enterprise data enters the platform, through agent reasoning and execution, to the final…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "CISOs Race to Control AI Agents Without Destroying Their Value",
+      "link": "https://www.securityweek.com/cisos-race-to-control-ai-agents-without-destroying-their-value/",
+      "date": "2026-09-14T10:30:00.000Z",
+      "excerpt": "Security leaders are struggling to modernize cyber hygiene and prevent over-privileged agents from causing unintended harm. The post CISOs Race to Control AI Agents Without Destroying Their Value appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
+      "link": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
+      "date": "2026-09-14T10:00:01.000Z",
+      "excerpt": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection appeared first on Unit 42 ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Hackers Exploit Maximum Severity Flaw in GitLab",
+      "link": "https://www.infosecurity-magazine.com/news/hackers-exploit-maximum-severity/",
+      "date": "2026-09-14T10:00:00.000Z",
+      "excerpt": "CISA warns that threat actors are exploiting a vulnerability with a CVSS score of 10.0"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Telus Warns Customers of Account Breaches",
+      "link": "https://www.securityweek.com/telus-warns-customers-of-account-breaches/",
+      "date": "2026-09-14T09:56:57.000Z",
+      "excerpt": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft: September updates cause RDS failures on Windows Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
+      "date": "2026-09-14T09:50:25.000Z",
+      "excerpt": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
+      "link": "https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/",
+      "date": "2026-09-14T09:27:29.000Z",
+      "excerpt": "The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "OpenAI Agent Swarm Hacks RubyGems Package Manager",
+      "link": "https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/",
+      "date": "2026-09-14T08:50:00.000Z",
+      "excerpt": "Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Revolut discloses data breach exposing financial info, passports",
+      "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
+      "date": "2026-09-14T08:48:24.000Z",
+      "excerpt": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks",
+      "link": "https://www.securityweek.com/connectwise-patches-screenconnect-vulnerability-exploited-in-worm-like-attacks/",
+      "date": "2026-09-14T08:25:14.000Z",
+      "excerpt": "The flaw allows attackers to send files and execute them without authorization through an active remote session. The post ConnectWise Patches ScreenConnect Vulnerability Exploited in Worm-Like Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft: September updates break audio on some Windows PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
+      "date": "2026-09-14T08:08:16.000Z",
+      "excerpt": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "WhatsApp Restricted Chat locks a conversation to your primary phone",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/",
+      "date": "2026-09-14T08:08:04.000Z",
+      "excerpt": "WhatsApp is building a per-chat setting that keeps a conversation on a single phone. The setting, called Restricted Chat, sits in the Android beta distributed through Google Play as version 2.26.36.5, and it stops the app from syncing a chosen conversation to linked devices.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Debian 13.7 ships the fixes behind 92 security advisories, updates 106 packages",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/",
+      "date": "2026-09-14T07:40:52.000Z",
+      "excerpt": "The Debian project shipped Debian 13.7 codenamed “trixie.” The project folded in 92 security advisories it had already published separately, added corrections to 106 source packages, and rebuilt the installer around both. Six of the 92 advisories cover the Linux kernel, each…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
+      "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
+      "date": "2026-09-14T07:24:39.000Z",
+      "excerpt": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
+      "date": "2026-09-14T07:06:27.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "What we know about the Revolut data breach so far",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
+      "date": "2026-09-14T07:02:51.000Z",
+      "excerpt": "Someone impersonating a government agency, using an email address on that agency’s domain, obtained sensitive customer records from Revolut. The bank confirmed the incident on Saturday, September 12. The London-based fintech told TechCrunch that a limited number of customers…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -160,6 +376,14 @@
       "link": "https://isc.sans.edu/diary/rss/33334",
       "date": "2026-09-14T02:00:03.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "ATT&CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split",
+      "link": "https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide",
+      "date": "2026-09-14T00:00:00.000Z",
+      "excerpt": "Artifacts and tooling for the new Enterprise MITRE ATT&CK matrix tactics, distilled from the field."
     },
     {
       "source": "The Record",
@@ -178,28 +402,12 @@
       "excerpt": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
-      "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
-      "date": "2026-09-13T13:27:25.000Z",
-      "excerpt": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
       "date": "2026-09-13T10:11:48.000Z",
       "excerpt": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant,…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Week in review: Linux rootkit deployed on F5 BIG-IP APM devices, Cisco FMC bugs exploited",
-      "link": "https://www.helpnetsecurity.com/2026/09/13/week-in-review-linux-rootkit-deployed-on-f5-big-ip-apm-devices-cisco-fmc-bugs-exploited/",
-      "date": "2026-09-13T08:00:57.000Z",
-      "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Zero trust AI agents demand a different kind of security In this interview, Chris Webber, VP, Product Marketing at Teleport, explains why zero trust principles need to change for AI…"
     },
     {
       "source": "The Hacker News",
@@ -218,14 +426,6 @@
       "excerpt": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days",
-      "link": "https://www.securityweek.com/bluemoon-exploit-kit-chains-recent-chrome-windows-zero-days/",
-      "date": "2026-09-12T11:10:00.000Z",
-      "excerpt": "Multiple espionage-motivated threat actors have adopted BlueMoon in opportunistic, rushed deployments. The post BlueMoon Exploit Kit Chains Recent Chrome, Windows Zero-Days appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
@@ -240,14 +440,6 @@
       "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
       "date": "2026-09-12T09:07:56.000Z",
       "excerpt": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx. On May 12, Maciej Mensfeld, senior product manager for software supply…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says",
-      "link": "https://www.securityweek.com/users-in-houthi-held-yemen-tried-to-develop-advanced-weapons-with-ai-anthropic-says/",
-      "date": "2026-09-12T01:50:53.000Z",
-      "excerpt": "Anthropic said the users did not succeed in “fielding an operational device” but did carry out a failed test of a guided rocket. The post Users in Houthi-Held Yemen Tried to Develop Advanced Weapons With AI, Anthropic Says appeared first on SecurityWeek ."
     },
     {
       "source": "CyberScoop",
@@ -282,14 +474,6 @@
       "excerpt": "I think what really resonates with me this week is being able to completely turn the tables on perceptions around things like AI being the big bad hacking tool the news would have you believe. There's the stat I talk about where it's had literally 0%"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-      "date": "2026-09-11T20:19:09.000Z",
-      "excerpt": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
@@ -304,14 +488,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/1m-personalized-fraud-emails-3-days",
       "date": "2026-09-11T19:21:08.000Z",
       "excerpt": "Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Florida confirms DMV database breached via stolen police account",
-      "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-      "date": "2026-09-11T19:00:29.000Z",
-      "excerpt": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]"
     },
     {
       "source": "Dark Reading",
@@ -340,6 +516,14 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
+      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
+      "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
+      "date": "2026-09-11T18:27:28.000Z",
+      "excerpt": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
       "title": "Why AI Is So Good at Scamming Humans",
       "link": "https://www.darkreading.com/cyber-risk/ai-scamming-humans",
       "date": "2026-09-11T18:14:06.000Z",
@@ -352,22 +536,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html",
       "date": "2026-09-11T18:06:24.000Z",
       "excerpt": "Last month, I gave a talk at DEF CON on AI hacking: what happens when AIs become hackers. It’s a combination of the potentialities I raised in my 2022 book A Hacker’s Mind and the lessons we’re learning from current AI models engaging in hacking behavior. I’m really proud of the…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
-      "date": "2026-09-11T17:26:50.000Z",
-      "excerpt": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
-      "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
-      "date": "2026-09-11T17:23:36.000Z",
-      "excerpt": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek ."
     },
     {
       "source": "Daniel Miessler",
@@ -394,28 +562,12 @@
       "excerpt": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
-      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
-      "date": "2026-09-11T16:29:44.000Z",
-      "excerpt": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
       "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
       "date": "2026-09-11T16:15:29.000Z",
       "excerpt": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
-      "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
-      "date": "2026-09-11T16:11:08.000Z",
-      "excerpt": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek ."
     },
     {
       "source": "Dark Reading",
@@ -434,52 +586,12 @@
       "excerpt": "I identified an attacker using a semi-autonomous coding agent to run an offensive operation: finding poorly secured LLM resale gateways, acquiring API access through ordinary web flaws and account farming, validating the resulting inference capacity, and aggregating it behind a…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-      "date": "2026-09-11T14:29:47.000Z",
-      "excerpt": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
-      "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
-      "date": "2026-09-11T14:19:18.000Z",
-      "excerpt": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced,…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-      "date": "2026-09-11T14:10:20.000Z",
-      "excerpt": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
-      "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
-      "date": "2026-09-11T14:01:11.000Z",
-      "excerpt": "Threat actors are abusing trusted AI platforms to host malicious content, poison search results, and trick users into installing malware. Huntress examines campaigns targeting AI users through weaponized Claude Artifacts, shared AI conversations, sponsored search results, and…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Hackers Favor US Eastern Business Hours in M365 Phishing Campaign",
       "link": "https://www.infosecurity-magazine.com/news/hackers-us-business-hours-m365/",
       "date": "2026-09-11T13:30:00.000Z",
       "excerpt": "KnowBe4 researchers observed a new phishing campaign leveraging Microsoft 365’s Direct Send to send malicious emails"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack",
-      "link": "https://www.securityweek.com/trezor-says-347000-users-received-phishing-emails-after-brevo-hack/",
-      "date": "2026-09-11T12:48:04.000Z",
-      "excerpt": "Hackers compromised the Brevo marketing platform and used that access to send phishing emails to users of Trezor, BitBox, and CoinTracking. The post Trezor Says 347,000 Users Received Phishing Emails After Brevo Hack appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
@@ -490,36 +602,12 @@
       "excerpt": "Anthropic detected and disrupted a Russia-linked cyber-espionage group that used its AI tool Claude in a hacking campaign targeting more than 20 government, intelligence, diplomatic and defense organizations."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Ukrainian hacker gets four years in US prison over Conti ransomware attacks",
-      "link": "https://therecord.media/conti-ransomware-ukraine-hacker",
-      "date": "2026-09-11T12:00:00.000Z",
-      "excerpt": "A Ukrainian national was sentenced to four years in a U.S. prison for his role in the notorious Conti ransomware operation, which targeted more than 1,000 victims worldwide before shutting down in 2022."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "ClickFix attacks infecting PCs and Macs are going viral",
       "link": "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
       "date": "2026-09-11T11:30:58.000Z",
       "excerpt": "Simplicity—combined with the difficulty of getting stuff done—makes ClickFix ideal."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison",
-      "link": "https://www.securityweek.com/ukrainian-conti-ransomware-developer-sentenced-to-4-years-in-us-prison/",
-      "date": "2026-09-11T11:29:09.000Z",
-      "excerpt": "Oleksii Oleksiyovych Lytvynenko has been sentenced to 4 years in prison after he was arrested in Ireland in 2023. The post Ukrainian Conti Ransomware Developer Sentenced to 4 Years in US Prison appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "GitLab urges users to patch max severity path traversal flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-      "date": "2026-09-11T11:15:22.000Z",
-      "excerpt": "GitLab urged users on Thursday to patch their servers immediately against a maximum-severity path traversal vulnerability tracked as CVE-2026-85706. [...]"
     },
     {
       "source": "Schneier on Security",
@@ -530,28 +618,12 @@
       "excerpt": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AI agents exploited PaperCut flaws to breach 395 organizations",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/ai-agents-papercut-ng-mf-attack-campaign/",
-      "date": "2026-09-11T10:05:32.000Z",
-      "excerpt": "A threat actor built a working exploit for PaperCut print management software, then handed the job of breaking into hundreds of organizations to AI agents that did most of the work on their own, according to GreyNoise. The result was at least 440 compromised PaperCut instances…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Most Organizations Skip Permissions Reviews Before Deploying AI Tools",
       "link": "https://www.infosecurity-magazine.com/news/organizations-skip-permissions-ai/",
       "date": "2026-09-11T09:30:00.000Z",
       "excerpt": "A new Syskit study has shown that only 43% of organizations with AI agents deployed in Microsoft 365 environments completed a permission review before doing so"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "IDScan confirms breach after 153 million driver’s licenses leak on dark web",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/idscan-net-data-breach-153-million-drivers-licenses/",
-      "date": "2026-09-11T08:39:33.000Z",
-      "excerpt": "Days after reports linked IDScan to a dark web database holding more than 153 million driver’s license scans, the identity verification company has confirmed hackers accessed customer data stored on its cloud platform. The Louisiana-based firm, which processes ID checks for car…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -626,14 +698,6 @@
       "excerpt": "See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft Defender appeared first on Microsoft Security Blog ."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-strikes-again-shieldcrash-windows-exploit",
-      "date": "2026-09-10T15:29:12.000Z",
-      "excerpt": "The disgruntled researcher continued their vendetta against Microsoft by publishing yet another zero-day exploit for Windows Defender."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "CISA Updates Insider Threat Guide With New Mitigation Advice",
@@ -658,28 +722,12 @@
       "excerpt": "Here's a tip for any budding cybercriminals out there. If you're going to steal a quarter of a billion dollars worth of cryptocurrency, maybe don't broadcast on a group chat every time you buy a Lamborghini, or blow half a million dollars on a single night out at a nightclub.…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "MantaxOtax Android Malware Combines Ransomware With Spyware",
-      "link": "https://www.infosecurity-magazine.com/news/mantaxotax-android-malware/",
-      "date": "2026-09-10T13:00:00.000Z",
-      "excerpt": "MantaxOtax Android malware combines ransomware with extensive spyware capabilities"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Redtail Payload Analysis [Guest Diary], (Wed, Sep 9th)",
       "link": "https://isc.sans.edu/diary/rss/33326",
       "date": "2026-09-10T12:58:10.000Z",
       "excerpt": "[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "FBI Publishes First-Ever Cyber Strategy, With Focus on Disrupting Threat Actors",
-      "link": "https://www.infosecurity-magazine.com/news/fbi-cyber-strategy-disrupting/",
-      "date": "2026-09-10T12:15:00.000Z",
-      "excerpt": "The new document appears to be part of a broader shift by the US government towards the proactive disruption of cyber threat actors"
     },
     {
       "source": "Schneier on Security",
@@ -704,22 +752,6 @@
       "link": "https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/",
       "date": "2026-09-10T10:00:43.000Z",
       "excerpt": "Learn how root access on a compromised K8s node allows attackers to utilize SPIFFE/SPIRE metadata to spoof and harvest co-located workload identities. The post The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE appeared first on Unit 42 ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Anthropic Reveals Yet Another Cybersecurity Incident",
-      "link": "https://www.infosecurity-magazine.com/news/anthropic-another-cybersecurity/",
-      "date": "2026-09-10T08:45:00.000Z",
-      "excerpt": "Anthropic has found a fourth case of its model accessing third-party systems without authorization"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "OFAC Sanctions Chinese Scam Platform Xinbi Guarantee",
-      "link": "https://www.infosecurity-magazine.com/news/ofac-sanctions-chinese-scam/",
-      "date": "2026-09-10T08:00:00.000Z",
-      "excerpt": "The US Treasury has placed sanctions on notorious Chinese cybercrime marketplace Xinbi Guarantee"
     },
     {
       "source": "Daniel Miessler",
@@ -786,20 +818,12 @@
       "excerpt": "A database of 153 million drivers licenses is for sale on the dark web. Brian Krebs has more detail ."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Researchers Build WeChat Zero-Click Worm Hijacking Phones via Calls",
-      "link": "https://www.infosecurity-magazine.com/news/wechat-zeroclick-worm-hijack/",
-      "date": "2026-09-09T15:00:00.000Z",
-      "excerpt": "The hacking tool, built using a combination of AI models, is effective against Android and iOS devices"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Claude Fable Solves a Historical Cipher",
       "link": "https://www.schneier.com/blog/archives/2026/09/claude-fable-solves-a-historical-cipher.html",
       "date": "2026-09-09T11:08:26.000Z",
-      "excerpt": "Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It’s good at things that involve lots of searching and testing."
+      "excerpt": "Claude Fable 5.1 solved a 370-year-old cipher in forty-four minutes. This tracks with what I wrote about AIs doing mathematics: It’s good at things that involve lots of searching and testing. EDITED TO ADD (9/14): I’m not sure if this result is correct . The blog comments have…"
     },
     {
       "source": "Unit 42",
@@ -874,14 +898,6 @@
       "excerpt": "Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog."
     },
     {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Stealing AI Reasoning Traces",
-      "link": "https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html",
-      "date": "2026-09-08T10:20:04.000Z",
-      "excerpt": "Interesting research: “ Stealing Reasoning Traces from Proprietary LLM APIs “: Abstract: Leading large language model providers now conceal their models’ step-by-step reasoning, or chain-of-thought, to protect intellectual property and limit information leakage. Rather than…"
-    },
-    {
       "source": "Google Project Zero",
       "sourceUrl": "https://googleprojectzero.blogspot.com/",
       "title": "Testing race conditions with memory access tracing and stack-based delay injection",
@@ -896,22 +912,6 @@
       "link": "https://danielmiessler.com/blog/watch-the-plot?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-08T01:16:00.000Z",
       "excerpt": "Charcoal cutaway of a three-story building: a small purple glass lab on top where researchers admire a humanoid robot, and two much larger sienna floors below crowded with a family at a kitchen table, an old man in a sickbed, a child reading under a bare bulb, and a mother…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "The Good Person Bank",
-      "link": "https://danielmiessler.com/blog/the-good-person-bank?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-08T00:30:00.000Z",
-      "excerpt": "A charcoal sketch of a man whose head is an open purple ledger with a rubber stamp on it, dropping coins into a donation box held by a smiling person on his left while his other arm shoves a startled waiter away on his…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Humans Aren't Aligned Either",
-      "link": "https://danielmiessler.com/blog/humans-arent-aligned-either?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-08T00:27:00.000Z",
-      "excerpt": "Charcoal sketch of a man in a long coat holding a carpenter's level against an upright purple machine, while behind him a toppled column smokes and small figures huddle in the rubble/images/humans-arent-aligned-either-header.webp/images/humans-arent-aligned-either-header.webp…"
     }
   ]
 }
