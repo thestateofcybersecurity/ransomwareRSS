@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T19:29:26.341Z",
+  "updated": "2026-09-14T23:13:17.064Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,70 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Apple parental controls in iOS 27 let kids ask before opening new websites",
+      "link": "https://www.helpnetsecurity.com/2026/09/15/apple-parental-controls-ios-27/",
+      "date": "2026-09-14T22:37:34.000Z",
+      "excerpt": "Apple has overhauled the child-safety tools that ship across iPhone, iPad, and Mac. One idea runs through the redesign. Give a child a device that does very little, then open it up as they’re ready. The tools went live on September 14, after a preview in June, and they require…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Cybersecurity jobs available right now: September 15, 2026",
+      "link": "https://www.helpnetsecurity.com/2026/09/15/cybersecurity-jobs-available-right-now-september-15-2026/",
+      "date": "2026-09-14T22:15:54.000Z",
+      "excerpt": "AI & Security Architect SecNinjaz Technologies | India | On-site – View job details As an AI & Security Architect, you will design secure and reliable AI agent platforms, including tools, memory, models, evaluations, and backend services. You will define controls for sensitive…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Sandworm' Chains Cisco Vulnerabilities to Deploy Cyclops Blink",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sandworm-chains-cisco-vulnerabilities-cyclops-blink",
+      "date": "2026-09-14T21:37:28.000Z",
+      "excerpt": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+      "date": "2026-09-14T20:52:18.000Z",
+      "excerpt": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+      "date": "2026-09-14T20:36:02.000Z",
+      "excerpt": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
+      "date": "2026-09-14T20:19:22.000Z",
+      "excerpt": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+      "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+      "date": "2026-09-14T19:51:04.000Z",
+      "excerpt": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Members of ‘Black Axe’ cybercriminal group extradited from South Africa",
+      "link": "https://therecord.media/members-of-black-axe-cybercrime-group-extradited-south-africa",
+      "date": "2026-09-14T19:40:00.000Z",
+      "excerpt": "Prosecutors unsealed a 2021 indictment accusing the five men of conducting lucrative romance scams that stole thousands of dollars from more than 100 people."
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
@@ -158,8 +222,24 @@
       "sourceUrl": "https://thehackernews.com/",
       "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
       "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-      "date": "2026-09-14T16:58:42.000Z",
+      "date": "2026-09-14T18:02:13.000Z",
       "excerpt": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it were current. The attack…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+      "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+      "date": "2026-09-14T18:01:49.000Z",
+      "excerpt": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said. The company uncovered the…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+      "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+      "date": "2026-09-14T17:58:16.000Z",
+      "excerpt": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12. In Telegram, the message looked ordinary, with a link button, and the script ran…"
     },
     {
       "source": "The Hacker News",
@@ -167,7 +247,7 @@
       "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
       "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
       "date": "2026-09-14T16:56:30.000Z",
-      "excerpt": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances across seven…"
+      "excerpt": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign. \"Red Heron scanned 1,386 Gitea instances…"
     },
     {
       "source": "Dark Reading",
@@ -410,14 +490,6 @@
       "excerpt": "Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: September updates cause RDS failures on Windows Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-      "date": "2026-09-14T09:50:25.000Z",
-      "excerpt": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Three JFrog Artifactory Flaws Exploited for Backdoor Deployment",
@@ -434,22 +506,6 @@
       "excerpt": "Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Revolut discloses data breach exposing financial info, passports",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-      "date": "2026-09-14T08:48:24.000Z",
-      "excerpt": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: September updates break audio on some Windows PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-      "date": "2026-09-14T08:08:16.000Z",
-      "excerpt": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "WhatsApp Restricted Chat locks a conversation to your primary phone",
@@ -458,28 +514,12 @@
       "excerpt": "WhatsApp is building a per-chat setting that keeps a conversation on a single phone. The setting, called Restricted Chat, sits in the Android beta distributed through Google Play as version 2.26.36.5, and it stops the app from syncing a chosen conversation to linked devices.…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Debian 13.7 ships the fixes behind 92 security advisories, updates 106 packages",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/debian-13-7-point-release/",
-      "date": "2026-09-14T07:40:52.000Z",
-      "excerpt": "The Debian project shipped Debian 13.7 codenamed “trixie.” The project folded in 92 security advisories it had already published separately, added corrections to 106 source packages, and rebuilt the installer around both. Six of the 92 advisories cover the Linux kernel, each…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
       "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
       "date": "2026-09-14T07:24:39.000Z",
       "excerpt": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeetbot.cc as its developer and…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "What we know about the Revolut data breach so far",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/revolut-data-breach-privacy/",
-      "date": "2026-09-14T07:02:51.000Z",
-      "excerpt": "Someone impersonating a government agency, using an email address on that agency’s domain, obtained sensitive customer records from Revolut. The bank confirmed the incident on Saturday, September 12. The London-based fintech told TechCrunch that a limited number of customers…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -514,22 +554,6 @@
       "excerpt": "The largest electronic spy agency in the world is reorganizing. And fast."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-      "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-      "date": "2026-09-13T10:11:48.000Z",
-      "excerpt": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments. The first campaign, per the tech giant,…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-      "date": "2026-09-12T15:54:45.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems",
@@ -560,14 +584,6 @@
       "link": "https://www.troyhunt.com/weekly-update-521/",
       "date": "2026-09-11T20:37:33.000Z",
       "excerpt": "I think what really resonates with me this week is being able to completely turn the tables on perceptions around things like AI being the big bad hacking tool the news would have you believe. There's the stat I talk about where it's had literally 0%"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Florida says motor vehicle data breach tied to credentials stolen from officer’s personal device",
-      "link": "https://therecord.media/florida-shiny-hunters-motor-vehicle",
-      "date": "2026-09-11T20:00:00.000Z",
-      "excerpt": "The Florida Department of Motor Vehicles confirmed a data breach claimed by the cybercrime group ShinyHunters, saying it originated with the theft of credentials stored on a police officer's personal device."
     },
     {
       "source": "Dark Reading",
@@ -634,14 +650,6 @@
       "excerpt": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
-      "date": "2026-09-11T15:48:27.000Z",
-      "excerpt": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "The Self-Expanding Stolen Inference Supply Chain: An AI Agent Harvesting and Re-Serving LLM Access, (Fri, Sep 11th)",
@@ -688,14 +696,6 @@
       "link": "https://isc.sans.edu/diary/rss/33330",
       "date": "2026-09-11T02:00:02.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
-      "link": "https://www.darkreading.com/mobile-security/indonesia-android-banking-app-cloning-campaign",
-      "date": "2026-09-11T01:00:00.000Z",
-      "excerpt": "The GoldFactory threat group exploits the Android Work Profile feature to deliver the Gigabud Trojan, while Mantax Otax spreads separately."
     },
     {
       "source": "Sophos News",
