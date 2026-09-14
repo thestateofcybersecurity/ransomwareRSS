@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T01:14:33.644Z",
+  "updated": "2026-09-14T06:28:29.648Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Turn it off and on again, but for critical infrastructure",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/",
+      "date": "2026-09-14T06:00:04.000Z",
+      "excerpt": "Researchers at KTH Royal Institute of Technology built a container replica of a segmented industrial network, attacked it repeatedly across 14 days of running time, and used the captured traffic to train a defense agent that decides on its own when to intervene. The agent sees…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Permify: Open-source authorization as a service",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/",
+      "date": "2026-09-14T05:30:58.000Z",
+      "excerpt": "Permify is an open-source authorization service that answers access questions at run time: can user X view document Y, which posts can members of team Y edit. It keeps those rules in one place, apart from the application code that would otherwise carry them. Permify follows the…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Cybersecurity attention fades within months after a breach",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/",
+      "date": "2026-09-14T05:00:57.000Z",
+      "excerpt": "Cybersecurity attention often rises after an incident, then recedes as organizations return to their existing priorities and practices, according to a new ManageEngine survey of 700 IT and cybersecurity leaders in the US and Canada. (Source: ManageEngine) All of them had already…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Certificate failures can cost firms over $250,000",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/",
+      "date": "2026-09-14T04:30:38.000Z",
+      "excerpt": "The move toward 47-day public TLS certificates by 2029 will increase the certificate management workload for enterprises, according to DigiCert’s Certificate Management Outlook. Organizations will need to renew certificates more than eight times as often as under the previous…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AWS puts AI vulnerability detection to the test, and false positives pile up",
+      "link": "https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/",
+      "date": "2026-09-14T04:00:14.000Z",
+      "excerpt": "AWS’ Deception Benchmark measures how well AI models distinguish genuine security vulnerabilities from code that looks risky but is safe. AWS is making it publicly available so researchers can use the dataset and evaluation process without repeating the cost of generating and…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33334",
+      "date": "2026-09-14T02:00:03.000Z",
+      "excerpt": ""
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -506,46 +554,6 @@
       "excerpt": "Days after reports linked IDScan to a dark web database holding more than 153 million driver’s license scans, the identity verification company has confirmed hackers accessed customer data stored on its cloud platform. The Louisiana-based firm, which processes ID checks for car…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Kiteworks expands runtime data governance with Bonfy.AI acquisition",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/",
-      "date": "2026-09-11T08:04:07.000Z",
-      "excerpt": "Kiteworks has acquired Bonfy.AI, extending runtime data governance across its control plane. The acquisition enables organizations to govern data exchanges as they happen, whether initiated by a person, machine, or autonomous agent. The acquisition addresses a structural gap in…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Automox Mitigation Worklets cut endpoint exposure to unpatchable flaws",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/",
-      "date": "2026-09-11T07:48:56.000Z",
-      "excerpt": "Automox has announced its AI-speed Mitigation Worklet Pipeline, which automates mitigation to reduce risk from the increased volume and velocity of frontier-model AI vulnerabilities. Now the time from vulnerability disclosure to exposure mitigation is shortened from days or…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Getting a stranger’s phone kicked off the cellular network costs a few dollars",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/cellular-network-lost-phone-reporting/",
-      "date": "2026-09-11T06:00:16.000Z",
-      "excerpt": "Researchers at Michigan State University and three partner schools bought a Samsung Galaxy Z Fold 7, copied the identification number printed on the sealed box, and reported the phone to its carrier as lost. Then they opened the box and set the phone up the way a launch-day…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Building a ransomware decision tree before the call comes in",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/ransomware-decision-tree-video/",
-      "date": "2026-09-11T05:30:53.000Z",
-      "excerpt": "In this Help Net Security video, Kerri Shafer-Page, VP of Incident Response at Arctic Wolf, walks through the ransomware decision tree in this video. She covers four areas where decisions need settling in advance, starting with containment. Someone has to know the network well…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Companies may be measuring phishing resilience the wrong way",
-      "link": "https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/",
-      "date": "2026-09-11T05:00:07.000Z",
-      "excerpt": "Companies that judge phishing simulation programs by how often employees click simulated attack emails may be overlooking more important indicators of cyber resilience, according to Pistachio’s Phishing Behaviour Report 2026. Examples of difficult simulations (Source: Pistachio)…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)",
@@ -880,14 +888,6 @@
       "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
       "date": "2026-09-08T07:00:00.000Z",
       "excerpt": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)",
-      "link": "https://isc.sans.edu/diary/rss/33316",
-      "date": "2026-09-08T02:00:03.000Z",
-      "excerpt": ""
     },
     {
       "source": "Daniel Miessler",

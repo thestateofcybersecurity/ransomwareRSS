@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 01:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:28:29 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Turn it off and on again, but for critical infrastructure</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/ot-intrusion-response-agent/</guid>
+      <pubDate>Mon, 14 Sep 2026 06:00:04 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Researchers at KTH Royal Institute of Technology built a container replica of a segmented industrial network, attacked it repeatedly across 14 days of running time, and used the captured traffic to train a defense agent that decides on its own when to intervene. The agent sees… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Permify: Open-source authorization as a service</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/permify-open-source-authorization-as-a-service/</guid>
+      <pubDate>Mon, 14 Sep 2026 05:30:58 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Permify is an open-source authorization service that answers access questions at run time: can user X view document Y, which posts can members of team Y edit. It keeps those rules in one place, apart from the application code that would otherwise carry them. Permify follows the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Cybersecurity attention fades within months after a breach</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/manageengine-cybersecurity-breach-confidence-report/</guid>
+      <pubDate>Mon, 14 Sep 2026 05:00:57 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Cybersecurity attention often rises after an incident, then recedes as organizations return to their existing priorities and practices, according to a new ManageEngine survey of 700 IT and cybersecurity leaders in the US and Canada. (Source: ManageEngine) All of them had already… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Certificate failures can cost firms over $250,000</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/digicert-certificate-management-automation-report/</guid>
+      <pubDate>Mon, 14 Sep 2026 04:30:38 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The move toward 47-day public TLS certificates by 2029 will increase the certificate management workload for enterprises, according to DigiCert’s Certificate Management Outlook. Organizations will need to renew certificates more than eight times as often as under the previous… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>AWS puts AI vulnerability detection to the test, and false positives pile up</title>
+      <link>https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/aws-deception-benchmark-security-vulnerabilities/</guid>
+      <pubDate>Mon, 14 Sep 2026 04:00:14 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>AWS’ Deception Benchmark measures how well AI models distinguish genuine security vulnerabilities from code that looks risky but is safe. AWS is making it publicly available so researchers can use the dataset and evaluation process without repeating the cost of generating and… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)</title>
+      <link>https://isc.sans.edu/diary/rss/33334</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33334</guid>
+      <pubDate>Mon, 14 Sep 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>Thorough reorganization at NSA will create five &#39;mission centers,&#39; including cyber and AI</title>
       <link>https://therecord.media/nsa-reorganization-five-mission-centers</link>
@@ -400,46 +448,6 @@
       <description>Days after reports linked IDScan to a dark web database holding more than 153 million driver’s license scans, the identity verification company has confirmed hackers accessed customer data stored on its cloud platform. The Louisiana-based firm, which processes ID checks for car… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Kiteworks expands runtime data governance with Bonfy.AI acquisition</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/kiteworks-bonfy-ai-acquisition/</guid>
-      <pubDate>Fri, 11 Sep 2026 08:04:07 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Kiteworks has acquired Bonfy.AI, extending runtime data governance across its control plane. The acquisition enables organizations to govern data exchanges as they happen, whether initiated by a person, machine, or autonomous agent. The acquisition addresses a structural gap in… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Automox Mitigation Worklets cut endpoint exposure to unpatchable flaws</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/automox-mitigation-worklet-pipeline/</guid>
-      <pubDate>Fri, 11 Sep 2026 07:48:56 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Automox has announced its AI-speed Mitigation Worklet Pipeline, which automates mitigation to reduce risk from the increased volume and velocity of frontier-model AI vulnerabilities. Now the time from vulnerability disclosure to exposure mitigation is shortened from days or… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Getting a stranger’s phone kicked off the cellular network costs a few dollars</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/cellular-network-lost-phone-reporting/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/cellular-network-lost-phone-reporting/</guid>
-      <pubDate>Fri, 11 Sep 2026 06:00:16 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Researchers at Michigan State University and three partner schools bought a Samsung Galaxy Z Fold 7, copied the identification number printed on the sealed box, and reported the phone to its carrier as lost. Then they opened the box and set the phone up the way a launch-day… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Building a ransomware decision tree before the call comes in</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/ransomware-decision-tree-video/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/ransomware-decision-tree-video/</guid>
-      <pubDate>Fri, 11 Sep 2026 05:30:53 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>In this Help Net Security video, Kerri Shafer-Page, VP of Incident Response at Arctic Wolf, walks through the ransomware decision tree in this video. She covers four areas where decisions need settling in advance, starting with containment. Someone has to know the network well… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Companies may be measuring phishing resilience the wrong way</title>
-      <link>https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/11/pistachio-employee-phishing-risk-report/</guid>
-      <pubDate>Fri, 11 Sep 2026 05:00:07 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Companies that judge phishing simulation programs by how often employees click simulated attack emails may be overlooking more important indicators of cyber resilience, according to Pistachio’s Phishing Behaviour Report 2026. Examples of difficult simulations (Source: Pistachio)… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>ISC Stormcast For Friday, September 11th, 2026 https://isc.sans.edu/podcastdetail/10090, (Fri, Sep 11th)</title>
       <link>https://isc.sans.edu/diary/rss/33330</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33330</guid>
@@ -774,14 +782,6 @@
       <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
       <source url="https://googleprojectzero.blogspot.com/">Google Project Zero</source>
       <description>Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static… (via Google Project Zero)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, September 8th, 2026 https://isc.sans.edu/podcastdetail/10084, (Tue, Sep 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/33316</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33316</guid>
-      <pubDate>Tue, 08 Sep 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Watch the Plot</title>
