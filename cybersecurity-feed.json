@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T23:13:17.064Z",
+  "updated": "2026-09-15T01:35:04.028Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Homebrew 7.0.0 is out, here’s what changed for security",
+      "link": "https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/",
+      "date": "2026-09-15T00:47:06.000Z",
+      "excerpt": "Homebrew installs command-line software and desktop applications from the terminal on macOS and Linux, and Mac developers use it to set up their machines. On Sunday the project shipped version 7.0.0 and closed eight security advisories with it. The most serious of them let…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Anthropic's Misuse Report, Condensed to 117 Findings",
+      "link": "https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-14T23:45:00.000Z",
+      "excerpt": "The cover of the UL summary of Anthropic's September 2026 misuse report, with the eight section titles down the left side and 117 findings in the corner/images/ul-anthropic-misuse-report-2026.webphttps://share.danielmiessler.com/G2BrZSoRq3/raw?dl=1 click the cover to download…"
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -506,14 +522,6 @@
       "excerpt": "Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "WhatsApp Restricted Chat locks a conversation to your primary phone",
-      "link": "https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/",
-      "date": "2026-09-14T08:08:04.000Z",
-      "excerpt": "WhatsApp is building a per-chat setting that keeps a conversation on a single phone. The setting, called Restricted Chat, sits in the Android beta distributed through Google Play as version 2.26.36.5, and it stops the app from syncing a chosen conversation to linked devices.…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
@@ -904,14 +912,6 @@
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/us-military-turned-off-ad-tracking-phones",
       "date": "2026-09-08T15:33:07.000Z",
       "excerpt": "Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog."
-    },
-    {
-      "source": "Google Project Zero",
-      "sourceUrl": "https://googleprojectzero.blogspot.com/",
-      "title": "Testing race conditions with memory access tracing and stack-based delay injection",
-      "link": "https://projectzero.google/2026/09/maccconc-race-condition.html",
-      "date": "2026-09-08T07:00:00.000Z",
-      "excerpt": "Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static…"
     }
   ]
 }

@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 14 Sep 2026 23:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:35:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Homebrew 7.0.0 is out, here’s what changed for security</title>
+      <link>https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/</guid>
+      <pubDate>Tue, 15 Sep 2026 00:47:06 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Homebrew installs command-line software and desktop applications from the terminal on macOS and Linux, and Mac developers use it to set up their machines. On Sunday the project shipped version 7.0.0 and closed eight security advisories with it. The most serious of them let… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Anthropic&#39;s Misuse Report, Condensed to 117 Findings</title>
+      <link>https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Mon, 14 Sep 2026 23:45:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>The cover of the UL summary of Anthropic&#39;s September 2026 misuse report, with the eight section titles down the left side and 117 findings in the corner/images/ul-anthropic-misuse-report-2026.webphttps://share.danielmiessler.com/G2BrZSoRq3/raw?dl=1 click the cover to download… (via Daniel Miessler)</description>
+    </item>
     <item>
       <title>Apple parental controls in iOS 27 let kids ask before opening new websites</title>
       <link>https://www.helpnetsecurity.com/2026/09/15/apple-parental-controls-ios-27/</link>
@@ -400,14 +416,6 @@
       <description>Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>WhatsApp Restricted Chat locks a conversation to your primary phone</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/whatsapp-restricted-chat-feature/</guid>
-      <pubDate>Mon, 14 Sep 2026 08:08:04 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>WhatsApp is building a per-chat setting that keeps a conversation on a single phone. The setting, called Restricted Chat, sits in the Android beta distributed through Google Play as version 2.26.36.5, and it stops the app from syncing a chosen conversation to linked devices.… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users</title>
       <link>https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</guid>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 08 Sep 2026 15:33:07 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>Location data sold by the ad industry has reportedly helped adversaries target US troops. The Pentagon has responded by switching off ad tracking on its devices - and you can do the same on yours. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Testing race conditions with memory access tracing and stack-based delay injection</title>
-      <link>https://projectzero.google/2026/09/maccconc-race-condition.html</link>
-      <guid isPermaLink="false">https://projectzero.google/2026/09/maccconc-race-condition.html</guid>
-      <pubDate>Tue, 08 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://googleprojectzero.blogspot.com/">Google Project Zero</source>
-      <description>Many security bugs are race conditions, where multi-threaded execution has to occur with the right interleaving for a negative effect to appear. This creates challenges for several use cases: Confirming bug candidates that have been discovered manually or through static… (via Google Project Zero)</description>
     </item>
   </channel>
 </rss>
