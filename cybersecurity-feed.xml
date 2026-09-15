@@ -5,8 +5,80 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 01:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:53:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Cisco patches Secure Email Gateway zero-day exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/</guid>
+      <pubDate>Tue, 15 Sep 2026 07:31:09 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution</title>
+      <link>https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html</guid>
+      <pubDate>Tue, 15 Sep 2026 06:11:11 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum of 10.0. It has been described… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE</title>
+      <link>https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html</guid>
+      <pubDate>Tue, 15 Sep 2026 05:31:05 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE. Volexity, which is tracking the threat cluster under the… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Product showcase: mSecure makes one vault do more than remember passwords</title>
+      <link>https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/product-showcase-msecure-password-manager/</guid>
+      <pubDate>Tue, 15 Sep 2026 05:30:02 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>mSecure is a password manager and data vault for storing credentials and other sensitive information. It is available for iOS, Android, macOS, and Windows, with data synchronization across supported devices. The app uses AES-256 encryption and a zero-knowledge architecture. The… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation</title>
+      <link>https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/root-rce-zero-day-in-cisco-secure-email-gateway-under-active-exploitation/</guid>
+      <pubDate>Tue, 15 Sep 2026 05:18:51 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>An unauthenticated attacker can exploit CVE-2026-76461 to execute arbitrary commands on the underlying OS with root privileges. The post Root RCE Zero-Day in Cisco Secure Email Gateway Under Active Exploitation appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Your employees are already using AI tools you never approved</title>
+      <link>https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/onetrust-enterprise-ai-governance-trends-report/</guid>
+      <pubDate>Tue, 15 Sep 2026 05:00:19 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Seventy-four percent of respondents report departmental or scaled AI adoption at their organizations, including within individual teams or departments, across business functions, and as part of processes and operations, according to the latest OneTrust 2026 AI-Ready Governance… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Most chief audit executives can’t tell you what AI is worth yet</title>
+      <link>https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/gartner-ai-in-internal-audit/</guid>
+      <pubDate>Tue, 15 Sep 2026 04:30:42 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Auditors are using AI in their daily work, and their departments have mostly left them to figure it out alone. 93% of audit leaders and auditors report some level of AI use, while 15% say their department has deployed formal use cases and runs them routinely in audits, according… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, September 15th, 2026 https://isc.sans.edu/podcastdetail/10094, (Tue, Sep 15th)</title>
+      <link>https://isc.sans.edu/diary/rss/33338</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33338</guid>
+      <pubDate>Tue, 15 Sep 2026 02:25:12 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Supreme Court denies Trump request to allow USPS mail ballot changes</title>
+      <link>https://cyberscoop.com/supreme-court-denies-trump-usps-mail-ballot-changes/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/supreme-court-denies-trump-usps-mail-ballot-changes/</guid>
+      <pubDate>Tue, 15 Sep 2026 02:15:47 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>One justice said the attempt to change the rules ahead of the 2026 elections would be &quot;arbitrary and capricious” and violated the Administrative Procedures Act. The post Supreme Court denies Trump request to allow USPS mail ballot changes appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
     <item>
       <title>Homebrew 7.0.0 is out, here’s what changed for security</title>
       <link>https://www.helpnetsecurity.com/2026/09/15/homebrew-7-0-0-security-open-source/</link>
@@ -272,14 +344,6 @@
       <description>Concerns over the potential risks of the technology are rising as new AI models become more powerful, heightening both the potential for misuse by people with criminal aims. The post New Warnings About the Risks of AI to Humanity Revive a Long-Running Debate appeared first on… (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Dataminr uses agentic AI to predict and verify security threats</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/dataminr-uses-agentic-ai-to-predict-and-verify-security-threats/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/dataminr-uses-agentic-ai-to-predict-and-verify-security-threats/</guid>
-      <pubDate>Mon, 14 Sep 2026 13:25:25 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Dataminr has announced Dataminr Advanced for Corporate Security, delivering agentic AI capabilities that give corporate security teams the confidence to protect their people, sites, and operations before risk escalates. With Agentic Corroboration, Agentic Context, and Near-Term… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Personal, Financial Info Exposed in Revolut Data Breach</title>
       <link>https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/</link>
       <guid isPermaLink="false">https://www.securityweek.com/personal-financial-info-exposed-in-revolut-data-breach/</guid>
@@ -304,36 +368,12 @@
       <description>MarketsandMarkets has projected the cyber warfare market to double by 2031, amid growing demand for defensive and offensive cyber capabilities in the military (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>ENISA launched the CRA Single Reporting Platform for actively exploited vulnerabilities</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/enisa-cra-single-reporting-platform/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/enisa-cra-single-reporting-platform/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:23:42 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>The EU Agency for Cybersecurity switched on the Cyber Resilience Act‘s Single Reporting Platform on 11 September 2026, the same day the law’s reporting obligations started binding manufacturers. ENISA built the tool and runs its day-to-day operations, a job Article 16(1) of the… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Webinar: How malicious OAuth apps can lead to Google Workspace breaches</title>
-      <link>https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/</guid>
-      <pubDate>Mon, 14 Sep 2026 12:15:23 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security controls can help stop them. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Revolut handed customer data to fraudsters using government email account</title>
       <link>https://therecord.media/revolut-scam-crypto-impersonation</link>
       <guid isPermaLink="false">https://therecord.media/revolut-scam-crypto-impersonation</guid>
       <pubDate>Mon, 14 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>British fintech company Revolut confirmed disclosing sensitive customer data to fraudsters who submitted emergency data requests from a legitimate government email account. (via The Record)</description>
-    </item>
-    <item>
-      <title>AI Changed the Exposure Problem. Validation Needs to Change With It.</title>
-      <link>https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html</guid>
-      <pubDate>Mon, 14 Sep 2026 11:58:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>There&#39;s a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work out which findings actually… (via The Hacker News)</description>
     </item>
     <item>
       <title>Chinese Hackers Exploit Critical Tencent Software Flaw for One-Click Code Execution</title>
@@ -358,14 +398,6 @@
       <pubDate>Mon, 14 Sep 2026 11:03:26 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Airrived adds Agentic Observability to track AI agent actions and risks</title>
-      <link>https://www.helpnetsecurity.com/2026/09/14/airrived-agentic-observability-expansion/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/14/airrived-agentic-observability-expansion/</guid>
-      <pubDate>Mon, 14 Sep 2026 10:51:32 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Airrived will reveal Agentic Observability, a major expansion of its enterprise Agentic OS built to give organizations end-to-end visibility into how AI agents behave, from the moment enterprise data enters the platform, through agent reasoning and execution, to the final… (via Help Net Security)</description>
     </item>
     <item>
       <title>CISOs Race to Control AI Agents Without Destroying Their Value</title>
@@ -400,28 +432,12 @@
       <description>Stolen credentials were used in a multi-month campaign to access subscriber personal data and billing records. The post Telus Warns Customers of Account Breaches appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Three JFrog Artifactory Flaws Exploited for Backdoor Deployment</title>
-      <link>https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/three-jfrog-artifactory-flaws-exploited-for-backdoor-deployment/</guid>
-      <pubDate>Mon, 14 Sep 2026 09:27:29 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The vulnerabilities can allow attackers to bypass authentication and elevate their privileges to administrator. The post Three JFrog Artifactory Flaws Exploited for Backdoor Deployment appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>OpenAI Agent Swarm Hacks RubyGems Package Manager</title>
       <link>https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/openai-agent-swarm-hacks-rubygems/</guid>
       <pubDate>Mon, 14 Sep 2026 08:50:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Researchers confirm that OpenAI agents uploaded hundreds of malicious packages to RubyGems (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users</title>
-      <link>https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html</guid>
-      <pubDate>Mon, 14 Sep 2026 07:24:39 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service. The extension, named &quot;Twitch Enhanced Viewer | JeetBot,&quot; lists HISHIMIRO/jeetbot.cc as its developer and… (via The Hacker News)</description>
     </item>
     <item>
       <title>ISC Stormcast For Monday, September 14th, 2026 https://isc.sans.edu/podcastdetail/10092, (Mon, Sep 14th)</title>
@@ -648,14 +664,6 @@
       <description>See how Microsoft Defender detects and disrupts AI-themed phishing, malware, and multi-stage attacks across the attack chain. The post Detect and disrupt AI-themed attacks with Microsoft Defender appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>Governments ‘buying time’ in race between innovation, security, national cyber director says</title>
-      <link>https://cyberscoop.com/national-cyber-director-ai-cybersecurity-threats/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/national-cyber-director-ai-cybersecurity-threats/</guid>
-      <pubDate>Thu, 10 Sep 2026 13:53:55 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Sean Cairncross also said AI has shown long-standing issues in cyber rather than creating new ones. The post Governments ‘buying time’ in race between innovation, security, national cyber director says appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
       <title>‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars</link>
       <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars</guid>
@@ -766,14 +774,6 @@
       <pubDate>Wed, 09 Sep 2026 08:42:55 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog. (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Wednesday, September 9th, 2026 https://isc.sans.edu/podcastdetail/10086, (Wed, Sep 9th)</title>
-      <link>https://isc.sans.edu/diary/rss/33322</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33322</guid>
-      <pubDate>Wed, 09 Sep 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Microsoft Plugs Nearly 1,000 Security Holes</title>
