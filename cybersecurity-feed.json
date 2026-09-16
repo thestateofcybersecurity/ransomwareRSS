@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T21:31:26.310Z",
+  "updated": "2026-09-16T00:31:47.610Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+      "date": "2026-09-15T21:37:35.000Z",
+      "excerpt": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -490,14 +498,6 @@
       "excerpt": "44-year-old Kenneth Carter from Portland, Oregon, used to work in an AT&T retail store. But now he has been sentenced to 16 months in a federal prison. That should be plenty of time for him to rue the day he agreed to increase his monthly income by helping a SIM swap gang in…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-      "date": "2026-09-15T08:40:20.000Z",
-      "excerpt": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Microsoft Releases Emergency Patch to Fix RDS Vulnerability",
@@ -536,6 +536,22 @@
       "link": "https://cyberscoop.com/supreme-court-denies-trump-usps-mail-ballot-changes/",
       "date": "2026-09-15T02:15:47.000Z",
       "excerpt": "One justice said the attempt to change the rules ahead of the 2026 elections would be \"arbitrary and capricious” and violated the Administrative Procedures Act. The post Supreme Court denies Trump request to allow USPS mail ballot changes appeared first on CyberScoop ."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "The industry turned XDR and SIEM into categories. Sophos turned them into outcomes.",
+      "link": "https://www.sophos.com/en-us/blog/sophos-next-gen-siem",
+      "date": "2026-09-15T00:00:00.000Z",
+      "excerpt": "Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Messageboards are all they need",
+      "link": "https://www.sophos.com/en-us/blog/ai-research-messageboards",
+      "date": "2026-09-15T00:00:00.000Z",
+      "excerpt": "This article was first published on LinkedIn."
     },
     {
       "source": "Sophos News",
@@ -896,22 +912,6 @@
       "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
       "date": "2026-09-09T10:00:55.000Z",
       "excerpt": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42 ."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "CRPx0 ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/crpx0-ransomware-what-you-need-know",
-      "date": "2026-09-09T08:42:55.000Z",
-      "excerpt": "CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog."
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "Microsoft Plugs Nearly 1,000 Security Holes",
-      "link": "https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/",
-      "date": "2026-09-08T21:44:22.000Z",
-      "excerpt": "Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security…"
     }
   ]
 }

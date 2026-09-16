@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 15 Sep 2026 21:31:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:31:47 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Acronis warns of actively exploited flaw in its cPanel backup plugin</title>
+      <link>https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/</guid>
+      <pubDate>Tue, 15 Sep 2026 21:37:35 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites</title>
       <link>https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/</link>
@@ -384,14 +392,6 @@
       <description>44-year-old Kenneth Carter from Portland, Oregon, used to work in an AT&amp;T retail store. But now he has been sentenced to 16 months in a federal prison. That should be plenty of time for him to rue the day he agreed to increase his monthly income by helping a SIM swap gang in… (via Graham Cluley)</description>
     </item>
     <item>
-      <title>Microsoft confirms KB5002914 Excel update breaks copy and paste</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/</guid>
-      <pubDate>Tue, 15 Sep 2026 08:40:20 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Microsoft Releases Emergency Patch to Fix RDS Vulnerability</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/microsoft-releases-emergency-patch/</guid>
@@ -430,6 +430,22 @@
       <pubDate>Tue, 15 Sep 2026 02:15:47 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>One justice said the attempt to change the rules ahead of the 2026 elections would be &quot;arbitrary and capricious” and violated the Administrative Procedures Act. The post Supreme Court denies Trump request to allow USPS mail ballot changes appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>The industry turned XDR and SIEM into categories. Sophos turned them into outcomes.</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-next-gen-siem</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-next-gen-siem</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Messageboards are all they need</title>
+      <link>https://www.sophos.com/en-us/blog/ai-research-messageboards</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-research-messageboards</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>This article was first published on LinkedIn. (via Sophos News)</description>
     </item>
     <item>
       <title>Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation</title>
@@ -790,22 +806,6 @@
       <pubDate>Wed, 09 Sep 2026 10:00:55 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>CRPx0 ransomware: what you need to know</title>
-      <link>https://www.fortra.com/blog/crpx0-ransomware-what-you-need-know</link>
-      <guid isPermaLink="false">https://www.fortra.com/blog/crpx0-ransomware-what-you-need-know</guid>
-      <pubDate>Wed, 09 Sep 2026 08:42:55 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog. (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Microsoft Plugs Nearly 1,000 Security Holes</title>
-      <link>https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/</guid>
-      <pubDate>Tue, 08 Sep 2026 21:44:22 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the discovery of vulnerabilities, but security… (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>
