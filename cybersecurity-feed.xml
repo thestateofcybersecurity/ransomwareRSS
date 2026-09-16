@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 16 Sep 2026 00:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:11:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>What happens when AI agent governance is missing at scale</title>
+      <link>https://www.helpnetsecurity.com/2026/09/16/gourab-basu-meshiq-ai-agent-governance/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/16/gourab-basu-meshiq-ai-agent-governance/</guid>
+      <pubDate>Wed, 16 Sep 2026 06:00:44 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this interview with Help Net Security, Gourab Basu, Global Head of Engineering at meshIQ, discusses governance in AI agent systems. He argues that instructions written into a prompt are not enough to control what an agent does, since agents can change their own path as they… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>DeepZero: Open-source hunting for vulnerable Windows drivers</title>
+      <link>https://www.helpnetsecurity.com/2026/09/16/vulnerable-windows-drivers-deepzero-open-source/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/16/vulnerable-windows-drivers-deepzero-open-source/</guid>
+      <pubDate>Wed, 16 Sep 2026 05:30:38 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>DeepZero is an open-source engine that automates the search for exploitable Windows kernel drivers. You point it at a folder of binaries and it parses them, pulls them apart, scans them, throws most of them away, and asks a language model whether what survives can be attacked.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>The modern attack chain: Rethinking Google Workspace security in the age of AI</title>
+      <link>https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/16/material-google-workspace-attack-chains/</guid>
+      <pubDate>Wed, 16 Sep 2026 05:00:49 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Over the past two months, I’ve written about the Vercel breach and the Composio breach separately. Both offer lessons to learn on their own. But reading them together, I keep coming back to the same observation: these aren’t isolated incidents. They’re the same attack, run… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>MSPs say nearly half their customers rely on them for CISO services</title>
+      <link>https://www.helpnetsecurity.com/2026/09/16/msp-ciso-services-compliance/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/16/msp-ciso-services-compliance/</guid>
+      <pubDate>Wed, 16 Sep 2026 04:30:20 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>MSPs estimate that 46% of their customers, on average, look to them to act as CISOs, according to Sophos. Most of those providers do that job without the full set of compliance services, and many spread the work across several tools. Most providers expect this work to grow. For… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, September 16th, 2026 https://isc.sans.edu/podcastdetail/10096, (Wed, Sep 16th)</title>
+      <link>https://isc.sans.edu/diary/rss/33342</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33342</guid>
+      <pubDate>Wed, 16 Sep 2026 02:00:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Cyber Op Targets South Korean Media &amp; Automotive Sectors</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive</guid>
+      <pubDate>Wed, 16 Sep 2026 01:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>New Test Blog Devil’s advocate? Uncensored Luciferus AI service advertised underground</title>
+      <link>https://www.sophos.com/en-us/blog/test-prod-push</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/test-prod-push</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Testing Uncensored refers to a lack of typical guardrails or ethical restrictions, lowering the technical barrier of entry into cybercrime (via Sophos News)</description>
+    </item>
     <item>
       <title>Acronis warns of actively exploited flaw in its cPanel backup plugin</title>
       <link>https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/</link>
@@ -264,14 +320,6 @@
       <description>Globalgig has expanded its managed security portfolio to cover enterprise AI, bringing together services that discover, assess, and protect the AI applications, agents, models, and data enterprises are putting into production. The services are delivered through the same managed… (via Help Net Security)</description>
     </item>
     <item>
-      <title>eBook: Identity-First Threat Intelligence</title>
-      <link>https://www.helpnetsecurity.com/2026/09/15/enzoic-ebook-identity-first-threat-intelligence/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/enzoic-ebook-identity-first-threat-intelligence/</guid>
-      <pubDate>Tue, 15 Sep 2026 13:00:09 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Attackers increasingly bypass traditional defenses by logging in with credentials that have already been stolen, exposed, or sold on the Dark Web. As infostealer malware accelerates credential theft, organizations need greater visibility into identity risk across Active… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>AI the Top Priority for New Spend as Cyber Budgets Flatline</title>
       <link>https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ai-top-priority-new-spend-cyber/</guid>
@@ -294,14 +342,6 @@
       <pubDate>Tue, 15 Sep 2026 12:42:32 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The incident occurred in May, when RubyGems maintainers suspended new account registrations due to what appeared like malicious activity. The post OpenAI Investigates Report Linking AI Agents to RubyGems Attack appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Uncensored AI sold on hacking forum as alternative to ChatGPT and Claude jailbreaks</title>
-      <link>https://www.helpnetsecurity.com/2026/09/15/luciferus-uncensored-ai-service-hacking-forum/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/luciferus-uncensored-ai-service-hacking-forum/</guid>
-      <pubDate>Tue, 15 Sep 2026 12:32:29 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A new AI subscription service called Luciferus is being marketed on a hacking forum as an alternative to jailbreaking ChatGPT or Claude, Sophos found. The Counter Threat Unit (CTU) spotted the advertisement on August 24 on the Exploit forum, posted by a persona going by… (via Help Net Security)</description>
     </item>
     <item>
       <title>CISA: Critical VMware RCE flaw now exploited by ransomware gangs</title>
@@ -344,28 +384,12 @@
       <description>Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data. The first is an automated effort aimed at internet-exposed Vite development servers that&#39;s designed to steal cloud credentials, configurations… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Cisco patches actively exploited email gateway zero-day (CVE-2026-76461)</title>
-      <link>https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/cve-2026-76461-cisco-email-gateway-zero-day-exploited/</guid>
-      <pubDate>Tue, 15 Sep 2026 11:09:48 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Attackers have leveraged a zero-day SQL injection vulnerability (CVE-2026-76461) to compromise Cisco Secure Email Gateway appliances, Cisco confirmed on Monday. The vendor’s Product Security Incident Response Team became aware of active exploitation of this vulnerability in… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>25 Years of Mass Surveillance Is Enough</title>
       <link>https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</guid>
       <pubDate>Tue, 15 Sep 2026 11:01:41 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Microsoft sets security and safety rules for its AI models</title>
-      <link>https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/15/microsoft-ai-safety-rules-humanist-ai-code-of-conduct/</guid>
-      <pubDate>Tue, 15 Sep 2026 10:50:36 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Microsoft AI has published the first draft of its Humanist AI Code of Conduct, a training manual outlining how it develops AI models and intends them to behave during deployment. The draft is open for public consultation for six weeks. The company plans to review the feedback,… (via Help Net Security)</description>
     </item>
     <item>
       <title>On the NSA’s Supercomputer from the 1960s</title>
@@ -632,14 +656,6 @@
       <description>Cybercriminals behind malicious email campaigns no longer have to compromise volume for credibility, or vice versa, thanks to AI. (via Dark Reading)</description>
     </item>
     <item>
-      <title>CISA Calls for More Guidance, Less Spin, as Cyber Outages Escalate</title>
-      <link>https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cisa-calls-for-more-guidance-less-spin-as-cyber-outages-escalate</guid>
-      <pubDate>Fri, 11 Sep 2026 18:44:03 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A new joint government advisory signals a regulatory shift, pressing organizations to adopt more transparent breach notification and incident response protocols. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>GitLab’s critical flaw is already drawing internet-wide probes</title>
       <link>https://cyberscoop.com/gitlab-critical-flaws-path-traversal-scans/</link>
       <guid isPermaLink="false">https://cyberscoop.com/gitlab-critical-flaws-path-traversal-scans/</guid>
@@ -744,14 +760,6 @@
       <description>[This is a Guest Diary by Aaron Ng, an ISC intern as part of the SANS.edu BACS program] (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>ISC Stormcast For Thursday, September 10th, 2026 https://isc.sans.edu/podcastdetail/10088, (Thu, Sep 10th)</title>
-      <link>https://isc.sans.edu/diary/rss/33328</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33328</guid>
-      <pubDate>Thu, 10 Sep 2026 10:10:11 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>The Machine With Many Faces: Post-Exploitation Identity Misuse in SPIFFE/SPIRE</title>
       <link>https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/kubernetes-spiffe-spire-identity-spoofing/</guid>
@@ -798,14 +806,6 @@
       <pubDate>Wed, 09 Sep 2026 17:41:18 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Passkey-themed social engineering is being used to compromise identities and enable broader cloud attacks. Learn how threat actors establish MFA persistence, abuse Microsoft Graph for reconnaissance, and access SharePoint, OneDrive, and email data, along with key detection and… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure</title>
-      <link>https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/</guid>
-      <pubDate>Wed, 09 Sep 2026 10:00:55 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42 . (via Unit 42)</description>
     </item>
   </channel>
 </rss>
