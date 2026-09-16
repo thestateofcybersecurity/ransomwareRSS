@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T20:15:32.268Z",
+  "updated": "2026-09-16T23:02:51.165Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
+      "date": "2026-09-16T21:26:55.000Z",
+      "excerpt": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
+      "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
+      "date": "2026-09-16T21:08:14.000Z",
+      "excerpt": "Group plans to be largely out of commission for several weeks."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Key lawmaker suggests action on AI safety legislation will wait until 2027",
+      "link": "https://therecord.media/frontier-act-ai-bill-house-brett-guthrie",
+      "date": "2026-09-16T21:07:00.000Z",
+      "excerpt": "“It's really complicated, and I wouldn't want to do something in a lame duck session to do it quickly and not get it right,” said House Energy and Commerce Chairman Brett Guthrie about the FRONTIER Act."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
+      "date": "2026-09-16T20:39:29.000Z",
+      "excerpt": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
+      "date": "2026-09-16T20:24:55.000Z",
+      "excerpt": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "CISA promotes a fresh way to deter cyberattackers: Lie to them",
+      "link": "https://cyberscoop.com/cisa-guidance-cyber-decoys-critical-infrastructure/",
+      "date": "2026-09-16T20:22:03.000Z",
+      "excerpt": "It’s the first guidance from the Cybersecurity and Infrastructure Security Agency on deploying decoys, like honeypots, to detect and distract adversaries. The post CISA promotes a fresh way to deter cyberattackers: Lie to them appeared first on CyberScoop ."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -280,14 +328,6 @@
       "link": "https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/",
       "date": "2026-09-16T14:00:00.000Z",
       "excerpt": "CISA and NIST issued final guidance to help protect cloud identity tokens and assertions"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Flock camera use by internal affairs unit puts DC police at odds with officers’ union",
-      "link": "https://therecord.media/dc-police-union-opposes-flock-camera-use-probing-officers",
-      "date": "2026-09-16T13:41:00.000Z",
-      "excerpt": "Washington, D.C.'s police department has used information from Flock cameras for misconduct investigations, prompting a formal complaint from its officers' union."
     },
     {
       "source": "SecurityWeek",
@@ -498,14 +538,6 @@
       "excerpt": "Organizations are deploying autonomous AI systems that execute API calls, optimize production configurations, and analyze telemetry across hybrid cloud environments. At the same time, attacks are expanding from direct prompts to indirect prompt injection and AI supply chain…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Windows Server 2022 reaches end of mainstream support next month",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-      "date": "2026-09-16T09:10:20.000Z",
-      "excerpt": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Major Cyber Vendors Turn to New UK Testing Program as MITRE Evaluations Face Changes",
@@ -520,14 +552,6 @@
       "link": "https://www.infosecurity-magazine.com/news/ncsc-allies-warn-iranian-chosen/",
       "date": "2026-09-16T08:25:00.000Z",
       "excerpt": "The UK’s National Cyber Security Centre says Iranian Chosen Brick spyware is designed to snoop on dissidents"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Google fixes actively exploited Android zero-day on Pixel devices",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
-      "date": "2026-09-16T07:00:19.000Z",
-      "excerpt": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -564,10 +588,10 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Black Hat USA 2026 | The 'Breaking' News: The OpenAI–Hugging Face Incident",
+      "title": "Black Hat USA 2026 | OpenAI's Deep Dive Into Hugging Face Incident",
       "link": "https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk",
       "date": "2026-09-15T19:27:19.000Z",
-      "excerpt": "The 'Breaking' News: The OpenAI–Hugging Face Incident - A Technical Reconstruction and Its Implications for AI At this Black Hat USA 2026 talk, OpenAI security engineers and researchers will reconstruct the OpenAI-Hugging Face incident and examine its implications for AI…"
+      "excerpt": "At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience."
     },
     {
       "source": "Dark Reading",
@@ -698,14 +722,6 @@
       "excerpt": "The notorious Russian threat group is spreading an upgraded version of the botnet malware, which the FBI disrupted in 2022."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Maximum Severity GitLab Flaw Puts Supply Chains at Risk",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/maximum-severity-gitlab-flaw-supply-chains-risk",
-      "date": "2026-09-14T20:19:22.000Z",
-      "excerpt": "CVE-2026-85706 is a path traversal vulnerability with a 10 out of 10 CVSS score, affecting both GitLab Community Edition and Enterprise Edition instances."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Upcoming Speaking Engagements",
@@ -784,14 +800,6 @@
       "link": "https://cyberscoop.com/openai-agents-malicious-rubygems-packages/",
       "date": "2026-09-12T01:50:30.000Z",
       "excerpt": "OpenAI confirmed their agents were behind a campaign in May that researchers say flooded the popular online code repository with malicious software packages. The post Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems appeared first on CyberScoop ."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Cyberattack causes a flight delay? Airlines won’t owe you a hotel or meal",
-      "link": "https://cyberscoop.com/dot-rule-airline-cyberattack-flight-delays/",
-      "date": "2026-09-11T21:26:23.000Z",
-      "excerpt": "A Department of Transportation rule published last week says that airlines complying with cybersecurity regulations will have reduced customer obligations in the event of an attack. The post Cyberattack causes a flight delay? Airlines won’t owe you a hotel or meal appeared first…"
     },
     {
       "source": "Schneier on Security",
@@ -904,14 +912,6 @@
       "link": "https://grahamcluley.com/smashing-security-podcast-484/",
       "date": "2026-09-09T23:05:54.000Z",
       "excerpt": "When a chap called Matt noticed his Bluetooth headphones wouldn't switch to his phone, he was surprised to realise the reason was a single AliExpress webpage sitting open in his browser - playing nothing at all, at zero volume. And yet somehow his hardware could hear it. Audio…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Threat matrix: Mapping threats across cloud web applications",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
-      "date": "2026-09-09T21:30:00.000Z",
-      "excerpt": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. The post Threat matrix: Mapping threats across cloud web…"
     }
   ]
 }
