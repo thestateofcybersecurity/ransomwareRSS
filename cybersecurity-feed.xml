@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 17 Sep 2026 21:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:29:17 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] Cybersecurity Outlook 2027</title>
@@ -14,6 +14,30 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>via Dark Reading</description>
+    </item>
+    <item>
+      <title>Inside the Modern SOC: Defending the Cross-Environment Pivot</title>
+      <link>https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/</guid>
+      <pubDate>Thu, 17 Sep 2026 22:00:33 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
+    <item>
+      <title>New RatHat Android malware uses AI to automate device control</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/</guid>
+      <pubDate>Thu, 17 Sep 2026 21:50:26 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus</title>
+      <link>https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus</guid>
+      <pubDate>Thu, 17 Sep 2026 21:23:50 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The move is consistent with the agency&#39;s advice on the need for organizations to prioritize the vulnerabilities that actually matter. (via Dark Reading)</description>
     </item>
     <item>
       <title>Cisco alerts customers to second actively exploited zero-day in as many days</title>
@@ -448,14 +472,6 @@
       <description>A security breach at Gyazo, Helpfeel&#39;s image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday. It also exposed about 490 million image metadata records, mostly… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Cisco warns of max severity ISE zero-day exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/</guid>
-      <pubDate>Thu, 17 Sep 2026 07:20:54 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks</title>
       <link>https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html</guid>
@@ -640,14 +656,6 @@
       <description>Three feds spoke about future plans for the Continuous Diagnostics and Mitigation program, and lessons they’ve learned. The post What’s next for CISA’s CDM program that gives cybersecurity tools to federal agencies appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Black Hat USA 2026 | OpenAI&#39;s Deep Dive Into Hugging Face Incident</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/bhusa26huggingfacetalk</guid>
-      <pubDate>Tue, 15 Sep 2026 19:27:19 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>At Black Hat USA, OpenAI engineers reconstruct the Hugging Face incident and explore lessons learned about AI safeguards and cyber resilience. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>MacOS 27 - First Boot, (Tue, Sep 15th)</title>
       <link>https://isc.sans.edu/diary/rss/33340</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33340</guid>
@@ -798,14 +806,6 @@
       <pubDate>Fri, 11 Sep 2026 21:03:27 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wouldn’t want to do that,” said commercial fisherman Dick Ogg of the Bodega Bay Fishermen’s Marketing Association. Ogg… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Weekly Update 521: Breach Perception v. Reality</title>
-      <link>https://www.troyhunt.com/weekly-update-521/</link>
-      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-521/</guid>
-      <pubDate>Fri, 11 Sep 2026 20:37:33 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>I think what really resonates with me this week is being able to completely turn the tables on perceptions around things like AI being the big bad hacking tool the news would have you believe. There&#39;s the stat I talk about where it&#39;s had literally 0% (via Troy Hunt)</description>
     </item>
   </channel>
 </rss>
