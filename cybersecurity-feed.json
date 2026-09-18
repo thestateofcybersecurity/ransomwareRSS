@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T19:45:25.693Z",
+  "updated": "2026-09-18T22:40:41.830Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -122,12 +122,60 @@
       "excerpt": ""
     },
     {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: On Squid Egg Sacs",
+      "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
+      "date": "2026-09-18T21:06:00.000Z",
+      "excerpt": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
+      "date": "2026-09-18T20:24:51.000Z",
+      "excerpt": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Early Scattered Spider member pleads guilty to cybercrime spree",
+      "link": "https://cyberscoop.com/scattered-spider-member-guilty-ahmed-elbadawy/",
+      "date": "2026-09-18T20:24:15.000Z",
+      "excerpt": "Ahmed Elbadawy pocketed massive proceeds from his crimes. Prosecutors are seeking the forfeiture of about $17.6 million in virtual currency, luxury vehicles, and a vast collection of jewelry and designer bags. The post Early Scattered Spider member pleads guilty to cybercrime…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
+      "date": "2026-09-18T19:26:47.000Z",
+      "excerpt": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "date": "2026-09-18T19:23:48.000Z",
+      "excerpt": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace."
+    },
+    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "MFA Won't Save You From OAuth Consent Abuse",
       "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
       "date": "2026-09-18T18:15:20.000Z",
       "excerpt": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+      "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+      "date": "2026-09-18T18:02:24.000Z",
+      "excerpt": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not…"
     },
     {
       "source": "CyberScoop",
@@ -434,14 +482,6 @@
       "excerpt": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
-      "date": "2026-09-18T06:17:25.000Z",
-      "excerpt": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
@@ -698,14 +738,6 @@
       "excerpt": "Researchers wanted to test if LG's smart TVs come with any security risks - but their lawyers noticed a snag: the terms and conditions would forbid it. So they came up with a solution. They got plastered before setting up the TV, on the reasoning that you can't be legally bound…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Security Spending Jumps as Fear Outpaces Proof of Value",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value",
-      "date": "2026-09-16T21:26:55.000Z",
-      "excerpt": "CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move?"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Nonprofit that tracks meteors taken down by \"critical blow\" from a cyberattack",
@@ -736,30 +768,6 @@
       "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
       "date": "2026-09-16T18:14:22.000Z",
       "excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Fighting Your Dragons Through Tough Tech Times",
-      "link": "https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market",
-      "date": "2026-09-16T18:00:54.000Z",
-      "excerpt": "Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-      "date": "2026-09-16T16:43:37.000Z",
-      "excerpt": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks",
-      "link": "https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/",
-      "date": "2026-09-16T14:48:07.000Z",
-      "excerpt": "The agencies issued a joint statement saying the “joint security boardings” came in response to “indications that the networks of both vessels were compromised.” The post Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks appeared first on…"
     },
     {
       "source": "Schneier on Security",
@@ -896,14 +904,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
       "date": "2026-09-14T16:07:46.000Z",
       "excerpt": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Microsoft’s Patching",
-      "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-      "date": "2026-09-14T11:03:26.000Z",
-      "excerpt": "Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two…"
     },
     {
       "source": "Unit 42",

@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Sep 2026 19:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:40:41 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] Cybersecurity Outlook 2027</title>
@@ -16,12 +16,60 @@
       <description>via Dark Reading</description>
     </item>
     <item>
+      <title>Friday Squid Blogging: On Squid Egg Sacs</title>
+      <link>https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html</guid>
+      <pubDate>Fri, 18 Sep 2026 21:06:00 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy. (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks</guid>
+      <pubDate>Fri, 18 Sep 2026 20:24:51 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The new program expands Vectra AI&#39;s partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Early Scattered Spider member pleads guilty to cybercrime spree</title>
+      <link>https://cyberscoop.com/scattered-spider-member-guilty-ahmed-elbadawy/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/scattered-spider-member-guilty-ahmed-elbadawy/</guid>
+      <pubDate>Fri, 18 Sep 2026 20:24:15 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Ahmed Elbadawy pocketed massive proceeds from his crimes. Prosecutors are seeking the forfeiture of about $17.6 million in virtual currency, luxury vehicles, and a vast collection of jewelry and designer bags. The post Early Scattered Spider member pleads guilty to cybercrime… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Cisco Zero-Day Highlights API Endpoint Authentication Issues</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</guid>
+      <pubDate>Fri, 18 Sep 2026 19:26:47 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The authentication bypass flaw CVE-2026-76460 impacts Cisco&#39;s Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>EY Survey Finds Autonomous AI Implementation Outpaces Oversight</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight</guid>
+      <pubDate>Fri, 18 Sep 2026 19:23:48 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>MFA Won&#39;t Save You From OAuth Consent Abuse</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</link>
       <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</guid>
       <pubDate>Fri, 18 Sep 2026 18:15:20 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root</title>
+      <link>https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html</guid>
+      <pubDate>Fri, 18 Sep 2026 18:02:24 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine. Kernel maintainers have fixed all four over the past few weeks, so a system running an up-to-date kernel is not… (via The Hacker News)</description>
     </item>
     <item>
       <title>Researchers use AI to find widespread software decoder flaw</title>
@@ -328,14 +376,6 @@
       <description>AI-driven cyberattacks used to be exotic. Soon, it&#39;ll be odd if threat actors aren&#39;t using agents to do all of their bidding. (via Dark Reading)</description>
     </item>
     <item>
-      <title>RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall</title>
-      <link>https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html</guid>
-      <pubDate>Fri, 18 Sep 2026 06:17:25 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have flagged a new Android malware called RatHat that&#39;s assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. &quot;Distributed primarily via targeted… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)</title>
       <link>https://isc.sans.edu/diary/rss/33352</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33352</guid>
@@ -592,14 +632,6 @@
       <description>Researchers wanted to test if LG&#39;s smart TVs come with any security risks - but their lawyers noticed a snag: the terms and conditions would forbid it. So they came up with a solution. They got plastered before setting up the TV, on the reasoning that you can&#39;t be legally bound… (via Graham Cluley)</description>
     </item>
     <item>
-      <title>AI Security Spending Jumps as Fear Outpaces Proof of Value</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/ai-security-spending-jumps-fear-outpaces-proof-value</guid>
-      <pubDate>Wed, 16 Sep 2026 21:26:55 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>CISOs are not waiting for AI to prove its cybersecurity value before investing in the technology. Is it the right move? (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Nonprofit that tracks meteors taken down by &quot;critical blow&quot; from a cyberattack</title>
       <link>https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/</guid>
@@ -630,30 +662,6 @@
       <pubDate>Wed, 16 Sep 2026 18:14:22 GMT</pubDate>
       <source url="https://krebsonsecurity.com/">Krebs on Security</source>
       <description>The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey… (via Krebs on Security)</description>
-    </item>
-    <item>
-      <title>Fighting Your Dragons Through Tough Tech Times</title>
-      <link>https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-careers/finding-hope-brutal-job-market</guid>
-      <pubDate>Wed, 16 Sep 2026 18:00:54 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Cybersecurity industry veteran Hal Pomeranz gives a pep talk on career anxiety and self-doubt and shares how to build meaningful connections during historical tech industry downturns. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>BragJack Attack Can Turn a Browser&#39;s Agentic AI Against It</title>
-      <link>https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai</link>
-      <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai</guid>
-      <pubDate>Wed, 16 Sep 2026 16:43:37 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks</title>
-      <link>https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/coast-guard-fbi-investigate-tanker-cyberattacks/</guid>
-      <pubDate>Wed, 16 Sep 2026 14:48:07 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The agencies issued a joint statement saying the “joint security boardings” came in response to “indications that the networks of both vessels were compromised.” The post Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks appeared first on… (via CyberScoop)</description>
     </item>
     <item>
       <title>Fake CAPTCHA Scams</title>
@@ -790,14 +798,6 @@
       <pubDate>Mon, 14 Sep 2026 16:07:46 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Microsoft’s Patching</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html</guid>
-      <pubDate>Mon, 14 Sep 2026 11:03:26 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record : Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two… (via Schneier on Security)</description>
     </item>
     <item>
       <title>Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection</title>
