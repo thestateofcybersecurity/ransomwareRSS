@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T16:33:57.606Z",
+  "updated": "2026-09-18T19:45:25.693Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -120,6 +120,30 @@
       "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "date": "2026-12-03T16:00:00.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "date": "2026-09-18T18:15:20.000Z",
+      "excerpt": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Researchers use AI to find widespread software decoder flaw",
+      "link": "https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/",
+      "date": "2026-09-18T17:19:49.000Z",
+      "excerpt": "The bug, since patched, gave attackers remote code execution privileges and access to user accounts and production environments, including Meta’s core product suite and an OpenAI software repository. The post Researchers use AI to find widespread software decoder flaw appeared…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
+      "link": "https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html",
+      "date": "2026-09-18T16:56:19.000Z",
+      "excerpt": "WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security…"
     },
     {
       "source": "BleepingComputer",
@@ -458,6 +482,14 @@
       "excerpt": "Melapress, a maker of WordPress security plugins, surveyed 319 WordPress professionals and found that most had dealt with at least one known security incident. The respondents build and run WordPress sites for a living: agency staff, developers, designers, site owners and…"
     },
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign",
+      "link": "https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme",
+      "date": "2026-09-18T04:00:00.000Z",
+      "excerpt": "The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain…"
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
@@ -522,14 +554,6 @@
       "excerpt": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-      "date": "2026-09-17T18:08:28.000Z",
-      "excerpt": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "From guidance to action: Security fundamentals that materially reduce risk",
@@ -584,14 +608,6 @@
       "link": "https://www.infosecurity-magazine.com/news/cisa-critical-infrastructure-cyber/",
       "date": "2026-09-17T14:00:00.000Z",
       "excerpt": "CISA released guidance on using cyber decoys to detect & disrupt malicious activity inside networks"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers claim breach of Russian election systems days before parliamentary vote",
-      "link": "https://therecord.media/russia-election-hackers-breach",
-      "date": "2026-09-17T13:45:00.000Z",
-      "excerpt": "An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament."
     },
     {
       "source": "CyberScoop",
@@ -746,14 +762,6 @@
       "excerpt": "The agencies issued a joint statement saying the “joint security boardings” came in response to “indications that the networks of both vessels were compromised.” The post Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks appeared first on…"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Treasury’s Scott Bessent says no liability exemptions for AI labs",
-      "link": "https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/",
-      "date": "2026-09-16T14:10:19.000Z",
-      "excerpt": "The secretary told House Financial Services Committee lawmakers that the “best way to guarantee safety” is for AI creators to be held “liable for what they build and generate.” The post Treasury’s Scott Bessent says no liability exemptions for AI labs appeared first on…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Fake CAPTCHA Scams",
@@ -784,14 +792,6 @@
       "link": "https://isc.sans.edu/diary/rss/33342",
       "date": "2026-09-16T02:00:02.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Cyber Op Targets South Korean Media & Automotive Sectors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "date": "2026-09-16T01:00:00.000Z",
-      "excerpt": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks."
     },
     {
       "source": "Sophos News",

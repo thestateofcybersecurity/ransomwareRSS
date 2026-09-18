@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 18 Sep 2026 16:33:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 19:45:25 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] Cybersecurity Outlook 2027</title>
@@ -14,6 +14,30 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>via Dark Reading</description>
+    </item>
+    <item>
+      <title>MFA Won&#39;t Save You From OAuth Consent Abuse</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse</guid>
+      <pubDate>Fri, 18 Sep 2026 18:15:20 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Researchers use AI to find widespread software decoder flaw</title>
+      <link>https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/</guid>
+      <pubDate>Fri, 18 Sep 2026 17:19:49 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The bug, since patched, gave attackers remote code execution privileges and access to user accounts and production environments, including Meta’s core product suite and an OpenAI software repository. The post Researchers use AI to find widespread software decoder flaw appeared… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution</title>
+      <link>https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/new-wordpress-click2shell-flaw-forces.html</guid>
+      <pubDate>Fri, 18 Sep 2026 16:56:19 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>WordPress today released patches to fix a new set of vulnerabilities in its core software, one of which could allow a crafted web link, opened by a logged-in administrator, to install a theme from the official WordPress.org directory without anyone clicking Install. The security… (via The Hacker News)</description>
     </item>
     <item>
       <title>Gyazo server flaw exploited to steal 23.6 million user records</title>
@@ -352,6 +376,14 @@
       <description>Melapress, a maker of WordPress security plugins, surveyed 319 WordPress professionals and found that most had dealt with at least one known security incident. The respondents build and run WordPress sites for a living: agency staff, developers, designers, site owners and… (via Help Net Security)</description>
     </item>
     <item>
+      <title>North Korean hackers infect thousands of devices across 100 countries as part of ‘WaterPlum’ campaign</title>
+      <link>https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme</link>
+      <guid isPermaLink="false">https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme</guid>
+      <pubDate>Fri, 18 Sep 2026 04:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The FBI and Defense Department partnered with Japan’s National Police Agency and law enforcement agencies in Australia and Germany on a new advisory about “WaterPlum” — a group of cyber actors allegedly stealing cryptocurrency from job applicants by posing as AI or blockchain… (via The Record)</description>
+    </item>
+    <item>
       <title>ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)</title>
       <link>https://isc.sans.edu/diary/rss/33350</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33350</guid>
@@ -416,14 +448,6 @@
       <description>SynthID can cause models to follow harmful instructions they would otherwise refuse. (via Ars Technica Security)</description>
     </item>
     <item>
-      <title>Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root</title>
-      <link>https://thehackernews.com/2026/09/critical-check-point-management-server.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/critical-check-point-management-server.html</guid>
-      <pubDate>Thu, 17 Sep 2026 18:08:28 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A critical vulnerability in Check Point&#39;s Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network. The Security Management Server is the system that controls firewall policy and administrator… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>From guidance to action: Security fundamentals that materially reduce risk</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/</guid>
@@ -478,14 +502,6 @@
       <pubDate>Thu, 17 Sep 2026 14:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>CISA released guidance on using cyber decoys to detect &amp; disrupt malicious activity inside networks (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Hackers claim breach of Russian election systems days before parliamentary vote</title>
-      <link>https://therecord.media/russia-election-hackers-breach</link>
-      <guid isPermaLink="false">https://therecord.media/russia-election-hackers-breach</guid>
-      <pubDate>Thu, 17 Sep 2026 13:45:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>An anonymous hacking group claimed to have broken into computer systems connected to Russia’s election infrastructure just days before the country begins voting for a new parliament. (via The Record)</description>
     </item>
     <item>
       <title>Authorities seize popular, long-running DDoS-for-hire service domains</title>
@@ -640,14 +656,6 @@
       <description>The agencies issued a joint statement saying the “joint security boardings” came in response to “indications that the networks of both vessels were compromised.” The post Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks appeared first on… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Treasury’s Scott Bessent says no liability exemptions for AI labs</title>
-      <link>https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/</link>
-      <guid isPermaLink="false">https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/</guid>
-      <pubDate>Wed, 16 Sep 2026 14:10:19 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The secretary told House Financial Services Committee lawmakers that the “best way to guarantee safety” is for AI creators to be held “liable for what they build and generate.” The post Treasury’s Scott Bessent says no liability exemptions for AI labs appeared first on… (via CyberScoop)</description>
-    </item>
-    <item>
       <title>Fake CAPTCHA Scams</title>
       <link>https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html</guid>
@@ -678,14 +686,6 @@
       <pubDate>Wed, 16 Sep 2026 02:00:02 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Cyber Op Targets South Korean Media &amp; Automotive Sectors</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive</guid>
-      <pubDate>Wed, 16 Sep 2026 01:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks. (via Dark Reading)</description>
     </item>
     <item>
       <title>September Patch Tuesday haul includes 973 CVEs</title>
