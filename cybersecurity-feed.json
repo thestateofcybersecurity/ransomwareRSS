@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T06:02:57.859Z",
+  "updated": "2026-09-18T11:29:10.793Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -122,6 +122,182 @@
       "excerpt": ""
     },
     {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Are AIs Still Struggling with CAPTCHAs?",
+      "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+      "date": "2026-09-18T11:05:52.000Z",
+      "excerpt": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+      "date": "2026-09-18T10:57:03.000Z",
+      "excerpt": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "date": "2026-09-18T10:40:06.000Z",
+      "excerpt": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Bots with good manners are better at fooling people on social media",
+      "link": "https://www.helpnetsecurity.com/2026/09/18/social-media-bot-detection-study/",
+      "date": "2026-09-18T10:15:12.000Z",
+      "excerpt": "Most people can’t tell a bot from a human online, and the bots most likely to fool them are the polite ones, according to a new Surfshark study. The company analyzed 1,722 participants worldwide, testing their ability to separate human comments from AI-generated ones in a social…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+      "date": "2026-09-18T10:12:33.000Z",
+      "excerpt": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
+      "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+      "date": "2026-09-18T10:00:36.000Z",
+      "excerpt": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity appeared first on Unit 42 ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "CISA Upgrades Vulnerability Reporting Platform with More Automation",
+      "link": "https://www.infosecurity-magazine.com/news/cisa-upgrades-vulnerability/",
+      "date": "2026-09-18T10:00:00.000Z",
+      "excerpt": "The US cybersecurity agency is moving to a new vulnerability coordination platform called VINCE-NT"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
+      "link": "https://www.securityweek.com/brevo-supply-chain-attack-injects-malware-into-100000-websites/",
+      "date": "2026-09-18T09:46:57.000Z",
+      "excerpt": "Hackers used a compromised API key to deploy a Cloudflare worker that injected malicious scripts. The post Brevo Supply Chain Attack Injects Malware Into 100,000 Websites appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New Check Point flaw lets hackers execute code with root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "date": "2026-09-18T09:34:33.000Z",
+      "excerpt": "Check Point Software has released security updates to address a critical vulnerability that can let attackers execute code with root privileges on management systems. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Claimed Bug Bounty Hunter Likely Used LLM to Build PhantomRaven npm Stealer",
+      "link": "https://thehackernews.com/2026/09/claimed-bug-bounty-hunter-likely-used.html",
+      "date": "2026-09-18T09:18:03.000Z",
+      "excerpt": "A financially motivated threat actor has been linked to the development and distribution of a JavaScript (JS)-based information stealer known as PhantomRaven via the npm package registry. \"The developer likely wrote the malware using a large language model (LLM), an assessment…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Arcjet brings security controls and audit trails to AI agents",
+      "link": "https://www.helpnetsecurity.com/2026/09/18/arcjet-agent-runtime-security/",
+      "date": "2026-09-18T08:55:00.000Z",
+      "excerpt": "Arcjet has launched agent runtime security, a new product that helps engineering teams secure the AI agents they are building while giving security teams the governance and compliance evidence they need. Arcjet brings observability, enforcement, and audit capabilities across…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Zero-click RCE vulnerability hit four major AI coding agents, two remain unpatched",
+      "link": "https://www.helpnetsecurity.com/2026/09/18/plugin4shell-ai-coding-agents-vulnerability/",
+      "date": "2026-09-18T08:49:00.000Z",
+      "excerpt": "Four major AI coding agents, Claude Code, Codex, GitHub Copilot and Gemini CLI, all share the same zero-click RCE vulnerability, one that could give an attacker the same reach into a company’s systems and data as the employee running the agent, according to AIR. “It is the first…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Critical Orkes Conductor Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/critical-orkes-conductor-vulnerability-exploited-in-attacks/",
+      "date": "2026-09-18T08:42:18.000Z",
+      "excerpt": "CVE-2026-58138 is an unauthenticated remote code execution vulnerability that attackers can exploit via inline workflow definitions. The post Critical Orkes Conductor Vulnerability Exploited in Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Android apps can now check security patches down to individual device components",
+      "link": "https://www.helpnetsecurity.com/2026/09/18/google-androidx-security-state-libraries/",
+      "date": "2026-09-18T08:38:42.000Z",
+      "excerpt": "New AndroidX Security State libraries provide a more granular way to determine how securely patched an Android device is. The stable Security State v1.1.0 and Security State Provider v1.0.0 libraries allow developers to check the security status of individual device components…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Manufacturing Accounts for 22% of all Ransomware Victims",
+      "link": "https://www.infosecurity-magazine.com/news/manufacturing-22-ransomware-victims/",
+      "date": "2026-09-18T08:00:00.000Z",
+      "excerpt": "Black Kite has found that manufacturing remained the most targeted sector for ransomware attacks, and saw a big jump in incidents in H1 2026"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft fixes broken copy and paste for Excel 2016 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-copy-and-paste-for-excel-2016-users/",
+      "date": "2026-09-18T07:35:31.000Z",
+      "excerpt": "Microsoft has fixed a known issue that causes copy-and-paste failures for some Excel users after installing the September 2026 KB5002914 security update. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "MIND Secures $72 Million for AI-Powered DLP",
+      "link": "https://www.securityweek.com/mind-secures-72-million-for-ai-powered-dlp/",
+      "date": "2026-09-18T07:25:27.000Z",
+      "excerpt": "The company will use the funding to accelerate platform development and expand its presence in key enterprise markets. The post MIND Secures $72 Million for AI-Powered DLP appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Check Point, Kaspersky, Tanium Patch Product Vulnerabilities",
+      "link": "https://www.securityweek.com/check-point-kaspersky-tanium-patch-product-vulnerabilities/",
+      "date": "2026-09-18T07:14:04.000Z",
+      "excerpt": "Check Point Security Management and Log Servers are affected by a critical vulnerability that can allow remote code execution with root privileges. The post Check Point, Kaspersky, Tanium Patch Product Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
+      "date": "2026-09-18T07:00:00.000Z",
+      "excerpt": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "RatHat Android Malware Abuses ADB to Retain Shell Access After Uninstall",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-abuses-adb-to.html",
+      "date": "2026-09-18T06:17:25.000Z",
+      "excerpt": "Cybersecurity researchers have flagged a new Android malware called RatHat that's assessed to be operated by China-based threat actors and features an artificial intelligence (AI)-powered system to navigate and control compromised devices. \"Distributed primarily via targeted…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33352",
+      "date": "2026-09-18T06:05:26.000Z",
+      "excerpt": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010!"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Abandoned IoT apps keep sending sensitive data to broken servers",
+      "link": "https://www.helpnetsecurity.com/2026/09/18/abandoned-iot-apps-data-security-risks/",
+      "date": "2026-09-18T06:00:45.000Z",
+      "excerpt": "Millions of people still run smart home and IoT companion apps, the apps used to control devices like smart plugs, cameras, and thermostats, that stopped receiving updates years ago. Researchers at the University of Massachusetts Amherst analyzed 61,500 abandoned Android IoT…"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Hardcoded MCP credentials found in public GitHub files",
@@ -144,14 +320,6 @@
       "link": "https://www.helpnetsecurity.com/2026/09/18/wordpress-security-survey-recovery-plan/",
       "date": "2026-09-18T04:30:56.000Z",
       "excerpt": "Melapress, a maker of WordPress security plugins, surveyed 319 WordPress professionals and found that most had dealt with at least one known security incident. The respondents build and run WordPress sites for a living: agency staff, developers, designers, site owners and…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "New infosec products of the week: September 18, 2026",
-      "link": "https://www.helpnetsecurity.com/2026/09/18/new-infosec-products-of-the-week-september-18-2026/",
-      "date": "2026-09-18T04:00:53.000Z",
-      "excerpt": "Here’s a look at the most interesting products from the past week, featuring releases from Akuity, Bitsight, Cohesity, Dataminr, Nozomi Networks, and Tuskira. Dataminr uses agentic AI to predict and verify security threats Dataminr has announced Dataminr Advanced for Corporate…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -330,14 +498,6 @@
       "excerpt": "An oil tanker bound for Texas was boarded mid-voyage by the US Coast Guard and FBI last month, after its network may have been compromised by malicious hackers. According to the US Coast Guard, the supertanker was boarded after indications that the network \"may have been…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-      "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-      "date": "2026-09-17T14:28:00.000Z",
-      "excerpt": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
@@ -360,14 +520,6 @@
       "link": "https://www.infosecurity-magazine.com/news/cisa-critical-infrastructure-cyber/",
       "date": "2026-09-17T14:00:00.000Z",
       "excerpt": "CISA released guidance on using cyber decoys to detect & disrupt malicious activity inside networks"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-      "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-      "date": "2026-09-17T13:57:41.000Z",
-      "excerpt": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
@@ -394,28 +546,12 @@
       "excerpt": "Congressional sources say they view the deaths of U.S. Cyber Command personnel as an inflection point, especially as the Pentagon’s appetite for cyber capabilities grows following successful contributions to high-profile missions against Iran and Venezuela."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Iranian strikes on AWS facilities left customer data beyond recovery in Bahrain, UAE",
-      "link": "https://www.helpnetsecurity.com/2026/09/17/aws-middle-east-outage-permanent-data-loss-bahrain-uae/",
-      "date": "2026-09-17T13:12:47.000Z",
-      "excerpt": "Six months after Iranian drone strikes tore through its Middle East infrastructure, Amazon Web Services (AWS) has acknowledged the permanent loss of customer data in Bahrain and the UAE. In two updates posted September 15, AWS said it can no longer recover customer data and…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Windows 11 24H2 Home and Pro reach end of support in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
       "date": "2026-09-17T13:09:09.000Z",
       "excerpt": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "A fake ChatGPT billing email is after your OpenAI password",
-      "link": "https://www.helpnetsecurity.com/2026/09/17/chatgpt-phishing-email-openai-password/",
-      "date": "2026-09-17T13:01:40.000Z",
-      "excerpt": "A fake ChatGPT billing email is steering users to a copy of the OpenAI login page that keeps whatever username and password they type. Josh Varden of Cofense’s Phishing Defense Center traced the email’s payment button through a Google redirect to the attacker’s page. The lure…"
     },
     {
       "source": "Securelist",
@@ -426,22 +562,6 @@
       "excerpt": "Kaspersky experts have discovered a new MovieReaper campaign. The multi-stage Trojan spreads through movie torrents, such as \"The Odyssey,\" and uses the Solana blockchain to hide its C2 infrastructure."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Download: The IT leader’s guide to AI code sprawl",
-      "link": "https://www.helpnetsecurity.com/2026/09/17/tines-ai-code-sprawl-guide/",
-      "date": "2026-09-17T13:00:28.000Z",
-      "excerpt": "AI hasn’t just made building faster, it’s made everyone a builder. Across every department, employees are shipping apps, agents and automations using AI tools, often without knowing they’ve created something that needs governing at all. The result: AI code sprawl is taking root,…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
-      "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-      "date": "2026-09-17T13:00:00.000Z",
-      "excerpt": "The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure. The post Comp AI Raises $34 Million for AI-Native Compliance and Security appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "New Chinese-Made ‘RatHat’ Android Malware Leverages AI to Steal Financial Data",
@@ -450,44 +570,12 @@
       "excerpt": "Researchers at Zimperium have uncovered a new Android malware strain, dubbed RatHat, with spyware and backdoor capabilities"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "CISA wants critical infrastructure orgs and smaller security teams to start using cyber decoys",
-      "link": "https://www.helpnetsecurity.com/2026/09/17/cisa-guidance-for-implementing-cyber-decoys/",
-      "date": "2026-09-17T12:51:40.000Z",
-      "excerpt": "Cyber deception has long been the domain of well-resourced security teams, but CISA’s latest guidance, titled “Using Cyber Decoys to Strengthen Detection and Response”, is an attempt to try and change that. Why decoys, and why now The core problem CISA is attempting to address…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-      "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-      "date": "2026-09-17T12:39:28.000Z",
-      "excerpt": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
       "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
       "date": "2026-09-17T12:30:00.000Z",
       "excerpt": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday. An attacker who controls a malicious zone and queries a vulnerable resolver can trigger it, enabling remote code…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows",
-      "link": "https://www.securityweek.com/ransomware-attacks-on-manufacturers-surge-as-supply-chain-risk-grows/",
-      "date": "2026-09-17T12:29:53.000Z",
-      "excerpt": "Research shows attacks on manufacturers rose 40% in early 2026, as ransomware groups increasingly exploit the supply-chain disruption caused by operational shutdowns. The post Ransomware Attacks on Manufacturers Surge as Supply Chain Risk Grows appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard",
-      "link": "https://www.securityweek.com/cisco-fixes-dozens-of-flaws-across-fmc-ise-and-nexus-dashboard/",
-      "date": "2026-09-17T12:17:40.000Z",
-      "excerpt": "The vulnerabilities may lead to root access, command execution, bypasses, SQL injection, and remote code execution. The post Cisco Fixes Dozens of Flaws Across FMC, ISE and Nexus Dashboard appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
@@ -504,14 +592,6 @@
       "link": "https://www.infosecurity-magazine.com/news/cyber-essentials-has-record-year/",
       "date": "2026-09-17T12:15:00.000Z",
       "excerpt": "New government figures reveal a 20% annual increase in certifications"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "date": "2026-09-17T11:50:00.000Z",
-      "excerpt": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many…"
     },
     {
       "source": "BleepingComputer",
@@ -538,22 +618,6 @@
       "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI’s impacts on the country. Politicos are using AI deepfakes…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-      "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-      "date": "2026-09-17T10:50:53.000Z",
-      "excerpt": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what security leaders must demand…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "China-Aligned FamousSparrow Deploys SparroWocky Backdoor Across Latin America",
-      "link": "https://thehackernews.com/2026/09/china-aligned-famoussparrow-deploys.html",
-      "date": "2026-09-17T10:05:45.000Z",
-      "excerpt": "The China-aligned state-sponsored threat actor known as FamousSparrow has been observed deploying a previously unreported backdoor called SparroWocky in attacks targeting multiple countries in Latin America since at least August 2025. \"SparroWocky is a modular, C++ backdoor,\"…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "America’s cyber strategy overlooks the infrastructure that actually keeps the military moving",
@@ -570,28 +634,12 @@
       "excerpt": "One hacked camera captured 1.6 million images and could detect people as well as cars."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
-      "date": "2026-09-17T09:00:00.000Z",
-      "excerpt": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "AI Agent Carries Out Multi-Stage Data Theft Attack",
       "link": "https://www.infosecurity-magazine.com/news/ai-agent-carries-out-multistage/",
       "date": "2026-09-17T08:25:00.000Z",
       "excerpt": "Spanish data protection agency AEPD reveals the country’s first AI-powered data breach"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft shares workaround for Windows domain login issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
-      "date": "2026-09-17T08:24:48.000Z",
-      "excerpt": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -674,14 +722,6 @@
       "excerpt": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "PHP Webshell Campaign Targets WordPress Through Critical WooCommerce Plugin Bug",
-      "link": "https://www.infosecurity-magazine.com/news/woocommerce-wholesale-lead-capture/",
-      "date": "2026-09-16T15:00:00.000Z",
-      "excerpt": "Attackers are exploiting a critical flaw in a third-party WooCommerce plugin to upload PHP webshells"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Coast Guard, FBI board US-bound foreign ships in order to probe for cyberattacks",
@@ -696,14 +736,6 @@
       "link": "https://fedscoop.com/treasury-scott-bessent-ai-labs-liability-exemptions/",
       "date": "2026-09-16T14:10:19.000Z",
       "excerpt": "The secretary told House Financial Services Committee lawmakers that the “best way to guarantee safety” is for AI creators to be held “liable for what they build and generate.” The post Treasury’s Scott Bessent says no liability exemptions for AI labs appeared first on…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "CISA and NIST Issue Guidance to Protect Cloud Identity Tokens",
-      "link": "https://www.infosecurity-magazine.com/news/cisa-nist-cloud-identity-token/",
-      "date": "2026-09-16T14:00:00.000Z",
-      "excerpt": "CISA and NIST issued final guidance to help protect cloud identity tokens and assertions"
     },
     {
       "source": "Schneier on Security",
@@ -752,14 +784,6 @@
       "link": "https://www.sophos.com/en-us/blog/september-2026-patch-tuesday",
       "date": "2026-09-16T00:00:00.000Z",
       "excerpt": "Windows takes 718 fixes… but what if it was actually a slow month?"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
-      "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
-      "date": "2026-09-15T20:16:00.000Z",
-      "excerpt": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches."
     },
     {
       "source": "CyberScoop",
@@ -858,14 +882,6 @@
       "excerpt": "This is a current list of where and when I am scheduled to speak: I’m speaking online (via Zoom) at a League of Women Voters event on Tuesday, September 22, 2026 at 5 PM ET. I’m speaking at CanSecWest 2026 in Vancouver, Canada. The conference runs September 30–October 1, 2026;…"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Apple Updates Everything, (Mon, Sep 14th)",
-      "link": "https://isc.sans.edu/diary/rss/33336",
-      "date": "2026-09-14T18:33:44.000Z",
-      "excerpt": "Today, Apple released its annual update across all its operating systems. With that, Apple not only released new features but also patched 261 different vulnerabilities. This is the most vulnerabilities Apple has ever patched, but the increase is not as significant as other…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Using AI for Weapons Development",
@@ -896,22 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/uncensored-luciferus-ai-service-advertised-underground",
       "date": "2026-09-14T00:00:00.000Z",
       "excerpt": "Uncensored refers to a lack of typical guardrails or ethical restrictions, lowering the technical barrier of entry into cybercrime"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "ATT&CK grew a 15th tactic: A practical DFIR field guide to the Stealth / Defense Impairment split",
-      "link": "https://www.sophos.com/en-us/blog/mitre-enterprise-attack-grew-15th-tactic-practical-dfir-field-guide",
-      "date": "2026-09-14T00:00:00.000Z",
-      "excerpt": "Artifacts and tooling for the new Enterprise MITRE ATT&CK matrix tactics, distilled from the field."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: Rotting Squid on a Beached California Boat",
-      "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html",
-      "date": "2026-09-11T21:03:27.000Z",
-      "excerpt": "Smells awful : But an estimated 30 to 50 tons of dead squid remain inside the boat’s catch tank, where they have been decomposing for days. “That is nasty. I wouldn’t want to do that,” said commercial fisherman Dick Ogg of the Bodega Bay Fishermen’s Marketing Association. Ogg…"
     }
   ]
 }
