@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:18:05.298Z",
+  "updated": "2026-09-19T06:02:05.639Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -120,6 +120,22 @@
       "link": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "date": "2026-12-03T16:00:00.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
+      "link": "https://isc.sans.edu/diary/rss/33352",
+      "date": "2026-09-19T04:51:46.000Z",
+      "excerpt": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010!"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "My Early Thoughts on Jev",
+      "link": "https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-19T04:38:00.000Z",
+      "excerpt": "A charcoal sketch of a small purple sorting machine taking in a flood of envelopes, dropping most into bins, and sending two glowing envelopes up a narrow ramp to a large engine behind it/images/jev-decision-gate.webp/images/jev-decision-gate.webp Okay, I’ve got a video coming…"
     },
     {
       "source": "Schneier on Security",
@@ -480,14 +496,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
       "date": "2026-09-18T07:00:00.000Z",
       "excerpt": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33352",
-      "date": "2026-09-18T06:05:26.000Z",
-      "excerpt": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010!"
     },
     {
       "source": "Help Net Security",
@@ -904,14 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/using-ai-for-weapons-development.html",
       "date": "2026-09-14T16:07:46.000Z",
       "excerpt": "Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
-      "link": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
-      "date": "2026-09-14T10:00:01.000Z",
-      "excerpt": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection appeared first on Unit 42 ."
     }
   ]
 }

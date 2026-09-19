@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 19 Sep 2026 01:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 06:02:05 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] Cybersecurity Outlook 2027</title>
@@ -14,6 +14,22 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>via Dark Reading</description>
+    </item>
+    <item>
+      <title>HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/33352</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33352</guid>
+      <pubDate>Sat, 19 Sep 2026 04:51:46 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: &quot;QUERY&quot;. The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&amp;#x27s the first new standard HTTP verb since &quot;PATCH&quot; in 2010! (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>My Early Thoughts on Jev</title>
+      <link>https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sat, 19 Sep 2026 04:38:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A charcoal sketch of a small purple sorting machine taking in a flood of envelopes, dropping most into bins, and sending two glowing envelopes up a narrow ramp to a large engine behind it/images/jev-decision-gate.webp/images/jev-decision-gate.webp Okay, I’ve got a video coming… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>Friday Squid Blogging: On Squid Egg Sacs</title>
@@ -374,14 +390,6 @@
       <pubDate>Fri, 18 Sep 2026 07:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>AI-driven cyberattacks used to be exotic. Soon, it&#39;ll be odd if threat actors aren&#39;t using agents to do all of their bidding. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/33352</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33352</guid>
-      <pubDate>Fri, 18 Sep 2026 06:05:26 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: &quot;QUERY&quot;. The HTTP protocol faced already by changes (HTTP/2, HTTP/2) but it&amp;#x27s the first new standard HTTP verb since &quot;PATCH&quot; in 2010! (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Abandoned IoT apps keep sending sensitive data to broken servers</title>
@@ -798,14 +806,6 @@
       <pubDate>Mon, 14 Sep 2026 16:07:46 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Last week, Anthropic released a long and detailed document describing current misuses of their Claude models. I’m still reading it, but I wanted to flag this: We identified a cell of threat actors based in northern Yemen running three weapons development programs: a guided… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection</title>
-      <link>https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/</guid>
-      <pubDate>Mon, 14 Sep 2026 10:00:01 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection appeared first on Unit 42 . (via Unit 42)</description>
     </item>
   </channel>
 </rss>
