@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 20 Sep 2026 12:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 16:52:56 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>[Virtual Event] Cybersecurity Outlook 2027</title>
@@ -14,6 +14,14 @@
       <pubDate>Thu, 03 Dec 2026 16:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>via Dark Reading</description>
+    </item>
+    <item>
+      <title>Malicious npm packages evade install-script defenses at runtime</title>
+      <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</guid>
+      <pubDate>Sun, 20 Sep 2026 14:11:21 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>An ongoing npm malware campaign involving the &#39;indexed-btree&#39; package shows how threat actors bypass supply chain defenses by hiding malicious code in a package&#39;s normal runtime behavior rather than in installation scripts. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Researchers escape OpenAI Codex sandbox to run commands on host</title>
@@ -254,14 +262,6 @@
       <pubDate>Fri, 18 Sep 2026 14:25:00 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Noteworthy stories that might have slipped under the radar: Mandiant&#39;s 2026 AI risk report, PhantomRaven malware used by bug bounty hunter, WordPress plugin bug exploited. The post In Other News: Ransomware Developer Sentenced, Plugin4Shell AI Attack, Critical SAP Flaw appeared… (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Secure enterprise sharing with access reviews for Microsoft 365</title>
-      <link>https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/</guid>
-      <pubDate>Fri, 18 Sep 2026 14:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can… (via BleepingComputer)</description>
     </item>
     <item>
       <title>Researchers used Claude to hack OpenAI</title>
