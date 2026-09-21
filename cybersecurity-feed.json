@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T19:37:39.255Z",
+  "updated": "2026-09-21T23:23:10.010Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -88,8 +88,8 @@
     },
     {
       "name": "Schneier on Security",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0
     },
     {
       "name": "Graham Cluley",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+      "date": "2026-09-21T22:24:38.000Z",
+      "excerpt": "A simple ClickFix attack is only one way to completely hijack the new agent."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
+      "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
+      "date": "2026-09-21T21:39:59.000Z",
+      "excerpt": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "date": "2026-09-21T21:18:49.000Z",
+      "excerpt": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "date": "2026-09-21T20:12:17.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "ShinyHunters Hacked Clop. Now What About Clop's Victims?",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims",
+      "date": "2026-09-21T20:07:56.000Z",
+      "excerpt": "ShinyHunters defaced Clop's Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts."
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -232,14 +272,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
       "date": "2026-09-21T14:42:37.000Z",
       "excerpt": "Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...]"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Reverse-Engineering Flock Cameras",
-      "link": "https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html",
-      "date": "2026-09-21T14:37:45.000Z",
-      "excerpt": "Hackers captured a Flock camera and got a look (alternate link ) at the software: While much of the automatic license plate reader’s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data shows that software running on the…"
     },
     {
       "source": "SecurityWeek",
@@ -386,14 +418,6 @@
       "excerpt": "It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Calls appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: September updates break File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
-      "date": "2026-09-21T11:45:54.000Z",
-      "excerpt": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
@@ -508,7 +532,7 @@
     {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
-      "title": "Your Agents Should Have Names",
+      "title": "I Think Our Main Agents Will Have Names",
       "link": "https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-21T05:30:00.000Z",
       "excerpt": "Isometric cutaway of a house at night: the owner asleep upstairs in sienna while four distinct purple people work the lamplit rooms below, one at the front door with a lantern, one sorting his mail into a ledger, one at his computer, one laying out his bike and weights for the…"
@@ -520,14 +544,6 @@
       "link": "https://isc.sans.edu/diary/rss/33354",
       "date": "2026-09-21T05:15:12.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Malicious npm packages evade install-script defenses at runtime",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-      "date": "2026-09-20T14:11:21.000Z",
-      "excerpt": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]"
     },
     {
       "source": "Ars Technica Security",
@@ -560,14 +576,6 @@
       "link": "https://danielmiessler.com/blog/early-thoughts-on-jev?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-19T04:38:00.000Z",
       "excerpt": "A charcoal sketch of a small purple sorting machine taking in a flood of envelopes, dropping most into bins, and sending two glowing envelopes up a narrow ramp to a large engine behind it/images/jev-decision-gate.webp/images/jev-decision-gate.webp Okay, I’ve got a video coming…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: On Squid Egg Sacs",
-      "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
-      "date": "2026-09-18T21:06:00.000Z",
-      "excerpt": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
     },
     {
       "source": "Dark Reading",
@@ -642,14 +650,6 @@
       "excerpt": "Huntress researchers highlighted a new ransomware variant, named Settra, and the post-compromise techniques used in two recent attacks"
     },
     {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Are AIs Still Struggling with CAPTCHAs?",
-      "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
-      "date": "2026-09-18T11:05:52.000Z",
-      "excerpt": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple…"
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
@@ -666,14 +666,6 @@
       "excerpt": "The US cybersecurity agency is moving to a new vulnerability coordination platform called VINCE-NT"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Agent Breaches Spanish Organization, Modifies Personal Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data",
-      "date": "2026-09-18T07:00:00.000Z",
-      "excerpt": "AI-driven cyberattacks used to be exotic. Soon, it'll be odd if threat actors aren't using agents to do all of their bidding."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
@@ -688,14 +680,6 @@
       "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
       "date": "2026-09-17T22:00:33.000Z",
       "excerpt": "Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared first on Unit 42 ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "date": "2026-09-17T21:23:50.000Z",
-      "excerpt": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter."
     },
     {
       "source": "CyberScoop",
@@ -770,14 +754,6 @@
       "excerpt": "Kaspersky experts have discovered a new MovieReaper campaign. The multi-stage Trojan spreads through movie torrents, such as The Odyssey, and uses the Solana blockchain to hide its C2 infrastructure."
     },
     {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "How Candidates Could Use AI for Good",
-      "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
-      "date": "2026-09-17T11:06:31.000Z",
-      "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI’s impacts on the country. Politicos are using AI deepfakes…"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "America’s cyber strategy overlooks the infrastructure that actually keeps the military moving",
@@ -842,14 +818,6 @@
       "excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey…"
     },
     {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Fake CAPTCHA Scams",
-      "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "date": "2026-09-16T11:25:26.000Z",
-      "excerpt": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "NightEagle targets Russian companies",
@@ -882,22 +850,6 @@
       "excerpt": "Windows takes 718 fixes… but what if it was actually a slow month?"
     },
     {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-      "date": "2026-09-15T11:01:41.000Z",
-      "excerpt": "This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "On the NSA’s Supercomputer from the 1960s",
-      "link": "https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html",
-      "date": "2026-09-15T10:16:24.000Z",
-      "excerpt": "Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA."
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Former AT&T store worker jailed after moonlighting as a SIM-swap gang’s inside man",
@@ -912,6 +864,38 @@
       "link": "https://www.sophos.com/en-us/blog/sophos-next-gen-siem",
       "date": "2026-09-15T00:00:00.000Z",
       "excerpt": "Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Messageboards are all they need",
+      "link": "https://www.sophos.com/en-us/blog/ai-research-messageboards",
+      "date": "2026-09-15T00:00:00.000Z",
+      "excerpt": "This article was first published on LinkedIn."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation",
+      "link": "https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation",
+      "date": "2026-09-15T00:00:00.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "MSP Perspectives 2026: The evolution of the MSP cybersecurity value proposition",
+      "link": "https://www.sophos.com/en-us/blog/the-evolution-of-the-msp-cybersecurity-value-proposition",
+      "date": "2026-09-15T00:00:00.000Z",
+      "excerpt": "MSPs are no longer simply being asked to manage technology; increasingly, customers are expecting them to provide cybersecurity leadership, deliver compliance programs, and guide security investment."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Anthropic's Misuse Report, Condensed to 117 Findings",
+      "link": "https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-14T23:45:00.000Z",
+      "excerpt": "The cover of the UL summary of Anthropic's September 2026 misuse report, with the eight section titles down the left side and 117 findings in the corner/images/ul-anthropic-misuse-report-2026.webphttps://share.danielmiessler.com/G2BrZSoRq3/raw?dl=1 click the cover to download…"
     }
   ]
 }

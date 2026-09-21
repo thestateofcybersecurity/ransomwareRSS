@@ -5,8 +5,48 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 21 Sep 2026 19:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 23:23:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Muse, Meta&#39;s extraordinarily privileged AI assistant, has a serious 0-day</title>
+      <link>https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/</guid>
+      <pubDate>Mon, 21 Sep 2026 22:24:38 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>A simple ClickFix attack is only one way to completely hijack the new agent. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>How AI Agents Can Trigger Runaway Costs for Enterprises</title>
+      <link>https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs</guid>
+      <pubDate>Mon, 21 Sep 2026 21:39:59 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>BigCommerce alerts merchants of data breach linked to Ribon apps</title>
+      <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</guid>
+      <pubDate>Mon, 21 Sep 2026 21:18:49 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>CISA alerts of active exploitation of three Linux kernel flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/</guid>
+      <pubDate>Mon, 21 Sep 2026 20:12:17 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>ShinyHunters Hacked Clop. Now What About Clop&#39;s Victims?</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</guid>
+      <pubDate>Mon, 21 Sep 2026 20:07:56 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>ShinyHunters defaced Clop&#39;s Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts. (via Dark Reading)</description>
+    </item>
     <item>
       <title>EU data regulator fines Google more than $460 million for location data violations</title>
       <link>https://therecord.media/google-europe-location-data-fine</link>
@@ -126,14 +166,6 @@
       <pubDate>Mon, 21 Sep 2026 14:42:37 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Microsoft has fixed a known issue that causes copy-and-paste failures for Excel users after installing the September 2026 security updates. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Reverse-Engineering Flock Cameras</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html</guid>
-      <pubDate>Mon, 21 Sep 2026 14:37:45 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Hackers captured a Flock camera and got a look (alternate link ) at the software: While much of the automatic license plate reader’s (ALPR) most sensitive storage remained encrypted and inaccessible, the joint analysis of the recovered data shows that software running on the… (via Schneier on Security)</description>
     </item>
     <item>
       <title>CISO Conversations: Noopur Davis – The Accidental Global CISO at Comcast</title>
@@ -280,14 +312,6 @@
       <description>It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Calls appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Microsoft: September updates break File History backup feature</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/</guid>
-      <pubDate>Mon, 21 Sep 2026 11:45:54 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>CrowdSec Confirms Source Code Stolen in Supply Chain Attack</title>
       <link>https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/</link>
       <guid isPermaLink="false">https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/</guid>
@@ -400,7 +424,7 @@
       <description>In this Help Net Security interview, Guilherme Joventino, COO of MIGNOW, explains why some large companies plan to stay on ECC past the 2027 deadline and pay SAP for extended support until 2030. The interview covers what that choice may cost, why fear of disruption stalls… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Your Agents Should Have Names</title>
+      <title>I Think Our Main Agents Will Have Names</title>
       <link>https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Mon, 21 Sep 2026 05:30:00 GMT</pubDate>
@@ -414,14 +438,6 @@
       <pubDate>Mon, 21 Sep 2026 05:15:12 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Malicious npm packages evade install-script defenses at runtime</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</guid>
-      <pubDate>Sun, 20 Sep 2026 14:11:21 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>An ongoing npm malware campaign involving the &#39;indexed-btree&#39; package shows how threat actors bypass supply chain defenses by hiding malicious code in a package&#39;s normal runtime behavior rather than in installation scripts. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>An undercover Google analyst infiltrated a notorious supply-chain hacking gang</title>
@@ -454,14 +470,6 @@
       <pubDate>Sat, 19 Sep 2026 04:38:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A charcoal sketch of a small purple sorting machine taking in a flood of envelopes, dropping most into bins, and sending two glowing envelopes up a narrow ramp to a large engine behind it/images/jev-decision-gate.webp/images/jev-decision-gate.webp Okay, I’ve got a video coming… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Friday Squid Blogging: On Squid Egg Sacs</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html</guid>
-      <pubDate>Fri, 18 Sep 2026 21:06:00 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy. (via Schneier on Security)</description>
     </item>
     <item>
       <title>Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks</title>
@@ -536,14 +544,6 @@
       <description>Huntress researchers highlighted a new ransomware variant, named Settra, and the post-compromise techniques used in two recent attacks (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Are AIs Still Struggling with CAPTCHAs?</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html</guid>
-      <pubDate>Fri, 18 Sep 2026 11:05:52 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple… (via Schneier on Security)</description>
-    </item>
-    <item>
       <title>A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity</title>
       <link>https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/</guid>
@@ -560,14 +560,6 @@
       <description>The US cybersecurity agency is moving to a new vulnerability coordination platform called VINCE-NT (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>AI Agent Breaches Spanish Organization, Modifies Personal Data</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-breaches-spanish-organization-personal-data</guid>
-      <pubDate>Fri, 18 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>AI-driven cyberattacks used to be exotic. Soon, it&#39;ll be odd if threat actors aren&#39;t using agents to do all of their bidding. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)</title>
       <link>https://isc.sans.edu/diary/rss/33350</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33350</guid>
@@ -582,14 +574,6 @@
       <pubDate>Thu, 17 Sep 2026 22:00:33 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus</title>
-      <link>https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus</guid>
-      <pubDate>Thu, 17 Sep 2026 21:23:50 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The move is consistent with the agency&#39;s advice on the need for organizations to prioritize the vulnerabilities that actually matter. (via Dark Reading)</description>
     </item>
     <item>
       <title>Cisco alerts customers to second actively exploited zero-day in as many days</title>
@@ -664,14 +648,6 @@
       <description>Kaspersky experts have discovered a new MovieReaper campaign. The multi-stage Trojan spreads through movie torrents, such as The Odyssey, and uses the Solana blockchain to hide its C2 infrastructure. (via Securelist)</description>
     </item>
     <item>
-      <title>How Candidates Could Use AI for Good</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html</guid>
-      <pubDate>Thu, 17 Sep 2026 11:06:31 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI’s impacts on the country. Politicos are using AI deepfakes… (via Schneier on Security)</description>
-    </item>
-    <item>
       <title>America’s cyber strategy overlooks the infrastructure that actually keeps the military moving</title>
       <link>https://cyberscoop.com/us-cyber-strategy-iranian-threats-infrastructure-op-ed/</link>
       <guid isPermaLink="false">https://cyberscoop.com/us-cyber-strategy-iranian-threats-infrastructure-op-ed/</guid>
@@ -736,14 +712,6 @@
       <description>The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey… (via Krebs on Security)</description>
     </item>
     <item>
-      <title>Fake CAPTCHA Scams</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html</guid>
-      <pubDate>Wed, 16 Sep 2026 11:25:26 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program. (via Schneier on Security)</description>
-    </item>
-    <item>
       <title>NightEagle targets Russian companies</title>
       <link>https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/</link>
       <guid isPermaLink="false">https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/</guid>
@@ -776,22 +744,6 @@
       <description>Windows takes 718 fixes… but what if it was actually a slow month? (via Sophos News)</description>
     </item>
     <item>
-      <title>25 Years of Mass Surveillance Is Enough</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html</guid>
-      <pubDate>Tue, 15 Sep 2026 11:01:41 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This essay was written with Cindy Cohn, and originally appeared in Lawfare . One of the many legacies of the terrorist attacks of Sept. 11 is the government-wide shift from targeted surveillance—such as individual wiretaps or pen register/trap and trace orders—to mass… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>On the NSA’s Supercomputer from the 1960s</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/on-the-nsas-supercomputer-from-the-1960s.html</guid>
-      <pubDate>Tue, 15 Sep 2026 10:16:24 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Really interesting story about Harvest, a specialized code breaking computer built in the 1960s by IBM for the NSA. (via Schneier on Security)</description>
-    </item>
-    <item>
       <title>Former AT&amp;T store worker jailed after moonlighting as a SIM-swap gang’s inside man</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap</link>
       <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/former-at-t-worker-jailed-sim-swap</guid>
@@ -806,6 +758,38 @@
       <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Sophos Next-Gen SIEM, now generally available as part of Sophos Fusion, brings security operations and compliance together through shared context. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Messageboards are all they need</title>
+      <link>https://www.sophos.com/en-us/blog/ai-research-messageboards</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/ai-research-messageboards</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>This article was first published on LinkedIn. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Cisco Secure Email Gateway vulnerability (CVE-2026-76461) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/cisco-secure-email-gateway-vulnerability-cve-2026-76461-in-active-exploitation</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>via Sophos News</description>
+    </item>
+    <item>
+      <title>MSP Perspectives 2026: The evolution of the MSP cybersecurity value proposition</title>
+      <link>https://www.sophos.com/en-us/blog/the-evolution-of-the-msp-cybersecurity-value-proposition</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-evolution-of-the-msp-cybersecurity-value-proposition</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>MSPs are no longer simply being asked to manage technology; increasingly, customers are expecting them to provide cybersecurity leadership, deliver compliance programs, and guide security investment. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Anthropic&#39;s Misuse Report, Condensed to 117 Findings</title>
+      <link>https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/anthropic-misuse-report-september-2026?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Mon, 14 Sep 2026 23:45:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>The cover of the UL summary of Anthropic&#39;s September 2026 misuse report, with the eight section titles down the left side and 117 findings in the corner/images/ul-anthropic-misuse-report-2026.webphttps://share.danielmiessler.com/G2BrZSoRq3/raw?dl=1 click the cover to download… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>
