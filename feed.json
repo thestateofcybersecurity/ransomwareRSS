@@ -1,6 +1,123 @@
 {
-  "updated": "2026-09-21T06:33:26.983Z",
+  "updated": "2026-09-21T14:21:14.580Z",
   "items": [
+    {
+      "group": "metaencryptor",
+      "victim": "Hudson MD Group, LLC",
+      "sector": "Healthcare",
+      "country": "US",
+      "domain": "www.hudsonmdgroup.com",
+      "discovered": "2026-09-21T13:08:14.932Z",
+      "link": "https://www.ransomware.live/id/SHVkc29uIE1EIEdyb3VwLCBMTENAbWV0YWVuY3J5cHRvcg=="
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "Bruker Corporation",
+      "sector": "Manufacturing",
+      "country": "US",
+      "domain": "www.bruker.com",
+      "discovered": "2026-09-21T13:07:23.145Z",
+      "link": "https://www.ransomware.live/id/QnJ1a2VyIENvcnBvcmF0aW9uQG1ldGFlbmNyeXB0b3I="
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "Flex Ltd",
+      "sector": "Manufacturing",
+      "country": "US",
+      "domain": "flex.com",
+      "discovered": "2026-09-21T13:06:25.909Z",
+      "link": "https://www.ransomware.live/id/RmxleCBMdGRAbWV0YWVuY3J5cHRvcg=="
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "HyVision System. Inc",
+      "sector": "Technology",
+      "country": "KR",
+      "domain": "en.hyvision.co.kr",
+      "discovered": "2026-09-21T13:05:38.592Z",
+      "link": "https://www.ransomware.live/id/SHlWaXNpb24gU3lzdGVtLiBJbmNAbWV0YWVuY3J5cHRvcg=="
+    },
+    {
+      "group": "metaencryptor",
+      "victim": "Visual Intelligence, Inc.",
+      "sector": "Technology",
+      "country": "US",
+      "domain": "visualintelligenceinc.com",
+      "discovered": "2026-09-21T13:04:07.966Z",
+      "link": "https://www.ransomware.live/id/VmlzdWFsIEludGVsbGlnZW5jZSwgSW5jLkBtZXRhZW5jcnlwdG9y"
+    },
+    {
+      "group": "akira",
+      "victim": "Prestige Management",
+      "sector": "Professional Services",
+      "country": "US",
+      "domain": "prestigemgt.com",
+      "discovered": "2026-09-21T12:24:42.712Z",
+      "link": "https://www.ransomware.live/id/UHJlc3RpZ2UgTWFuYWdlbWVudEBha2lyYQ=="
+    },
+    {
+      "group": "thegentlemen",
+      "victim": "Grupolider",
+      "sector": "Other",
+      "country": "AO",
+      "domain": "grupolider-ao.com",
+      "discovered": "2026-09-21T11:42:16.073Z",
+      "link": "https://www.ransomware.live/id/R3J1cG9saWRlckB0aGVnZW50bGVtZW4="
+    },
+    {
+      "group": "Storm",
+      "victim": "The Money Store",
+      "sector": "Financial Services",
+      "country": "US",
+      "domain": "themoneystore.com",
+      "discovered": "2026-09-21T11:31:54.260Z",
+      "link": "https://www.ransomware.live/id/VGhlIE1vbmV5IFN0b3JlQFN0b3Jt"
+    },
+    {
+      "group": "Storm",
+      "victim": "TrueCore Behavioral Solutions",
+      "sector": "Healthcare",
+      "country": "US",
+      "domain": "truecorebehavioral.com",
+      "discovered": "2026-09-21T11:31:22.958Z",
+      "link": "https://www.ransomware.live/id/VHJ1ZUNvcmUgQmVoYXZpb3JhbCBTb2x1dGlvbnNAU3Rvcm0="
+    },
+    {
+      "group": "Storm",
+      "victim": "Manroc Developments",
+      "sector": "Other",
+      "country": "CA",
+      "domain": "manroc.com",
+      "discovered": "2026-09-21T11:30:51.754Z",
+      "link": "https://www.ransomware.live/id/TWFucm9jIERldmVsb3BtZW50c0BTdG9ybQ=="
+    },
+    {
+      "group": "Doommageddon",
+      "victim": "Charlottesville Police Department",
+      "sector": "Government & Defense",
+      "country": "US",
+      "domain": "cpdcareers.com",
+      "discovered": "2026-09-21T10:21:20.195Z",
+      "link": "https://www.ransomware.live/id/Q2hhcmxvdHRlc3ZpbGxlIFBvbGljZSBEZXBhcnRtZW50QERvb21tYWdlZGRvbg=="
+    },
+    {
+      "group": "EndZone",
+      "victim": "Gomomentum.com",
+      "sector": "",
+      "country": "",
+      "domain": "gomomentum.com",
+      "discovered": "2026-09-21T09:20:55.521Z",
+      "link": "https://www.ransomware.live/id/R29tb21lbnR1bS5jb21ARW5kWm9uZQ=="
+    },
+    {
+      "group": "qilin",
+      "victim": "IKEGAMI TSUSHINKI COMPANY LIMITED",
+      "sector": "Manufacturing",
+      "country": "JP",
+      "domain": "www.ikegami.co.jp",
+      "discovered": "2026-09-21T08:01:50.407Z",
+      "link": "https://www.ransomware.live/id/SUtFR0FNSSBUU1VTSElOS0kgQ09NUEFOWSBMSU1JVEVEQHFpbGlu"
+    },
     {
       "group": "lockbit5",
       "victim": "siinqeebank.com",
@@ -333,123 +450,6 @@
       "domain": "www.inglewoodgolfclub.ca",
       "discovered": "2026-09-18T20:43:47.009Z",
       "link": "https://www.ransomware.live/id/SW5nbGV3b29kIEdvbGZAcGxheQ=="
-    },
-    {
-      "group": "play",
-      "victim": "Barrett Mahony Consulting Engineers",
-      "sector": "Professional Services",
-      "country": "IE",
-      "domain": "www.barrettmahony.com",
-      "discovered": "2026-09-18T20:43:11.872Z",
-      "link": "https://www.ransomware.live/id/QmFycmV0dCBNYWhvbnkgQ29uc3VsdGluZyBFbmdpbmVlcnNAcGxheQ=="
-    },
-    {
-      "group": "Spirals",
-      "victim": "PITTSRAD",
-      "sector": "Healthcare",
-      "country": "US",
-      "domain": "pittsrad.net",
-      "discovered": "2026-09-18T20:24:29.068Z",
-      "link": "https://www.ransomware.live/id/UElUVFNSQURAU3BpcmFscw=="
-    },
-    {
-      "group": "N0n",
-      "victim": "Inter (Venezuela's largest internet provider)",
-      "sector": "Technology",
-      "country": "VE",
-      "domain": "inter.com.ve",
-      "discovered": "2026-09-18T19:51:07.604Z",
-      "link": "https://www.ransomware.live/id/SW50ZXIgKFZlbmV6dWVsYSdzIGxhcmdlc3QgaW50ZXJuZXQgcHJvdmlkZXIpQE4wbg=="
-    },
-    {
-      "group": "Gammax",
-      "victim": "Premier Lighting & Controls",
-      "sector": "Manufacturing",
-      "country": "US",
-      "domain": "premierlight.com",
-      "discovered": "2026-09-18T17:52:03.699Z",
-      "link": "https://www.ransomware.live/id/UHJlbWllciBMaWdodGluZyAmIENvbnRyb2xzQEdhbW1heA=="
-    },
-    {
-      "group": "AuditTeam",
-      "victim": "kit-e.jp",
-      "sector": "Technology",
-      "country": "JP",
-      "domain": "kit-e.jp",
-      "discovered": "2026-09-18T15:50:58.076Z",
-      "link": "https://www.ransomware.live/id/a2l0LWUuanBAQXVkaXRUZWFt"
-    },
-    {
-      "group": "AuditTeam",
-      "victim": "Paid Victim 192EB2B6AD7B98D9",
-      "sector": "",
-      "country": "RU",
-      "domain": "",
-      "discovered": "2026-09-18T15:50:21.961Z",
-      "link": "https://www.ransomware.live/id/UGFpZCBWaWN0aW0gMTkyRUIyQjZBRDdCOThEOUBBdWRpdFRlYW0="
-    },
-    {
-      "group": "securotrop",
-      "victim": "Prefix Corp",
-      "sector": "Other",
-      "country": "US",
-      "domain": "www.prefix.com",
-      "discovered": "2026-09-18T15:45:39.091Z",
-      "link": "https://www.ransomware.live/id/UHJlZml4IENvcnBAc2VjdXJvdHJvcA=="
-    },
-    {
-      "group": "N0n",
-      "victim": "PayPal support operations (Transcom WorldWide)",
-      "sector": "Financial Services",
-      "country": "SE",
-      "domain": "transcom.com",
-      "discovered": "2026-09-18T15:27:18.196Z",
-      "link": "https://www.ransomware.live/id/UGF5UGFsIHN1cHBvcnQgb3BlcmF0aW9ucyAoVHJhbnNjb20gV29ybGRXaWRlKUBOMG4="
-    },
-    {
-      "group": "N0n",
-      "victim": "Ministry of Education — Argentina",
-      "sector": "Government & Defense",
-      "country": "AR",
-      "domain": "argentina.gob.ar",
-      "discovered": "2026-09-18T15:26:43.848Z",
-      "link": "https://www.ransomware.live/id/TWluaXN0cnkgb2YgRWR1Y2F0aW9uIOKAlCBBcmdlbnRpbmFATjBu"
-    },
-    {
-      "group": "N0n",
-      "victim": "Argentem Creek Partners (investment firm)",
-      "sector": "Financial Services",
-      "country": "US",
-      "domain": "argentemcreek.com",
-      "discovered": "2026-09-18T15:26:08.569Z",
-      "link": "https://www.ransomware.live/id/QXJnZW50ZW0gQ3JlZWsgUGFydG5lcnMgKGludmVzdG1lbnQgZmlybSlATjBu"
-    },
-    {
-      "group": "N0n",
-      "victim": "AstraZeneca Türkiye",
-      "sector": "Healthcare",
-      "country": "TR",
-      "domain": "astrazeneca.com.tr",
-      "discovered": "2026-09-18T15:25:43.614Z",
-      "link": "https://www.ransomware.live/id/QXN0cmFaZW5lY2EgVMO8cmtpeWVATjBu"
-    },
-    {
-      "group": "N0n",
-      "victim": "STOKR (digital securities platform)",
-      "sector": "Financial Services",
-      "country": "LU",
-      "domain": "stokr.io",
-      "discovered": "2026-09-18T15:25:08.389Z",
-      "link": "https://www.ransomware.live/id/U1RPS1IgKGRpZ2l0YWwgc2VjdXJpdGllcyBwbGF0Zm9ybSlATjBu"
-    },
-    {
-      "group": "N0n",
-      "victim": "Konnatus (usucapião legal services)",
-      "sector": "Professional Services",
-      "country": "BR",
-      "domain": "",
-      "discovered": "2026-09-18T15:24:33.536Z",
-      "link": "https://www.ransomware.live/id/S29ubmF0dXMgKHVzdWNhcGnDo28gbGVnYWwgc2VydmljZXMpQE4wbg=="
     }
   ]
 }
