@@ -1,12 +1,30 @@
 {
-  "updated": "2026-09-21T01:15:26.438Z",
+  "updated": "2026-09-21T06:33:26.983Z",
   "items": [
+    {
+      "group": "lockbit5",
+      "victim": "siinqeebank.com",
+      "sector": "Financial Services",
+      "country": "SO",
+      "domain": "siinqeebank.com",
+      "discovered": "2026-09-21T06:10:58.119Z",
+      "link": "https://www.ransomware.live/id/c2lpbnFlZWJhbmsuY29tQGxvY2tiaXQ1"
+    },
+    {
+      "group": "threeam",
+      "victim": "newmantractor.com",
+      "sector": "Manufacturing",
+      "country": "US",
+      "domain": "newmantractor.com",
+      "discovered": "2026-09-21T06:07:48.540Z",
+      "link": "https://www.ransomware.live/id/bmV3bWFudHJhY3Rvci5jb21AdGhyZWVhbQ=="
+    },
     {
       "group": "incransom",
       "victim": "SECOND HOUSE",
       "sector": "Hospitality",
       "country": "ES",
-      "domain": "",
+      "domain": "secondhouse.es",
       "discovered": "2026-09-21T00:35:05.808Z",
       "link": "https://www.ransomware.live/id/U0VDT05EIEhPVVNFQGluY3JhbnNvbQ=="
     },
@@ -15,7 +33,7 @@
       "victim": "Maryann Kriger",
       "sector": "",
       "country": "US",
-      "domain": "",
+      "domain": "bonitaortho.com",
       "discovered": "2026-09-21T00:34:36.706Z",
       "link": "https://www.ransomware.live/id/TWFyeWFubiBLcmlnZXJAaW5jcmFuc29t"
     },
@@ -432,24 +450,6 @@
       "domain": "",
       "discovered": "2026-09-18T15:24:33.536Z",
       "link": "https://www.ransomware.live/id/S29ubmF0dXMgKHVzdWNhcGnDo28gbGVnYWwgc2VydmljZXMpQE4wbg=="
-    },
-    {
-      "group": "N0n",
-      "victim": "BeLi Teacher / FSC education centers (AWS)",
-      "sector": "Education",
-      "country": "VN",
-      "domain": "beliteachers.com",
-      "discovered": "2026-09-18T15:23:59.412Z",
-      "link": "https://www.ransomware.live/id/QmVMaSBUZWFjaGVyIC8gRlNDIGVkdWNhdGlvbiBjZW50ZXJzIChBV1MpQE4wbg=="
-    },
-    {
-      "group": "N0n",
-      "victim": "Vietnamese betting operator (GC789 network / Boundless TE)",
-      "sector": "Other",
-      "country": "VN",
-      "domain": "",
-      "discovered": "2026-09-18T15:23:23.007Z",
-      "link": "https://www.ransomware.live/id/VmlldG5hbWVzZSBiZXR0aW5nIG9wZXJhdG9yIChHQzc4OSBuZXR3b3JrIC8gQm91bmRsZXNzIFRFKUBOMG4="
     }
   ]
 }
