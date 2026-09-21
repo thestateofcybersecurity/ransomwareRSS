@@ -1,6 +1,78 @@
 {
-  "updated": "2026-09-21T14:21:14.580Z",
+  "updated": "2026-09-21T19:37:37.449Z",
   "items": [
+    {
+      "group": "unsafe",
+      "victim": "kyyba.com",
+      "sector": "Technology",
+      "country": "FI",
+      "domain": "kyyba.com",
+      "discovered": "2026-09-21T19:23:38.618Z",
+      "link": "https://www.ransomware.live/id/a3l5YmEuY29tQHVuc2FmZQ=="
+    },
+    {
+      "group": "nightspire",
+      "victim": "360 Consulenza S.r.l.",
+      "sector": "Professional Services",
+      "country": "IT",
+      "domain": "www.360consulenza.com",
+      "discovered": "2026-09-21T18:43:28.757Z",
+      "link": "https://www.ransomware.live/id/MzYwIENvbnN1bGVuemEgUy5yLmwuQG5pZ2h0c3BpcmU="
+    },
+    {
+      "group": "nightspire",
+      "victim": "Spo**** Schools",
+      "sector": "Education",
+      "country": "US",
+      "domain": "",
+      "discovered": "2026-09-21T18:43:08.077Z",
+      "link": "https://www.ransomware.live/id/U3BvKioqKiBTY2hvb2xzQG5pZ2h0c3BpcmU="
+    },
+    {
+      "group": "anubis",
+      "victim": "Summa Gold",
+      "sector": "Manufacturing",
+      "country": "",
+      "domain": "",
+      "discovered": "2026-09-21T18:22:50.400Z",
+      "link": "https://www.ransomware.live/id/U3VtbWEgR29sZEBhbnViaXM="
+    },
+    {
+      "group": "Global Secret Group",
+      "victim": "Allied Supply Co.",
+      "sector": "Manufacturing",
+      "country": "",
+      "domain": "",
+      "discovered": "2026-09-21T17:53:28.897Z",
+      "link": "https://www.ransomware.live/id/QWxsaWVkIFN1cHBseSBDby5AR2xvYmFsIFNlY3JldCBHcm91cA=="
+    },
+    {
+      "group": "Global Secret Group",
+      "victim": "Kjla",
+      "sector": "",
+      "country": "US",
+      "domain": "kjla.com",
+      "discovered": "2026-09-21T17:52:29.577Z",
+      "link": "https://www.ransomware.live/id/S2psYUBHbG9iYWwgU2VjcmV0IEdyb3Vw"
+    },
+    {
+      "group": "qilin",
+      "victim": "Telrad Networks",
+      "sector": "Technology",
+      "country": "IL",
+      "domain": "www.telrad.com",
+      "discovered": "2026-09-21T17:22:14.870Z",
+      "link": "https://www.ransomware.live/id/VGVscmFkIE5ldHdvcmtzQHFpbGlu"
+    },
+    {
+      "group": "moneymessage",
+      "victim": "U.S. Electrical Services and Wiedenbach Brown",
+      "sector": "Energy & Utilities",
+      "country": "",
+      "domain": "",
+      "discovered": "2026-09-21T15:12:20.806Z",
+      "link": "https://www.ransomware.live/id/VS5TLiBFbGVjdHJpY2FsIFNlcnZpY2VzIGFuZCBXaWVkZW5iYWNoIEJyb3duQG1vbmV5bWVzc2FnZQ=="
+    },
     {
       "group": "metaencryptor",
       "victim": "Hudson MD Group, LLC",
@@ -378,78 +450,6 @@
       "domain": "",
       "discovered": "2026-09-19T10:50:28.792Z",
       "link": "https://www.ransomware.live/id/dGQqKip1cEBBdWRpdFRlYW0="
-    },
-    {
-      "group": "Vexy Ransomware",
-      "victim": "Quy Nhon University",
-      "sector": "Education",
-      "country": "VN",
-      "domain": "qnu.edu.vn",
-      "discovered": "2026-09-19T07:54:22.255Z",
-      "link": "https://www.ransomware.live/id/UXV5IE5ob24gVW5pdmVyc2l0eUBWZXh5IFJhbnNvbXdhcmU="
-    },
-    {
-      "group": "emperador",
-      "victim": "Cassias MG Government",
-      "sector": "Government & Defense",
-      "country": "BR",
-      "domain": "cassia.mg.gov.br",
-      "discovered": "2026-09-19T07:50:51.612Z",
-      "link": "https://www.ransomware.live/id/Q2Fzc2lhcyBNRyBHb3Zlcm5tZW50QGVtcGVyYWRvcg=="
-    },
-    {
-      "group": "anubis",
-      "victim": "Quest Group",
-      "sector": "Technology",
-      "country": "US",
-      "domain": "questgroupsearch.com",
-      "discovered": "2026-09-18T23:55:10.634Z",
-      "link": "https://www.ransomware.live/id/UXVlc3QgR3JvdXBAYW51Ymlz"
-    },
-    {
-      "group": "Panzer",
-      "victim": "K3G Solutions Brazil",
-      "sector": "Other",
-      "country": "BR",
-      "domain": "k3gsolutions.com.br",
-      "discovered": "2026-09-18T22:23:09.430Z",
-      "link": "https://www.ransomware.live/id/SzNHIFNvbHV0aW9ucyBCcmF6aWxAUGFuemVy"
-    },
-    {
-      "group": "lockbit5",
-      "victim": "hygear.com",
-      "sector": "Healthcare",
-      "country": "DE",
-      "domain": "hygear.com",
-      "discovered": "2026-09-18T21:49:22.248Z",
-      "link": "https://www.ransomware.live/id/aHlnZWFyLmNvbUBsb2NrYml0NQ=="
-    },
-    {
-      "group": "lockbit5",
-      "victim": "forus.cl",
-      "sector": "Professional Services",
-      "country": "CL",
-      "domain": "forus.cl",
-      "discovered": "2026-09-18T21:48:40.205Z",
-      "link": "https://www.ransomware.live/id/Zm9ydXMuY2xAbG9ja2JpdDU="
-    },
-    {
-      "group": "play",
-      "victim": "Vista Plastic Solutions",
-      "sector": "Manufacturing",
-      "country": "CA",
-      "domain": "www.vistahelps.com",
-      "discovered": "2026-09-18T20:44:20.711Z",
-      "link": "https://www.ransomware.live/id/VmlzdGEgUGxhc3RpYyBTb2x1dGlvbnNAcGxheQ=="
-    },
-    {
-      "group": "play",
-      "victim": "Inglewood Golf",
-      "sector": "Hospitality",
-      "country": "CA",
-      "domain": "www.inglewoodgolfclub.ca",
-      "discovered": "2026-09-18T20:43:47.009Z",
-      "link": "https://www.ransomware.live/id/SW5nbGV3b29kIEdvbGZAcGxheQ=="
     }
   ]
 }
