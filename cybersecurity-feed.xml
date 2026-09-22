@@ -5,8 +5,120 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 22 Sep 2026 15:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:59:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects</title>
+      <link>https://cyberscoop.com/volexity-uta0565-china-exploit-chain-chrome-microsoft/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/volexity-uta0565-china-exploit-chain-chrome-microsoft/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:47:07 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The threat group Volexity tracks as UTA0565 showcased a variance in tactics, but it used the same exploit kit as multiple Chinese threat groups. The post Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>New ClosedQuorum Windows malware uses AI for attack decisions</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/</guid>
+      <pubDate>Tue, 22 Sep 2026 18:04:39 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>BigCommerce Data Stolen via Ribon Apps Hack</title>
+      <link>https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/bigcommerce-data-stolen-via-ribon-apps-hack/</guid>
+      <pubDate>Tue, 22 Sep 2026 17:58:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The attackers used a compromised BigCommerce application key held by Ribon to access customer data. The post BigCommerce Data Stolen via Ribon Apps Hack appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>The Truth about GET and HTTP Standards, (Tue, Sep 22nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33358</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33358</guid>
+      <pubDate>Tue, 22 Sep 2026 17:56:20 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow &quot;GET&quot; requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do? (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Shai-Hulud Attack Nips Cyber-Firm CrowdSec&#39;s GitHub Data</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data</guid>
+      <pubDate>Tue, 22 Sep 2026 17:32:49 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Threat actors stole 170 private repositories using an OAuth token stolen from a former employee&#39;s computer through the TanStack npm supply chain attack. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Reducing shadow IT visibility gaps with Wazuh</title>
+      <link>https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/</guid>
+      <pubDate>Tue, 22 Sep 2026 17:17:41 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizations identify and reduce… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real</title>
+      <link>https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real</guid>
+      <pubDate>Tue, 22 Sep 2026 17:12:26 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises</title>
+      <link>https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html</guid>
+      <pubDate>Tue, 22 Sep 2026 17:03:31 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) &quot;at every step of the attack chain.&quot; The action, carried out with authorization from the U.S. District Court for the Eastern District of… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials</title>
+      <link>https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html</guid>
+      <pubDate>Tue, 22 Sep 2026 16:41:12 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score:… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Check Point warns of Management Server zero-day exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:32:47 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates</title>
+      <link>https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html</guid>
+      <pubDate>Tue, 22 Sep 2026 16:14:04 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author,… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals</title>
+      <link>https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens</link>
+      <guid isPermaLink="false">https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens</guid>
+      <pubDate>Tue, 22 Sep 2026 15:51:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Available on Telegram for a $1,500 initiation fee and a recurring monthly $500 subscription, EvilTokens provided cybercriminals with artificial intelligence tools enabling them to compromise accounts, analyze breached inboxes and find the best methods for monetizing their access… (via The Record)</description>
+    </item>
+    <item>
+      <title>Citing China, President Trump doubles down on hands-off approach to AI regulation</title>
+      <link>https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:16:35 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Following a series of chaotic agentic hacks, Trump and administration officials have consistently expressed fears of Chinese AI dominance in pushing for fewer regulations. The post Citing China, President Trump doubles down on hands-off approach to AI regulation appeared first… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft&#39;s Digital Crimes Unit (DCU). [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud</title>
       <link>https://cyberscoop.com/microsoft-eviltokens-cybercrime-service-takedown/</link>
@@ -16,12 +128,12 @@
       <description>The popular phishing-as-a-service platform used AI throughout the attack chain, allowing cybercriminals to steal tokens for account takeover and business email compromise. The post Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud… (via CyberScoop)</description>
     </item>
     <item>
-      <title>The Truth about GET and HTTP Standards, (Tue, Sep 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/33358</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33358</guid>
-      <pubDate>Tue, 22 Sep 2026 14:48:38 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow &quot;GET&quot; requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do? (via SANS Internet Storm Center)</description>
+      <title>Unmasking EvilTokens: Getting to the root of device code phishing</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>Cyera Raises $400 Million at $12+ Billion Valuation</title>
@@ -78,6 +190,14 @@
       <pubDate>Tue, 22 Sep 2026 13:05:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>Dave Chismon, the NCSC’s chief technology officer for architecture, said in a blog post that the imbalance in AI means cyberattacks would likely grow as automated defenses struggle to keep pace. (via The Record)</description>
+    </item>
+    <item>
+      <title>Russia&#39;s internet shutdowns disrupt warnings about incoming drone attacks</title>
+      <link>https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</link>
+      <guid isPermaLink="false">https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</guid>
+      <pubDate>Tue, 22 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks. (via The Record)</description>
     </item>
     <item>
       <title>AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds</title>
@@ -256,14 +376,6 @@
       <description>Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal</title>
-      <link>https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html</guid>
-      <pubDate>Tue, 22 Sep 2026 09:38:18 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A malicious npm package named &quot;indexed-btree&quot; has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. &quot;Indexed-btree is a… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns</title>
       <link>https://www.infosecurity-magazine.com/news/update-incident-response/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/update-incident-response/</guid>
@@ -296,22 +408,6 @@
       <description>The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing</title>
-      <link>https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html</guid>
-      <pubDate>Tue, 22 Sep 2026 07:52:03 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. &quot;SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor</title>
-      <link>https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html</guid>
-      <pubDate>Tue, 22 Sep 2026 06:33:57 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Malware already running on a Mac can quietly take over Meta&#39;s Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>A cheap fake base station can still track 5G subscribers</title>
       <link>https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/</guid>
@@ -325,7 +421,7 @@
       <guid isPermaLink="false">https://danielmiessler.com/blog/jev-choice-vs-score?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Tue, 22 Sep 2026 06:15:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Technical diagram: one state-plus-instructions input feeding two question shapes, choice as three equal unconnected boxes and score as an ordered ladder from cold to hot, both returning a probability per… (via Daniel Miessler)</description>
+      <description>https://www.youtube.com/watch?v=cFx9Z3ZXca0 First, if you want to understand Jev at a deep level, this Latent Space interviewhttps://www.youtube.com/watch?v=cFx9Z3ZXca0 with Diogo Almeidahttps://typesafe.ai/team, the TypeSafehttps://typesafe.ai co-founder who built it, is… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, September 22nd, 2026 https://isc.sans.edu/podcastdetail/10104, (Tue, Sep 22nd)</title>
@@ -334,22 +430,6 @@
       <pubDate>Tue, 22 Sep 2026 03:50:10 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>US Proposes AI Incident Alert System in Talks With China, Bessent Says</title>
-      <link>https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/</guid>
-      <pubDate>Tue, 22 Sep 2026 02:01:24 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Russia&#39;s internet shutdowns disrupt warnings about incoming drone attacks</title>
-      <link>https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</link>
-      <guid isPermaLink="false">https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks</guid>
-      <pubDate>Mon, 21 Sep 2026 23:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks. (via The Record)</description>
     </item>
     <item>
       <title>Muse, Meta&#39;s extraordinarily privileged AI assistant, has a serious 0-day</title>
@@ -368,28 +448,12 @@
       <description>Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one. (via Dark Reading)</description>
     </item>
     <item>
-      <title>BigCommerce alerts merchants of data breach linked to Ribon apps</title>
-      <link>https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</guid>
-      <pubDate>Mon, 21 Sep 2026 21:18:49 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>CISA alerts of active exploitation of three Linux kernel flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/</guid>
-      <pubDate>Mon, 21 Sep 2026 20:12:17 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>ShinyHunters Hacked Clop. Now What About Clop&#39;s Victims?</title>
+      <title>ShinyHunters Hacked Cl0p. Now What About Cl0p&#39;s Victims?</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-hacked-clop-what-about-clops-victims</guid>
       <pubDate>Mon, 21 Sep 2026 20:07:56 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>ShinyHunters defaced Clop&#39;s Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts. (via Dark Reading)</description>
+      <description>ShinyHunters defaced Cl0p&#39;s Dark Web site and claims to have stolen victim data, potentially exposing organizations that paid ransoms to renewed extortion attempts. (via Dark Reading)</description>
     </item>
     <item>
       <title>EU data regulator fines Google more than $460 million for location data violations</title>
@@ -406,22 +470,6 @@
       <pubDate>Mon, 21 Sep 2026 19:11:26 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Victims have been identified in Africa, including in Kenya and Uganda. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>WordPress Click2Shell flaw lets hackers execute PHP on the server</title>
-      <link>https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/</guid>
-      <pubDate>Mon, 21 Sep 2026 18:23:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed &#39;Click2Shell&#39; that affects the platform&#39;s Core component. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Microsoft to retire Microsoft 365 Companion apps in December</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/</guid>
-      <pubDate>Mon, 21 Sep 2026 17:54:49 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft will retire the Calendar, People, and Files Microsoft 365 companion apps on December 16 and has asked admins to remove them from managed devices. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Dems seek top-to-bottom assessment of CISA workforce</title>
@@ -470,14 +518,6 @@
       <pubDate>Mon, 21 Sep 2026 14:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Sekoia said Exvicy, a new ClickFix MaaS framework, reused code from rival service ErrTraffic (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Cyberattack hits University of Munich, potentially exposing student financial data</title>
-      <link>https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data</link>
-      <guid isPermaLink="false">https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data</guid>
-      <pubDate>Mon, 21 Sep 2026 14:01:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The university, commonly known as LMU Munich, said Saturday that an attacker accessed enrollment data stored on one of its IT systems. (via The Record)</description>
     </item>
     <item>
       <title>Attackers Abuse npm Trusted Publishing in GHAPPIER Campaign</title>
@@ -584,22 +624,6 @@
       <description>Ahmed Elbadawy pocketed massive proceeds from his crimes. Prosecutors are seeking the forfeiture of about $17.6 million in virtual currency, luxury vehicles, and a vast collection of jewelry and designer bags. The post Early Scattered Spider member pleads guilty to cybercrime… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Cisco Zero-Day Highlights API Endpoint Authentication Issues</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues</guid>
-      <pubDate>Fri, 18 Sep 2026 19:26:47 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The authentication bypass flaw CVE-2026-76460 impacts Cisco&#39;s Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>EY Survey Finds Autonomous AI Implementation Outpaces Oversight</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight</guid>
-      <pubDate>Fri, 18 Sep 2026 19:23:48 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Researchers use AI to find widespread software decoder flaw</title>
       <link>https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/</link>
       <guid isPermaLink="false">https://cyberscoop.com/hacktron-ai-heif-heist-vulnerability/</guid>
@@ -654,22 +678,6 @@
       <pubDate>Thu, 17 Sep 2026 22:00:33 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Cisco alerts customers to second actively exploited zero-day in as many days</title>
-      <link>https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/cisco-ise-zero-day-cve-2026-76460/</guid>
-      <pubDate>Thu, 17 Sep 2026 21:03:42 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The latest zero-day has a maximum-severity rating and affects Cisco Identity Services Engine, a product hit with three actively exploited vulnerabilities since June 2025. The post Cisco alerts customers to second actively exploited zero-day in as many days appeared first on… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>The AI hacking apocalypse is not inevitable</title>
-      <link>https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/ai-agent-hacking-apocalypse-cybersecurity/</guid>
-      <pubDate>Thu, 17 Sep 2026 19:18:07 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>While large language models present real risks to society, experts say they can be tested and largely controlled using well-worn cybersecurity and policy choices. The post The AI hacking apocalypse is not inevitable appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>LLMs respond differently to harmful prompts when AI watermarking is used</title>
