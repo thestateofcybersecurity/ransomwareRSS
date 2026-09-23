@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T00:45:08.598Z",
+  "updated": "2026-09-23T06:06:49.984Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,11 +114,67 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Prismor: Open-source runtime control plane for AI agents",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/",
+      "date": "2026-09-23T05:30:31.000Z",
+      "excerpt": "Prismor is a free, open-source security layer for AI coding agents. It sits between an agent such as Claude Code, Codex, or Cursor and the actions that agent wants to take, and it checks each tool call against a policy before the call runs. Every call gets one of three verdicts:…"
+    },
+    {
+      "source": "Troy Hunt",
+      "sourceUrl": "https://www.troyhunt.com/",
+      "title": "Weekly Update 522: Live From Oslo with Scott Helme",
+      "link": "https://www.troyhunt.com/weekly-update-522/",
+      "date": "2026-09-23T05:18:34.000Z",
+      "excerpt": "Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott's experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Product showcase: Scamwise checks the red flags before you take the bait",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/",
+      "date": "2026-09-23T05:00:48.000Z",
+      "excerpt": "Scamwise is a free scam-checking service from Savi that examines suspicious messages, emails, websites, phone numbers, images, and real-world situations for signs of fraud. The service works in any web browser on desktop, mobile, or tablet, with no account required. Scamwise is…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Nearly two-thirds of tested websites fail every bot test",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/",
+      "date": "2026-09-23T04:30:37.000Z",
+      "excerpt": "Malicious bot activity increased 124% between July 2025 and June 2026, compared with 13.2% growth in human traffic. Traffic from AI agents and large language model crawlers rose 82.3% during the same period, according to DataDome’s State of Bot & Agent Security Report 2026. Bot…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Rabbit’s new OS lives in the cloud and borrows your laptop to get things done",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/",
+      "date": "2026-09-23T03:38:05.000Z",
+      "excerpt": "Rabbit, the Santa Monica company that makes the r1 handheld, released OS3, an agentic operating system. It runs in Rabbit’s cloud and operates a user’s computers through a local agent that installs with one command. The user states a goal in a chat, and OS3 picks the device,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "NetBSD 10.2 security fixes close a remote kernel bug in ipfilter",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/",
+      "date": "2026-09-23T03:16:17.000Z",
+      "excerpt": "A NetBSD box at the edge of a network, filtering traffic with ipfilter, has been carrying a kernel flaw that someone outside the machine can set off. The bug is a remotely triggerable null pointer dereference in ipfilter, meaning the kernel tries to read memory through a pointer…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33362",
+      "date": "2026-09-23T02:40:13.000Z",
+      "excerpt": ""
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
       "link": "https://isc.sans.edu/diary/rss/33360",
-      "date": "2026-09-23T00:44:26.000Z",
+      "date": "2026-09-23T00:55:11.000Z",
       "excerpt": "Introduction"
     },
     {
@@ -160,6 +216,14 @@
       "link": "https://www.darkreading.com/cyber-risk/relays-masking-chinese-access-frontier-ai-models",
       "date": "2026-09-22T21:12:37.000Z",
       "excerpt": "More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Attacker vs. Defender AI Advantage",
+      "link": "https://danielmiessler.com/blog/attacker-defender-ai-advantage?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-22T21:10:00.000Z",
+      "excerpt": "A defender stands before a row of obstacles, a padlocked gate, a rubber stamp, a wall of red tape, a clock and another gate, while a hooded attacker sprints along a clear path above straight into the…"
     },
     {
       "source": "BleepingComputer",
@@ -458,14 +522,6 @@
       "excerpt": "AI is letting cybercriminals reach deeper into organizations than a phishing email ever could. 41% of CISOs reported at least one social engineering incident involving a deepfake during an employee audio call in the past 12 months, according to Gartner. 36% reported the same for…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "The next intellectual property thief may sound like your CEO",
-      "link": "https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/",
-      "date": "2026-09-22T12:00:05.000Z",
-      "excerpt": "Impersonation, phishing and domain-name abuse are the most concerning types of online intellectual property infringement, according to CSC’s The State of Online IP Risk 2026 report. Internet and branded content, online marketplaces and paid search were the channels most…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
@@ -506,22 +562,6 @@
       "excerpt": "This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page.…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)",
-      "link": "https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/",
-      "date": "2026-09-22T10:42:54.000Z",
-      "excerpt": "A Chinese-speaking threat actor has exploited a vulnerability (CVE-2026-7273) in unpatched ZyXEL GS1900 Smart Managed Switches and has exfiltrated sensitive data from 996 devices across 48 countries, GreyNoise reported on Monday. The affected switches are predominantly located…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Somewhere in your traffic logs, a bot is doing more than looking",
-      "link": "https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/",
-      "date": "2026-09-22T10:30:31.000Z",
-      "excerpt": "Akamai has watched verified AI crawlers, ChatGPT among them, move from reading web pages to sending high-frequency POST requests. In a 30-day analysis of its global customers, ecommerce accounted for 44.8% of those AI bot POST transactions, and travel climbed to 30% in a single…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "AI Drives Surge in Bot and API Threats",
@@ -554,28 +594,12 @@
       "excerpt": "Gartner warns that CISOs must update incident response playbooks as AI-powered deepfakes make social engineering attacks more convincing and harder to detect"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions",
-      "link": "https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/",
-      "date": "2026-09-22T08:54:30.000Z",
-      "excerpt": "Scammers are using a $249 website toolkit to sell unverified AI subscriptions worth up to $2,000 a year, and a genuine Google sign-in screen is what makes the sites convincing. Malwarebytes found more than 100 websites built this way, all tied to the same toolkit and closely…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
       "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
       "date": "2026-09-22T08:37:06.000Z",
       "excerpt": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "A cheap fake base station can still track 5G subscribers",
-      "link": "https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/",
-      "date": "2026-09-22T06:30:21.000Z",
-      "excerpt": "Researchers from the i2CAT Foundation, the University of Murcia, and NEC Laboratories Europe built a low-cost tool called 5G-Shark that lures a target phone onto a fake base station and questions it, then used it to audit commercial 5G networks. On the standalone-5G networks…"
     },
     {
       "source": "Daniel Miessler",
@@ -786,14 +810,6 @@
       "excerpt": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity appeared first on Unit 42 ."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33350",
-      "date": "2026-09-18T02:00:02.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
@@ -896,22 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
       "date": "2026-09-16T11:25:26.000Z",
       "excerpt": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program."
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "NightEagle targets Russian companies",
-      "link": "https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/",
-      "date": "2026-09-16T10:00:11.000Z",
-      "excerpt": "Kaspersky GERT experts have uncovered a new campaign by the NightEagle APT, featuring the GhostContainer backdoor and tools hosted on GitHub. The group is also exploiting vulnerabilities in Active Directory and RDP."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Atomic macOS (AMOS) Stealer Activity",
-      "link": "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/",
-      "date": "2026-09-16T10:00:06.000Z",
-      "excerpt": "Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats. The post Atomic macOS (AMOS) Stealer Activity appeared first on Unit 42 ."
     }
   ]
 }

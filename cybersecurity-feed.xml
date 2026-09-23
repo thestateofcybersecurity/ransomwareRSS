@@ -5,13 +5,69 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 00:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 06:06:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Prismor: Open-source runtime control plane for AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/</guid>
+      <pubDate>Wed, 23 Sep 2026 05:30:31 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Prismor is a free, open-source security layer for AI coding agents. It sits between an agent such as Claude Code, Codex, or Cursor and the actions that agent wants to take, and it checks each tool call against a policy before the call runs. Every call gets one of three verdicts:… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
+      <link>https://www.troyhunt.com/weekly-update-522/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-522/</guid>
+      <pubDate>Wed, 23 Sep 2026 05:18:34 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott&#39;s experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&amp; (via Troy Hunt)</description>
+    </item>
+    <item>
+      <title>Product showcase: Scamwise checks the red flags before you take the bait</title>
+      <link>https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/</guid>
+      <pubDate>Wed, 23 Sep 2026 05:00:48 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Scamwise is a free scam-checking service from Savi that examines suspicious messages, emails, websites, phone numbers, images, and real-world situations for signs of fraud. The service works in any web browser on desktop, mobile, or tablet, with no account required. Scamwise is… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Nearly two-thirds of tested websites fail every bot test</title>
+      <link>https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/</guid>
+      <pubDate>Wed, 23 Sep 2026 04:30:37 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Malicious bot activity increased 124% between July 2025 and June 2026, compared with 13.2% growth in human traffic. Traffic from AI agents and large language model crawlers rose 82.3% during the same period, according to DataDome’s State of Bot &amp; Agent Security Report 2026. Bot… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Rabbit’s new OS lives in the cloud and borrows your laptop to get things done</title>
+      <link>https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/23/rabbit-os3-ai-agent-now-available/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:38:05 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Rabbit, the Santa Monica company that makes the r1 handheld, released OS3, an agentic operating system. It runs in Rabbit’s cloud and operates a user’s computers through a local agent that installs with one command. The user states a goal in a chat, and OS3 picks the device,… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>NetBSD 10.2 security fixes close a remote kernel bug in ipfilter</title>
+      <link>https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/23/netbsd-10-2-security-fixes-released/</guid>
+      <pubDate>Wed, 23 Sep 2026 03:16:17 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>A NetBSD box at the edge of a network, filtering traffic with ipfilter, has been carrying a kernel flaw that someone outside the machine can set off. The bug is a remotely triggerable null pointer dereference in ipfilter, meaning the kernel tries to read memory through a pointer… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33362</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33362</guid>
+      <pubDate>Wed, 23 Sep 2026 02:40:13 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>Macfinger ClickFix campaign, (Tue, Sep 22nd)</title>
       <link>https://isc.sans.edu/diary/rss/33360</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33360</guid>
-      <pubDate>Wed, 23 Sep 2026 00:44:26 GMT</pubDate>
+      <pubDate>Wed, 23 Sep 2026 00:55:11 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Introduction (via SANS Internet Storm Center)</description>
     </item>
@@ -54,6 +110,14 @@
       <pubDate>Tue, 22 Sep 2026 21:12:37 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>More than 80,000 AI relay servers are helping users in China mask their identities while they access cutting-edge large language models (LLMs), probably to clone them. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Attacker vs. Defender AI Advantage</title>
+      <link>https://danielmiessler.com/blog/attacker-defender-ai-advantage?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/attacker-defender-ai-advantage?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Tue, 22 Sep 2026 21:10:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A defender stands before a row of obstacles, a padlocked gate, a rubber stamp, a wall of red tape, a clock and another gate, while a hooded attacker sprints along a clear path above straight into the… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>Chinese hackers exploit WordPress, Zyxel flaws to steal govt data</title>
@@ -352,14 +416,6 @@
       <description>AI is letting cybercriminals reach deeper into organizations than a phishing email ever could. 41% of CISOs reported at least one social engineering incident involving a deepfake during an employee audio call in the past 12 months, according to Gartner. 36% reported the same for… (via Help Net Security)</description>
     </item>
     <item>
-      <title>The next intellectual property thief may sound like your CEO</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/22/csc-online-intellectual-property-risk-report/</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:05 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Impersonation, phishing and domain-name abuse are the most concerning types of online intellectual property infringement, according to CSC’s The State of Online IP Risk 2026 report. Internet and branded content, online marketplaces and paid search were the channels most… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds</title>
       <link>https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle</guid>
@@ -400,22 +456,6 @@
       <description>This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page.… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Attacker compromised nearly 1000 Zyxel switches since August (CVE-2026-7273)</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/22/zyxel-switches-cve-2026-7273-vulnerability-exploited/</guid>
-      <pubDate>Tue, 22 Sep 2026 10:42:54 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A Chinese-speaking threat actor has exploited a vulnerability (CVE-2026-7273) in unpatched ZyXEL GS1900 Smart Managed Switches and has exfiltrated sensitive data from 996 devices across 48 countries, GreyNoise reported on Monday. The affected switches are predominantly located… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Somewhere in your traffic logs, a bot is doing more than looking</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/22/ai-crawler-traffic-online-stores/</guid>
-      <pubDate>Tue, 22 Sep 2026 10:30:31 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Akamai has watched verified AI crawlers, ChatGPT among them, move from reading web pages to sending high-frequency POST requests. In a 30-day analysis of its global customers, ecommerce accounted for 44.8% of those AI bot POST transactions, and travel climbed to 30% in a single… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>AI Drives Surge in Bot and API Threats</title>
       <link>https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/</guid>
@@ -448,28 +488,12 @@
       <description>Gartner warns that CISOs must update incident response playbooks as AI-powered deepfakes make social engineering attacks more convincing and harder to detect (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Scammers use genuine Google sign-ins to sell costly, unverified AI subscriptions</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/22/fake-ai-subscription-sites-google-sign-in/</guid>
-      <pubDate>Tue, 22 Sep 2026 08:54:30 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Scammers are using a $249 website toolkit to sell unverified AI subscriptions worth up to $2,000 a year, and a genuine Google sign-in screen is what makes the sites convincing. Malwarebytes found more than 100 websites built this way, all tied to the same toolkit and closely… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme</title>
       <link>https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/</link>
       <guid isPermaLink="false">https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/</guid>
       <pubDate>Tue, 22 Sep 2026 08:37:06 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>A cheap fake base station can still track 5G subscribers</title>
-      <link>https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/22/5g-subscriber-tracking-research/</guid>
-      <pubDate>Tue, 22 Sep 2026 06:30:21 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Researchers from the i2CAT Foundation, the University of Murcia, and NEC Laboratories Europe built a low-cost tool called 5G-Shark that lures a target phone onto a fake base station and questions it, then used it to audit commercial 5G networks. On the standalone-5G networks… (via Help Net Security)</description>
     </item>
     <item>
       <title>How to Think About the Difference Between Choice and Score in Jev</title>
@@ -680,14 +704,6 @@
       <description>Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
-      <title>ISC Stormcast For Friday, September 18th, 2026 https://isc.sans.edu/podcastdetail/10100, (Fri, Sep 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/33350</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33350</guid>
-      <pubDate>Fri, 18 Sep 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>Inside the Modern SOC: Defending the Cross-Environment Pivot</title>
       <link>https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/</guid>
@@ -790,22 +806,6 @@
       <pubDate>Wed, 16 Sep 2026 11:25:26 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program. (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>NightEagle targets Russian companies</title>
-      <link>https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/</link>
-      <guid isPermaLink="false">https://securelist.com/tr/nighteagle-apt-ghostcontainer-and-tunneling/121323/</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:11 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>Kaspersky GERT experts have uncovered a new campaign by the NightEagle APT, featuring the GhostContainer backdoor and tools hosted on GitHub. The group is also exploiting vulnerabilities in Active Directory and RDP. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Atomic macOS (AMOS) Stealer Activity</title>
-      <link>https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:06 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats. The post Atomic macOS (AMOS) Stealer Activity appeared first on Unit 42 . (via Unit 42)</description>
     </item>
   </channel>
 </rss>
