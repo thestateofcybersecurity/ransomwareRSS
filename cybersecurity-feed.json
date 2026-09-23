@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T11:51:50.642Z",
+  "updated": "2026-09-23T17:16:09.615Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,268 @@
   ],
   "items": [
     {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Ryuk ransomware operator sentenced to 2 years in prison",
+      "link": "https://cyberscoop.com/ryuk-ransomware-operator-karen-vardanyan-sentenced/",
+      "date": "2026-09-23T17:10:19.000Z",
+      "excerpt": "The Armenian national was extradited from Ukraine to the United States last year and pleaded guilty to cybercrimes in July. The post Ryuk ransomware operator sentenced to 2 years in prison appeared first on CyberScoop ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+      "date": "2026-09-23T16:20:54.000Z",
+      "excerpt": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33360",
+      "date": "2026-09-23T16:14:37.000Z",
+      "excerpt": "Introduction"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+      "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+      "date": "2026-09-23T16:06:41.000Z",
+      "excerpt": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication. The chain, which CERT Polska calls MikroTrick, combines an SSH state-machine flaw…"
+    },
+    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
       "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
       "date": "2026-09-23T16:01:00.000Z",
       "excerpt": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026."
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Reimagining the SOC for the agentic era in Microsoft Defender",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/",
+      "date": "2026-09-23T16:00:00.000Z",
+      "excerpt": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together. The post Reimagining the SOC for the agentic era in Microsoft Defender appeared first on Microsoft Security Blog ."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "OpenAI, Ukraine partner on ‘Daybreak’ program to protect power grids and water systems",
+      "link": "https://cyberscoop.com/openai-ukraine-cybersecurity-critical-infrastructure/",
+      "date": "2026-09-23T15:37:18.000Z",
+      "excerpt": "A Ukrainian official said the government will use the tools to automate cybersecurity functions in critical infrastructure as the war with Russia continues. The post OpenAI, Ukraine partner on ‘Daybreak’ program to protect power grids and water systems appeared first on…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Ryuk ransomware operator gets 2-year sentence after extorting victims for $1.2 million",
+      "link": "https://therecord.media/ransomware-ryuk-sentenced-doj",
+      "date": "2026-09-23T15:30:00.000Z",
+      "excerpt": "An Armenian national and member of the Ryuk ransomware gang was sentenced to two years in federal prison for his role in launching attacks."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Hundreds of Leaked GitHub App Keys Still Authenticate",
+      "link": "https://www.infosecurity-magazine.com/news/hundreds-leaked-github-app-keys/",
+      "date": "2026-09-23T15:00:00.000Z",
+      "excerpt": "GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
+      "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
+      "date": "2026-09-23T14:47:09.000Z",
+      "excerpt": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "InfraTrust report warns network management systems under attack",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
+      "date": "2026-09-23T14:35:26.000Z",
+      "excerpt": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "FBI investigating alleged ShinyHunters breach of its jobs site",
+      "link": "https://therecord.media/fbi-investigating-alleged-shinyhunters-job-site-breach",
+      "date": "2026-09-23T14:22:00.000Z",
+      "excerpt": "The ShinyHunters cybercriminal organization on Tuesday replaced agency images on the FBIjobs.gov site with a photo of a Pokemon that has become the group’s defacto mascot."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+      "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+      "date": "2026-09-23T14:17:58.000Z",
+      "excerpt": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22. The models can choose to steal Windows credentials, saved browser passwords, and crypto wallet data. Talos has not…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Cofense measures employee readiness against real-world phishing threats",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/cofense-command-center/",
+      "date": "2026-09-23T14:01:12.000Z",
+      "excerpt": "Cofense has announced an expansion of its AI-driven Phishing Defense Platform through Cofense Command Center, its orchestration layer for measurement and reporting. The new Competency Dashboard measures how employees recognize, report and respond to phishing threats, giving…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
+      "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
+      "date": "2026-09-23T14:01:11.000Z",
+      "excerpt": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a single Kubernetes YAML file into…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods",
+      "link": "https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/",
+      "date": "2026-09-23T14:00:00.000Z",
+      "excerpt": "Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "80,000 relay servers help users in China slip past U.S. AI region bans",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/china-ai-relay-frontier-model-abuse/",
+      "date": "2026-09-23T13:57:25.000Z",
+      "excerpt": "More than 80,000 relay servers are helping users in China bypass geographic restrictions on leading U.S. AI models, according to Team Cymru. “What we have uncovered is an entire ecosystem designed explicitly to break the frontier model providers’ T&Cs, enabling fraud and illicit…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
+      "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
+      "date": "2026-09-23T13:52:46.000Z",
+      "excerpt": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS. According to reports from Aikido,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Portnox detects and removes unauthorized AI applications from managed devices",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/portnox-shadow-ai-control-and-visibility/",
+      "date": "2026-09-23T13:49:39.000Z",
+      "excerpt": "Portnox has announced new capabilities to detect unauthorized AI applications and agents on managed devices and automatically enforce security policy, restricting, quarantining, or removing unapproved or risky applications the moment they’re detected. The capability addresses…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Network Solutions Dark Web Monitoring alerts small businesses to domain-linked data exposure",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/",
+      "date": "2026-09-23T13:40:14.000Z",
+      "excerpt": "Network Solutions has launched Dark Web Monitoring, a new security capability that alerts small businesses when information associated with their domain appears in known breach data and provides steps they can take to reduce risk. Stolen credentials and other information exposed…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "DarkMe RAT trades zero-days for plain phishing emails",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/darkme-rat-phishing-email-hits-corporate-targets/",
+      "date": "2026-09-23T13:24:17.000Z",
+      "excerpt": "DarkMe, a remote access trojan and info-stealer that has previously been associated with a threat group that targeted financial market traders and cryptocurrency users, has been spotted again. This time around, its distribution has been simplified: instead of leveraging zero-day…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Barracuda brings AI security and governance within reach of smaller organizations",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/barracuda-ai-data-security/",
+      "date": "2026-09-23T13:20:45.000Z",
+      "excerpt": "Barracuda Networks has launched Barracuda AI Data Security, the AI security and governance solution purpose-built for resource-constrained organizations and managed service providers (MSPs). The solution enables businesses to accelerate AI adoption by protecting sensitive data,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Lookout targets smishing, voice cloning, and vishing with real-time mobile protection",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/lookout-unveils-social-engineering-protection/",
+      "date": "2026-09-23T13:06:02.000Z",
+      "excerpt": "Lookout has launched Social Engineering Protection (SEP), a new module within the Lookout Mobile AI Security Platform. SEP provides automated, real-time protection against the next generation of AI-driven mobile threats, including linkless smishing attacks, synthetic voice…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fake Claude Max giveaway tricks users into handing over their Google account credentials",
+      "link": "https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/",
+      "date": "2026-09-23T13:03:15.000Z",
+      "excerpt": "A fake Claude Max giveaway uses a spoofed Google sign-in window to steal users’ login credentials, Malwarebytes researchers have found. “Browser-in-the-browser” is not a new technique. Researchers have documented it since 2022, and in June Palo Alto Networks’ Unit 42 reported a…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Latvia arrests suspected hacker for electronics repair company breach",
+      "link": "https://therecord.media/latvia-hacker-arrest-cyberattack",
+      "date": "2026-09-23T12:45:00.000Z",
+      "excerpt": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Burnham announces plan for new UK center to fight disinformation",
+      "link": "https://therecord.media/uk-disinformation-russia-center",
+      "date": "2026-09-23T12:30:00.000Z",
+      "excerpt": "The United Kingdom will create a new national center \"to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+      "date": "2026-09-23T12:29:53.000Z",
+      "excerpt": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare",
+      "link": "https://www.securityweek.com/honeywell-ot-security-teams-embrace-ai-but-autonomy-still-rare/",
+      "date": "2026-09-23T12:17:28.000Z",
+      "excerpt": "Only 21% of industrial security leaders report a complete OT asset inventory, even as 88% call their programs mature. The post Honeywell: OT Security Teams Embrace AI, but Autonomy Still Rare appeared first on SecurityWeek ."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "The president has called for AI leadership. Here’s the mission.",
+      "link": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
+      "date": "2026-09-23T12:17:20.000Z",
+      "excerpt": "An AI compact built around capability, control, and continuity can ensure the country stays safe and secure while also leading the world in the technology. The post The president has called for AI leadership. Here’s the mission. appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
+      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
+      "date": "2026-09-23T12:16:00.000Z",
+      "excerpt": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22. A second bug in the WP Toolkit plugin, used to install and manage WordPress sites, allows an account…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Ransomware Attacks Reach Record High for 2026",
+      "link": "https://www.infosecurity-magazine.com/news/ransomware-attacks-reach-record/",
+      "date": "2026-09-23T12:00:00.000Z",
+      "excerpt": "A total of 1073 firms fell victim to ransomware attacks globally in August, with the industrial sector the most affected, according to new NCC data"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
+      "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
+      "date": "2026-09-23T11:47:19.000Z",
+      "excerpt": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to tell which of them happened.…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
+      "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
+      "date": "2026-09-23T11:47:13.000Z",
+      "excerpt": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior. Opus 5.5, per Anthropic, is a \"major step up from Opus 5,\" and \"achieves the best…"
     },
     {
       "source": "SecurityWeek",
@@ -146,6 +402,14 @@
       "excerpt": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]"
     },
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
+      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
+      "date": "2026-09-23T11:12:18.000Z",
+      "excerpt": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6,…"
+    },
+    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Research on Models Engaging in Genie-Like Behavior",
@@ -162,28 +426,12 @@
       "excerpt": "The browser update resolves several critical-severity memory safety and memory corruption flaws. The post Chrome 154 Patches 108 Vulnerabilities appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers hit Check Point Management Servers and Spark firewalls, F5 BIG-IP APM instances",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/check-point-f5-big-ip-apm-zero-days-targeted/",
-      "date": "2026-09-23T10:22:52.000Z",
-      "excerpt": "Check Point Software has released emergency fixes for a critical Check Point Management Server vulnerability (CVE-2026-93616) that has been exploited as far back as July 23, 2026. The company also confirmed that a pre-authentication remote code execution (RCE) vulnerability…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk",
       "link": "https://www.securityweek.com/a-look-at-ai-doomsday-scenarios-that-researchers-say-could-put-humanity-at-risk/",
       "date": "2026-09-23T10:20:36.000Z",
       "excerpt": "Debates over the plausibility of these doomsday scenarios have heated up since several executives endorsed slowing the technology’s development for safety reasons. The post A Look at AI Doomsday Scenarios That Researchers Say Could Put Humanity at Risk appeared first on…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "GPT-6 Sol and Luna arrive with 50% lower API prices",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/gpt-6-sol-luna-lower-api-prices/",
-      "date": "2026-09-23T10:08:26.000Z",
-      "excerpt": "OpenAI has expanded GPT-6 with the GPT-6 Sol and GPT-6 Luna models. Both are available in ChatGPT Work and Codex for Plus, Pro, Business, Enterprise, and Edu users. Free and Go users can access GPT-6 Luna in the desktop app. The models are not yet available in Chat. OpenAI API…"
     },
     {
       "source": "SecurityWeek",
@@ -202,36 +450,12 @@
       "excerpt": "Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "WordPress 7.1.2 fixes critical unauthenticated path traversal vulnerability (CVE-2026-87902)",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/cve-2026-87902-wordpress-7-1-2-security-release/",
-      "date": "2026-09-23T09:01:45.000Z",
-      "excerpt": "WordPress released version 7.1.2 to fix a critical flaw that lets an unauthenticated attacker make the software load a PHP file of the attacker’s choosing from outside the site’s active theme folders. On sites where the server and the active theme meet certain conditions, the…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Microsoft disrupts EvilTokens phishing service that gave criminals access to 12,000 inboxes",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/microsoft-eviltokens-phishing-service-disrupted/",
-      "date": "2026-09-23T08:34:15.000Z",
-      "excerpt": "The EvilTokens phishing service, which compromised more than 12,000 inboxes at over 10,000 organizations, has been disrupted by a coalition of law enforcement and private-sector partners led by Microsoft. With authorization from the US District Court for the Eastern District of…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
       "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
       "date": "2026-09-23T08:33:06.000Z",
       "excerpt": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Claude Opus 5.5 cuts costs and adds safeguards for autonomous AI",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/anthropic-claude-opus-5-5/",
-      "date": "2026-09-23T08:30:52.000Z",
-      "excerpt": "Claude Opus 5.5 is available across Anthropic’s platforms, Amazon Web Services, Google Cloud and Microsoft Azure. Developers can access it through the Claude Platform using the model name claude-opus-5-5. It includes watermarking measures designed to comply with the EU AI Act.…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -248,14 +472,6 @@
       "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
       "date": "2026-09-23T08:29:48.000Z",
       "excerpt": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
-      "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
-      "date": "2026-09-23T08:29:24.000Z",
-      "excerpt": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites. The attacks, detected on September 3 and 4, 2026, involved the chaining of two vulnerabilities in Chrome…"
     },
     {
       "source": "BleepingComputer",
@@ -282,38 +498,6 @@
       "excerpt": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-      "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-      "date": "2026-09-23T07:13:49.000Z",
-      "excerpt": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-      "date": "2026-09-23T07:04:40.000Z",
-      "excerpt": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Prismor: Open-source runtime control plane for AI agents",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/prismor-open-source-ai-agent-security/",
-      "date": "2026-09-23T05:30:31.000Z",
-      "excerpt": "Prismor is a free, open-source security layer for AI coding agents. It sits between an agent such as Claude Code, Codex, or Cursor and the actions that agent wants to take, and it checks each tool call against a policy before the call runs. Every call gets one of three verdicts:…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-      "date": "2026-09-23T05:30:09.000Z",
-      "excerpt": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents…"
-    },
-    {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
       "title": "Weekly Update 522: Live From Oslo with Scott Helme",
@@ -322,36 +506,12 @@
       "excerpt": "Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott's experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Product showcase: Scamwise checks the red flags before you take the bait",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/product-showcase-savi-scamwise/",
-      "date": "2026-09-23T05:00:48.000Z",
-      "excerpt": "Scamwise is a free scam-checking service from Savi that examines suspicious messages, emails, websites, phone numbers, images, and real-world situations for signs of fraud. The service works in any web browser on desktop, mobile, or tablet, with no account required. Scamwise is…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Nearly two-thirds of tested websites fail every bot test",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/datadome-growing-bad-bot-traffic-report/",
-      "date": "2026-09-23T04:30:37.000Z",
-      "excerpt": "Malicious bot activity increased 124% between July 2025 and June 2026, compared with 13.2% growth in human traffic. Traffic from AI agents and large language model crawlers rose 82.3% during the same period, according to DataDome’s State of Bot & Agent Security Report 2026. Bot…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
       "link": "https://isc.sans.edu/diary/rss/33362",
       "date": "2026-09-23T02:40:13.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33360",
-      "date": "2026-09-23T00:55:11.000Z",
-      "excerpt": "Introduction"
     },
     {
       "source": "CyberScoop",
@@ -368,14 +528,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
       "date": "2026-09-22T21:45:45.000Z",
       "excerpt": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
-      "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
-      "date": "2026-09-22T21:40:37.000Z",
-      "excerpt": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]"
     },
     {
       "source": "CyberScoop",
@@ -407,15 +559,7 @@
       "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
       "link": "https://www.darkreading.com/cybersecurity-operations/how-ciso-cmo-alliance-builds-trust-before-crisis",
       "date": "2026-09-22T20:55:53.000Z",
-      "excerpt": "Cybersecurity and brand reputation are inextricably linked, and organizations that establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact will significantly outperform those treating security as merely an…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
-      "date": "2026-09-22T20:35:24.000Z",
-      "excerpt": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]"
+      "excerpt": "Cybersecurity and brand reputation are inextricably linked. Security and marketing leaders who establish regular touchpoints, develop joint crisis communications plans, and translate security risks into their brand impact position their organizations to significantly outperform…"
     },
     {
       "source": "Dark Reading",
@@ -424,6 +568,14 @@
       "link": "https://www.darkreading.com/identity-access-management-security/microsoft-disrupts-eviltokens-device-code-phishing-service",
       "date": "2026-09-22T20:02:02.000Z",
       "excerpt": "Microsoft seized 50 websites and disabled more than 150 domains as part of a coordinated disruption effort against a phishing-as-a-service platform targeting Microsoft 365 accounts."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Deception by Design: CISA's Guide to Tricking Cybercriminals",
+      "link": "https://www.darkreading.com/cybersecurity-operations/deception-by-design-cisa-s-guide-to-tricking-cybercriminals",
+      "date": "2026-09-22T19:59:24.000Z",
+      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers."
     },
     {
       "source": "The Record",
@@ -442,14 +594,6 @@
       "excerpt": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-      "date": "2026-09-22T19:13:29.000Z",
-      "excerpt": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
@@ -466,68 +610,12 @@
       "excerpt": "The threat group Volexity tracks as UTA0565 showcased a variance in tactics, but it used the same exploit kit as multiple Chinese threat groups. The post Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects appeared first on CyberScoop ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-      "date": "2026-09-22T18:29:39.000Z",
-      "excerpt": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said. The flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scripts on it without logging in.…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-      "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-      "date": "2026-09-22T18:04:39.000Z",
-      "excerpt": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-      "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-      "date": "2026-09-22T18:03:10.000Z",
-      "excerpt": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders. On some servers, that can go further, allowing the attacker to run their own code. The fix shipped on September 22 in…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-      "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-      "date": "2026-09-22T17:58:15.000Z",
-      "excerpt": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive data. The package, named…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Shai-Hulud Attack Nips Cyber-Firm CrowdSec's GitHub Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shai-hulud-attack-cyber-firm-crowdsec-github-data",
-      "date": "2026-09-22T17:32:49.000Z",
-      "excerpt": "Threat actors stole 170 private repositories using an OAuth token stolen from a former employee's computer through the TanStack npm supply chain attack."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real",
       "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
       "date": "2026-09-22T17:12:26.000Z",
       "excerpt": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-      "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-      "date": "2026-09-22T17:03:31.000Z",
-      "excerpt": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\" The action, carried out with authorization from the U.S. District Court for the Eastern District of…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Two arrested in UK after Microsoft takedown of ‘Eviltokens’ AI-chatbot for cybercriminals",
-      "link": "https://therecord.media/two-arrested-in-uk-after-microsoft-takedown-eviltokens",
-      "date": "2026-09-22T15:51:00.000Z",
-      "excerpt": "Available on Telegram for a $1,500 initiation fee and a recurring monthly $500 subscription, EvilTokens provided cybercriminals with artificial intelligence tools enabling them to compromise accounts, analyze breached inboxes and find the best methods for monetizing their access…"
     },
     {
       "source": "CyberScoop",
@@ -570,22 +658,6 @@
       "excerpt": "At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "AI is set to help cyber attackers much more than defenders, says UK official",
-      "link": "https://therecord.media/ai-set-to-help-attackers-more-than-defenders",
-      "date": "2026-09-22T13:05:00.000Z",
-      "excerpt": "Dave Chismon, the NCSC’s chief technology officer for architecture, said in a blog post that the imbalance in AI means cyberattacks would likely grow as automated defenses struggle to keep pace."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Russia's internet shutdowns disrupt warnings about incoming drone attacks",
-      "link": "https://therecord.media/russia-internet-shutdowns-disrupt-warnings-about-drone-attacks",
-      "date": "2026-09-22T13:00:00.000Z",
-      "excerpt": "Russia’s growing restrictions on mobile internet and cellular service are making it harder for people to receive warnings about incoming Ukrainian drone and missile attacks."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "AI Incident Response Readiness Lags Behind AI Adoption, ISACA Finds",
@@ -618,30 +690,6 @@
       "excerpt": "This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page.…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "AI Drives Surge in Bot and API Threats",
-      "link": "https://www.infosecurity-magazine.com/news/ai-drives-surge-in-bot-and-api/",
-      "date": "2026-09-22T10:30:00.000Z",
-      "excerpt": "Akamai report warns of increase in bot traffic, API threats, chatbot leaks and other AI-related threats"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Another worry for water systems: infostealer exposure",
-      "link": "https://cyberscoop.com/spycloud-study-water-utilities-infostealer-exposure/",
-      "date": "2026-09-22T10:00:00.000Z",
-      "excerpt": "SpyCloud’s study found 1,787 of the approximately 10,000 U.S. organizations had it, including one infected device that saved logins for 167 utility metering tenants. The post Another worry for water systems: infostealer exposure appeared first on CyberScoop ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "CISOs Must Update Incident Response Playbooks for Multimodal Deepfakes, Gartner Warns",
-      "link": "https://www.infosecurity-magazine.com/news/update-incident-response/",
-      "date": "2026-09-22T09:30:00.000Z",
-      "excerpt": "Gartner warns that CISOs must update incident response playbooks as AI-powered deepfakes make social engineering attacks more convincing and harder to detect"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "How to Think About the Difference Between Choice and Score in Jev",
@@ -664,38 +712,6 @@
       "link": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
       "date": "2026-09-21T22:24:38.000Z",
       "excerpt": "A simple ClickFix attack is only one way to completely hijack the new agent."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
-      "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
-      "date": "2026-09-21T21:39:59.000Z",
-      "excerpt": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "EU data regulator fines Google more than $460 million for location data violations",
-      "link": "https://therecord.media/google-europe-location-data-fine",
-      "date": "2026-09-21T19:15:00.000Z",
-      "excerpt": "Ireland’s Data Protection Commission will fine Google more than €403 million ($462 million) over the tech giant’s processing of location data, concluding an inquiry into the company that began in early 2020."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Dems seek top-to-bottom assessment of CISA workforce",
-      "link": "https://cyberscoop.com/house-democrats-cisa-force-structure-assessment-act/",
-      "date": "2026-09-21T16:05:51.000Z",
-      "excerpt": "After the exit of around 1,000 CISA workers, legislation from three top House Democrats orders a force structure assessment like that more common to military branches. The post Dems seek top-to-bottom assessment of CISA workforce appeared first on CyberScoop ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Google Hit with €403m GDPR Fine Over Location Data Practices",
-      "link": "https://www.infosecurity-magazine.com/news/google-hit-with-403m-gdpr-fine/",
-      "date": "2026-09-21T15:00:00.000Z",
-      "excerpt": "The Irish DPC found that Google users were unaware that their location was being used to influence them with ads"
     },
     {
       "source": "Schneier on Security",
@@ -784,14 +800,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html",
       "date": "2026-09-18T21:06:00.000Z",
       "excerpt": "Short essay about squid egg sacs. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Early Scattered Spider member pleads guilty to cybercrime spree",
-      "link": "https://cyberscoop.com/scattered-spider-member-guilty-ahmed-elbadawy/",
-      "date": "2026-09-18T20:24:15.000Z",
-      "excerpt": "Ahmed Elbadawy pocketed massive proceeds from his crimes. Prosecutors are seeking the forfeiture of about $17.6 million in virtual currency, luxury vehicles, and a vast collection of jewelry and designer bags. The post Early Scattered Spider member pleads guilty to cybercrime…"
     },
     {
       "source": "Ars Technica Security",
@@ -904,14 +912,6 @@
       "link": "https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/",
       "date": "2026-09-16T21:08:14.000Z",
       "excerpt": "Group plans to be largely out of commission for several weeks."
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "Data Broker Radaris Loses Domains in Privacy Fight",
-      "link": "https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/",
-      "date": "2026-09-16T18:14:22.000Z",
-      "excerpt": "The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit alleging Radaris violated a New Jersey…"
     }
   ]
 }
