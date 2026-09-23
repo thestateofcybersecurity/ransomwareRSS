@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 20:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:47:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-486/</link>
+      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-486/</guid>
+      <pubDate>Wed, 23 Sep 2026 23:15:05 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>A store in Auckland vibe-coded itself a new website. Within hours, its inventory had somehow expanded to include a pair of crusty socks, an $850 banana, and all of New Zealand&#39;s national parks. What could possibly have gone wrong? Meanwhile, a hacker collective backed a truck… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>Placeholder domain used in dev docs now serves ClickFix attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</guid>
+      <pubDate>Wed, 23 Sep 2026 22:46:01 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The &quot;third-party.com&quot; domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Americans’ views on data centers have turned more negative</title>
+      <link>https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/24/americans-views-on-data-centers/</guid>
+      <pubDate>Wed, 23 Sep 2026 22:15:08 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>American attitudes toward data centers have turned noticeably more negative over the course of 2026, according to a new Pew Research Center survey. 54% of U.S. adults now say data centers are mostly bad for the environment, up from 39% in January. Half say they hurt home energy… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>FBI rushes to investigate if ShinyHunters hack of thousands of employees is real</title>
+      <link>https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/</link>
+      <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/</guid>
+      <pubDate>Wed, 23 Sep 2026 21:46:36 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>It&#39;s unclear what will happen if FBI misses ShinyHunters&#39; deadline. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>New RemControl Android banking malware targets users in Europe and Canada</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/</guid>
+      <pubDate>Wed, 23 Sep 2026 21:25:13 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>EDR Evasion Stack Helps Process Injection Slip Past Defenses</title>
+      <link>https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</link>
+      <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses</guid>
+      <pubDate>Wed, 23 Sep 2026 21:03:01 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks</title>
+      <link>https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks</guid>
+      <pubDate>Wed, 23 Sep 2026 20:53:38 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use. (via Dark Reading)</description>
+    </item>
     <item>
       <title>UK regulator to investigate Pornhub parent company for alleged age verification failings</title>
       <link>https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy</link>
@@ -272,14 +328,6 @@
       <description>Lookout has launched Social Engineering Protection (SEP), a new module within the Lookout Mobile AI Security Platform. SEP provides automated, real-time protection against the next generation of AI-driven mobile threats, including linkless smishing attacks, synthetic voice… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Fake Claude Max giveaway tricks users into handing over their Google account credentials</title>
-      <link>https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/23/fake-claude-max-giveaway-phishing/</guid>
-      <pubDate>Wed, 23 Sep 2026 13:03:15 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A fake Claude Max giveaway uses a spoofed Google sign-in window to steal users’ login credentials, Malwarebytes researchers have found. “Browser-in-the-browser” is not a new technique. Researchers have documented it since 2022, and in June Palo Alto Networks’ Unit 42 reported a… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Latvia arrests suspected hacker for electronics repair company breach</title>
       <link>https://therecord.media/latvia-hacker-arrest-cyberattack</link>
       <guid isPermaLink="false">https://therecord.media/latvia-hacker-arrest-cyberattack</guid>
@@ -360,14 +408,6 @@
       <description>The cybercrime platform leveraged AI at every step of the attack chain, including writing social engineering messages and deciding targets. The post AI-Powered Phishing Platform EvilTokens Disrupted by Microsoft appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Microsoft: September Windows updates break Always On VPN connections</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/</guid>
-      <pubDate>Wed, 23 Sep 2026 11:18:13 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Research on Models Engaging in Genie-Like Behavior</title>
       <link>https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</guid>
@@ -414,14 +454,6 @@
       <pubDate>Wed, 23 Sep 2026 08:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Ryuk ransomware member sentenced to 24 months in prison</title>
-      <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</guid>
-      <pubDate>Wed, 23 Sep 2026 08:20:05 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
@@ -520,14 +552,6 @@
       <description>The threat group Volexity tracks as UTA0565 showcased a variance in tactics, but it used the same exploit kit as multiple Chinese threat groups. The post Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Amid Ongoing Rogue Incidents, Debate Over AI Safety Gets Real</title>
-      <link>https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real</guid>
-      <pubDate>Tue, 22 Sep 2026 17:12:26 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Unmasking EvilTokens: Getting to the root of device code phishing</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/</guid>
@@ -558,14 +582,6 @@
       <pubDate>Tue, 22 Sep 2026 13:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>A new report by ISACA found that 71% of orgs have not run AI incident response exercises as teams face rising pressure (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds</title>
-      <link>https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk. (via Dark Reading)</description>
     </item>
     <item>
       <title>Network Segmentation Failures Are Expanding the Corporate Attack Surface</title>
@@ -790,22 +806,6 @@
       <pubDate>Thu, 17 Sep 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>AI uncertainty is not a strategic reason to wait; it is a strategic imperative to build adaptable organizations that can innovate confidently, govern risk proportionately, and respond effectively as technology and threats evolve. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Smashing Security podcast #485: These researchers got drunk to hack an LG TV</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-485/</link>
-      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-485/</guid>
-      <pubDate>Wed, 16 Sep 2026 23:07:19 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Researchers wanted to test if LG&#39;s smart TVs come with any security risks - but their lawyers noticed a snag: the terms and conditions would forbid it. So they came up with a solution. They got plastered before setting up the TV, on the reasoning that you can&#39;t be legally bound… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Nonprofit that tracks meteors taken down by &quot;critical blow&quot; from a cyberattack</title>
-      <link>https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/</guid>
-      <pubDate>Wed, 16 Sep 2026 21:08:14 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>Group plans to be largely out of commission for several weeks. (via Ars Technica Security)</description>
     </item>
   </channel>
 </rss>
