@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T17:16:09.615Z",
+  "updated": "2026-09-23T20:31:21.485Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,92 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
+      "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
+      "date": "2026-09-23T20:07:00.000Z",
+      "excerpt": "In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Apple’s age checks,” the press release said."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "date": "2026-09-23T19:53:54.000Z",
+      "excerpt": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack",
+      "link": "https://cyberscoop.com/dhs-ig-report-federal-agencies-fail-cisa-cloud-security-directives/",
+      "date": "2026-09-23T19:40:53.000Z",
+      "excerpt": "The DHS inspector general said CISA lacks the power to compel agencies to implement its Binding Operational Directives. The post Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack appeared first on CyberScoop ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "date": "2026-09-23T19:32:49.000Z",
+      "excerpt": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
+      "link": "https://therecord.media/trump-harris-election-meddling-russia",
+      "date": "2026-09-23T19:30:00.000Z",
+      "excerpt": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "date": "2026-09-23T18:31:22.000Z",
+      "excerpt": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Pentagon cyber chief: The demand far exceeds supply",
+      "link": "https://cyberscoop.com/pentagon-cyber-operations-demand-exceeds-supply-defensetalks-2026/",
+      "date": "2026-09-23T18:10:42.000Z",
+      "excerpt": "At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years after gaining that authority. The post Pentagon cyber chief: The demand far exceeds supply appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "date": "2026-09-23T18:06:30.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "date": "2026-09-23T18:05:58.000Z",
+      "excerpt": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appeared first on SecurityWeek ."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Ryuk ransomware operator sentenced to 2 years in prison",
       "link": "https://cyberscoop.com/ryuk-ransomware-operator-karen-vardanyan-sentenced/",
       "date": "2026-09-23T17:10:19.000Z",
       "excerpt": "The Armenian national was extradited from Ukraine to the United States last year and pleaded guilty to cybercrimes in July. The post Ryuk ransomware operator sentenced to 2 years in prison appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "date": "2026-09-23T16:53:10.000Z",
+      "excerpt": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this…"
     },
     {
       "source": "BleepingComputer",
@@ -314,14 +394,6 @@
       "excerpt": "Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Burnham announces plan for new UK center to fight disinformation",
-      "link": "https://therecord.media/uk-disinformation-russia-center",
-      "date": "2026-09-23T12:30:00.000Z",
-      "excerpt": "The United Kingdom will create a new national center \"to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
@@ -402,14 +474,6 @@
       "excerpt": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
-      "link": "https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html",
-      "date": "2026-09-23T11:12:18.000Z",
-      "excerpt": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6,…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Research on Models Engaging in Genie-Like Behavior",
@@ -450,14 +514,6 @@
       "excerpt": "Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Arista Urges Immediate Patching of Exploited VCO Zero-Day",
-      "link": "https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/",
-      "date": "2026-09-23T08:33:06.000Z",
-      "excerpt": "Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response",
@@ -466,36 +522,12 @@
       "excerpt": "The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
-      "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
-      "date": "2026-09-23T08:29:48.000Z",
-      "excerpt": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Ryuk ransomware member sentenced to 24 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
       "date": "2026-09-23T08:20:05.000Z",
       "excerpt": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Critical F5 BIG-IP Vulnerability Exploited as Zero-Day",
-      "link": "https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/",
-      "date": "2026-09-23T07:34:18.000Z",
-      "excerpt": "Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-      "date": "2026-09-23T07:17:23.000Z",
-      "excerpt": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]"
     },
     {
       "source": "Troy Hunt",
@@ -520,14 +552,6 @@
       "link": "https://cyberscoop.com/shinyhunters-claims-fbi-attack/",
       "date": "2026-09-22T23:47:43.000Z",
       "excerpt": "The FBI jobs site, which was temporarily defaced, remains unavailable and the agency said it’s investigating the claims. The post ShinyHunters claims attack on FBI exposes almost all agents appeared first on CyberScoop ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Rogue external MFA providers can steal passwords during logins",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
-      "date": "2026-09-22T21:45:45.000Z",
-      "excerpt": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]"
     },
     {
       "source": "CyberScoop",
@@ -578,14 +602,6 @@
       "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Canadian regulator opens probe of IDScan for allegedly violating data privacy laws",
-      "link": "https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach",
-      "date": "2026-09-22T19:52:00.000Z",
-      "excerpt": "The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal private-sector privacy law, the regulator said in a press release."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
@@ -616,22 +632,6 @@
       "link": "https://www.darkreading.com/cyber-risk/rogue-incidents-debate-ai-safety-gets-real",
       "date": "2026-09-22T17:12:26.000Z",
       "excerpt": "As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Citing China, President Trump doubles down on hands-off approach to AI regulation",
-      "link": "https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/",
-      "date": "2026-09-22T15:16:35.000Z",
-      "excerpt": "Following a series of chaotic agentic hacks, Trump and administration officials have consistently expressed fears of Chinese AI dominance in pushing for fewer regulations. The post Citing China, President Trump doubles down on hands-off approach to AI regulation appeared first…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud",
-      "link": "https://cyberscoop.com/microsoft-eviltokens-cybercrime-service-takedown/",
-      "date": "2026-09-22T15:00:00.000Z",
-      "excerpt": "The popular phishing-as-a-service platform used AI throughout the attack chain, allowing cybercriminals to steal tokens for account takeover and business email compromise. The post Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud…"
     },
     {
       "source": "Microsoft Security Blog",

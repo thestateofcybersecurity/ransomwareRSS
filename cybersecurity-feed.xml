@@ -5,8 +5,80 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 23 Sep 2026 17:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:31:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>UK regulator to investigate Pornhub parent company for alleged age verification failings</title>
+      <link>https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy</link>
+      <guid isPermaLink="false">https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy</guid>
+      <pubDate>Wed, 23 Sep 2026 20:07:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Apple’s age checks,” the press release said. (via The Record)</description>
+    </item>
+    <item>
+      <title>Check Point warns of hackers exploiting Security Gateway VPN RCE flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/</guid>
+      <pubDate>Wed, 23 Sep 2026 19:53:54 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack</title>
+      <link>https://cyberscoop.com/dhs-ig-report-federal-agencies-fail-cisa-cloud-security-directives/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/dhs-ig-report-federal-agencies-fail-cisa-cloud-security-directives/</guid>
+      <pubDate>Wed, 23 Sep 2026 19:40:53 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The DHS inspector general said CISA lacks the power to compel agencies to implement its Binding Operational Directives. The post Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin</title>
+      <link>https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/</guid>
+      <pubDate>Wed, 23 Sep 2026 19:32:49 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>No evidence of successful foreign meddling in 2024 election, spy agencies found</title>
+      <link>https://therecord.media/trump-harris-election-meddling-russia</link>
+      <guid isPermaLink="false">https://therecord.media/trump-harris-election-meddling-russia</guid>
+      <pubDate>Wed, 23 Sep 2026 19:30:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment. (via The Record)</description>
+    </item>
+    <item>
+      <title>Hackers start exploiting critical WordPress flaw for code execution</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/</guid>
+      <pubDate>Wed, 23 Sep 2026 18:31:22 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Pentagon cyber chief: The demand far exceeds supply</title>
+      <link>https://cyberscoop.com/pentagon-cyber-operations-demand-exceeds-supply-defensetalks-2026/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/pentagon-cyber-operations-demand-exceeds-supply-defensetalks-2026/</guid>
+      <pubDate>Wed, 23 Sep 2026 18:10:42 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years after gaining that authority. The post Pentagon cyber chief: The demand far exceeds supply appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry</title>
+      <link>https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html</guid>
+      <pubDate>Wed, 23 Sep 2026 18:06:30 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios</title>
+      <link>https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/</guid>
+      <pubDate>Wed, 23 Sep 2026 18:05:58 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>Ryuk ransomware operator sentenced to 2 years in prison</title>
       <link>https://cyberscoop.com/ryuk-ransomware-operator-karen-vardanyan-sentenced/</link>
@@ -14,6 +86,14 @@
       <pubDate>Wed, 23 Sep 2026 17:10:19 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The Armenian national was extradited from Ukraine to the United States last year and pleaded guilty to cybercrimes in July. The post Ryuk ransomware operator sentenced to 2 years in prison appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You</title>
+      <link>https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html</guid>
+      <pubDate>Wed, 23 Sep 2026 16:53:10 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this… (via The Hacker News)</description>
     </item>
     <item>
       <title>Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers</title>
@@ -208,14 +288,6 @@
       <description>Latvian police arrested a 23-year-old man suspected of hacking at least two companies, stealing personal information and attempting to extort money from the victims. (via The Record)</description>
     </item>
     <item>
-      <title>Burnham announces plan for new UK center to fight disinformation</title>
-      <link>https://therecord.media/uk-disinformation-russia-center</link>
-      <guid isPermaLink="false">https://therecord.media/uk-disinformation-russia-center</guid>
-      <pubDate>Wed, 23 Sep 2026 12:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The United Kingdom will create a new national center &quot;to detect, attribute and disrupt” hostile state disinformation, Prime Minister Andy Burnham announced at the United Nations General Assembly. (via The Record)</description>
-    </item>
-    <item>
       <title>Arista patches actively exploited VeloCloud Orchestrator zero-day</title>
       <link>https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/</guid>
@@ -296,14 +368,6 @@
       <description>Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape</title>
-      <link>https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/exploit-released-for-unpatched-ubuntu.html</guid>
-      <pubDate>Wed, 23 Sep 2026 11:12:18 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A use-after-free in the Linux kernel&#39;s AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22. The flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was fixed upstream on August 6,… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Research on Models Engaging in Genie-Like Behavior</title>
       <link>https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html</guid>
@@ -344,14 +408,6 @@
       <description>Infamous threat group ShinyHunters claims to have personal information on thousands of FBI employees (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Arista Urges Immediate Patching of Exploited VCO Zero-Day</title>
-      <link>https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/arista-urges-immediate-patching-of-exploited-vco-zero-day/</guid>
-      <pubDate>Wed, 23 Sep 2026 08:33:06 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Remote attackers could trigger the critical-severity flaw to access privileged internal functionality. The post Arista Urges Immediate Patching of Exploited VCO Zero-Day appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>EU Auditors Warn Information-Sharing Gaps Are Hindering Cyber Incident Response</title>
       <link>https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/eu-auditors-slam-blocs-cyberinfo/</guid>
@@ -360,36 +416,12 @@
       <description>The EU Court of Auditors has criticized EU shortcomings in responding to major cyber incidents (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers</title>
-      <link>https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html</guid>
-      <pubDate>Wed, 23 Sep 2026 08:29:48 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says. The flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization server, issuing access tokens to… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Ryuk ransomware member sentenced to 24 months in prison</title>
       <link>https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/</guid>
       <pubDate>Wed, 23 Sep 2026 08:20:05 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Critical F5 BIG-IP Vulnerability Exploited as Zero-Day</title>
-      <link>https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/critical-f5-big-ip-vulnerability-exploited-as-zero-day/</guid>
-      <pubDate>Wed, 23 Sep 2026 07:34:18 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Unauthenticated attackers could send malicious traffic to BIG-IP to achieve remote code execution. The post Critical F5 BIG-IP Vulnerability Exploited as Zero-Day appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/</guid>
-      <pubDate>Wed, 23 Sep 2026 07:17:23 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Weekly Update 522: Live From Oslo with Scott Helme</title>
@@ -414,14 +446,6 @@
       <pubDate>Tue, 22 Sep 2026 23:47:43 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The FBI jobs site, which was temporarily defaced, remains unavailable and the agency said it’s investigating the claims. The post ShinyHunters claims attack on FBI exposes almost all agents appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Rogue external MFA providers can steal passwords during logins</title>
-      <link>https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/</guid>
-      <pubDate>Tue, 22 Sep 2026 21:45:45 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users&#39; passwords during legitimate login attempts. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>After water attacks, Capitol Hill offers its own proposal for an AI-cyber test program</title>
@@ -472,14 +496,6 @@
       <description>The Cybersecurity and Infrastructure Security Agency (CISA) is going old school to help organizations with limited resources set traps for hackers. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Canadian regulator opens probe of IDScan for allegedly violating data privacy laws</title>
-      <link>https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach</link>
-      <guid isPermaLink="false">https://therecord.media/canadian-regulator-opens-probe-of-idscan-following-data-breach</guid>
-      <pubDate>Tue, 22 Sep 2026 19:52:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The investigation, announced Monday, will probe IDScan’s security practices and whether victim notifications were adequate under Canada’s federal private-sector privacy law, the regulator said in a press release. (via The Record)</description>
-    </item>
-    <item>
       <title>Microsoft disrupts AI-assisted platform that compromised 12,000 accounts</title>
       <link>https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/</guid>
@@ -510,22 +526,6 @@
       <pubDate>Tue, 22 Sep 2026 17:12:26 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>As more reports of misalignment incidents underscore AI risks, large AI labs, regular businesses, and even nations are searching for better ways to keep control and be secure. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Citing China, President Trump doubles down on hands-off approach to AI regulation</title>
-      <link>https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/trump-hands-off-ai-regulation-china-race/</guid>
-      <pubDate>Tue, 22 Sep 2026 15:16:35 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Following a series of chaotic agentic hacks, Trump and administration officials have consistently expressed fears of Chinese AI dominance in pushing for fewer regulations. The post Citing China, President Trump doubles down on hands-off approach to AI regulation appeared first… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud</title>
-      <link>https://cyberscoop.com/microsoft-eviltokens-cybercrime-service-takedown/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/microsoft-eviltokens-cybercrime-service-takedown/</guid>
-      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The popular phishing-as-a-service platform used AI throughout the attack chain, allowing cybercriminals to steal tokens for account takeover and business email compromise. The post Microsoft and partners disrupt EvilTokens, a comprehensive cybercrime service for financial fraud… (via CyberScoop)</description>
     </item>
     <item>
       <title>Unmasking EvilTokens: Getting to the root of device code phishing</title>
