@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T15:16:36.975Z",
+  "updated": "2026-09-24T19:19:05.405Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,100 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
+      "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
+      "date": "2026-09-24T18:57:00.000Z",
+      "excerpt": "Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox — an illicit platform used by cybercriminals to sell stolen personal information, illegal access to devices and other tools for…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+      "date": "2026-09-24T18:10:18.000Z",
+      "excerpt": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "New bill would create federal investigative body for AI-driven hacks",
+      "link": "https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/",
+      "date": "2026-09-24T18:07:31.000Z",
+      "excerpt": "A new Democratic bill in Congress would establish a federal Cybersecurity and AI Board of Investigations to provide independent government oversight of cyberattacks carried out by AI agents, following recent hacks by models run at companies like Anthropic, OpenAI, Meta and…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+      "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+      "date": "2026-09-24T17:52:43.000Z",
+      "excerpt": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before. That is the thread running through the pile. Trusted paths get poisoned. Old bugs find new jobs. AI…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "date": "2026-09-24T17:47:44.000Z",
+      "excerpt": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
+      "link": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
+      "date": "2026-09-24T17:07:31.000Z",
+      "excerpt": "The Justice Department said two leaders of the company have been arrested and face conspiracy to commit wire fraud. The post Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges appeared first on CyberScoop ."
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "date": "2026-09-24T16:00:00.000Z",
+      "excerpt": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
+      "date": "2026-09-24T16:00:00.000Z",
+      "excerpt": "This month's updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations. The post ​​​​​​​​What’s new in Microsoft Security: September 2026​​ appeared first on Microsoft Security Blog ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "date": "2026-09-24T15:52:00.000Z",
+      "excerpt": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "date": "2026-09-24T15:27:32.000Z",
+      "excerpt": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role…"
+    },
+    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Emerging Ransomware Gang Uses Backup Destruction Threats to Pressure Victims",
       "link": "https://www.infosecurity-magazine.com/news/ransomware-gang-uses-backup/",
       "date": "2026-09-24T15:00:00.000Z",
       "excerpt": "Ransom notes by n0n ransomware claim to take double extortion to a new level of danger for victims"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "date": "2026-09-24T14:44:12.000Z",
+      "excerpt": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer."
     },
     {
       "source": "SecurityWeek",
@@ -442,14 +530,6 @@
       "excerpt": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription product with on-chain…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks",
-      "link": "https://www.securityweek.com/us-court-sentences-armenian-man-to-prison-for-ryuk-ransomware-attacks/",
-      "date": "2026-09-24T08:38:29.000Z",
-      "excerpt": "Karen Vardanyan has also been ordered to pay over $1.2 million in restitution to victims. The post US Court Sentences Armenian Man to Prison for Ryuk Ransomware Attacks appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Data Overtakes Skills as Top Threat Hunting Challenge, SANS Study Finds",
@@ -474,28 +554,12 @@
       "excerpt": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said. The portal publishes aggregate figures, such as spending, and is separate from the systems that handle…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
-      "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
-      "date": "2026-09-24T06:32:03.000Z",
-      "excerpt": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants. According to Proofpoint, the activity has primarily focused on Chilean retail and financial…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
       "link": "https://isc.sans.edu/diary/rss/33366",
       "date": "2026-09-24T06:25:06.000Z",
       "excerpt": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "date": "2026-09-24T05:36:18.000Z",
-      "excerpt": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -554,14 +618,6 @@
       "excerpt": "It's unclear what will happen if FBI misses ShinyHunters' deadline."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New RemControl Android banking malware targets users in Europe and Canada",
-      "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
-      "date": "2026-09-23T21:25:13.000Z",
-      "excerpt": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
@@ -594,28 +650,12 @@
       "excerpt": "The DHS inspector general said CISA lacks the power to compel agencies to implement its Binding Operational Directives. The post Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack appeared first on CyberScoop ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "No evidence of successful foreign meddling in 2024 election, spy agencies found",
-      "link": "https://therecord.media/trump-harris-election-meddling-russia",
-      "date": "2026-09-23T19:30:00.000Z",
-      "excerpt": "U.S. intelligence officials found no evidence that any foreign adversary successfully interfered in the 2024 presidential election, according to sources familiar with the findings of a classified assessment."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Pentagon cyber chief: The demand far exceeds supply",
       "link": "https://cyberscoop.com/pentagon-cyber-operations-demand-exceeds-supply-defensetalks-2026/",
       "date": "2026-09-23T18:10:42.000Z",
       "excerpt": "At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years after gaining that authority. The post Pentagon cyber chief: The demand far exceeds supply appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "date": "2026-09-23T18:06:30.000Z",
-      "excerpt": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to…"
     },
     {
       "source": "CyberScoop",
@@ -650,14 +690,6 @@
       "excerpt": "We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together. The post Reimagining the SOC for the agentic era in Microsoft Defender appeared first on Microsoft Security Blog ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "OpenAI, Ukraine partner on ‘Daybreak’ program to protect power grids and water systems",
-      "link": "https://cyberscoop.com/openai-ukraine-cybersecurity-critical-infrastructure/",
-      "date": "2026-09-23T15:37:18.000Z",
-      "excerpt": "A Ukrainian official said the government will use the tools to automate cybersecurity functions in critical infrastructure as the war with Russia continues. The post OpenAI, Ukraine partner on ‘Daybreak’ program to protect power grids and water systems appeared first on…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Hundreds of Leaked GitHub App Keys Still Authenticate",
@@ -666,28 +698,12 @@
       "excerpt": "GitGuardian finds 474 leaked GitHub App keys still authenticating, including keys with admin access"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Attackers Manipulate AI Chatbots in Mass Disinformation, Phishing Campaign",
-      "link": "https://www.darkreading.com/threat-intelligence/attackers-manipulate-ai-chatbots-mass-disinformation-phishing-campaign",
-      "date": "2026-09-23T14:47:09.000Z",
-      "excerpt": "Threat actors are poisoning ChatGPT, Gemini, and Google AI Overview answers by seeding the Web with malicious links and data and then optimizing the content."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Windows Botnet x47.c Offers AI API Draining, 18 Attack Methods",
       "link": "https://www.infosecurity-magazine.com/news/x47c-botnet-ai-api-draining-18/",
       "date": "2026-09-23T14:00:00.000Z",
       "excerpt": "Qrator found a Windows botnet advertised with AI API draining, credential theft and SOCKS5 proxying"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "The president has called for AI leadership. Here’s the mission.",
-      "link": "https://cyberscoop.com/president-ai-leadership-mission-critical-infrastructure-op-ed/",
-      "date": "2026-09-23T12:17:20.000Z",
-      "excerpt": "An AI compact built around capability, control, and continuity can ensure the country stays safe and secure while also leading the world in the technology. The post The president has called for AI leadership. Here’s the mission. appeared first on CyberScoop ."
     },
     {
       "source": "Schneier on Security",
@@ -896,22 +912,6 @@
       "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
       "date": "2026-09-17T22:00:33.000Z",
       "excerpt": "Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared first on Unit 42 ."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "date": "2026-09-17T18:33:13.000Z",
-      "excerpt": "SynthID can cause models to follow harmful instructions they would otherwise refuse."
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "From guidance to action: Security fundamentals that materially reduce risk",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/17/from-guidance-to-action-security-fundamentals-that-materially-reduce-risk/",
-      "date": "2026-09-17T17:00:00.000Z",
-      "excerpt": "AI has made fundamental changes to the operating environment for cybersecurity. Explore exposure management guidance on recommended controls and take action and stay ahead of cyberthreats. The post From guidance to action: Security fundamentals that materially reduce risk…"
     }
   ]
 }
