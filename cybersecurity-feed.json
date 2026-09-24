@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T19:19:05.405Z",
+  "updated": "2026-09-24T22:33:45.797Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -23,8 +23,8 @@
     },
     {
       "name": "The Record",
-      "ok": true,
-      "count": 5
+      "ok": false,
+      "count": 0
     },
     {
       "name": "CyberScoop",
@@ -114,12 +114,52 @@
   ],
   "items": [
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Rydox cybercriminal marketplace operator pleads guilty following co-conspirator brothers’s deportation",
-      "link": "https://therecord.media/rydox-criminal-marketplace-operator-pleads-guilty",
-      "date": "2026-09-24T18:57:00.000Z",
-      "excerpt": "Ardit Kutleshi, 28, was extradited from his home country of Kosovo last year after prosecutors accused him and his older brother of running Rydox — an illicit platform used by cybercriminals to sell stolen personal information, illegal access to devices and other tools for…"
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "House and Senate members propose legislation for CISA to step up cyber defenses for biotech",
+      "link": "https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation/",
+      "date": "2026-09-24T21:23:40.000Z",
+      "excerpt": "Biotechnology doesn’t have its own critical infrastructure designation, so the bipartisan group of lawmakers wants to make sure it’s protected like it. The post House and Senate members propose legislation for CISA to step up cyber defenses for biotech appeared first on…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
+      "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
+      "date": "2026-09-24T21:04:03.000Z",
+      "excerpt": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+      "date": "2026-09-24T20:53:35.000Z",
+      "excerpt": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
+      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
+      "date": "2026-09-24T20:35:21.000Z",
+      "excerpt": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
+      "date": "2026-09-24T20:32:50.000Z",
+      "excerpt": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+      "date": "2026-09-24T20:10:48.000Z",
+      "excerpt": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]"
     },
     {
       "source": "The Hacker News",
@@ -266,28 +306,12 @@
       "excerpt": "Even if the organization locks down employee accounts, forgotten and lost service accounts can still undo the organization's entire M365 environment."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Kyiv internet providers report major outages after Russian attacks damage data centers",
-      "link": "https://therecord.media/kyiv-internet-providers-report-outages-after-russian-strikes",
-      "date": "2026-09-24T13:30:00.000Z",
-      "excerpt": "At least four internet providers serving Kyiv and other parts of Ukraine suffered partial connectivity losses following Wednesday’s drone attack, according to internet monitoring group NetBlocks."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
       "date": "2026-09-24T13:27:57.000Z",
       "excerpt": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Astrana latest healthcare tech firm to report data breach to SEC",
-      "link": "https://therecord.media/astrana-cyberattack-sec-ransomware",
-      "date": "2026-09-24T13:15:00.000Z",
-      "excerpt": "The healthcare firm Astrana warned regulators that hackers accessed confidential information by impersonating company personnel."
     },
     {
       "source": "Dark Reading",
@@ -336,14 +360,6 @@
       "link": "https://www.helpnetsecurity.com/2026/09/24/cloud-range-ai-validation-range-and-cloud-range-ai-readiness-framework/",
       "date": "2026-09-24T12:34:29.000Z",
       "excerpt": "Cloud Range has announced the official launch of its AI Validation Range and Cloud Range AI Readiness Framework. They give organizations a structured way to test AI models and agents in realistic environments, validate their readiness for operational responsibility and safety,…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "OpenAI agent breached Australian government health website, Albanese says",
-      "link": "https://therecord.media/openai-australia-health-breach",
-      "date": "2026-09-24T12:30:00.000Z",
-      "excerpt": "An OpenAI agent gained “unauthorized access” to “non-public files” from an Australian government health website in June, Prime Minister Anthony Albanese said."
     },
     {
       "source": "Help Net Security",
@@ -498,14 +514,6 @@
       "excerpt": "New federal programs take years to launch and fund. State and local governments need cybersecurity software now. The One Big Beautiful Bill already enables tax incentives. Congress should clarify and deploy them. The post How tax policy can stop threat actors from breaching US…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Astrana Health Data Breach Impacts Private, Confidential Information",
-      "link": "https://www.securityweek.com/astrana-health-data-breach-impacts-private-confidential-information/",
-      "date": "2026-09-24T09:56:04.000Z",
-      "excerpt": "Hackers impersonated the company’s personnel and contacted its employees to gain access to Astrana Health’s servers. The post Astrana Health Data Breach Impacts Private, Confidential Information appeared first on SecurityWeek ."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "OpenAI hacked Australian Medicare govt site, probed data providers",
@@ -536,14 +544,6 @@
       "link": "https://www.infosecurity-magazine.com/news/data-top-bottleneck-barrier-threat/",
       "date": "2026-09-24T08:30:00.000Z",
       "excerpt": "SANS Institute report claims data rather than skills is now the main hurdle for threat hunters"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft fixes bug that broke Windows File History backup feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-backup-feature-broken-by-september-updates/",
-      "date": "2026-09-24T08:14:47.000Z",
-      "excerpt": "Microsoft has fixed a known issue that breaks the built-in File History backup feature on some Windows systems after installing the September 2026 security updates. [...]"
     },
     {
       "source": "The Hacker News",
@@ -594,14 +594,6 @@
       "excerpt": "A store in Auckland vibe-coded itself a new website. Within hours, its inventory had somehow expanded to include a pair of crusty socks, an $850 banana, and all of New Zealand's national parks. What could possibly have gone wrong? Meanwhile, a hacker collective backed a truck…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
-      "date": "2026-09-23T22:46:01.000Z",
-      "excerpt": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "SASE Converges Network & Security Into One Cloud Solution",
@@ -626,22 +618,6 @@
       "excerpt": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
-      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
-      "date": "2026-09-23T20:53:38.000Z",
-      "excerpt": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "UK regulator to investigate Pornhub parent company for alleged age verification failings",
-      "link": "https://therecord.media/uk-regulator-to-investigate-pornhub-parent-company-privacy",
-      "date": "2026-09-23T20:07:00.000Z",
-      "excerpt": "In May, Pornhub began using a new age assurance process to verify some users’ ages, according to an Ofcom press release. The new method relies on signals from Apple that suggest under 18s in the UK “may have completed Apple’s age checks,” the press release said."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Watchdog finds most agencies failed to meet CISA cloud security orders, heightening risk of attack",
@@ -658,28 +634,12 @@
       "excerpt": "At DefenseTalks on Tuesday, Katie Sutton said the Pentagon now receives far more requests to use cyber operations than its forces can fulfill, eight years after gaining that authority. The post Pentagon cyber chief: The demand far exceeds supply appeared first on CyberScoop ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Ryuk ransomware operator sentenced to 2 years in prison",
-      "link": "https://cyberscoop.com/ryuk-ransomware-operator-karen-vardanyan-sentenced/",
-      "date": "2026-09-23T17:10:19.000Z",
-      "excerpt": "The Armenian national was extradited from Ukraine to the United States last year and pleaded guilty to cybercrimes in July. The post Ryuk ransomware operator sentenced to 2 years in prison appeared first on CyberScoop ."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Macfinger ClickFix campaign, (Tue, Sep 22nd)",
       "link": "https://isc.sans.edu/diary/rss/33360",
       "date": "2026-09-23T16:14:37.000Z",
       "excerpt": "Introduction"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
-      "link": "https://www.darkreading.com/threat-intelligence/uae-saudi-arabia-face-onslaught-of-increasingly-sophisticated-automated-cyberattacks",
-      "date": "2026-09-23T16:01:00.000Z",
-      "excerpt": "The United Arab Emirates and Kingdom of Saudi Arabia together absorbed 50% of all cyberattacks recorded across the Gulf region in the first half of 2026."
     },
     {
       "source": "Microsoft Security Blog",
@@ -904,14 +864,6 @@
       "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
       "date": "2026-09-18T10:00:36.000Z",
       "excerpt": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity appeared first on Unit 42 ."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Inside the Modern SOC: Defending the Cross-Environment Pivot",
-      "link": "https://unit42.paloaltonetworks.com/soc-cross-environment-pivot/",
-      "date": "2026-09-17T22:00:33.000Z",
-      "excerpt": "Cross-environment attacks demand a new approach to security operations. Learn how Unit 42 Managed XSIAM helps SOC teams investigate complete attack paths. The post Inside the Modern SOC: Defending the Cross-Environment Pivot appeared first on Unit 42 ."
     }
   ]
 }
