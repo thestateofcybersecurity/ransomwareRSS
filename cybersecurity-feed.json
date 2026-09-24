@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T23:47:46.842Z",
+  "updated": "2026-09-24T05:04:15.314Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,62 @@
   ],
   "items": [
     {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "What to do first when you get 90 days to secure AI agent data",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/kelly-herrell-nol8-ai-agent-data-security/",
+      "date": "2026-09-24T05:00:41.000Z",
+      "excerpt": "In this interview with Help Net Security, Kelly Herrell, CEO at Nol8, explains where AI agents create exposure inside organizations. The first thing to examine is the data path: what an agent can reach, what enters its context, and where results go. Ticketing systems, CRM…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Your security program knows about the firewall, but does it know about the elevator?",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/ot-asset-visibility-challenges/",
+      "date": "2026-09-24T04:30:14.000Z",
+      "excerpt": "By early August, attackers had hit water systems in at least seven U.S. states. The FBI and EPA said the intruders remotely accessed internet-facing programmable logic controllers, the small industrial computers that run pumps and valves. Operators lost monitoring or control,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Ubuntu kernel CVE fixes are moving to a weekly release schedule",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/ubuntu-kernel-cve-fixes-release-schedule/",
+      "date": "2026-09-24T04:27:02.000Z",
+      "excerpt": "Ubuntu kernels will ship every week under a new release schedule from Canonical, which is merging its four-week cycle for regular Stable Release Updates (SRUs) and its two-week cycle for security fixes into a single two-week cycle. The cycles overlap, each starting a week after…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Europe’s technology backbone is becoming a cyber target",
+      "link": "https://www.helpnetsecurity.com/2026/09/24/enisa-eu-cyber-threats-report/",
+      "date": "2026-09-24T04:00:02.000Z",
+      "excerpt": "Disruptive attacks on public-facing services, financially motivated cybercrime and compromises of shared technology providers are increasing cybersecurity risks across Europe. ENISA’s Threat Landscape 2026 identifies cybercrime, state-linked activity, foreign information…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
+      "link": "https://isc.sans.edu/diary/rss/33364",
+      "date": "2026-09-24T03:50:11.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Two Upgrades to My AI Stack: Vigil and Idea-to-Video",
+      "link": "https://danielmiessler.com/blog/vigil-and-idea-to-video?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-24T03:00:00.000Z",
+      "excerpt": "Purple machines pour signals into a funnel that lets one spark fall onto a seated figure's phone, while a ribbon from his mouth feeds a projector that turns it into film/images/vigil-and-idea-to-video.webp/images/vigil-and-idea-to-video.webp My AI stack and harness…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "CISA outlines improvement plan for CVE program",
+      "link": "https://cyberscoop.com/cisa-cve-data-quality-white-paper-expert-reaction/",
+      "date": "2026-09-24T00:31:36.000Z",
+      "excerpt": "The white paper is the latest step in trying to create a “Quality Era” for the Common Vulnerabilities and Exposures (CVE) program as the number of CVEs surges. The post CISA outlines improvement plan for CVE program appeared first on CyberScoop ."
+    },
+    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras",
@@ -196,10 +252,10 @@
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
       "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
       "date": "2026-09-23T19:32:49.000Z",
-      "excerpt": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin appeared first on SecurityWeek ."
+      "excerpt": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
@@ -402,38 +458,6 @@
       "excerpt": "Portnox has announced new capabilities to detect unauthorized AI applications and agents on managed devices and automatically enforce security policy, restricting, quarantining, or removing unapproved or risky applications the moment they’re detected. The capability addresses…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Network Solutions Dark Web Monitoring alerts small businesses to domain-linked data exposure",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/network-solutions-dark-web-monitoring/",
-      "date": "2026-09-23T13:40:14.000Z",
-      "excerpt": "Network Solutions has launched Dark Web Monitoring, a new security capability that alerts small businesses when information associated with their domain appears in known breach data and provides steps they can take to reduce risk. Stolen credentials and other information exposed…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "DarkMe RAT trades zero-days for plain phishing emails",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/darkme-rat-phishing-email-hits-corporate-targets/",
-      "date": "2026-09-23T13:24:17.000Z",
-      "excerpt": "DarkMe, a remote access trojan and info-stealer that has previously been associated with a threat group that targeted financial market traders and cryptocurrency users, has been spotted again. This time around, its distribution has been simplified: instead of leveraging zero-day…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Barracuda brings AI security and governance within reach of smaller organizations",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/barracuda-ai-data-security/",
-      "date": "2026-09-23T13:20:45.000Z",
-      "excerpt": "Barracuda Networks has launched Barracuda AI Data Security, the AI security and governance solution purpose-built for resource-constrained organizations and managed service providers (MSPs). The solution enables businesses to accelerate AI adoption by protecting sensitive data,…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Lookout targets smishing, voice cloning, and vishing with real-time mobile protection",
-      "link": "https://www.helpnetsecurity.com/2026/09/23/lookout-unveils-social-engineering-protection/",
-      "date": "2026-09-23T13:06:02.000Z",
-      "excerpt": "Lookout has launched Social Engineering Protection (SEP), a new module within the Lookout Mobile AI Security Platform. SEP provides automated, real-time protection against the next generation of AI-driven mobile threats, including linkless smishing attacks, synthetic voice…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Latvia arrests suspected hacker for electronics repair company breach",
@@ -578,6 +602,14 @@
       "excerpt": ""
     },
     {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "The Rising Threat of Deepfakes: Why Organizations Must Rethink Trust",
+      "link": "https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust",
+      "date": "2026-09-23T00:00:00.000Z",
+      "excerpt": "For decades, we believed that if could hear someone’s voice on a phone call or see them on a video call, they were who they said they were. What if that’s no longer true?"
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "ShinyHunters claims attack on FBI exposes almost all agents",
@@ -648,14 +680,6 @@
       "link": "https://isc.sans.edu/diary/rss/33358",
       "date": "2026-09-22T19:06:15.000Z",
       "excerpt": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do?"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects",
-      "link": "https://cyberscoop.com/volexity-uta0565-china-exploit-chain-chrome-microsoft/",
-      "date": "2026-09-22T18:47:07.000Z",
-      "excerpt": "The threat group Volexity tracks as UTA0565 showcased a variance in tactics, but it used the same exploit kit as multiple Chinese threat groups. The post Volexity spots another China-aligned threat group exploiting Chrome and Microsoft defects appeared first on CyberScoop ."
     },
     {
       "source": "Microsoft Security Blog",
@@ -794,14 +818,6 @@
       "excerpt": "Google’s threat intelligence group said it had a mole inside TeamPCP's inner circle."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "HTTP QUERY Method: The Grey Zone Between GET And POST., (Fri, Sep 18th)",
-      "link": "https://isc.sans.edu/diary/rss/33352",
-      "date": "2026-09-19T04:51:46.000Z",
-      "excerpt": "In June 2026 the IETF published RFC 10008[1], defining a new HTTP method: \"QUERY\". The HTTP protocol faced already by changes (HTTP/2, HTTP/3) but it&#x27s the first new standard HTTP verb since \"PATCH\" in 2010!"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "My Early Thoughts on Jev",
@@ -896,22 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html",
       "date": "2026-09-17T11:06:31.000Z",
       "excerpt": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian . There are plenty of signs that AI will make all of our experiences of the US midterm elections worse. Voters have anxiety about AI’s impacts on the country. Politicos are using AI deepfakes…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Hackers reveal how Flock cameras really track cars and people",
-      "link": "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
-      "date": "2026-09-17T09:43:46.000Z",
-      "excerpt": "One hacked camera captured 1.6 million images and could detect people as well as cars."
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "The answer to AI uncertainty is adaptability, not paralysis",
-      "link": "https://www.sophos.com/en-us/blog/ai-uncertainty-adaptability",
-      "date": "2026-09-17T00:00:00.000Z",
-      "excerpt": "AI uncertainty is not a strategic reason to wait; it is a strategic imperative to build adaptable organizations that can innovate confidently, govern risk proportionately, and respond effectively as technology and threats evolve."
     }
   ]
 }
