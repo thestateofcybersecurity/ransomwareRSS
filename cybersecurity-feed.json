@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T13:14:04.728Z",
+  "updated": "2026-09-26T17:17:08.185Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,6 +116,30 @@
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+      "date": "2026-09-26T16:26:58.000Z",
+      "excerpt": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+      "date": "2026-09-26T15:50:38.000Z",
+      "excerpt": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+      "date": "2026-09-26T14:19:46.000Z",
+      "excerpt": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
       "date": "2026-09-26T12:28:41.000Z",
@@ -128,6 +152,22 @@
       "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
       "date": "2026-09-26T12:00:00.000Z",
       "excerpt": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+      "date": "2026-09-26T11:46:40.000Z",
+      "excerpt": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+      "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+      "date": "2026-09-26T10:30:00.000Z",
+      "excerpt": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a string of recent incidents,…"
     },
     {
       "source": "SecurityWeek",
@@ -274,14 +314,6 @@
       "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "date": "2026-09-25T16:00:00.000Z",
-      "excerpt": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
@@ -312,22 +344,6 @@
       "link": "https://therecord.media/wales-cyberattack-police-breach",
       "date": "2026-09-25T15:00:00.000Z",
       "excerpt": "Dyfed-Powys Police in Wales said a cyberattack affecting the force disrupted some non-emergency systems and may have compromised staff information."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "date": "2026-09-25T14:54:33.000Z",
-      "excerpt": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "date": "2026-09-25T14:51:10.000Z",
-      "excerpt": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]"
     },
     {
       "source": "Dark Reading",
@@ -442,22 +458,6 @@
       "excerpt": "Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows, Linux, Android File Notification Systems Leak User Activity appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-      "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-      "date": "2026-09-25T10:35:55.000Z",
-      "excerpt": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-      "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-      "date": "2026-09-25T10:14:02.000Z",
-      "excerpt": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild. The vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in the virtuser_query plugin of…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "RemControl Banking Trojan Gives Attackers Remote Control of Android Devices",
@@ -559,6 +559,14 @@
       "title": "ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)",
       "link": "https://isc.sans.edu/diary/rss/33370",
       "date": "2026-09-25T03:45:12.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Kiteworks recommends server shutdown pending possible attack",
+      "link": "https://www.sophos.com/en-us/blog/kiteworks-recommends-server-shutdown-pending-possible-attack",
+      "date": "2026-09-25T00:00:00.000Z",
       "excerpt": ""
     },
     {
@@ -904,14 +912,6 @@
       "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
       "date": "2026-09-21T07:00:00.000Z",
       "excerpt": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "I Think Our Main Agents Will Have Names",
-      "link": "https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-21T05:30:00.000Z",
-      "excerpt": "Isometric cutaway of a house at night: the owner asleep upstairs in sienna while four distinct purple people work the lamplit rooms below, one at the front door with a lantern, one sorting his mail into a ledger, one at his computer, one laying out his bike and weights for the…"
     }
   ]
 }
