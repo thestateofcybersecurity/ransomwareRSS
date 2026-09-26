@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 19:58:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 22:59:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>One Foot Pedal, Two Ways to Dictate</title>
+      <link>https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sat, 26 Sep 2026 21:41:43 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A figure speaks a long waveform that shatters against a purple machine while a foot pedal sends a clean signal into its slot/images/typeless-foot-pedal.webp/images/typeless-foot-pedal.webp Daniel dictates almost… (via Daniel Miessler)</description>
+    </item>
     <item>
       <title>ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/</link>
@@ -798,14 +806,6 @@
       <pubDate>Mon, 21 Sep 2026 10:00:13 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies appeared first on… (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Windows Exploitation Techniques: Dangling COM Object Registrations</title>
-      <link>https://projectzero.google/2026/09/windows-dangling-com.html</link>
-      <guid isPermaLink="false">https://projectzero.google/2026/09/windows-dangling-com.html</guid>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://googleprojectzero.blogspot.com/">Google Project Zero</source>
-      <description>This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a… (via Google Project Zero)</description>
     </item>
   </channel>
 </rss>

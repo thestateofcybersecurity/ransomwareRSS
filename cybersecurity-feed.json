@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T19:58:19.848Z",
+  "updated": "2026-09-26T22:59:19.922Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "One Foot Pedal, Two Ways to Dictate",
+      "link": "https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-09-26T21:41:43.000Z",
+      "excerpt": "A figure speaks a long waveform that shatters against a purple machine while a foot pedal sends a clean signal into its slot/images/typeless-foot-pedal.webp/images/typeless-foot-pedal.webp Daniel dictates almost…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -904,14 +912,6 @@
       "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
       "date": "2026-09-21T10:00:13.000Z",
       "excerpt": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies appeared first on…"
-    },
-    {
-      "source": "Google Project Zero",
-      "sourceUrl": "https://googleprojectzero.blogspot.com/",
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "date": "2026-09-21T07:00:00.000Z",
-      "excerpt": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a…"
     }
   ]
 }
