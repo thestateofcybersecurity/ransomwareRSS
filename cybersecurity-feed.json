@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:51:46.842Z",
+  "updated": "2026-09-26T13:14:04.728Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+      "date": "2026-09-26T12:28:41.000Z",
+      "excerpt": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining",
+      "link": "https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/",
+      "date": "2026-09-26T12:00:00.000Z",
+      "excerpt": "The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+      "link": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+      "date": "2026-09-26T10:15:41.000Z",
+      "excerpt": "OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+      "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+      "date": "2026-09-26T09:55:22.000Z",
+      "excerpt": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF)…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+      "date": "2026-09-26T08:49:53.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+      "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+      "date": "2026-09-26T07:48:33.000Z",
+      "excerpt": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. \"Kiteworks received credible threat intelligence from federal…"
+    },
     {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
@@ -330,14 +378,6 @@
       "excerpt": "Introduction"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "date": "2026-09-25T12:40:59.000Z",
-      "excerpt": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
@@ -498,36 +538,12 @@
       "excerpt": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Roundcube Webmail Vulnerability in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/",
-      "date": "2026-09-25T06:57:40.000Z",
-      "excerpt": "Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek ."
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Stop watching what AI agents say and start watching what they do",
       "link": "https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/",
       "date": "2026-09-25T05:30:02.000Z",
       "excerpt": "In this interview with Help Net Security, Ariel Assaraf, CEO of Coralogix, explains why a system prompt can describe a boundary for an AI agent but cannot enforce one. Assaraf covers how his team builds AI agent guardrails at the execution layer, limits context without expanding…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Cloudflare Fixes Flaw That Let One Container Read Another Customer's Leftover Disk Data",
-      "link": "https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html",
-      "date": "2026-09-25T04:49:22.000Z",
-      "excerpt": "A flaw in Cloudflare Containers let a paying customer read data that other customers' containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html",
-      "date": "2026-09-25T04:46:34.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are…"
     },
     {
       "source": "Daniel Miessler",
@@ -562,28 +578,12 @@
       "excerpt": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Autonomous AI Hacks Raise Thorny Questions of Legal Accountability",
-      "link": "https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/",
-      "date": "2026-09-24T20:35:21.000Z",
-      "excerpt": "The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
       "date": "2026-09-24T20:32:50.000Z",
       "excerpt": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
-      "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
-      "date": "2026-09-24T18:10:18.000Z",
-      "excerpt": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level of control over an Android…"
     },
     {
       "source": "CyberScoop",

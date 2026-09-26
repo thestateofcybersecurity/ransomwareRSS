@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 26 Sep 2026 07:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 13:14:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>OpenAI&#39;s AI agents accidentally uploaded user-provided images to third-party sites</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/</guid>
+      <pubDate>Sat, 26 Sep 2026 12:28:41 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
+      <link>https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/new-x47-c-windows-botnet-weaponizes-xai-grok-ai-api-draining/</guid>
+      <pubDate>Sat, 26 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The Windows botnet relies on AI to maintain persistence, using xAI Grok to choose from predefined actions. The post New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure</title>
+      <link>https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/</guid>
+      <pubDate>Sat, 26 Sep 2026 10:15:41 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>OpenAI’s CEO said there is an “extensive and ongoing review related to our agents’ use of internet access during training and evaluation.” The post OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link</title>
+      <link>https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html</guid>
+      <pubDate>Sat, 26 Sep 2026 09:55:22 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site. The cross-site request forgery (CSRF)… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild</title>
+      <link>https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html</guid>
+      <pubDate>Sat, 26 Sep 2026 08:49:53 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack</title>
+      <link>https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html</guid>
+      <pubDate>Sat, 26 Sep 2026 07:48:33 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack. &quot;Kiteworks received credible threat intelligence from federal… (via The Hacker News)</description>
+    </item>
     <item>
       <title>3 Consulting Myths Debunked by Unit 42 Experts</title>
       <link>https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/</link>
@@ -224,14 +272,6 @@
       <description>Introduction (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>Microsoft plans to deprecate Windows Deployment Services</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/</guid>
-      <pubDate>Fri, 25 Sep 2026 12:40:59 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks</title>
       <link>https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/</link>
       <guid isPermaLink="false">https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/</guid>
@@ -392,36 +432,12 @@
       <description>A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Roundcube Webmail Vulnerability in Attackers’ Crosshairs</title>
-      <link>https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/roundcube-webmail-vulnerability-in-attackers-crosshairs/</guid>
-      <pubDate>Fri, 25 Sep 2026 06:57:40 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Tracked as CVE-2026-48842, the exploited bug is an SQL injection that can be exploited without authentication. The post Roundcube Webmail Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Stop watching what AI agents say and start watching what they do</title>
       <link>https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/25/ariel-assaraf-coralogix-ai-agent-guardrails/</guid>
       <pubDate>Fri, 25 Sep 2026 05:30:02 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>In this interview with Help Net Security, Ariel Assaraf, CEO of Coralogix, explains why a system prompt can describe a boundary for an AI agent but cannot enforce one. Assaraf covers how his team builds AI agent guardrails at the execution layer, limits context without expanding… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Cloudflare Fixes Flaw That Let One Container Read Another Customer&#39;s Leftover Disk Data</title>
-      <link>https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/cloudflare-fixes-flaw-that-let-one.html</guid>
-      <pubDate>Fri, 25 Sep 2026 04:49:22 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A flaw in Cloudflare Containers let a paying customer read data that other customers&#39; containers had left behind on the same server, Cloudflare and the researchers who found it said on Thursday. The data came from disk space that earlier containers had used and given up, not… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>WSO2 and Adobe Commerce Flaws Exploited in Attacks, Added to CISA KEV</title>
-      <link>https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/wso2-and-adobe-commerce-flaws-exploited.html</guid>
-      <pubDate>Fri, 25 Sep 2026 04:46:34 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added two critical security flaws impacting WSO2 and Adobe Commerce and Magento to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are… (via The Hacker News)</description>
     </item>
     <item>
       <title>How Jev Picks the Model and Effort for Every Prompt</title>
@@ -456,28 +472,12 @@
       <description>Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Autonomous AI Hacks Raise Thorny Questions of Legal Accountability</title>
-      <link>https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/autonomous-ai-hacks-raise-thorny-questions-of-legal-accountability/</guid>
-      <pubDate>Thu, 24 Sep 2026 20:35:21 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The prospect of legal accountability is unclear. Lawsuits are a possibility, but some legal experts believe any criminal investigations would face an extremely high burden. The post Autonomous AI Hacks Raise Thorny Questions of Legal Accountability appeared first on SecurityWeek… (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>SectopRAT Returns, Hiding Inside a Legitimate Application</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</guid>
       <pubDate>Thu, 24 Sep 2026 20:32:50 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions</title>
-      <link>https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html</guid>
-      <pubDate>Thu, 24 Sep 2026 18:10:18 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus&#39;s own software to gain root access, the highest level of control over an Android… (via The Hacker News)</description>
     </item>
     <item>
       <title>New bill would create federal investigative body for AI-driven hacks</title>
