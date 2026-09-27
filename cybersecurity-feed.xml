@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 08:21:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 14:10:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/</guid>
+      <pubDate>Sun, 27 Sep 2026 13:38:40 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks</title>
+      <link>https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/</guid>
+      <pubDate>Sun, 27 Sep 2026 09:23:09 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>Week in review: Gyazo breach exposes 23.6M user data, TASK#STOMP steals documents</title>
       <link>https://www.helpnetsecurity.com/2026/09/27/week-in-review-gyazo-breach-exposes-23-6m-user-data-taskstomp-steals-documents/</link>
@@ -224,14 +240,6 @@
       <description>When autonomous AI agents &quot;escape the sandbox,&quot; the real story isn&#39;t rogue machines — it&#39;s the same access-control failures we&#39;ve seen for decades. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Elementor WordPress flaw lets attackers create admin accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/</guid>
-      <pubDate>Fri, 25 Sep 2026 18:13:33 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>What We Missed: Google Gemini Joins the AI Escape Party</title>
       <link>https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party</guid>
@@ -366,14 +374,6 @@
       <pubDate>Fri, 25 Sep 2026 11:07:22 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Windows, Linux, Android File Notification Systems Leak User Activity</title>
-      <link>https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/</guid>
-      <pubDate>Fri, 25 Sep 2026 10:53:32 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows, Linux, Android File Notification Systems Leak User Activity appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>RemControl Banking Trojan Gives Attackers Remote Control of Android Devices</title>
@@ -568,6 +568,14 @@
       <description>CISA has set out a new framework to improve CVE data quality as vulnerability volumes rise (via Infosecurity Magazine)</description>
     </item>
     <item>
+      <title>Ukrainian ransomware developer jailed for nearly 13 years</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years</link>
+      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years</guid>
+      <pubDate>Thu, 24 Sep 2026 12:42:13 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>A court in Zurich has sentenced a Ukrainian man to 12 years and nine months in prison, and banned him from Switzerland for ten years, for developing ransomware that blackmailed companies around the world. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
+    </item>
+    <item>
       <title>There&#39;s a new way to break RSA that&#39;s faster than anything we&#39;ve seen before</title>
       <link>https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/</guid>
@@ -646,6 +654,14 @@
       <pubDate>Thu, 24 Sep 2026 00:31:36 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>The white paper is the latest step in trying to create a “Quality Era” for the Common Vulnerabilities and Exposures (CVE) program as the number of CVEs surges. The post CISA outlines improvement plan for CVE program appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-486/</link>
+      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-486/</guid>
+      <pubDate>Wed, 23 Sep 2026 23:15:05 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>A store in Auckland vibe-coded itself a new website. Within hours, its inventory had somehow expanded to include a pair of crusty socks, an $850 banana, and all of New Zealand&#39;s national parks. What could possibly have gone wrong? Meanwhile, a hacker collective backed a truck… (via Graham Cluley)</description>
     </item>
     <item>
       <title>FBI rushes to investigate if ShinyHunters hack of thousands of employees is real</title>
@@ -790,22 +806,6 @@
       <pubDate>Mon, 21 Sep 2026 10:00:13 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies appeared first on… (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Windows Exploitation Techniques: Dangling COM Object Registrations</title>
-      <link>https://projectzero.google/2026/09/windows-dangling-com.html</link>
-      <guid isPermaLink="false">https://projectzero.google/2026/09/windows-dangling-com.html</guid>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://googleprojectzero.blogspot.com/">Google Project Zero</source>
-      <description>This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a… (via Google Project Zero)</description>
-    </item>
-    <item>
-      <title>I Think Our Main Agents Will Have Names</title>
-      <link>https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Mon, 21 Sep 2026 05:30:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Isometric cutaway of a house at night: the owner asleep upstairs in sienna while four distinct purple people work the lamplit rooms below, one at the front door with a lantern, one sorting his mail into a ledger, one at his computer, one laying out his bike and weights for the… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>

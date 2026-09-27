@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:21:58.826Z",
+  "updated": "2026-09-27T14:10:34.480Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "date": "2026-09-27T13:38:40.000Z",
+      "excerpt": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
+      "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
+      "date": "2026-09-27T09:23:09.000Z",
+      "excerpt": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek ."
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -330,14 +346,6 @@
       "excerpt": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Elementor WordPress flaw lets attackers create admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-      "date": "2026-09-25T18:13:33.000Z",
-      "excerpt": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "What We Missed: Google Gemini Joins the AI Escape Party",
@@ -472,14 +480,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
       "date": "2026-09-25T11:07:22.000Z",
       "excerpt": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
-      "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
-      "date": "2026-09-25T10:53:32.000Z",
-      "excerpt": "Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows, Linux, Android File Notification Systems Leak User Activity appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -674,6 +674,14 @@
       "excerpt": "CISA has set out a new framework to improve CVE data quality as vulnerability volumes rise"
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Ukrainian ransomware developer jailed for nearly 13 years",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ukrainian-ransomware-developer-jailed-for-nearly-13-years",
+      "date": "2026-09-24T12:42:13.000Z",
+      "excerpt": "A court in Zurich has sentenced a Ukrainian man to 12 years and nine months in prison, and banned him from Switzerland for ten years, for developing ransomware that blackmailed companies around the world. Read more in my article on the Hot for Security blog."
+    },
+    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "There's a new way to break RSA that's faster than anything we've seen before",
@@ -752,6 +760,14 @@
       "link": "https://cyberscoop.com/cisa-cve-data-quality-white-paper-expert-reaction/",
       "date": "2026-09-24T00:31:36.000Z",
       "excerpt": "The white paper is the latest step in trying to create a “Quality Era” for the Common Vulnerabilities and Exposures (CVE) program as the number of CVEs surges. The post CISA outlines improvement plan for CVE program appeared first on CyberScoop ."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras",
+      "link": "https://grahamcluley.com/smashing-security-podcast-486/",
+      "date": "2026-09-23T23:15:05.000Z",
+      "excerpt": "A store in Auckland vibe-coded itself a new website. Within hours, its inventory had somehow expanded to include a pair of crusty socks, an $850 banana, and all of New Zealand's national parks. What could possibly have gone wrong? Meanwhile, a hacker collective backed a truck…"
     },
     {
       "source": "Ars Technica Security",
@@ -896,22 +912,6 @@
       "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
       "date": "2026-09-21T10:00:13.000Z",
       "excerpt": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies appeared first on…"
-    },
-    {
-      "source": "Google Project Zero",
-      "sourceUrl": "https://googleprojectzero.blogspot.com/",
-      "title": "Windows Exploitation Techniques: Dangling COM Object Registrations",
-      "link": "https://projectzero.google/2026/09/windows-dangling-com.html",
-      "date": "2026-09-21T07:00:00.000Z",
-      "excerpt": "This short blog post is about abusing a privilege escalation bug that Microsoft recently fixed in Windows, CVE-2026-66804, that I and 14 others reported. This issue is an incomplete fix for CVE-2026-50343, a bug dubbed “Dark Elevator” by Calif. The root cause of the bug was a…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "I Think Our Main Agents Will Have Names",
-      "link": "https://danielmiessler.com/blog/your-agents-should-have-names?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-21T05:30:00.000Z",
-      "excerpt": "Isometric cutaway of a house at night: the owner asleep upstairs in sienna while four distinct purple people work the lamplit rooms below, one at the front door with a lantern, one sorting his mail into a ledger, one at his computer, one laying out his bike and weights for the…"
     }
   ]
 }
