@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 27 Sep 2026 14:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 18:31:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Citrix confirms two NetScaler RCE zero-days exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/</guid>
+      <pubDate>Sun, 27 Sep 2026 16:02:37 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Wireshark 4.6.9 Released, (Sun, Sep 27th)</title>
+      <link>https://isc.sans.edu/diary/rss/33372</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33372</guid>
+      <pubDate>Sun, 27 Sep 2026 15:04:49 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs. (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Cloudflare fixes Containers cross-tenant flaw exposing customer data</title>
+      <link>https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/</guid>
+      <pubDate>Sun, 27 Sep 2026 14:13:31 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers&#39; containers on the same physical host. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/</link>
@@ -37,7 +61,7 @@
       <guid isPermaLink="false">https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</guid>
       <pubDate>Sun, 27 Sep 2026 07:47:57 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix.… (via The Hacker News)</description>
+      <description>Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an… (via The Hacker News)</description>
     </item>
     <item>
       <title>One Foot Pedal, Two Ways to Dictate</title>
@@ -176,14 +200,6 @@
       <description>A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&amp;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in… (via Krebs on Security)</description>
     </item>
     <item>
-      <title>Kiteworks urges 6-hour server shutdown over potential zero-day attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/</guid>
-      <pubDate>Fri, 25 Sep 2026 21:41:07 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Army soldier sentenced for spree of attacks on AT&amp;T, Snowflake and other major companies</title>
       <link>https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced/</link>
       <guid isPermaLink="false">https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced/</guid>
@@ -198,14 +214,6 @@
       <pubDate>Fri, 25 Sep 2026 21:08:14 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>I feel like someone who reads this blog will want to go to this : Families are invited to dive into the fascinating world of marine biology during an exciting, hands-on Family Squid Dissection at the Hands-On Science Center. Designed for curious learners of all ages, this unique… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/</guid>
-      <pubDate>Fri, 25 Sep 2026 20:57:55 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vulnerability. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Kiteworks urges customers to stop using platform after warning from federal intelligence agencies</title>
@@ -750,14 +758,6 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>LausivLoader analysis, or how to pass data between malware stages, (Thu, Sep 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/33348</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33348</guid>
-      <pubDate>Tue, 22 Sep 2026 13:10:20 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>At the end of August, a malspam message was caught in the quarantine of a mail gateway operated by one of my customers. The message was not especially remarkable â it asked the recipient to review some attached requirements and provide a price quotation for a fiber optic… (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>GPT-6 Astra Breaks an Old Enigma Message</title>
