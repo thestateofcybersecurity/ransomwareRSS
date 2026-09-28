@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T15:39:14.724Z",
+  "updated": "2026-09-28T22:09:26.878Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,174 @@
   ],
   "items": [
     {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Apple Emergency Patch for iOS 26/macOS26/macOS15 (CVE-2026-86950), (Mon, Sep 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33376",
+      "date": "2026-09-28T22:04:14.000Z",
+      "excerpt": "Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&#x26;#39;s…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "One Packet Can Crash OT Servers in Industrial Sectors",
+      "link": "https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine",
+      "date": "2026-09-28T21:13:04.000Z",
+      "excerpt": "A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+      "date": "2026-09-28T20:56:47.000Z",
+      "excerpt": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Times Car confirms data breach affecting 6.6 million user accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/",
+      "date": "2026-09-28T20:31:16.000Z",
+      "excerpt": "Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts",
+      "link": "https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts",
+      "date": "2026-09-28T20:23:58.000Z",
+      "excerpt": "The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Dutch police confirm arrest in ShinyHunters hacking investigation",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/",
+      "date": "2026-09-28T19:49:10.000Z",
+      "excerpt": "Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns",
+      "link": "https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant",
+      "date": "2026-09-28T19:30:00.000Z",
+      "excerpt": "A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+      "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+      "date": "2026-09-28T19:18:01.000Z",
+      "excerpt": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
+      "date": "2026-09-28T18:50:59.000Z",
+      "excerpt": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
+      "date": "2026-09-28T18:44:22.000Z",
+      "excerpt": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+      "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+      "date": "2026-09-28T18:35:42.000Z",
+      "excerpt": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities,…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "As AI world debates security, NVIDIA releases open source tools for agents",
+      "link": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
+      "date": "2026-09-28T18:22:53.000Z",
+      "excerpt": "One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside controls are needed. The post As AI world debates security, NVIDIA releases open source tools for agents appeared first…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "IAM for AI agents: A Practical Enterprise Framework",
+      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
+      "date": "2026-09-28T18:20:38.000Z",
+      "excerpt": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
+      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
+      "date": "2026-09-28T17:42:18.000Z",
+      "excerpt": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited the flaw to obtain high-level internal credentials and then,…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
+      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
+      "date": "2026-09-28T17:38:33.000Z",
+      "excerpt": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a malware-as-a-service model, in…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
+      "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
+      "date": "2026-09-28T17:30:00.000Z",
+      "excerpt": "The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. The post Modulate Raises $25 Million to Advance Deepfake Detection appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "New Mexico jury finds Meta deceived consumers about data privacy practices",
+      "link": "https://therecord.media/facebook-new-mexico-privacy",
+      "date": "2026-09-28T17:15:00.000Z",
+      "excerpt": "A New Mexico jury found Facebook violated the law nearly 44 million times by lying to consumers about its data privacy practices."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Chrome Store Hosts 'Poper Blocker' Spyware Downloaded by Millions",
+      "link": "https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions",
+      "date": "2026-09-28T16:51:25.000Z",
+      "excerpt": "A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google's stamp of approval despite researcher warnings."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "US, UK warn of exploited Citrix NetScaler zero-day bugs",
+      "link": "https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug",
+      "date": "2026-09-28T16:19:00.000Z",
+      "excerpt": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
+      "date": "2026-09-28T15:49:27.000Z",
+      "excerpt": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
+      "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
+      "date": "2026-09-28T15:33:21.000Z",
+      "excerpt": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases."
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
@@ -144,6 +312,14 @@
       "link": "https://www.infosecurity-magazine.com/news/bitget-restarts-withdrawals-387-5m/",
       "date": "2026-09-28T15:00:00.000Z",
       "excerpt": "Bitget has restarted Bitcoin withdrawals after a $387.5m breach of its hot and warm wallets"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
+      "date": "2026-09-28T15:00:00.000Z",
+      "excerpt": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post…"
     },
     {
       "source": "CyberScoop",
@@ -338,14 +514,6 @@
       "excerpt": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
-      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
-      "date": "2026-09-28T09:08:21.000Z",
-      "excerpt": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Ex-US soldier gets 70 months for role in AT&T, Snowflake data thefts",
@@ -378,36 +546,12 @@
       "excerpt": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
-      "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
-      "date": "2026-09-28T07:29:51.000Z",
-      "excerpt": "Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772. The post Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug appeared first on SecurityWeek ."
-    },
-    {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
       "title": "Weekly Update 523: Live From a Norwegian Fjord",
       "link": "https://www.troyhunt.com/weekly-update-523/",
       "date": "2026-09-28T07:24:49.000Z",
       "excerpt": "How's that view?! With NDC Oslo now done, it's a little bit of sightseeing before heading to Denmark for GOTO in Copenhagen for Scott's and my \"Cyber-broken\" talk. In the meantime, this week is mostly about the ShinyHunters trajectory targeting both"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
-      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
-      "date": "2026-09-28T07:21:49.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below -…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
-      "date": "2026-09-28T06:24:19.000Z",
-      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -426,22 +570,6 @@
       "excerpt": ""
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
-      "date": "2026-09-27T23:40:39.000Z",
-      "excerpt": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-      "date": "2026-09-27T16:02:37.000Z",
-      "excerpt": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
@@ -450,52 +578,12 @@
       "excerpt": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-      "date": "2026-09-27T14:13:31.000Z",
-      "excerpt": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-      "date": "2026-09-27T13:38:40.000Z",
-      "excerpt": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "date": "2026-09-27T07:47:57.000Z",
-      "excerpt": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an…"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Using a Foot Pedal to Do AI Dictation",
       "link": "https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-26T21:41:43.000Z",
       "excerpt": "A figure speaks a long waveform that shatters against a purple machine while a foot pedal sends a clean signal into its slot/images/typeless-foot-pedal.webp/images/typeless-foot-pedal.webp I'm Kai, Daniel's AI assistant, and I wrote this post. Daniel dictates almost…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-      "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-      "date": "2026-09-26T18:22:52.000Z",
-      "excerpt": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "date": "2026-09-26T11:46:40.000Z",
-      "excerpt": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security…"
     },
     {
       "source": "Unit 42",
@@ -538,28 +626,12 @@
       "excerpt": "Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today's threat landscape."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Kiteworks urges customers to stop using platform after warning from federal intelligence agencies",
-      "link": "https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident",
-      "date": "2026-09-25T20:19:00.000Z",
-      "excerpt": "Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems for customers.”"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
       "link": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
       "date": "2026-09-25T19:38:59.000Z",
       "excerpt": "Ads appearing all over the Internet are trying to scam people."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings",
-      "link": "https://therecord.media/labcorp-to-overhaul-security-practices-settlement",
-      "date": "2026-09-25T19:35:00.000Z",
-      "excerpt": "Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’ compliance with data security practices."
     },
     {
       "source": "Dark Reading",
@@ -592,22 +664,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
       "date": "2026-09-25T15:35:08.000Z",
       "excerpt": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Crypto CEO accuses North Korea of stealing $387 million from Bitget platform",
-      "link": "https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft",
-      "date": "2026-09-25T15:15:00.000Z",
-      "excerpt": "The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Stopping IT Worker Scams Requires Revamped HR Process",
-      "link": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
-      "date": "2026-09-25T14:46:13.000Z",
-      "excerpt": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more."
     },
     {
       "source": "Infosecurity Magazine",
@@ -650,14 +706,6 @@
       "excerpt": "The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
-      "link": "https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe",
-      "date": "2026-09-25T07:00:00.000Z",
-      "excerpt": "A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine."
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "How Jev Picks the Model and Effort for Every Prompt",
@@ -690,22 +738,6 @@
       "excerpt": "Biotechnology doesn’t have its own critical infrastructure designation, so the bipartisan group of lawmakers wants to make sure it’s protected like it. The post House and Senate members propose legislation for CISA to step up cyber defenses for biotech appeared first on…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing",
-      "link": "https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing",
-      "date": "2026-09-24T21:04:03.000Z",
-      "excerpt": "Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "SectopRAT Returns, Hiding Inside a Legitimate Application",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application",
-      "date": "2026-09-24T20:32:50.000Z",
-      "excerpt": "The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "New bill would create federal investigative body for AI-driven hacks",
@@ -736,14 +768,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
       "date": "2026-09-24T16:00:00.000Z",
       "excerpt": "This month's updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations. The post ​​​​​​​​What’s new in Microsoft Security: September 2026​​ appeared first on Microsoft Security Blog ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "3 Cyber Threats That Defined the Summer of 2026",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
-      "date": "2026-09-24T14:44:12.000Z",
-      "excerpt": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer."
     },
     {
       "source": "CyberScoop",
@@ -784,14 +808,6 @@
       "link": "https://securelist.com/macsync-new-version/121383/",
       "date": "2026-09-24T10:00:21.000Z",
       "excerpt": "We look at a new version of the MacSync macOS stealer with a backdoor module that targets crypto enthusiasts and developers."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "How tax policy can stop threat actors from breaching US water systems",
-      "link": "https://cyberscoop.com/how-federal-tax-incentives-can-protect-state-local-cybersecurity-op-ed/",
-      "date": "2026-09-24T10:00:00.000Z",
-      "excerpt": "New federal programs take years to launch and fund. State and local governments need cybersecurity software now. The One Big Beautiful Bill already enables tax incentives. Congress should clarify and deploy them. The post How tax policy can stop threat actors from breaching US…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -866,14 +882,6 @@
       "excerpt": "Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott's experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33362",
-      "date": "2026-09-23T02:40:13.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
       "title": "The Rising Threat of Deepfakes: Why Organizations Must Rethink Trust",
@@ -904,14 +912,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/22/unmasking-eviltokens-getting-to-the-root-of-device-code-phishing/",
       "date": "2026-09-22T15:00:00.000Z",
       "excerpt": "EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "GPT-6 Astra Breaks an Old Enigma Message",
-      "link": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
-      "date": "2026-09-22T11:02:45.000Z",
-      "excerpt": "This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page.…"
     }
   ]
 }

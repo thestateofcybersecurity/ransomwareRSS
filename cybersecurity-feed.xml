@@ -5,8 +5,176 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 28 Sep 2026 15:39:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:09:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Apple Emergency Patch for iOS 26/macOS26/macOS15 (CVE-2026-86950), (Mon, Sep 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/33376</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33376</guid>
+      <pubDate>Mon, 28 Sep 2026 22:04:14 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&amp;#x26;#39;s… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>One Packet Can Crash OT Servers in Industrial Sectors</title>
+      <link>https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine</link>
+      <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine</guid>
+      <pubDate>Mon, 28 Sep 2026 21:13:04 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A high-severity zero-day vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Japan&#39;s Keio confirms ransomware attack disrupted business systems</title>
+      <link>https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/</guid>
+      <pubDate>Mon, 28 Sep 2026 20:56:47 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting some of its business systems. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Times Car confirms data breach affecting 6.6 million user accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/times-car-confirms-data-breach-affecting-66-million-user-accounts/</guid>
+      <pubDate>Mon, 28 Sep 2026 20:31:16 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Japanese car-sharing service Times Car has confirmed that approximately 6.6 million user accounts were compromised in a cyberattack disclosed late last week. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts</title>
+      <link>https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts</link>
+      <guid isPermaLink="false">https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts</guid>
+      <pubDate>Mon, 28 Sep 2026 20:23:58 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Dutch police confirm arrest in ShinyHunters hacking investigation</title>
+      <link>https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/dutch-police-confirm-arrest-in-shinyhunters-hacking-investigation/</guid>
+      <pubDate>Mon, 28 Sep 2026 19:49:10 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Dutch police have confirmed that a 24-year-old Amsterdam man arrested earlier this month was detained as part of an investigation into the ShinyHunters hacking group. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns</title>
+      <link>https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant</link>
+      <guid isPermaLink="false">https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant</guid>
+      <pubDate>Mon, 28 Sep 2026 19:30:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site. (via The Record)</description>
+    </item>
+    <item>
+      <title>Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks</title>
+      <link>https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html</guid>
+      <pubDate>Mon, 28 Sep 2026 19:18:01 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Over 16,000 Supabase databases expose PII, passwords, auth tokens</title>
+      <link>https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/</guid>
+      <pubDate>Mon, 28 Sep 2026 18:50:59 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>AI Agents Are Privileged Users; Who Is Auditing Their Access?</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access</guid>
+      <pubDate>Mon, 28 Sep 2026 18:44:22 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks</title>
+      <link>https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html</guid>
+      <pubDate>Mon, 28 Sep 2026 18:35:42 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis. The malware has been seen in a small number of targeted intrusions at telecommunications organizations, universities,… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>As AI world debates security, NVIDIA releases open source tools for agents</title>
+      <link>https://cyberscoop.com/nvidia-open-agent-safety-platform/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/nvidia-open-agent-safety-platform/</guid>
+      <pubDate>Mon, 28 Sep 2026 18:22:53 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside controls are needed. The post As AI world debates security, NVIDIA releases open source tools for agents appeared first… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>IAM for AI agents: A Practical Enterprise Framework</title>
+      <link>https://thehackernews.com/2026/09/iam-for-ai-agent.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/iam-for-ai-agent.html</guid>
+      <pubDate>Mon, 28 Sep 2026 18:20:38 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M</title>
+      <link>https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html</guid>
+      <pubDate>Mon, 28 Sep 2026 17:42:18 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited the flaw to obtain high-level internal credentials and then,… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims</title>
+      <link>https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html</guid>
+      <pubDate>Mon, 28 Sep 2026 17:38:33 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>RatHat&#39;s operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a malware-as-a-service model, in… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Modulate Raises $25 Million to Advance Deepfake Detection</title>
+      <link>https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/</guid>
+      <pubDate>Mon, 28 Sep 2026 17:30:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. The post Modulate Raises $25 Million to Advance Deepfake Detection appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>New Mexico jury finds Meta deceived consumers about data privacy practices</title>
+      <link>https://therecord.media/facebook-new-mexico-privacy</link>
+      <guid isPermaLink="false">https://therecord.media/facebook-new-mexico-privacy</guid>
+      <pubDate>Mon, 28 Sep 2026 17:15:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>A New Mexico jury found Facebook violated the law nearly 44 million times by lying to consumers about its data privacy practices. (via The Record)</description>
+    </item>
+    <item>
+      <title>Chrome Store Hosts &#39;Poper Blocker&#39; Spyware Downloaded by Millions</title>
+      <link>https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</guid>
+      <pubDate>Mon, 28 Sep 2026 16:51:25 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google&#39;s stamp of approval despite researcher warnings. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>US, UK warn of exploited Citrix NetScaler zero-day bugs</title>
+      <link>https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug</link>
+      <guid isPermaLink="false">https://therecord.media/us-uk-warn-of-citrix-netscaler-zero-day-bug</guid>
+      <pubDate>Mon, 28 Sep 2026 16:19:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities. (via The Record)</description>
+    </item>
+    <item>
+      <title>JadePuffer agentic AI attacks target Azure, destroy cloud resources</title>
+      <link>https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:49:27 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack</title>
+      <link>https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack</guid>
+      <pubDate>Mon, 28 Sep 2026 15:33:21 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The &quot;agentic threat actor&quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases. (via Dark Reading)</description>
+    </item>
     <item>
       <title>Call for Presentations Open for 2026 CISO Forum Virtual Summit</title>
       <link>https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/</link>
@@ -38,6 +206,14 @@
       <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Bitget has restarted Bitcoin withdrawals after a $387.5m breach of its hot and warm wallets (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>NeedyMantis: Unpacking a post-compromise malware family used in targeted operations</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>ShinyHunters trades financial extortion for a reckless war of ego with the FBI</title>
@@ -232,14 +408,6 @@
       <description>Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources</title>
-      <link>https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html</guid>
-      <pubDate>Mon, 28 Sep 2026 09:08:21 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Ex-US soldier gets 70 months for role in AT&amp;T, Snowflake data thefts</title>
       <link>https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/</guid>
@@ -272,36 +440,12 @@
       <description>A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug</title>
-      <link>https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/</guid>
-      <pubDate>Mon, 28 Sep 2026 07:29:51 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772. The post Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Weekly Update 523: Live From a Norwegian Fjord</title>
       <link>https://www.troyhunt.com/weekly-update-523/</link>
       <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-523/</guid>
       <pubDate>Mon, 28 Sep 2026 07:24:49 GMT</pubDate>
       <source url="https://www.troyhunt.com/">Troy Hunt</source>
       <description>How&#39;s that view?! With NDC Oslo now done, it&#39;s a little bit of sightseeing before heading to Denmark for GOTO in Copenhagen for Scott&#39;s and my &quot;Cyber-broken&quot; talk. In the meantime, this week is mostly about the ShinyHunters trajectory targeting both (via Troy Hunt)</description>
-    </item>
-    <item>
-      <title>CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally</title>
-      <link>https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html</guid>
-      <pubDate>Mon, 28 Sep 2026 07:21:49 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below -… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>CISA orders feds to patch exploited Citrix flaws by Wednesday</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/</guid>
-      <pubDate>Mon, 28 Sep 2026 06:24:19 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)</title>
@@ -320,22 +464,6 @@
       <description>via Sophos News</description>
     </item>
     <item>
-      <title>OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/</guid>
-      <pubDate>Sun, 27 Sep 2026 23:40:39 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>OpenAI is testing a new always-on assistant called &quot;o&quot;, and references to the unannounced feature briefly showed up on the company&#39;s website. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Citrix confirms two NetScaler RCE zero-days exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/</guid>
-      <pubDate>Sun, 27 Sep 2026 16:02:37 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Wireshark 4.6.9 Released, (Sun, Sep 27th)</title>
       <link>https://isc.sans.edu/diary/rss/33372</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33372</guid>
@@ -344,52 +472,12 @@
       <description>Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs. (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>Cloudflare fixes Containers cross-tenant flaw exposing customer data</title>
-      <link>https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/</guid>
-      <pubDate>Sun, 27 Sep 2026 14:13:31 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers&#39; containers on the same physical host. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/</guid>
-      <pubDate>Sun, 27 Sep 2026 13:38:40 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation</title>
-      <link>https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html</guid>
-      <pubDate>Sun, 27 Sep 2026 07:47:57 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Using a Foot Pedal to Do AI Dictation</title>
       <link>https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Sat, 26 Sep 2026 21:41:43 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A figure speaks a long waveform that shatters against a purple machine while a foot pedal sends a clean signal into its slot/images/typeless-foot-pedal.webp/images/typeless-foot-pedal.webp I&#39;m Kai, Daniel&#39;s AI assistant, and I wrote this post. Daniel dictates almost… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials</title>
-      <link>https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html</guid>
-      <pubDate>Sat, 26 Sep 2026 18:22:52 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex. The new findings come from Ontinue, which described the activity as a… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells</title>
-      <link>https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html</guid>
-      <pubDate>Sat, 26 Sep 2026 11:46:40 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally. The ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS score: 9.8), a critical security… (via The Hacker News)</description>
     </item>
     <item>
       <title>3 Consulting Myths Debunked by Unit 42 Experts</title>
@@ -432,28 +520,12 @@
       <description>Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk, and enable business growth are better prepared to face today&#39;s threat landscape. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Kiteworks urges customers to stop using platform after warning from federal intelligence agencies</title>
-      <link>https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident</link>
-      <guid isPermaLink="false">https://therecord.media/kiteworks-urges-customers-to-stop-using-systems-incident</guid>
-      <pubDate>Fri, 25 Sep 2026 20:19:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Frank Balonis, CISO at Kiteworks, told Recorded Future News that the company “received credible threat intelligence from federal intelligence authorities indicating that a threat actor may attempt to target some Kiteworks systems for customers.” (via The Record)</description>
-    </item>
-    <item>
       <title>Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?</title>
       <link>https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/</guid>
       <pubDate>Fri, 25 Sep 2026 19:38:59 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Ads appearing all over the Internet are trying to scam people. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Labcorp to overhaul data security practices, pay $2.3 million fine for cybersecurity failings</title>
-      <link>https://therecord.media/labcorp-to-overhaul-security-practices-settlement</link>
-      <guid isPermaLink="false">https://therecord.media/labcorp-to-overhaul-security-practices-settlement</guid>
-      <pubDate>Fri, 25 Sep 2026 19:35:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Security changes include creating an incident response plan for vendor security failings, limiting how much data Labcorp shares with vendors and building an expansive risk management team charged with tracking vendors’ compliance with data security practices. (via The Record)</description>
     </item>
     <item>
       <title>AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment</title>
@@ -486,22 +558,6 @@
       <pubDate>Fri, 25 Sep 2026 15:35:08 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Crypto CEO accuses North Korea of stealing $387 million from Bitget platform</title>
-      <link>https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft</link>
-      <guid isPermaLink="false">https://therecord.media/crypto-ceo-accuses-north-korea-of-387-million-theft</guid>
-      <pubDate>Fri, 25 Sep 2026 15:15:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The CEO said the company has a User Protection Fund that has over $464 million and those funds will be used to cover the losses. (via The Record)</description>
-    </item>
-    <item>
-      <title>Stopping IT Worker Scams Requires Revamped HR Process</title>
-      <link>https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process</guid>
-      <pubDate>Fri, 25 Sep 2026 14:46:13 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more. (via Dark Reading)</description>
     </item>
     <item>
       <title>Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk</title>
@@ -544,14 +600,6 @@
       <description>The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Russia&#39;s Hybrid Cyber-Physical War in Europe Heats Up</title>
-      <link>https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</link>
-      <guid isPermaLink="false">https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</guid>
-      <pubDate>Fri, 25 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A storm is raging in the form of cyber sabotage, disinformation, and drone attacks on European nations, particularly those that provide material support to Ukraine. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>How Jev Picks the Model and Effort for Every Prompt</title>
       <link>https://danielmiessler.com/blog/glance-routes-model-and-effort?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/glance-routes-model-and-effort?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
@@ -584,22 +632,6 @@
       <description>Biotechnology doesn’t have its own critical infrastructure designation, so the bipartisan group of lawmakers wants to make sure it’s protected like it. The post House and Senate members propose legislation for CISA to step up cyber defenses for biotech appeared first on… (via CyberScoop)</description>
     </item>
     <item>
-      <title>&#39;Salesbleed&#39; Exploits Salesforce Agents to Enable Slack Phishing</title>
-      <link>https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</link>
-      <guid isPermaLink="false">https://www.darkreading.com/application-security/salesbleed-exploits-salesforce-agents-slack-phishing</guid>
-      <pubDate>Thu, 24 Sep 2026 21:04:03 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Agentic AI can smuggle arbitrary instructions from the Web, across multiple apps, into trusted internal communications channels. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>SectopRAT Returns, Hiding Inside a Legitimate Application</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/sectoprat-returns-hiding-inside-legitimate-application</guid>
-      <pubDate>Thu, 24 Sep 2026 20:32:50 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The latest activity from the remote access Trojan (RAT) shows why organizations should monitor the behavior of applications rather than blindly trusting them, experts say. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>New bill would create federal investigative body for AI-driven hacks</title>
       <link>https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/</link>
       <guid isPermaLink="false">https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/</guid>
@@ -630,14 +662,6 @@
       <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>This month&#39;s updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations. The post ​​​​​​​​What’s new in Microsoft Security: September 2026​​ appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>3 Cyber Threats That Defined the Summer of 2026</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026</guid>
-      <pubDate>Thu, 24 Sep 2026 14:44:12 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>This installment of the Reporters&#39; Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife&#39;s ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer. (via Dark Reading)</description>
     </item>
     <item>
       <title>Bipartisan Senate leaders introduce bill to bolster telecom cybersecurity in response to Salt Typhoon hacks</title>
@@ -678,14 +702,6 @@
       <pubDate>Thu, 24 Sep 2026 10:00:21 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>We look at a new version of the MacSync macOS stealer with a backdoor module that targets crypto enthusiasts and developers. (via Securelist)</description>
-    </item>
-    <item>
-      <title>How tax policy can stop threat actors from breaching US water systems</title>
-      <link>https://cyberscoop.com/how-federal-tax-incentives-can-protect-state-local-cybersecurity-op-ed/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/how-federal-tax-incentives-can-protect-state-local-cybersecurity-op-ed/</guid>
-      <pubDate>Thu, 24 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>New federal programs take years to launch and fund. State and local governments need cybersecurity software now. The One Big Beautiful Bill already enables tax incentives. Congress should clarify and deploy them. The post How tax policy can stop threat actors from breaching US… (via CyberScoop)</description>
     </item>
     <item>
       <title>One URL, Three Different Tricks, (Thu, Sep 24th)</title>
@@ -760,14 +776,6 @@
       <description>Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott&#39;s experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&amp; (via Troy Hunt)</description>
     </item>
     <item>
-      <title>ISC Stormcast For Wednesday, September 23rd, 2026 https://isc.sans.edu/podcastdetail/10106, (Wed, Sep 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/33362</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33362</guid>
-      <pubDate>Wed, 23 Sep 2026 02:40:13 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>The Rising Threat of Deepfakes: Why Organizations Must Rethink Trust</title>
       <link>https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust</guid>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>EvilTokens has quickly become one of the top PhaaS platforms, enabling device code phishing attacks through AI-assisted lures, automated infrastructure, and token theft. In collaboration with partners, Microsoft Digital Crimes Unit (DCU) facilitated a disruption of EvilTokens… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>GPT-6 Astra Breaks an Old Enigma Message</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html</guid>
-      <pubDate>Tue, 22 Sep 2026 11:02:45 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page.… (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
