@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T01:00:24.263Z",
+  "updated": "2026-09-28T07:06:28.026Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,6 +116,62 @@
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "date": "2026-09-28T06:24:19.000Z",
+      "excerpt": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "If you do one security check this quarter, make it agent memory",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/",
+      "date": "2026-09-28T06:00:40.000Z",
+      "excerpt": "In this interview with Help Net Security, Chris Latimer, CEO of Vectorize, talks about the security risks hiding in AI agent memory. He found coding agents storing API keys, credentials, and sensitive documents in plain text on developer machines and in cloud services. Latimer…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Authorizer: Open-source authentication and authorization for your apps",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/",
+      "date": "2026-09-28T05:30:06.000Z",
+      "excerpt": "Authorizer is an open-source server for sign-in and access control in web and mobile apps. Teams run it on their own infrastructure and keep user accounts in a database they choose. Its maintainers have built a permissions engine and an interface for AI agents into the same Go…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI tests the limits of enterprise security governance",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/",
+      "date": "2026-09-28T05:00:48.000Z",
+      "excerpt": "AI agents are forcing enterprises to rethink security governance, human accountability and oversight as deployments scale. AWS’s Reimagine 2026 argues that organizations need to build governance into their systems and keep humans accountable for outcomes. The findings come from…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Product showcase: A photo can fool your eyes, Verdict checks the evidence",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/",
+      "date": "2026-09-28T04:30:42.000Z",
+      "excerpt": "Verdict is an AI image and video detector designed for iPhone. It works offline and requires no account. Choose a photo or video, run a scan, and the app returns a 0–100 score with a verdict and supporting evidence. It requires iOS 16 or later. How it works For photos, Verdict…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Quantum random numbers can pass the tests and still leak clues to attackers",
+      "link": "https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/",
+      "date": "2026-09-28T04:00:51.000Z",
+      "excerpt": "The European Telecommunications Standards Institute’s (ETSI) technical report, ETSI TR 104 171, offers guidance on building and evaluating quantum random number generators (QRNGs). It focuses on weaknesses in the devices and their supporting systems that could make the numbers…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33374",
+      "date": "2026-09-28T02:00:02.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
       "date": "2026-09-27T23:40:39.000Z",
@@ -180,7 +236,7 @@
     {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
-      "title": "One Foot Pedal, Two Ways to Dictate",
+      "title": "Using a Foot Pedal to Do AI Dictation",
       "link": "https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-26T21:41:43.000Z",
       "excerpt": "A figure speaks a long waveform that shatters against a purple machine while a foot pedal sends a clean signal into its slot/images/typeless-foot-pedal.webp/images/typeless-foot-pedal.webp I'm Kai, Daniel's AI assistant, and I wrote this post. Daniel dictates almost…"
@@ -224,14 +280,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
       "date": "2026-09-26T15:50:38.000Z",
       "excerpt": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-      "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-      "date": "2026-09-26T14:19:46.000Z",
-      "excerpt": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -522,46 +570,6 @@
       "excerpt": "EfficientIP says it flagged AliExpress phishing domains before they were registered"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Docker introduces OCI-based Kits to package agents and their guardrails",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/docker-launches-cloud-sandboxes/",
-      "date": "2026-09-25T07:57:50.000Z",
-      "excerpt": "Docker has announced Docker Cloud Sandboxes, a new solution for secure, isolated AI agent execution that enables complex agentic workflows to continue running in the cloud long after a developer’s laptop shuts down. Launched at WeAreDevelopers North America, Docker Cloud…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fake payroll desktop apps hand attackers a route to company paychecks",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/",
-      "date": "2026-09-25T07:52:51.000Z",
-      "excerpt": "An attacker has been offering “desktop apps” for three large US payroll and HR platforms that have never released one, Allure Security have found. Anyone who runs the installer gets a copy of ScreenConnect, a legitimate remote access tool, configured to let the attacker control…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Abnormal AI brings governance, cloud security, and threat investigation into one suite",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/abnormal-ai-governance/",
-      "date": "2026-09-25T07:46:25.000Z",
-      "excerpt": "Abnormal AI has unveiled the newest additions to its AI Security suite, designed to help enterprises adopt AI securely while protecting against new threats created or accelerated by AI. The suite brings together Abnormal AI Governance, which is generally available, and AI Cloud…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "SentinelOne extends Wayfinder coverage across endpoints, identities, and cloud workloads",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/sentinelone-extends-wayfinder-threat-hunting/",
-      "date": "2026-09-25T07:36:24.000Z",
-      "excerpt": "SentinelOne has announced the expansion of Wayfinder Threat Hunting to the major public cloud services: AWS, Azure, and Google Cloud. It’s the latest offering from SentinelOne’s Wayfinder team and combines the power of SentinelOne’s AI-powered Singularity Platform telemetry with…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Dataiku Agent Management reveals unmonitored AI agents",
-      "link": "https://www.helpnetsecurity.com/2026/09/25/dataiku-agent-management/",
-      "date": "2026-09-25T07:30:11.000Z",
-      "excerpt": "Dataiku has announced the launch of Agent Management, a standalone product that finds every AI agent an enterprise is running, regardless of which platform built it, measures the business and technical performance, and flags agents that pose the greatest risk. The launch…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
@@ -848,14 +856,6 @@
       "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
       "date": "2026-09-22T19:45:47.000Z",
       "excerpt": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "The Truth about GET and HTTP Standards, (Tue, Sep 22nd)",
-      "link": "https://isc.sans.edu/diary/rss/33358",
-      "date": "2026-09-22T19:06:15.000Z",
-      "excerpt": "On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow \"GET\" requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do?"
     },
     {
       "source": "Microsoft Security Blog",

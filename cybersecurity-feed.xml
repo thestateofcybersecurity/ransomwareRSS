@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 28 Sep 2026 01:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 07:06:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>CISA orders feds to patch exploited Citrix flaws by Wednesday</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/</guid>
+      <pubDate>Mon, 28 Sep 2026 06:24:19 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>If you do one security check this quarter, make it agent memory</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/chris-latimer-vectorize-agent-memory-security/</guid>
+      <pubDate>Mon, 28 Sep 2026 06:00:40 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this interview with Help Net Security, Chris Latimer, CEO of Vectorize, talks about the security risks hiding in AI agent memory. He found coding agents storing API keys, credentials, and sensitive documents in plain text on developer machines and in cloud services. Latimer… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Authorizer: Open-source authentication and authorization for your apps</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/authorizer-open-source-authentication-server/</guid>
+      <pubDate>Mon, 28 Sep 2026 05:30:06 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Authorizer is an open-source server for sign-in and access control in web and mobile apps. Teams run it on their own infrastructure and keep user accounts in a database they choose. Its maintainers have built a permissions engine and an interface for AI agents into the same Go… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>AI tests the limits of enterprise security governance</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/ai-agent-security-governance-aws-report/</guid>
+      <pubDate>Mon, 28 Sep 2026 05:00:48 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>AI agents are forcing enterprises to rethink security governance, human accountability and oversight as deployments scale. AWS’s Reimagine 2026 argues that organizations need to build governance into their systems and keep humans accountable for outcomes. The findings come from… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Product showcase: A photo can fool your eyes, Verdict checks the evidence</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/product-showcase-verdict/</guid>
+      <pubDate>Mon, 28 Sep 2026 04:30:42 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Verdict is an AI image and video detector designed for iPhone. It works offline and requires no account. Choose a photo or video, run a scan, and the app returns a 0–100 score with a verdict and supporting evidence. It requires iOS 16 or later. How it works For photos, Verdict… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Quantum random numbers can pass the tests and still leak clues to attackers</title>
+      <link>https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/quantum-random-number-generator-qrng-guidance/</guid>
+      <pubDate>Mon, 28 Sep 2026 04:00:51 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The European Telecommunications Standards Institute’s (ETSI) technical report, ETSI TR 104 171, offers guidance on building and evaluating quantum random number generators (QRNGs). It focuses on weaknesses in the devices and their supporting systems that could make the numbers… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, September 28th, 2026 https://isc.sans.edu/podcastdetail/10112, (Mon, Sep 28th)</title>
+      <link>https://isc.sans.edu/diary/rss/33374</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33374</guid>
+      <pubDate>Mon, 28 Sep 2026 02:00:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email</title>
       <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/</link>
@@ -72,7 +128,7 @@
       <description>Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an… (via The Hacker News)</description>
     </item>
     <item>
-      <title>One Foot Pedal, Two Ways to Dictate</title>
+      <title>Using a Foot Pedal to Do AI Dictation</title>
       <link>https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Sat, 26 Sep 2026 21:41:43 GMT</pubDate>
@@ -118,14 +174,6 @@
       <pubDate>Sat, 26 Sep 2026 15:50:38 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>GitHub Actions re-enabled with Mini Shai-Hulud payload still active</title>
-      <link>https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/</guid>
-      <pubDate>Sat, 26 Sep 2026 14:19:46 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>New x47.c Windows Botnet Weaponizes xAI Grok, AI API Draining</title>
@@ -416,46 +464,6 @@
       <description>EfficientIP says it flagged AliExpress phishing domains before they were registered (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Docker introduces OCI-based Kits to package agents and their guardrails</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/docker-launches-cloud-sandboxes/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/25/docker-launches-cloud-sandboxes/</guid>
-      <pubDate>Fri, 25 Sep 2026 07:57:50 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Docker has announced Docker Cloud Sandboxes, a new solution for secure, isolated AI agent execution that enables complex agentic workflows to continue running in the cloud long after a developer’s laptop shuts down. Launched at WeAreDevelopers North America, Docker Cloud… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Fake payroll desktop apps hand attackers a route to company paychecks</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/25/fake-payroll-desktop-apps-screenconnect/</guid>
-      <pubDate>Fri, 25 Sep 2026 07:52:51 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>An attacker has been offering “desktop apps” for three large US payroll and HR platforms that have never released one, Allure Security have found. Anyone who runs the installer gets a copy of ScreenConnect, a legitimate remote access tool, configured to let the attacker control… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Abnormal AI brings governance, cloud security, and threat investigation into one suite</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/abnormal-ai-governance/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/25/abnormal-ai-governance/</guid>
-      <pubDate>Fri, 25 Sep 2026 07:46:25 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Abnormal AI has unveiled the newest additions to its AI Security suite, designed to help enterprises adopt AI securely while protecting against new threats created or accelerated by AI. The suite brings together Abnormal AI Governance, which is generally available, and AI Cloud… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>SentinelOne extends Wayfinder coverage across endpoints, identities, and cloud workloads</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/sentinelone-extends-wayfinder-threat-hunting/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/25/sentinelone-extends-wayfinder-threat-hunting/</guid>
-      <pubDate>Fri, 25 Sep 2026 07:36:24 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>SentinelOne has announced the expansion of Wayfinder Threat Hunting to the major public cloud services: AWS, Azure, and Google Cloud. It’s the latest offering from SentinelOne’s Wayfinder team and combines the power of SentinelOne’s AI-powered Singularity Platform telemetry with… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Dataiku Agent Management reveals unmonitored AI agents</title>
-      <link>https://www.helpnetsecurity.com/2026/09/25/dataiku-agent-management/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/25/dataiku-agent-management/</guid>
-      <pubDate>Fri, 25 Sep 2026 07:30:11 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Dataiku has announced the launch of Agent Management, a standalone product that finds every AI agent an enterprise is running, regardless of which platform built it, measures the business and technical performance, and flags agents that pose the greatest risk. The launch… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Russia&#39;s Hybrid Cyber-Physical War in Europe Heats Up</title>
       <link>https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</link>
       <guid isPermaLink="false">https://www.darkreading.com/physical-security/russia-hybrid-cyber-physical-war-europe</guid>
@@ -742,14 +750,6 @@
       <pubDate>Tue, 22 Sep 2026 19:45:47 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>EvilTokens provided an end-to-end platform that makes mass compromises faster and easier. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>The Truth about GET and HTTP Standards, (Tue, Sep 22nd)</title>
-      <link>https://isc.sans.edu/diary/rss/33358</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33358</guid>
-      <pubDate>Tue, 22 Sep 2026 19:06:15 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>On Friday, Xavier talked about the newly introduced HTTP Query method. This new method was introduced to allow &quot;GET&quot; requests that include a body. The main reason for this was that GET requests typically do not contain a body. But what if they do? (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Unmasking EvilTokens: Getting to the root of device code phishing</title>
