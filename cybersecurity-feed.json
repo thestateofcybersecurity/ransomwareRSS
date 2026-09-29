@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T08:43:42.056Z",
+  "updated": "2026-09-29T15:59:44.516Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,300 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+      "date": "2026-09-29T15:39:19.000Z",
+      "excerpt": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Alleged ShinyHunters leader arrested in the Netherlands",
+      "link": "https://cyberscoop.com/shinyhunters-alleged-leader-arrested-netherlands/",
+      "date": "2026-09-29T15:32:19.000Z",
+      "excerpt": "The arrest of a 24-year-old man in Amsterdam, which occurred a week before ShinyHunters hacked the FBI, marks a major turning point for law enforcement’s push to track down the group’s members. The post Alleged ShinyHunters leader arrested in the Netherlands appeared first on…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'NeedyMantis' Provides Long-Term Access to Compromised Networks",
+      "link": "https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks",
+      "date": "2026-09-29T15:12:39.000Z",
+      "excerpt": "Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations."
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Claude Sonnet 5.5 gets faster without a price hike",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/anthropic-claude-sonnet-5-5/",
-      "date": "2026-09-29T08:15:18.000Z",
-      "excerpt": "Anthropic has released Claude Sonnet 5.5, an AI model for coding and office work. The company says it responds more than 30% faster than its predecessor and uses fewer tokens to complete many tasks, reducing the cost per task without changing its listed API price. The model is…"
+      "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/",
+      "date": "2026-09-29T14:59:06.000Z",
+      "excerpt": "The hacking of internet-exposed, vulnerable Citrix NetScaler ADC and Gateway deployments has escalated. What started as stealthy targeting via zero-day exploits has now become widespread “spray and pray” exploitation, fueled by the publication of a root-cause analysis and a…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "RemoteThreat Launches With $7 Million for Offensive Operations Platform",
+      "link": "https://www.securityweek.com/remotethreat-launches-with-7-million-for-offensive-operations-platform/",
+      "date": "2026-09-29T14:38:07.000Z",
+      "excerpt": "The company emerged from stealth mode with pre-seed funding from Osage University Partners and DataTribe. The post RemoteThreat Launches With $7 Million for Offensive Operations Platform appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "RatHat's Evolving C2 Panel Points to Malware-as-a-Service Model",
+      "link": "https://www.infosecurity-magazine.com/news/rathat-c2-panel-malware-as-a/",
+      "date": "2026-09-29T14:30:00.000Z",
+      "excerpt": "RatHat's C2 panel now builds malware and ranks victims with AI across nearly 100 deployments"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix",
+      "date": "2026-09-29T14:19:43.000Z",
+      "excerpt": "The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers' networks."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+      "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+      "date": "2026-09-29T14:13:20.000Z",
+      "excerpt": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown. \"During the shutdown, this activity led to the discovery of a previously…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities",
+      "link": "https://cyberscoop.com/kiteworks-lifts-shutdown-advisory-after-credible-threat-intelligence-from-federal-authorities/",
+      "date": "2026-09-29T14:11:43.000Z",
+      "excerpt": "The company said it found and patched a previously unknown critical vulnerability in one product during the weekend shutdown, and has no indication it was exploited. The post Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities appeared…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Catch threats before they escalate with real-time Identity Telemetry",
+      "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+      "date": "2026-09-29T14:01:11.000Z",
+      "excerpt": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Amazon Bedrock AgentCore Flaws Could Expose AWS Credentials",
+      "link": "https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/",
+      "date": "2026-09-29T14:00:00.000Z",
+      "excerpt": "AWS AgentCore SDK flaws could let attackers run commands in AI sandboxes and reach AWS credentials"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "LastPass warns employees before they share sensitive data with AI tools",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/",
+      "date": "2026-09-29T13:47:44.000Z",
+      "excerpt": "LastPass has announced an expansion of its Business Max offering to include AI Monitoring & Protect and Web Monitoring & Protect, new visibility and governance capabilities that enable organizations to identify and secure the AI tools, SaaS applications, and websites its…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+      "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+      "date": "2026-09-29T13:45:10.000Z",
+      "excerpt": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Postman adds security controls for AI agents, APIs, and MCP servers",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/postman-fabric-gateway/",
+      "date": "2026-09-29T13:40:47.000Z",
+      "excerpt": "Postman has announced the general availability of Fabric Gateway, a protocol-agnostic control plane for governing how AI agents, LLMs, and MCP servers discover and interact with APIs, tools, and other agents. With Fabric Gateway, organizations can securely connect AI agents to…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Microsoft Warns NeedyMantis Malware Enables Persistent Network Access",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-needymantis-malware/",
+      "date": "2026-09-29T13:30:00.000Z",
+      "excerpt": "Microsoft Threat Intelligence warns that NeedyMantis threat actor from China has targeted organizations across a range of industries"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
+      "link": "https://isc.sans.edu/diary/rss/33382",
+      "date": "2026-09-29T13:29:33.000Z",
+      "excerpt": "Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-waf.php file will be created in the site&#x26;#39;s root…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Reco Raises $55 Million for Agentic Security",
+      "link": "https://www.securityweek.com/reco-raises-55-million-for-agentic-security/",
+      "date": "2026-09-29T13:20:53.000Z",
+      "excerpt": "The company will use the funds to expand its sales, partnerships, channels, and customer support teams. The post Reco Raises $55 Million for Agentic Security appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hackers Use ChatGPT Custom GPTs in ClickFix Attacks",
+      "link": "https://www.securityweek.com/hackers-use-chatgpt-custom-gpts-in-clickfix-attacks/",
+      "date": "2026-09-29T13:03:35.000Z",
+      "excerpt": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatGPT Custom GPTs in ClickFix Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Webinar: Closing the accountability gap in AI-assisted delivery",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/cleverbit-webinar-ai-assisted-delivery-accountability/",
+      "date": "2026-09-29T13:00:14.000Z",
+      "excerpt": "Source control records who committed code. It does not record who made the decisions behind it, and that gap is widening as AI agents take on more of the delivery process. This session explores how organisations can adapt accountability models for an AI-assisted development…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Meta gives small businesses an AI agent that knows their work",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/",
+      "date": "2026-09-29T12:45:45.000Z",
+      "excerpt": "Meta has introduced Muse for Small Business, adding skills and connectors to its personal AI agent to help business owners get work done using the tools they already use. Muse launched earlier this month in the US and Canada and can complete tasks on a user’s behalf. Business…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Vega II brings security-trained AI and lasting memory to the SOC",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/vega-ii-agentic-cyber-defense-platform/",
+      "date": "2026-09-29T12:43:03.000Z",
+      "excerpt": "Vega has introduced Vega II, its biggest platform release since emerging from stealth. The update brings frontier AI trained for security operations into the SOC, gives teams a lasting record of what they have learned, and removes the legacy SIEM and data pipeline barriers that…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims",
+      "link": "https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach",
+      "date": "2026-09-29T12:34:00.000Z",
+      "excerpt": "According to Dodo Pizza, the potentially compromised information included customers’ names, addresses, email addresses, phone numbers, dates of birth and order details."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Arizona Supreme Court says hackers stole residents’ personal data",
+      "link": "https://therecord.media/arizona-supreme-court-says-hackers-stole-data",
+      "date": "2026-09-29T12:27:00.000Z",
+      "excerpt": "A spokesperson for the court system told Recorded Future News that the incident did not involve ransomware and the hackers have not issued ransom demands for the stolen data as of Monday."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Pentagon Personnel Agency Data Breach Impacts 3 Million People",
+      "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
+      "date": "2026-09-29T12:25:12.000Z",
+      "excerpt": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
+      "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
+      "date": "2026-09-29T12:00:00.000Z",
+      "excerpt": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Deepfakes become a board priority once an executive falls for one",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/pindrop-enterprise-deepfake-attacks-report/",
+      "date": "2026-09-29T11:59:00.000Z",
+      "excerpt": "Nearly three-quarters of security leaders have encountered or suspect a deepfake attack in the past year, while just 10% say their organizations have purpose-built defenses, according to Pindrop’s 2026 Deepfake Readiness Index. Real-time communications have become a target for…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Malicious Custom GPT on chatgpt.com lures users into installing a RAT",
+      "link": "https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/",
+      "date": "2026-09-29T11:55:25.000Z",
+      "excerpt": "Malware peddlers are using sponsored Google results to push a malicious ChatGPT Custom GPT named “Plus 5.6,” created to lead users to a fake Cloudflare CAPTCHA check and, ultimately, make them download and run a remote access trojan (RAT). “The campaign has impacted dozens of…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+      "date": "2026-09-29T11:41:53.000Z",
+      "excerpt": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Four Cyber Threats Harboring Big Plans for the Future",
+      "link": "https://www.securityweek.com/four-cyber-threats-harboring-big-plans-for-the-future/",
+      "date": "2026-09-29T11:30:00.000Z",
+      "excerpt": "- AI, supply-chain exposure, quantum computing and geopolitical conflict are testing security programs. Preparing for disruption must become part of day-to-day operations. The post Four Cyber Threats Harboring Big Plans for the Future appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training",
+      "link": "https://www.securityweek.com/openai-calls-off-gpt-6-1-astra-launch-details-safety-cases-for-frontier-training/",
+      "date": "2026-09-29T11:15:59.000Z",
+      "excerpt": "The GPT-6.1 Astra model was slated to debut in ChatGPT and Codex in October, but it fell short of expectations. The post OpenAI Calls Off GPT-6.1 Astra Launch, Details Safety Cases for Frontier Training appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
+      "link": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
+      "date": "2026-09-29T11:02:19.000Z",
+      "excerpt": "Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation",
+      "link": "https://www.securityweek.com/dutch-police-arrest-convicted-hacker-in-shinyhunters-investigation/",
+      "date": "2026-09-29T11:01:55.000Z",
+      "excerpt": "Pepijn van der Stap was convicted in 2023 for hacking multiple organizations, stealing their data, and extorting them. The post Dutch Police Arrest Convicted Hacker in ShinyHunters Investigation appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
+      "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
+      "date": "2026-09-29T10:00:48.000Z",
+      "excerpt": "We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared first on Unit 42 ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Japanese Railway Operators Hit with Weekend Cyber Attacks",
+      "link": "https://www.infosecurity-magazine.com/news/japanese-railway-operators-cyber/",
+      "date": "2026-09-29T09:45:00.000Z",
+      "excerpt": "Tokyo Metro and Keio have revealed separate cyber-attacks"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Kiteworks Urges Customers to Restart Systems After Shutdown Notice",
+      "link": "https://www.infosecurity-magazine.com/news/kiteworks-customers-restart/",
+      "date": "2026-09-29T09:30:00.000Z",
+      "excerpt": "Kiteworks has lifted a temporary shutdown recommendation which was issued on the back of federal intelligence"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Kiteworks patches critical flaw, brings customer systems online",
+      "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+      "date": "2026-09-29T09:04:06.000Z",
+      "excerpt": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+      "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+      "date": "2026-09-29T08:35:10.000Z",
+      "excerpt": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group. \"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group ShinyHunters,\" the Politie…"
     },
     {
       "source": "BleepingComputer",
@@ -128,22 +416,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
       "date": "2026-09-29T07:33:12.000Z",
       "excerpt": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "GitHub’s AI agent found 24 Android app vulnerabilities",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/",
-      "date": "2026-09-29T06:39:42.000Z",
-      "excerpt": "GitHub Security Lab researcher Kevin Stubbings built custom AI-driven audit workflows, called taskflows, on top of the lab’s open source Taskflow Agent, and used them to find and report more than 20 vulnerabilities in Android apps. Two of the disclosed bugs show what’s at stake.…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’",
-      "link": "https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/",
-      "date": "2026-09-29T06:18:27.000Z",
-      "excerpt": "Apple has released iOS and macOS updates to patch the zero-day vulnerability tracked as CVE-2026-86950. The post Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek ."
     },
     {
       "source": "The Hacker News",
@@ -162,36 +434,12 @@
       "excerpt": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "A four-week plan to tackle vendor concentration risk",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/",
-      "date": "2026-09-29T05:00:20.000Z",
-      "excerpt": "In this Help Net Security video, Guilliano Molaire, founder of Skycloak, explains how to map vendor concentration risk. A company may pay 30 vendors and think its tools are spread out, but many of those vendors run on the same few providers underneath, such as one cloud, one…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
       "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
       "date": "2026-09-29T04:45:20.000Z",
       "excerpt": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. \"An agent attempting to complete a…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Hottest cybersecurity open-source tools of the month: September 2026",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/",
-      "date": "2026-09-29T04:30:00.000Z",
-      "excerpt": "Presented here is a curated selection of noteworthy open-source cybersecurity solutions that have drawn recognition for their ability to enhance security postures across diverse settings. Open-source secrets scanning tool Sift hunts credentials in Microsoft 365, Slack, and Jira…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Cybersecurity jobs available right now: September 29, 2026",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026/",
-      "date": "2026-09-29T04:00:33.000Z",
-      "excerpt": "Application Security Researcher Novee Security | Israel | Hybrid – View job details As an Application Security Researcher, you will test web applications and APIs to verify vulnerabilities found by Novee’s AI platform and document how they can be exploited. You will help…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -208,6 +456,14 @@
       "link": "https://cyberscoop.com/citrix-zero-days-delayed-disclosure/",
       "date": "2026-09-29T00:58:15.000Z",
       "excerpt": "The vendor’s products are a common, recurring target for attackers, yet the official warning for some Citrix NetScaler customers was too late. The post Citrix patches actively exploited NetScaler zero-days after a weekend of unofficial warnings appeared first on CyberScoop ."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Jev’s Paradox: The hidden cost of cheap AI decisions",
+      "link": "https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions",
+      "date": "2026-09-29T00:00:00.000Z",
+      "excerpt": "This article was first published on LinkedIn."
     },
     {
       "source": "Daniel Miessler",
@@ -282,14 +538,6 @@
       "excerpt": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks. The vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impacting the CoreGraphics…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Over 16,000 Supabase databases expose PII, passwords, auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/misconfigured-supabase-apps-expose-data-in-over-16-000-databases/",
-      "date": "2026-09-28T18:50:59.000Z",
-      "excerpt": "Researchers found more than 16,000 misconfigured Supabase databases exposing readable tables with personally identifiable information, passwords, or authentication tokens. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
@@ -312,38 +560,6 @@
       "link": "https://cyberscoop.com/nvidia-open-agent-safety-platform/",
       "date": "2026-09-28T18:22:53.000Z",
       "excerpt": "One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside controls are needed. The post As AI world debates security, NVIDIA releases open source tools for agents appeared first…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "IAM for AI agents: A Practical Enterprise Framework",
-      "link": "https://thehackernews.com/2026/09/iam-for-ai-agent.html",
-      "date": "2026-09-28T18:20:38.000Z",
-      "excerpt": "What is IAM for AI agents? AI agents authenticate, invoke tools, and act across enterprise systems with delegated authority. IAM for AI Agents is the identity-control architecture that governs those actors. This guide covers the limits of conventional provisioning, the…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M",
-      "link": "https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html",
-      "date": "2026-09-28T17:42:18.000Z",
-      "excerpt": "The attacker who stole about $388 million from the cryptocurrency exchange Bitget gained access through a vulnerability in a third-party security product the exchange used, Bitget said on Monday. The attacker exploited the flaw to obtain high-level internal credentials and then,…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims",
-      "link": "https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html",
-      "date": "2026-09-28T17:38:33.000Z",
-      "excerpt": "RatHat's operators build and publish the Android banking trojan and control infected phones from a web console, according to security company Cleafy. Cleafy has traced nearly 100 deployments of that console since April 2026. It said this fits a malware-as-a-service model, in…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Modulate Raises $25 Million to Advance Deepfake Detection",
-      "link": "https://www.securityweek.com/modulate-raises-25-million-to-advance-deepfake-detection/",
-      "date": "2026-09-28T17:30:00.000Z",
-      "excerpt": "The misuse and abuse of AI-generated voice is growing. Modulate’s intention is to allow real time detection and intervention. The post Modulate Raises $25 Million to Advance Deepfake Detection appeared first on SecurityWeek ."
     },
     {
       "source": "The Record",
@@ -370,28 +586,12 @@
       "excerpt": "Incident responders began warning of potential vulnerabilities in NetScaler Gateway products on Saturday before cybersecurity agencies in the Netherlands, U.S. and U.K. released advisories on Sunday confirming vulnerabilities. Citrix itself confirmed eight new vulnerabilities."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "JadePuffer agentic AI attacks target Azure, destroy cloud resources",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/",
-      "date": "2026-09-28T15:49:27.000Z",
-      "excerpt": "The JadePuffer ransomware operator is targeting Azure tenants with agent-driven attacks that conduct reconnaissance, steal credentials, and destroy core components. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack",
       "link": "https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack",
       "date": "2026-09-28T15:33:21.000Z",
       "excerpt": "The \"agentic threat actor\" may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Call for Presentations Open for 2026 CISO Forum Virtual Summit",
-      "link": "https://www.securityweek.com/call-for-presentations-open-for-2026-ciso-forum-virtual-summit/",
-      "date": "2026-09-28T15:15:00.000Z",
-      "excerpt": "SecurityWeek seeks original, vendor-neutral presentations that help cybersecurity leaders navigate emerging threats, strengthen resilience, and address the strategic challenges facing today’s enterprise security programs. The post Call for Presentations Open for 2026 CISO Forum…"
     },
     {
       "source": "Krebs on Security",
@@ -434,38 +634,6 @@
       "excerpt": "Cybercrime experts are stunned as ShinyHunters risks agent safety and intense federal heat in a bizarre attempt to force the retraction of an agency advisory. The post ShinyHunters trades financial extortion for a reckless war of ego with the FBI appeared first on CyberScoop ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking",
-      "link": "https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/",
-      "date": "2026-09-28T14:00:10.000Z",
-      "excerpt": "Infostealer logs exposed AI account credentials and sessions tied to more than 80,000 corporate domains, creating risks ranging from stolen conversations to LLMjacking. SOCRadar examines the growing market for stolen AI logins and how organizations can identify their exposure.…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "FBI job portals remain offline after ShinyHunters claims breach via PeopleSoft zero-day",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/fbi-job-portals-offline-shinyhunters-breach/",
-      "date": "2026-09-28T13:56:45.000Z",
-      "excerpt": "The FBI’s online portals for job applicants (at apply.fbijobs.gov) and special agent applicants (at fbijobs.gov/special-agents) are still unavailable, following what appears to be successful compromises by the ShinyHunters cyber extortion group. Last week, the United States’…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "16-year-old researcher breaks into Microsoft analytics service with access to 17 trillion rows of data",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/microsoft-titan-jwt-signature-flaw/",
-      "date": "2026-09-28T13:50:17.000Z",
-      "excerpt": "A flaw in Titan, an internal Microsoft analytics service, could have let an attacker read employee records and Bing search analytics, a 16-year-old security researcher has disclosed. The researcher, who goes by Faav, found that Titan did not verify the signature on login tokens.…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Cyberattack on Polish medical software provider exposes patient data",
-      "link": "https://therecord.media/poland-cyberattack-medical-medyc",
-      "date": "2026-09-28T13:30:00.000Z",
-      "excerpt": "Hackers stole personal data from a Polish healthcare software provider in the latest cyberattack to hit the country’s medical sector in recent months."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "NVIDIA Launches Open Platform to Secure Autonomous AI Agents",
@@ -482,92 +650,12 @@
       "excerpt": "A quarter of victims of deepfake attacks have lost over $1m. CISOs worry that boardrooms don’t understand the threat"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Former US soldier gets nearly six-year sentence for hacking, extorting telecoms",
-      "link": "https://therecord.media/hacker-telecom-army-sentenced",
-      "date": "2026-09-28T12:45:00.000Z",
-      "excerpt": "A former soldier in the U.S. Army was sentenced to more than five years in federal prison after pleading guilty to hacking into several telecommunications companies and leaking sensitive records."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon",
-      "link": "https://www.securityweek.com/prison-sentence-for-former-us-soldier-who-hacked-att-and-verizon/",
-      "date": "2026-09-28T12:36:16.000Z",
-      "excerpt": "Cameron John Wagenius was sentenced to 70 months in prison for stealing information from the wireless carriers. The post Prison Sentence for Former US Soldier Who Hacked AT&T and Verizon appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Other users can watch your browsing and time your keystrokes through OS file notifications",
-      "link": "https://www.helpnetsecurity.com/2026/09/28/cve-2025-68788-file-notification-attacks/",
-      "date": "2026-09-28T12:14:43.000Z",
-      "excerpt": "Researchers at Graz University of Technology have used the file-notification systems in Windows, Linux, and macOS to spy on activity in other accounts. On Windows, a standard unprivileged account detected 95.7 percent of another user’s visits to popular websites in Firefox, and…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "DC Health Agency Exposes 400,000 Beneficiary Records",
-      "link": "https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/",
-      "date": "2026-09-28T11:29:29.000Z",
-      "excerpt": "The Medicaid IDs and other information of Medicaid and DC Healthcare Alliance beneficiaries were exposed. The post DC Health Agency Exposes 400,000 Beneficiary Records appeared first on SecurityWeek ."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "New Attack Against RSA",
       "link": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
       "date": "2026-09-28T11:02:58.000Z",
       "excerpt": "ArsTechnica is reporting on a “new” attack against RSA, one that bypasses factoring. First, this attack isn’t new. The original research is from 2007 . What is new is the implementation. Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
-      "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
-      "date": "2026-09-28T10:56:46.000Z",
-      "excerpt": "The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273. The post Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
-      "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
-      "date": "2026-09-28T10:40:01.000Z",
-      "excerpt": "A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform. The post New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
-      "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
-      "date": "2026-09-28T10:27:01.000Z",
-      "excerpt": "The platform combines open source software and a reference system design to keep AI agents within set boundaries. The post Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "MCP Is Creating Major Governance Gaps, Researchers Warn",
-      "link": "https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/",
-      "date": "2026-09-28T09:45:00.000Z",
-      "excerpt": "Ox Security found security shortcomings in analysis of over 15,000 MCP servers"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
-      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
-      "date": "2026-09-28T09:25:29.000Z",
-      "excerpt": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Citrix Patches Critical Zero Days Under Active Exploitation",
-      "link": "https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/",
-      "date": "2026-09-28T08:30:00.000Z",
-      "excerpt": "Citrix has confirmed exploitation of two critical zero-day RCE bugs"
     },
     {
       "source": "Troy Hunt",
@@ -658,22 +746,6 @@
       "excerpt": "Ads appearing all over the Internet are trying to scam people."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
-      "date": "2026-09-25T18:39:32.000Z",
-      "excerpt": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What We Missed: Google Gemini Joins the AI Escape Party",
-      "link": "https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party",
-      "date": "2026-09-25T17:56:23.000Z",
-      "excerpt": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Supreme Court permits states to use SAVE database for citizenship checks",
@@ -690,14 +762,6 @@
       "excerpt": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Zero-Click Vulnerabilities in Salesforce Agentforce Expose Wider AI Agent Risk",
-      "link": "https://www.infosecurity-magazine.com/news/vulnerabilities-salesforce-ai/",
-      "date": "2026-09-25T13:30:00.000Z",
-      "excerpt": "The ‘SalesBleed’ set of weaknesses in Salesforce’s Agentforce agents exposed CRM data to attackers via prompt injection and DNS exfiltration"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)",
@@ -706,28 +770,12 @@
       "excerpt": "Introduction"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "CISA Unveils Election Security Plan Ahead of 2026 Midterms",
-      "link": "https://www.infosecurity-magazine.com/news/cisa-election-security-midterms/",
-      "date": "2026-09-25T12:30:00.000Z",
-      "excerpt": "The CISA plan provides guidance and resources for election officials to secure systems such as voter registration databases and voting machines"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "On Anthropic’s AI Misuse Report",
       "link": "https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html",
       "date": "2026-09-25T11:07:22.000Z",
       "excerpt": "Earlier this month, Anthropic published a long report detailing all of the Claude misuses it detected. Daniel Meissler usefully summarized the report into 117 findings. A few of the highlights: AI agents increasingly handled reconnaissance, exploitation, data theft, propaganda…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "RemControl Banking Trojan Gives Attackers Remote Control of Android Devices",
-      "link": "https://www.infosecurity-magazine.com/news/banking-trojan-remote-control/",
-      "date": "2026-09-25T09:30:00.000Z",
-      "excerpt": "The newly-discovered trojan abuses the Android Accessibility Service to gain control over victim devices and collect sensitive banking credentials"
     },
     {
       "source": "Daniel Miessler",
@@ -760,22 +808,6 @@
       "link": "https://cyberscoop.com/biotech-critical-infrastructure-cybersecurity-legislation/",
       "date": "2026-09-24T21:23:40.000Z",
       "excerpt": "Biotechnology doesn’t have its own critical infrastructure designation, so the bipartisan group of lawmakers wants to make sure it’s protected like it. The post House and Senate members propose legislation for CISA to step up cyber defenses for biotech appeared first on…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "New bill would create federal investigative body for AI-driven hacks",
-      "link": "https://cyberscoop.com/new-bill-would-create-federal-investigative-body-for-ai-driven-hacks/",
-      "date": "2026-09-24T18:07:31.000Z",
-      "excerpt": "A new Democratic bill in Congress would establish a federal Cybersecurity and AI Board of Investigations to provide independent government oversight of cyberattacks carried out by AI agents, following recent hacks by models run at companies like Anthropic, OpenAI, Meta and…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges",
-      "link": "https://cyberscoop.com/oxygen-forensics-ceo-arrested-russian-ownership-fraud/",
-      "date": "2026-09-24T17:07:31.000Z",
-      "excerpt": "The Justice Department said two leaders of the company have been arrested and face conspiracy to commit wire fraud. The post Phone-hacking company that won U.S. security agency contracts hid Russian ownership, DOJ alleges appeared first on CyberScoop ."
     },
     {
       "source": "Microsoft Security Blog",
@@ -834,14 +866,6 @@
       "excerpt": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Thursday, September 24th, 2026 https://isc.sans.edu/podcastdetail/10108, (Thu, Sep 24th)",
-      "link": "https://isc.sans.edu/diary/rss/33364",
-      "date": "2026-09-24T03:50:11.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Two Upgrades to My AI Stack: Vigil and Idea-to-Video",
@@ -888,30 +912,6 @@
       "link": "https://www.troyhunt.com/weekly-update-522/",
       "date": "2026-09-23T05:18:34.000Z",
       "excerpt": "Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott's experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "The Rising Threat of Deepfakes: Why Organizations Must Rethink Trust",
-      "link": "https://www.sophos.com/en-us/blog/the-rising-threat-of-deepfakes-why-organizations-must-rethink-trust",
-      "date": "2026-09-23T00:00:00.000Z",
-      "excerpt": "For decades, we believed that if could hear someone’s voice on a phone call or see them on a video call, they were who they said they were. What if that’s no longer true?"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Attacker vs. Defender AI Advantage",
-      "link": "https://danielmiessler.com/blog/attacker-defender-ai-advantage?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-22T21:10:00.000Z",
-      "excerpt": "A defender stands before a row of obstacles, a padlocked gate, a rubber stamp, a wall of red tape, a clock and another gate, while a hooded attacker sprints along a clear path above straight into the…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "date": "2026-09-22T19:45:47.000Z",
-      "excerpt": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier."
     }
   ]
 }
