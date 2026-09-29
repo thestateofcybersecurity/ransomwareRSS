@@ -5,8 +5,88 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 02:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:43:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Claude Sonnet 5.5 gets faster without a price hike</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/anthropic-claude-sonnet-5-5/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/anthropic-claude-sonnet-5-5/</guid>
+      <pubDate>Tue, 29 Sep 2026 08:15:18 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Anthropic has released Claude Sonnet 5.5, an AI model for coding and office work. The company says it responds more than 30% faster than its predecessor and uses fewer tokens to complete many tasks, reducing the cost per task without changing its listed API price. The model is… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Apple patches CoreGraphics zero-day flaw exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/</guid>
+      <pubDate>Tue, 29 Sep 2026 07:33:12 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Apple released security updates to fix a zero-day vulnerability exploited in &quot;extremely sophisticated&quot; targeted attacks on iOS devices. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>GitHub’s AI agent found 24 Android app vulnerabilities</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/github-ai-android-app-vulnerabilities/</guid>
+      <pubDate>Tue, 29 Sep 2026 06:39:42 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>GitHub Security Lab researcher Kevin Stubbings built custom AI-driven audit workflows, called taskflows, on top of the lab’s open source Taskflow Agent, and used them to find and report more than 20 vulnerabilities in Android apps. Two of the disclosed bugs show what’s at stake.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’</title>
+      <link>https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/apple-patches-meta-reported-zero-day-linked-to-extremely-sophisticated-attack/</guid>
+      <pubDate>Tue, 29 Sep 2026 06:18:27 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Apple has released iOS and macOS updates to patch the zero-day vulnerability tracked as CVE-2026-86950. The post Apple Patches Meta-Reported Zero-Day Linked to ‘Extremely Sophisticated Attack’ appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials</title>
+      <link>https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html</guid>
+      <pubDate>Tue, 29 Sep 2026 06:08:25 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK&#39;s maintainers said in a security advisory. Affected versions sent the client secret, the authorization… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions</title>
+      <link>https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html</guid>
+      <pubDate>Tue, 29 Sep 2026 05:12:32 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>A four-week plan to tackle vendor concentration risk</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/vendor-concentration-risk-video/</guid>
+      <pubDate>Tue, 29 Sep 2026 05:00:20 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security video, Guilliano Molaire, founder of Skycloak, explains how to map vendor concentration risk. A company may pay 30 vendors and think its tools are spread out, but many of those vendors run on the same few providers underneath, such as one cloud, one… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot</title>
+      <link>https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html</guid>
+      <pubDate>Tue, 29 Sep 2026 04:45:20 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions. &quot;An agent attempting to complete a… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Hottest cybersecurity open-source tools of the month: September 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/hottest-cybersecurity-open-source-tools-of-the-month-september-2026/</guid>
+      <pubDate>Tue, 29 Sep 2026 04:30:00 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Presented here is a curated selection of noteworthy open-source cybersecurity solutions that have drawn recognition for their ability to enhance security postures across diverse settings. Open-source secrets scanning tool Sift hunts credentials in Microsoft 365, Slack, and Jira… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Cybersecurity jobs available right now: September 29, 2026</title>
+      <link>https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/cybersecurity-jobs-available-right-now-september-29-2026/</guid>
+      <pubDate>Tue, 29 Sep 2026 04:00:33 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Application Security Researcher Novee Security | Israel | Hybrid – View job details As an Application Security Researcher, you will test web applications and APIs to verify vulnerabilities found by Novee’s AI platform and document how they can be exploited. You will help… (via Help Net Security)</description>
+    </item>
     <item>
       <title>ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)</title>
       <link>https://isc.sans.edu/diary/rss/33378</link>
@@ -248,14 +328,6 @@
       <description>Cybercrime experts are stunned as ShinyHunters risks agent safety and intense federal heat in a bizarre attempt to force the retraction of an agency advisory. The post ShinyHunters trades financial extortion for a reckless war of ego with the FBI appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats</title>
-      <link>https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html</guid>
-      <pubDate>Mon, 28 Sep 2026 14:00:53 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface. Elsewhere, weak service accounts, old… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>80,000+ Organizations Had AI Logins Stolen: From Shadow AI to LLMjacking</title>
       <link>https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/80-000-plus-organizations-had-ai-logins-stolen-from-shadow-ai-to-llmjacking/</guid>
@@ -328,38 +400,6 @@
       <description>Researchers at Graz University of Technology have used the file-notification systems in Windows, Linux, and macOS to spy on activity in other accounts. On Windows, a standard unprivileged account detected 95.7 percent of another user’s visits to popular websites in Firefox, and… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI</title>
-      <link>https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html</guid>
-      <pubDate>Mon, 28 Sep 2026 11:58:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users. According to Okta’s Global CISO Insights 2026… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent</title>
-      <link>https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html</guid>
-      <pubDate>Mon, 28 Sep 2026 11:46:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that&#39;s targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent. &quot;The implant installs the framework unchanged, then… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>NVIDIA wants AI agent safety enforced in silicon, not left to the agent</title>
-      <link>https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/nvidia-open-agent-safety-platform/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:34:58 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>NVIDIA has introduced an open software platform and a hardware-based reference design intended to keep AI agents within the limits set by the organizations that use them. The Open Agent Safety Platform includes OpenShell, software that controls what an agent can access, and… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>“Drunk” AI is terrible at keeping secrets</title>
-      <link>https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/drunk-ai-models-jailbreak-research/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:30:22 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>AI models taught to write like drunk people became easier to jailbreak and more likely to leak secrets shared in confidence. That is the finding of UNSW Sydney researchers Anudeex Shetty, Aditya Joshi and Salil Kanhere, published in their paper “In Vino Veritas and… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>DC Health Agency Exposes 400,000 Beneficiary Records</title>
       <link>https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/</link>
       <guid isPermaLink="false">https://www.securityweek.com/dc-health-agency-exposes-400000-beneficiary-records/</guid>
@@ -400,28 +440,12 @@
       <description>The platform combines open source software and a reference system design to keep AI agents within set boundaries. The post Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Citrix NetScaler RCE zero-days exploited globally for weeks (CVE-2026-88771, CVE-2026-88772)</title>
-      <link>https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/citrix-netscaler-rce-zero-days-exploited-for-weeks-cve-2026-88771-cve-2026-88772/</guid>
-      <pubDate>Mon, 28 Sep 2026 09:51:32 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Citrix has patched eight critical and high-severity vulnerabilities in NetScaler ADC and NetScaler Gateway, two of which (CVE-2026-88771, CVE-2026-88772) have been exploited in zero-day attacks to plant webshells on compromised devices. Rumors about their existence and active… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>MCP Is Creating Major Governance Gaps, Researchers Warn</title>
       <link>https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/mcp-creating-major-governance-gaps/</guid>
       <pubDate>Mon, 28 Sep 2026 09:45:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Ox Security found security shortcomings in analysis of over 15,000 MCP servers (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability</title>
-      <link>https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/</guid>
-      <pubDate>Mon, 28 Sep 2026 09:44:27 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised. The post Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist</title>
@@ -432,36 +456,12 @@
       <description>Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Ex-US soldier gets 70 months for role in AT&amp;T, Snowflake data thefts</title>
-      <link>https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/us-army-soldier-snowflake-breaches-extortion/</guid>
-      <pubDate>Mon, 28 Sep 2026 08:45:10 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A former U.S. Army soldier who was part of a group that stole data from telecom companies, including AT&amp;T, has been sentenced to 70 months in prison. Cameron John Wagenius, 22, was part of the group that hacked Snowflake customer accounts in 2024. They took data from more than… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Citrix Patches Critical Zero Days Under Active Exploitation</title>
       <link>https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/citrix-patches-critical-zero-days/</guid>
       <pubDate>Mon, 28 Sep 2026 08:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Citrix has confirmed exploitation of two critical zero-day RCE bugs (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>LinkedIn tests a way for connections to verify your work history</title>
-      <link>https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/28/linkedin-profile-verification-features/</guid>
-      <pubDate>Mon, 28 Sep 2026 08:20:01 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>LinkedIn is testing a way for members to verify the work and education history of people they know. The platform prompts verified members to confirm that they worked or studied with a connection. Once that person receives enough confirmations, LinkedIn adds a verification badge… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>US soldier gets 70 months in prison for extorting 10 tech, telecom firms</title>
-      <link>https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/</guid>
-      <pubDate>Mon, 28 Sep 2026 07:30:15 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Weekly Update 523: Live From a Norwegian Fjord</title>
