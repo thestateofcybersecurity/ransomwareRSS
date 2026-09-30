@@ -5,8 +5,104 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 00:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:52:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Genea brings AI agents to access control with role-based permissions</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/genea-mcp/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/genea-mcp/</guid>
+      <pubDate>Wed, 30 Sep 2026 06:49:24 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Genea has announced the release of Genea MCP, a Model Context Protocol (MCP) server that connects AI agents directly to the Genea Access Control platform. Onboarding a new hire, setting up a contractor for two weeks, or unlocking the loading dock now takes one sentence instead… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Security tools can now scan Claude Enterprise chats and uploads for sensitive data</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/</guid>
+      <pubDate>Wed, 30 Sep 2026 06:31:58 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>More than 100 security and compliance vendors have integrations with the Claude Compliance API, which lets a company send Claude activity into the monitoring tools it already uses. CrowdStrike, Microsoft Purview, Splunk, Palo Alto Networks, Cloudflare and Zscaler are among them.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>OWASP Noir: Open-source static analysis tool</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:30:36 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>OWASP Noir is an open-source static analysis tool that reads an application’s source code and lists the endpoints it exposes: paths, HTTP methods, parameters, headers, and cookies, each tied to the file and line it came from. Here’s where it gets useful. Shadow APIs, the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution</title>
+      <link>https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html</guid>
+      <pubDate>Wed, 30 Sep 2026 05:30:30 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>EU Cyber Resilience Act requirements for containers and Kubernetes</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/rapidfort-cra-container-compliance/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/rapidfort-cra-container-compliance/</guid>
+      <pubDate>Wed, 30 Sep 2026 05:00:53 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Starting in full force on Dec. 10, 2024, the EU Cyber Resilience Act (CRA) is a regulation (EU 2024/2847) that defines mandatory cybersecurity requirements for all products with digital elements sold in EU markets. Reporting obligations will begin on Sept. 11, 2026, with full… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>In this new SME cybersecurity service, the AI assists and the consultants decide</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/bh-haven-sme-cybersecurity-service/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/bh-haven-sme-cybersecurity-service/</guid>
+      <pubDate>Wed, 30 Sep 2026 04:30:17 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>BH Consulting, the Irish cybersecurity and data protection consultancy, has launched BH Haven, an ongoing service that gives Irish small and medium-sized enterprises (SMEs) access to its specialist consultants, supported by a proprietary AI tool for analysis, evidence review,… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Most open critical and high flaws are over 90 days old</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/research-unpatched-vulnerabilities-backlog/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/research-unpatched-vulnerabilities-backlog/</guid>
+      <pubDate>Wed, 30 Sep 2026 04:00:38 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Detectify analyzed exposure data from 1,293 of its customers in the US, the UK and the Nordics and found that most serious flaws still open on their internet-facing systems are months old. Of the critical and high-severity vulnerabilities open at the time of the snapshot, 97% in… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>WSL containers are generally available on Windows</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/microsoft-wsl-containers-available/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/microsoft-wsl-containers-available/</guid>
+      <pubDate>Wed, 30 Sep 2026 03:47:25 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Microsoft made WSL containers generally available and shipped the feature with controls that let administrators switch it off or limit where it pulls images from. WSL containers run Linux containers on Windows through the Windows Subsystem for Linux. They install with wsl… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Most organizations need six months or longer to roll out new security controls</title>
+      <link>https://www.helpnetsecurity.com/2026/09/30/relentless-defense-cisco-cybersecurity-survey/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/relentless-defense-cisco-cybersecurity-survey/</guid>
+      <pubDate>Wed, 30 Sep 2026 03:30:01 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Cisco surveyed 8,000 security professionals in 30 markets about how well their organizations defend against AI-era threats, and only 8% landed in the top group. Cisco gave the most weight in its scoring to internal friction, meaning the delays and turf problems inside a company… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)</title>
+      <link>https://isc.sans.edu/diary/rss/33384</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33384</guid>
+      <pubDate>Wed, 30 Sep 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development</title>
+      <link>https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/</guid>
+      <pubDate>Wed, 30 Sep 2026 01:48:21 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft is rolling out Linux container support to WSL</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/</guid>
+      <pubDate>Wed, 30 Sep 2026 00:40:57 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>AI State of the Union (October 2026)</title>
       <link>https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
@@ -208,14 +304,6 @@
       <description>Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft… (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>Automated AI agent used to breach cybersecurity nonprofit DIVD</title>
-      <link>https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/</guid>
-      <pubDate>Tue, 29 Sep 2026 15:39:19 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as &quot;loud and very, very messy.&quot; [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Alleged ShinyHunters leader arrested in the Netherlands</title>
       <link>https://cyberscoop.com/shinyhunters-alleged-leader-arrested-netherlands/</link>
       <guid isPermaLink="false">https://cyberscoop.com/shinyhunters-alleged-leader-arrested-netherlands/</guid>
@@ -238,14 +326,6 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/</guid>
-      <pubDate>Tue, 29 Sep 2026 14:59:06 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>The hacking of internet-exposed, vulnerable Citrix NetScaler ADC and Gateway deployments has escalated. What started as stealthy targeting via zero-day exploits has now become widespread “spray and pray” exploitation, fueled by the publication of a root-cause analysis and a… (via Help Net Security)</description>
     </item>
     <item>
       <title>RemoteThreat Launches With $7 Million for Offensive Operations Platform</title>
@@ -296,28 +376,12 @@
       <description>AWS AgentCore SDK flaws could let attackers run commands in AI sandboxes and reach AWS credentials (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>LastPass warns employees before they share sensitive data with AI tools</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/</guid>
-      <pubDate>Tue, 29 Sep 2026 13:47:44 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>LastPass has announced an expansion of its Business Max offering to include AI Monitoring &amp; Protect and Web Monitoring &amp; Protect, new visibility and governance capabilities that enable organizations to identify and secure the AI tools, SaaS applications, and websites its… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>101 Malicious npm Packages Add Developers&#39; WhatsApp Accounts to Groups Without Consent</title>
       <link>https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html</guid>
       <pubDate>Tue, 29 Sep 2026 13:45:10 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. &quot;The malicious packages abuse the &#39;Baileys&#39; WhatsApp open source project to add the victims to groups without… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Postman adds security controls for AI agents, APIs, and MCP servers</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/postman-fabric-gateway/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/postman-fabric-gateway/</guid>
-      <pubDate>Tue, 29 Sep 2026 13:40:47 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Postman has announced the general availability of Fabric Gateway, a protocol-agnostic control plane for governing how AI agents, LLMs, and MCP servers discover and interact with APIs, tools, and other agents. With Fabric Gateway, organizations can securely connect AI agents to… (via Help Net Security)</description>
     </item>
     <item>
       <title>Microsoft Warns NeedyMantis Malware Enables Persistent Network Access</title>
@@ -352,30 +416,6 @@
       <description>The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatGPT Custom GPTs in ClickFix Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Webinar: Closing the accountability gap in AI-assisted delivery</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/cleverbit-webinar-ai-assisted-delivery-accountability/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/cleverbit-webinar-ai-assisted-delivery-accountability/</guid>
-      <pubDate>Tue, 29 Sep 2026 13:00:14 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Source control records who committed code. It does not record who made the decisions behind it, and that gap is widening as AI agents take on more of the delivery process. This session explores how organisations can adapt accountability models for an AI-assisted development… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Meta gives small businesses an AI agent that knows their work</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/</guid>
-      <pubDate>Tue, 29 Sep 2026 12:45:45 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Meta has introduced Muse for Small Business, adding skills and connectors to its personal AI agent to help business owners get work done using the tools they already use. Muse launched earlier this month in the US and Canada and can complete tasks on a user’s behalf. Business… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Vega II brings security-trained AI and lasting memory to the SOC</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/vega-ii-agentic-cyber-defense-platform/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/vega-ii-agentic-cyber-defense-platform/</guid>
-      <pubDate>Tue, 29 Sep 2026 12:43:03 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Vega has introduced Vega II, its biggest platform release since emerging from stealth. The update brings frontier AI trained for security operations into the SOC, gives teams a lasting record of what they have learned, and removes the legacy SIEM and data pipeline barriers that… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims</title>
       <link>https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach</link>
       <guid isPermaLink="false">https://therecord.media/russian-pizza-chain-dodo-confirms-data-breach</guid>
@@ -398,30 +438,6 @@
       <pubDate>Tue, 29 Sep 2026 12:25:12 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks</title>
-      <link>https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/</guid>
-      <pubDate>Tue, 29 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Deepfakes become a board priority once an executive falls for one</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/pindrop-enterprise-deepfake-attacks-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/pindrop-enterprise-deepfake-attacks-report/</guid>
-      <pubDate>Tue, 29 Sep 2026 11:59:00 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Nearly three-quarters of security leaders have encountered or suspect a deepfake attack in the past year, while just 10% say their organizations have purpose-built defenses, according to Pindrop’s 2026 Deepfake Readiness Index. Real-time communications have become a target for… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Malicious Custom GPT on chatgpt.com lures users into installing a RAT</title>
-      <link>https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/</guid>
-      <pubDate>Tue, 29 Sep 2026 11:55:25 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Malware peddlers are using sponsored Google results to push a malicious ChatGPT Custom GPT named “Plus 5.6,” created to lead users to a fake Cloudflare CAPTCHA check and, ultimately, make them download and run a remote access trojan (RAT). “The campaign has impacted dozens of… (via Help Net Security)</description>
     </item>
     <item>
       <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>
@@ -470,14 +486,6 @@
       <pubDate>Tue, 29 Sep 2026 06:08:25 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK&#39;s maintainers said in a security advisory. Affected versions sent the client secret, the authorization… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions</title>
-      <link>https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html</guid>
-      <pubDate>Tue, 29 Sep 2026 05:12:32 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move… (via The Hacker News)</description>
     </item>
     <item>
       <title>ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)</title>
@@ -782,14 +790,6 @@
       <pubDate>Thu, 24 Sep 2026 10:00:21 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>We look at a new version of the MacSync macOS stealer with a backdoor module that targets crypto enthusiasts and developers. (via Securelist)</description>
-    </item>
-    <item>
-      <title>One URL, Three Different Tricks, (Thu, Sep 24th)</title>
-      <link>https://isc.sans.edu/diary/rss/33366</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33366</guid>
-      <pubDate>Thu, 24 Sep 2026 06:25:06 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link: (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Two Upgrades to My AI Stack: Vigil and Idea-to-Video</title>

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T00:35:15.939Z",
+  "updated": "2026-09-30T06:52:12.718Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,102 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Genea brings AI agents to access control with role-based permissions",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/genea-mcp/",
+      "date": "2026-09-30T06:49:24.000Z",
+      "excerpt": "Genea has announced the release of Genea MCP, a Model Context Protocol (MCP) server that connects AI agents directly to the Genea Access Control platform. Onboarding a new hire, setting up a contractor for two weeks, or unlocking the loading dock now takes one sentence instead…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Security tools can now scan Claude Enterprise chats and uploads for sensitive data",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/",
+      "date": "2026-09-30T06:31:58.000Z",
+      "excerpt": "More than 100 security and compliance vendors have integrations with the Claude Compliance API, which lets a company send Claude activity into the monitoring tools it already uses. CrowdStrike, Microsoft Purview, Splunk, Palo Alto Networks, Cloudflare and Zscaler are among them.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OWASP Noir: Open-source static analysis tool",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/",
+      "date": "2026-09-30T05:30:36.000Z",
+      "excerpt": "OWASP Noir is an open-source static analysis tool that reads an application’s source code and lists the endpoints it exposes: paths, HTTP methods, parameters, headers, and cookies, each tied to the file and line it came from. Here’s where it gets useful. Shadow APIs, the…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+      "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+      "date": "2026-09-30T05:30:30.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-88772 (CVSS score: 9.5), has been described as…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "EU Cyber Resilience Act requirements for containers and Kubernetes",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/rapidfort-cra-container-compliance/",
+      "date": "2026-09-30T05:00:53.000Z",
+      "excerpt": "Starting in full force on Dec. 10, 2024, the EU Cyber Resilience Act (CRA) is a regulation (EU 2024/2847) that defines mandatory cybersecurity requirements for all products with digital elements sold in EU markets. Reporting obligations will begin on Sept. 11, 2026, with full…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "In this new SME cybersecurity service, the AI assists and the consultants decide",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/bh-haven-sme-cybersecurity-service/",
+      "date": "2026-09-30T04:30:17.000Z",
+      "excerpt": "BH Consulting, the Irish cybersecurity and data protection consultancy, has launched BH Haven, an ongoing service that gives Irish small and medium-sized enterprises (SMEs) access to its specialist consultants, supported by a proprietary AI tool for analysis, evidence review,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Most open critical and high flaws are over 90 days old",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/research-unpatched-vulnerabilities-backlog/",
+      "date": "2026-09-30T04:00:38.000Z",
+      "excerpt": "Detectify analyzed exposure data from 1,293 of its customers in the US, the UK and the Nordics and found that most serious flaws still open on their internet-facing systems are months old. Of the critical and high-severity vulnerabilities open at the time of the snapshot, 97% in…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "WSL containers are generally available on Windows",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/microsoft-wsl-containers-available/",
+      "date": "2026-09-30T03:47:25.000Z",
+      "excerpt": "Microsoft made WSL containers generally available and shipped the feature with controls that let administrators switch it off or limit where it pulls images from. WSL containers run Linux containers on Windows through the Windows Subsystem for Linux. They install with wsl…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Most organizations need six months or longer to roll out new security controls",
+      "link": "https://www.helpnetsecurity.com/2026/09/30/relentless-defense-cisco-cybersecurity-survey/",
+      "date": "2026-09-30T03:30:01.000Z",
+      "excerpt": "Cisco surveyed 8,000 security professionals in 30 markets about how well their organizations defend against AI-era threats, and only 8% landed in the top group. Cisco gave the most weight in its scoring to internal friction, meaning the delays and turf problems inside a company…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)",
+      "link": "https://isc.sans.edu/diary/rss/33384",
+      "date": "2026-09-30T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development",
+      "link": "https://www.securityweek.com/trump-says-top-tech-firms-have-signed-accord-to-self-police-ai-development/",
+      "date": "2026-09-30T01:48:21.000Z",
+      "excerpt": "The accord opened the door to future regulation but focused on four voluntary steps for the companies to take. The post Trump Says Top Tech Firms Have Signed Accord to ‘Self-Police’ AI Development appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft is rolling out Linux container support to WSL",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+      "date": "2026-09-30T00:40:57.000Z",
+      "excerpt": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]"
+    },
     {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
@@ -314,14 +410,6 @@
       "excerpt": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-      "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-      "date": "2026-09-29T15:39:19.000Z",
-      "excerpt": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Alleged ShinyHunters leader arrested in the Netherlands",
@@ -344,14 +432,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
       "date": "2026-09-29T15:00:00.000Z",
       "excerpt": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "NetScaler zero-day exploitation escalates into mass attacks (CVE-2026-88771)",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/netscaler-zero-day-exploitation-escalates-into-mass-attacks-cve-2026-88771/",
-      "date": "2026-09-29T14:59:06.000Z",
-      "excerpt": "The hacking of internet-exposed, vulnerable Citrix NetScaler ADC and Gateway deployments has escalated. What started as stealthy targeting via zero-day exploits has now become widespread “spray and pray” exploitation, fueled by the publication of a root-cause analysis and a…"
     },
     {
       "source": "SecurityWeek",
@@ -402,28 +482,12 @@
       "excerpt": "AWS AgentCore SDK flaws could let attackers run commands in AI sandboxes and reach AWS credentials"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "LastPass warns employees before they share sensitive data with AI tools",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/lastpass-ai-monitoring-and-protect/",
-      "date": "2026-09-29T13:47:44.000Z",
-      "excerpt": "LastPass has announced an expansion of its Business Max offering to include AI Monitoring & Protect and Web Monitoring & Protect, new visibility and governance capabilities that enable organizations to identify and secure the AI tools, SaaS applications, and websites its…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
       "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
       "date": "2026-09-29T13:45:10.000Z",
       "excerpt": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub. \"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the victims to groups without…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Postman adds security controls for AI agents, APIs, and MCP servers",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/postman-fabric-gateway/",
-      "date": "2026-09-29T13:40:47.000Z",
-      "excerpt": "Postman has announced the general availability of Fabric Gateway, a protocol-agnostic control plane for governing how AI agents, LLMs, and MCP servers discover and interact with APIs, tools, and other agents. With Fabric Gateway, organizations can securely connect AI agents to…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -458,30 +522,6 @@
       "excerpt": "The personalized versions of ChatGPT were used to impersonate legitimate products and trick users into executing PowerShell commands. The post Hackers Use ChatGPT Custom GPTs in ClickFix Attacks appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Webinar: Closing the accountability gap in AI-assisted delivery",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/cleverbit-webinar-ai-assisted-delivery-accountability/",
-      "date": "2026-09-29T13:00:14.000Z",
-      "excerpt": "Source control records who committed code. It does not record who made the decisions behind it, and that gap is widening as AI agents take on more of the delivery process. This session explores how organisations can adapt accountability models for an AI-assisted development…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Meta gives small businesses an AI agent that knows their work",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/meta-muse-for-small-business/",
-      "date": "2026-09-29T12:45:45.000Z",
-      "excerpt": "Meta has introduced Muse for Small Business, adding skills and connectors to its personal AI agent to help business owners get work done using the tools they already use. Muse launched earlier this month in the US and Canada and can complete tasks on a user’s behalf. Business…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Vega II brings security-trained AI and lasting memory to the SOC",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/vega-ii-agentic-cyber-defense-platform/",
-      "date": "2026-09-29T12:43:03.000Z",
-      "excerpt": "Vega has introduced Vega II, its biggest platform release since emerging from stealth. The update brings frontier AI trained for security operations into the SOC, gives teams a lasting record of what they have learned, and removes the legacy SIEM and data pipeline barriers that…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Russian pizza chain with 1,500 locations confirms cyberattack following hacker claims",
@@ -504,30 +544,6 @@
       "link": "https://www.securityweek.com/pentagon-personnel-agency-data-breach-impacts-3-million-people/",
       "date": "2026-09-29T12:25:12.000Z",
       "excerpt": "The data breach affects the Defense Manpower Data Center (DMDC), which maintains personnel records for the Department of Defense. The post Pentagon Personnel Agency Data Breach Impacts 3 Million People appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks",
-      "link": "https://www.securityweek.com/rig-security-emerges-from-stealth-with-12m-to-tackle-agentic-ai-identity-risks/",
-      "date": "2026-09-29T12:00:00.000Z",
-      "excerpt": "Rig provides an identity dependencies graph to distinguish between legitimate users and rogue AI agents The post Rig Security Emerges From Stealth With $12M to Tackle Agentic AI Identity Risks appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Deepfakes become a board priority once an executive falls for one",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/pindrop-enterprise-deepfake-attacks-report/",
-      "date": "2026-09-29T11:59:00.000Z",
-      "excerpt": "Nearly three-quarters of security leaders have encountered or suspect a deepfake attack in the past year, while just 10% say their organizations have purpose-built defenses, according to Pindrop’s 2026 Deepfake Readiness Index. Real-time communications have become a target for…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Malicious Custom GPT on chatgpt.com lures users into installing a RAT",
-      "link": "https://www.helpnetsecurity.com/2026/09/29/malicious-chatgpt-custom-gpt-malware-via-clickfix/",
-      "date": "2026-09-29T11:55:25.000Z",
-      "excerpt": "Malware peddlers are using sponsored Google results to push a malicious ChatGPT Custom GPT named “Plus 5.6,” created to lead users to a fake Cloudflare CAPTCHA check and, ultimately, make them download and run a remote access trojan (RAT). “The campaign has impacted dozens of…"
     },
     {
       "source": "Schneier on Security",
@@ -576,14 +592,6 @@
       "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
       "date": "2026-09-29T06:08:25.000Z",
       "excerpt": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory. Affected versions sent the client secret, the authorization…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-      "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-      "date": "2026-09-29T05:12:32.000Z",
-      "excerpt": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits. The development was first reported by The Wall Street Journal. The move…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -888,14 +896,6 @@
       "link": "https://securelist.com/macsync-new-version/121383/",
       "date": "2026-09-24T10:00:21.000Z",
       "excerpt": "We look at a new version of the MacSync macOS stealer with a backdoor module that targets crypto enthusiasts and developers."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "One URL, Three Different Tricks, (Thu, Sep 24th)",
-      "link": "https://isc.sans.edu/diary/rss/33366",
-      "date": "2026-09-24T06:25:06.000Z",
-      "excerpt": "Yesterday, we received a phishing email with an interesting link. At first sight, it looks like garbage, but every piece of it has been carefully crafted to confuse basic security controls. Here is the defanged link:"
     },
     {
       "source": "Daniel Miessler",
