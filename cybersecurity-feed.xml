@@ -5,8 +5,72 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 29 Sep 2026 20:54:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:35:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI State of the Union (October 2026)</title>
+      <link>https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/ai-state-of-the-union?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Tue, 29 Sep 2026 22:27:25 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A charcoal sketch of a giant seesaw with a tall angular purple AI machine on the raised left end and a domed purple AI machine on the lowered right end, as small sienna builders with laptops run down the beam toward the lit right machine, while faint ghosted outlines show the… (via Daniel Miessler)</description>
+    </item>
+    <item>
+      <title>Phishing Abuses RMM Tools for Persistent Access</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/</guid>
+      <pubDate>Tue, 29 Sep 2026 21:39:27 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
+    </item>
+    <item>
+      <title>Apple Zero-Day Vulnerability Weaponized in Targeted Attacks</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks</guid>
+      <pubDate>Tue, 29 Sep 2026 21:31:29 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected</title>
+      <link>https://cyberscoop.com/citrix-netscaler-zero-day-attacks-three-weeks-undetected/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/citrix-netscaler-zero-day-attacks-three-weeks-undetected/</guid>
+      <pubDate>Tue, 29 Sep 2026 21:30:22 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Mandiant researchers said dozens of organizations have been impacted by attacks attributed to advanced and suspected state-sponsored threat groups. They expect more attacks to come. The post Attackers exploited Citrix NetScaler zero-day for at least three weeks undetected… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Signal adds encypted local backup support to iOS, desktop apps</title>
+      <link>https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/</guid>
+      <pubDate>Tue, 29 Sep 2026 21:30:08 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution</title>
+      <link>https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution</guid>
+      <pubDate>Tue, 29 Sep 2026 21:08:42 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>US Air Force members given over 6 years in prison for cyber theft of more than $2 million</title>
+      <link>https://therecord.media/us-air-force-members-given-6-year-sentence-cyber</link>
+      <guid isPermaLink="false">https://therecord.media/us-air-force-members-given-6-year-sentence-cyber</guid>
+      <pubDate>Tue, 29 Sep 2026 21:01:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>According to court documents, both men pleaded guilty to wire fraud, identity theft and access device fraud charges in June. (via The Record)</description>
+    </item>
+    <item>
+      <title>Custom ChatGPTs push ClickFix attacks to deploy RAT malware</title>
+      <link>https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/</guid>
+      <pubDate>Tue, 29 Sep 2026 20:59:39 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Custom variants of OpenAI&#39;s ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Controversial spyware firm Paragon to go public by end of year</title>
       <link>https://therecord.media/controversial-spyware-firm-paragon-to-go-public</link>
@@ -224,14 +288,6 @@
       <description>The company said it found and patched a previously unknown critical vulnerability in one product during the weekend shutdown, and has no indication it was exploited. The post Kiteworks lifts shutdown advisory after ‘credible threat intelligence’ from federal authorities appeared… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Catch threats before they escalate with real-time Identity Telemetry</title>
-      <link>https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/</guid>
-      <pubDate>Tue, 29 Sep 2026 14:01:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it escalates. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Amazon Bedrock AgentCore Flaws Could Expose AWS Credentials</title>
       <link>https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/aws-agentcore-sdk-flaws-ai/</guid>
@@ -368,14 +424,6 @@
       <description>Malware peddlers are using sponsored Google results to push a malicious ChatGPT Custom GPT named “Plus 5.6,” created to lead users to a fake Cloudflare CAPTCHA check and, ultimately, make them download and run a remote access trojan (RAT). “The campaign has impacted dozens of… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Vietnamese man charged in $16 million &#39;pig butchering&#39; crypto scam</title>
-      <link>https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/</guid>
-      <pubDate>Tue, 29 Sep 2026 11:41:53 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A Vietnamese national was charged with money laundering for his role in a massive &quot;pig butchering&quot; scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>
       <link>https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</guid>
@@ -496,36 +544,12 @@
       <description>The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts. (via Dark Reading)</description>
     </item>
     <item>
-      <title>ShinyHunters exploiting workarounds for Oracle PeopleSoft bug, Mandiant warns</title>
-      <link>https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant</link>
-      <guid isPermaLink="false">https://therecord.media/shinyhunters-cyberattacks-oracle-mandiant</guid>
-      <pubDate>Mon, 28 Sep 2026 19:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>A vulnerability in a popular line of products from Oracle is being used in a new campaign by the prolific ShinyHunters hacking group, which recently claimed credit for an attack on the FBI’s jobs site. (via The Record)</description>
-    </item>
-    <item>
-      <title>AI Agents Are Privileged Users; Who Is Auditing Their Access?</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access</guid>
-      <pubDate>Mon, 28 Sep 2026 18:44:22 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>As AI world debates security, NVIDIA releases open source tools for agents</title>
       <link>https://cyberscoop.com/nvidia-open-agent-safety-platform/</link>
       <guid isPermaLink="false">https://cyberscoop.com/nvidia-open-agent-safety-platform/</guid>
       <pubDate>Mon, 28 Sep 2026 18:22:53 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>One expert told CyberScoop that the announcement reflects industry recognition that after years of training models to behave safely or ethically, more outside controls are needed. The post As AI world debates security, NVIDIA releases open source tools for agents appeared first… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Chrome Store Hosts &#39;Poper Blocker&#39; Spyware Downloaded by Millions</title>
-      <link>https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</link>
-      <guid isPermaLink="false">https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions</guid>
-      <pubDate>Mon, 28 Sep 2026 16:51:25 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google&#39;s stamp of approval despite researcher warnings. (via Dark Reading)</description>
     </item>
     <item>
       <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
@@ -646,14 +670,6 @@
       <pubDate>Fri, 25 Sep 2026 21:44:40 GMT</pubDate>
       <source url="https://krebsonsecurity.com/">Krebs on Security</source>
       <description>A U.S. Army soldier who pleaded guilty to hacking into multiple telecommunications companies and stealing mobile call and text metadata for more than 100 million AT&amp;T customers in 2024 was sentenced to 70 months in federal prison today and ordered to pay nearly $300,000 in… (via Krebs on Security)</description>
-    </item>
-    <item>
-      <title>Army soldier sentenced for spree of attacks on AT&amp;T, Snowflake and other major companies</title>
-      <link>https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/cameron-wagenius-att-snowflake-attacks-sentenced/</guid>
-      <pubDate>Fri, 25 Sep 2026 21:28:36 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Cameron Wagenius was involved in some of the most high-profile attacks of 2024 while on active duty. The post Army soldier sentenced for spree of attacks on AT&amp;T, Snowflake and other major companies appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee</title>
@@ -790,22 +806,6 @@
       <pubDate>Wed, 23 Sep 2026 23:15:05 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>A store in Auckland vibe-coded itself a new website. Within hours, its inventory had somehow expanded to include a pair of crusty socks, an $850 banana, and all of New Zealand&#39;s national parks. What could possibly have gone wrong? Meanwhile, a hacker collective backed a truck… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>FBI rushes to investigate if ShinyHunters hack of thousands of employees is real</title>
-      <link>https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/</link>
-      <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/</guid>
-      <pubDate>Wed, 23 Sep 2026 21:46:36 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>It&#39;s unclear what will happen if FBI misses ShinyHunters&#39; deadline. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Reimagining the SOC for the agentic era in Microsoft Defender</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/09/23/reimagining-the-soc-for-the-agentic-era-in-microsoft-defender/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>We are announcing ISOC in Microsoft Defender: a foundation built for agentic security that brings leading solutions for SIEM and threat protection together. The post Reimagining the SOC for the agentic era in Microsoft Defender appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
     </item>
   </channel>
 </rss>
