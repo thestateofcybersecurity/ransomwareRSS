@@ -5,15 +5,103 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 30 Sep 2026 23:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:10:30 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers</title>
+      <title>ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/33388</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33388</guid>
+      <pubDate>Thu, 01 Oct 2026 05:32:13 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Threat Actors do not always use top-notch techniques or very complex malware to perform their attacks. Sometimes, they just abuse of existing applications... (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Many expect AI in the SOC to make entry jobs harder to get</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/01/ai-soc-entry-jobs/</guid>
+      <pubDate>Thu, 01 Oct 2026 05:30:08 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>A junior analyst in a security operations center, or SOC, has usually learned the job the slow way. You work the same phishing lure dozens of times, chase the same familiar malware pattern and write up the same case note at the end of the shift. Eventually you know what normal… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft</title>
+      <link>https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html</guid>
+      <pubDate>Thu, 01 Oct 2026 05:21:10 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist. &quot;Their investigation identified malicious activity involving… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>MetaMask Security Incident Prompts Exit of Affected Ethereum Validators</title>
+      <link>https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html</guid>
+      <pubDate>Thu, 01 Oct 2026 05:10:09 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>MetaMask on Thursday said it&#39;s responding to what it described as an &quot;ongoing security incident&quot; impacting part of its infrastructure. &quot;We are actively addressing and remediating the issue internally, in coordination with external partners and security advisors,&quot; the software… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>The vulnerabilities AI finds are the ones attackers want</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/google-ai-discovered-vulnerabilities-remote-code-execution/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/01/google-ai-discovered-vulnerabilities-remote-code-execution/</guid>
+      <pubDate>Thu, 01 Oct 2026 05:00:35 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Attackers exploited a flaw found by an AI research agent within four days of its public disclosure, and they are exploiting more vulnerabilities overall, according to new research by Google Threat Intelligence Group (GTIG). The researchers examined vulnerability disclosure and… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs</title>
+      <link>https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html</guid>
+      <pubDate>Thu, 01 Oct 2026 04:35:34 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data. LevelBlue&#39;s Threat Hunt Operations &amp; Research (THOR) team, which… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Employment scam victims tripled at financial firms in 21 countries</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/employment-scam-victims-research/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/01/employment-scam-victims-research/</guid>
+      <pubDate>Thu, 01 Oct 2026 04:30:35 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Reported victims of employment scams more than tripled over the past 12 months at more than 370 banks and other financial institutions in 21 countries. The 258% rise outran every other scam type, while total reported scams across the same institutions grew 35%. Scams by the… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Google says Gemini 4 Argon can find and patch critical software flaws</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/google-gemini-4-argon/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/01/google-gemini-4-argon/</guid>
+      <pubDate>Thu, 01 Oct 2026 04:00:41 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Google announced Gemini 4 Argon, its new frontier AI model, and is rolling it out to a set of trusted cyber defenders through its Fairwind Program. Google says the model can locate critical software vulnerabilities, validate them, and patch them without human help, and it will… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Product showcase: Proton Drive end-to-end encrypted cloud storage</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/product-showcase-proton-drive/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/01/product-showcase-proton-drive/</guid>
+      <pubDate>Thu, 01 Oct 2026 03:48:10 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Proton Drive is an end-to-end encrypted cloud storage service for storing, synchronizing, backing up, and sharing files. It also includes Proton Docs and Proton Sheets, allowing users to create and collaborate on documents and spreadsheets within the same encrypted environment.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Google’s SynthID Bio can watermark AI-designed protein binders without breaking them</title>
+      <link>https://www.helpnetsecurity.com/2026/10/01/synthid-bio-watermark/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/01/synthid-bio-watermark/</guid>
+      <pubDate>Thu, 01 Oct 2026 03:31:14 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Google DeepMind has built SynthID Bio, a watermark for AI-designed proteins, and shown in wet-lab tests on protein binders that it leaves their function intact. The method hides a signature in the amino acid sequence of a designed protein and in the atomic coordinates of a… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Thursday, October 1st, 2026 https://isc.sans.edu/podcastdetail/10118, (Thu, Oct 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/33386</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33386</guid>
+      <pubDate>Thu, 01 Oct 2026 02:00:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers</title>
       <link>https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/</link>
       <guid isPermaLink="false">https://www.securityweek.com/ftc-is-investigating-openai-and-anthropic-over-possible-risks-to-consumers/</guid>
       <pubDate>Wed, 30 Sep 2026 23:43:51 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible risks to Consumers appeared first on SecurityWeek . (via SecurityWeek)</description>
+      <description>An FTC spokesperson confirmed the investigation but declined further comment. The post FTC is Investigating OpenAI and Anthropic Over Possible Risks to Consumers appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>US sanctions 10 over ATM malware scheme tied to Tren de Aragua</title>
@@ -304,14 +392,6 @@
       <description>When developers ask AI coding agents to prove that a user interface fix works, some agents have been posting the evidence where anyone can find it, according to Glow Labs. Diagram showing how AI agents leak screenshots to public repos (Source: Glow Labs) The researchers found… (via Help Net Security)</description>
     </item>
     <item>
-      <title>AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub</title>
-      <link>https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html</guid>
-      <pubDate>Wed, 30 Sep 2026 11:30:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said. Its researchers found more than 13,000 internal images from developers at over 300 organizations, including customer… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Attackers Combine ChatGPT Feature Abuse With ClickFix to Deliver Trojan Malware</title>
       <link>https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/chatgpt-feature-abuse-to-deliver/</guid>
@@ -352,22 +432,6 @@
       <description>The state-sponsored group has launched larger-scale phishing campaigns to deploy the CosmicPulse backdoor. The post Russian APT Star Blizzard Uses ‘RedFlick’ Infection Chain in Recent Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access</title>
-      <link>https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html</guid>
-      <pubDate>Wed, 30 Sep 2026 10:45:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure. By combining Microsoft 365… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>OpenInfra Europe’s JFrog Artifactory instance breached, packages potentially compromised</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/openinfra-jfrog-artifactory-instance-compromised/</guid>
-      <pubDate>Wed, 30 Sep 2026 10:39:26 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Attackers have compromised a self-hosted JFrog Artifactory instance operated by OpenInfra Europe, the regional hub of the OpenInfra Foundation warned in a security notice prominently displayed on its homepage. OpenInfra Europe’s security incident notice “Anyone who downloaded or… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Pentagon personnel database breach exposes personal data of millions</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions</link>
       <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions</guid>
@@ -392,14 +456,6 @@
       <description>Internet-exposed tech, PLCs, outside integrators and inside protections are all factors the water sector’s information sharing and analysis center is watching. The post WaterISAC reckons with range of threats after summer of cyberattacks appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Signal brings encrypted local backups to iOS and desktop, adds cross-platform restore</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/signal-encrypted-backups-ios-8-30/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/signal-encrypted-backups-ios-8-30/</guid>
-      <pubDate>Wed, 30 Sep 2026 09:31:00 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Signal users who switch from an Android phone to an iPhone, or the other way around, can take their message history with them, and backups can be restored on Android, iOS, Linux, macOS and Windows. The option is part of a set of backup updates the company finished rolling out… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Apple Patches CoreGraphics Zero Day Exploited in Attacks</title>
       <link>https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/apple-patches-coregraphics-zero/</guid>
@@ -408,52 +464,12 @@
       <description>Apple has patched CVE-2026-86950, a zero-day bug in the iOS CoreGraphics engine (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT</title>
-      <link>https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html</guid>
-      <pubDate>Wed, 30 Sep 2026 08:24:35 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe. The activity, observed by Mandiant Consulting and Google Threat Intelligence Group… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Former US Air Force members behind million-dollar BEC scheme head to prison</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/air-force-members-sentenced-bec-phishing/</guid>
-      <pubDate>Wed, 30 Sep 2026 07:42:11 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Two men who ran BEC and phishing campaigns against US businesses while serving in the Air Force have been sentenced to a combined 189 months in federal prison. According to public documents and evidence presented at sentencing, Chijioke Timothy Odimegwu, 25, and Harafat Mogaji,… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>South Africa Seeks Help After Cyberattack Targets Air Traffic Control</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control</guid>
       <pubDate>Wed, 30 Sep 2026 07:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Genea brings AI agents to access control with role-based permissions</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/genea-mcp/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/genea-mcp/</guid>
-      <pubDate>Wed, 30 Sep 2026 06:49:24 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Genea has announced the release of Genea MCP, a Model Context Protocol (MCP) server that connects AI agents directly to the Genea Access Control platform. Onboarding a new hire, setting up a contractor for two weeks, or unlocking the loading dock now takes one sentence instead… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Security tools can now scan Claude Enterprise chats and uploads for sensitive data</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/claude-compliance-api-integrations/</guid>
-      <pubDate>Wed, 30 Sep 2026 06:31:58 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>More than 100 security and compliance vendors have integrations with the Claude Compliance API, which lets a company send Claude activity into the monitoring tools it already uses. CrowdStrike, Microsoft Purview, Splunk, Palo Alto Networks, Cloudflare and Zscaler are among them.… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>OWASP Noir: Open-source static analysis tool</title>
-      <link>https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/09/30/owasp-noir-open-source-static-analysis-tool/</guid>
-      <pubDate>Wed, 30 Sep 2026 05:30:36 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>OWASP Noir is an open-source static analysis tool that reads an application’s source code and lists the endpoints it exposes: paths, HTTP methods, parameters, headers, and cookies, each tied to the file and line it came from. Here’s where it gets useful. Shadow APIs, the… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, September 30th, 2026 https://isc.sans.edu/podcastdetail/10116, (Wed, Sep 30th)</title>
@@ -768,14 +784,6 @@
       <description>Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks… (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>A Closer Look at Malware From the Macfinger ClickFix Campaign, (Fri, Sep 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/33368</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33368</guid>
-      <pubDate>Fri, 25 Sep 2026 12:45:19 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Introduction (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
       <title>On Anthropic’s AI Misuse Report</title>
       <link>https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html</guid>
@@ -790,14 +798,6 @@
       <pubDate>Fri, 25 Sep 2026 04:35:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>Charcoal cutaway of a tall sorting tube: a figure drops a slip into the funnel, eighteen gauges along the tube steer it, and it drops into the fifth of seven machines that grow larger from left to… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, September 25th, 2026 https://isc.sans.edu/podcastdetail/10110, (Fri, Sep 25th)</title>
-      <link>https://isc.sans.edu/diary/rss/33370</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33370</guid>
-      <pubDate>Fri, 25 Sep 2026 03:45:12 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Kiteworks recommends server shutdown pending possible attack</title>
