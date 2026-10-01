@@ -1,6 +1,24 @@
 {
-  "updated": "2026-10-01T19:38:08.408Z",
+  "updated": "2026-10-01T23:58:30.836Z",
   "items": [
+    {
+      "group": "krybit",
+      "victim": "EURODITEL/RESOTELECOM",
+      "sector": "Technology",
+      "country": "",
+      "domain": "euroditel",
+      "discovered": "2026-10-01T21:33:33.216Z",
+      "link": "https://www.ransomware.live/id/RVVST0RJVEVML1JFU09URUxFQ09NQGtyeWJpdA=="
+    },
+    {
+      "group": "ransomhouse",
+      "victim": "Hospital Hermilio Valdizán",
+      "sector": "Healthcare",
+      "country": "PE",
+      "domain": "www.hhv.gob.pe",
+      "discovered": "2026-10-01T21:05:18.872Z",
+      "link": "https://www.ransomware.live/id/SG9zcGl0YWwgSGVybWlsaW8gVmFsZGl6w6FuQHJhbnNvbWhvdXNl"
+    },
     {
       "group": "kairos",
       "victim": "Slate Valley Unified School District",
@@ -432,24 +450,6 @@
       "domain": "fiducial.fr",
       "discovered": "2026-09-30T13:04:52.699Z",
       "link": "https://www.ransomware.live/id/RklEVUNJQUxAbGFtYXNodHU="
-    },
-    {
-      "group": "lamashtu",
-      "victim": "Virtual Ideas",
-      "sector": "Technology",
-      "country": "AU",
-      "domain": "virtualideas.com.au",
-      "discovered": "2026-09-30T13:04:17.038Z",
-      "link": "https://www.ransomware.live/id/VmlydHVhbCBJZGVhc0BsYW1hc2h0dQ=="
-    },
-    {
-      "group": "lamashtu",
-      "victim": "PROJAHN",
-      "sector": "Other",
-      "country": "DE",
-      "domain": "projahn.de",
-      "discovered": "2026-09-30T13:03:39.906Z",
-      "link": "https://www.ransomware.live/id/UFJPSkFITkBsYW1hc2h0dQ=="
     }
   ]
 }
