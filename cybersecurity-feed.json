@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T23:58:32.741Z",
+  "updated": "2026-10-02T05:53:52.957Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Android 17 makes it harder for spyware to cover its tracks",
+      "link": "https://www.helpnetsecurity.com/2026/10/02/android-17-advanced-protection-features/",
+      "date": "2026-10-02T05:30:37.000Z",
+      "excerpt": "When a journalist suspects their phone has been hacked, the first question is whether any trace of the attack is left. Google has added six features to Advanced Protection in Android 17, including one that keeps a copy of that evidence off the device. Existing users will receive…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Botnets, adversarial attacks and data poisoning top leaders’ AI threat list",
+      "link": "https://www.helpnetsecurity.com/2026/10/02/pwc-attacks-on-ai-systems/",
+      "date": "2026-10-02T05:00:28.000Z",
+      "excerpt": "Companies are putting more money into AI while naming attacks on AI systems as the threat they are least ready to face. PwC surveyed 3,934 business and technology leaders in 71 countries between May and July 2026. Half of the security and technology executives among them ranked…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI agents keep access to company data after their work is done",
+      "link": "https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/",
+      "date": "2026-10-02T04:30:21.000Z",
+      "excerpt": "IT teams responsible for identity security are concerned about AI agents’ ongoing access to company systems and the actions they take on users’ behalf, according to a Delinea’s 2026 Identity Security Report: The AI Enforcement Gap. “Written policy is only as good as your ability…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "New infosec products of the week: October 2, 2026",
+      "link": "https://www.helpnetsecurity.com/2026/10/02/new-infosec-products-of-the-week-october-2-2026/",
+      "date": "2026-10-02T04:00:35.000Z",
+      "excerpt": "Here’s a look at the most interesting products from the past week, featuring releases from BlackFog, Genea, Vega, and Thales. Vega II brings security-trained AI and lasting memory to the SOC Vega has introduced Vega II, its biggest platform release since emerging from stealth.…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)",
+      "link": "https://isc.sans.edu/diary/rss/33390",
+      "date": "2026-10-02T02:00:02.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Our AI Agents Should Pay the People Who Help Them",
+      "link": "https://danielmiessler.com/blog/agents-should-pay-creators?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-01T22:45:00.000Z",
+      "excerpt": "A charcoal sketch of a giant purple robotic hand pouring streams of small sienna coins down to four human creators standing on a rock ledge beside the things they made: a sketch on an easel, a stack of handwritten pages, an open book, and a…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -370,36 +418,12 @@
       "excerpt": "CloudSyncD uses a fake Zoom installer to phish Mac passwords and launch a two-stage backdoor"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Sophos uses agentic AI to show businesses which security fixes deserve funding",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/sophos-ciso-advantage/",
-      "date": "2026-10-01T13:25:12.000Z",
-      "excerpt": "Sophos has launched Sophos CISO Advantage, an agentic AI-enabled solution that connects security operations to security strategy. The solution gives organizations a picture of their cyber risk, a prioritized plan to reduce it, and measurable proof of progress, in plain language…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "AI Has Changed Attack Speed, Not Security Fundamentals",
       "link": "https://www.securityweek.com/ai-has-changed-attack-speed-not-security-fundamentals/",
       "date": "2026-10-01T13:15:00.000Z",
       "excerpt": "As AI accelerates vulnerability discovery and exploitation, so-called virtual patching still comes down to defense-in-depth and strong application security fundamentals. The post AI Has Changed Attack Speed, Not Security Fundamentals appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AI agent used Zammad zero-days to breach Dutch vulnerability disclosure non-profit",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/divd-agentic-ai-attack-breach/",
-      "date": "2026-10-01T13:13:14.000Z",
-      "excerpt": "An agentic AI-powered attack that hit the Dutch Institute for Vulnerability Disclosure (DIVD) on September 21 exploited two zero-day vulnerabilities in Zammad, an open-source helpdesk and customer support ticketing system. “Used together, [the two flaws] allowed the attackers to…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Legit Security extends automated fixes to vulnerable open-source dependencies",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/legit-security-agentic-remediation-expansion/",
-      "date": "2026-10-01T13:04:31.000Z",
-      "excerpt": "Legit Security has announced an expansion of its Agentic Remediation capability to cover vulnerabilities found in open-source dependencies, not just first-party code, enabling development teams to move from vulnerability detection to a verified fix without manual triage. The…"
     },
     {
       "source": "Dark Reading",
@@ -424,14 +448,6 @@
       "link": "https://therecord.media/poland-cyberattack-invoice-software",
       "date": "2026-10-01T12:30:00.000Z",
       "excerpt": "One of Poland’s major online invoicing platforms suffered a data breach that may have exposed information belonging to its users, their customers and business partners."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Pentagon breach exposes personal data of more than 3 million people",
-      "link": "https://www.helpnetsecurity.com/2026/10/01/pentagon-dmdc-data-breach-3-million-people/",
-      "date": "2026-10-01T12:21:03.000Z",
-      "excerpt": "The Pentagon’s Defense Manpower Data Center (DMDC) is notifying millions of people that hackers gained access to their personal data. The breach affects 2.76 million living individuals, a group that can include current and former defense personnel and their dependents, along…"
     },
     {
       "source": "The Hacker News",
@@ -890,28 +906,12 @@
       "excerpt": ""
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Wireshark 4.6.9 Released, (Sun, Sep 27th)",
-      "link": "https://isc.sans.edu/diary/rss/33372",
-      "date": "2026-09-27T15:04:49.000Z",
-      "excerpt": "Wireshark release 4.6.9 fixes 19 vulnerabilities and 16 bugs."
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Using a Foot Pedal to Do AI Dictation",
       "link": "https://danielmiessler.com/blog/typeless-foot-pedal?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-09-26T21:41:43.000Z",
       "excerpt": "A figure speaks a long waveform that shatters against a purple machine while a foot pedal sends a clean signal into its slot/images/typeless-foot-pedal.webp/images/typeless-foot-pedal.webp I'm Kai, Daniel's AI assistant, and I wrote this post. Daniel dictates almost…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "3 Consulting Myths Debunked by Unit 42 Experts",
-      "link": "https://unit42.paloaltonetworks.com/3-consulting-myths-debunked-by-unit-42-experts/",
-      "date": "2026-09-25T23:00:28.000Z",
-      "excerpt": "Unit 42 security experts address critical cybersecurity misconceptions, offering practical insights to help your organization reinforce its enterprise defenses. The post 3 Consulting Myths Debunked by Unit 42 Experts appeared first on Unit 42 ."
     }
   ]
 }
