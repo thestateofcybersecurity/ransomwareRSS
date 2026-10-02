@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:32:31.377Z",
+  "updated": "2026-10-02T23:05:15.326Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,62 @@
     }
   ],
   "items": [
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "date": "2026-10-02T23:03:16.000Z",
+      "excerpt": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
+      "date": "2026-10-02T21:02:18.000Z",
+      "excerpt": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
+      "link": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
+      "date": "2026-10-02T20:30:00.000Z",
+      "excerpt": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remotethreat-bets-security-teams-need-to-test-what-happens-after-defenses-fail",
+      "date": "2026-10-02T20:18:37.000Z",
+      "excerpt": "The offensive cyber operations startup looks to evolve red teaming beyond traditional methods to simulate attackers' increasingly advanced capabilities."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Bipartisan backlash to ALPRs grows as two high-profile bills are introduced",
+      "link": "https://therecord.media/alpr-legislation-hawley-sanders-merkley-aoc",
+      "date": "2026-10-02T19:30:00.000Z",
+      "excerpt": "Republican Sen. Josh Hawley has new legislation on limiting automated license plate readers (ALPRs), while Democratic Sens. Bernie Sanders and Jeff Merkley, with Rep. Alexandria Ocasio-Cortez, have teed up a broader bill."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Frontline Education breach exposes school district employee data",
+      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
+      "date": "2026-10-02T19:01:40.000Z",
+      "excerpt": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
+      "date": "2026-10-02T18:33:01.000Z",
+      "excerpt": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]"
+    },
     {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
@@ -482,14 +538,6 @@
       "excerpt": "Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-      "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-      "date": "2026-10-01T20:52:50.000Z",
-      "excerpt": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
@@ -514,36 +562,12 @@
       "excerpt": "The teenager-run cybercrime group victimized roughly 500 organizations in less than two years. The post Authorities seize KillSec extortion group infrastructure, arrest 3 alleged members appeared first on CyberScoop ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft says threat actors are ahead in the early AI race",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-      "date": "2026-10-01T19:32:47.000Z",
-      "excerpt": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to keep pace. [...]"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "OpenAI software attempted to secretly scrape data from dozens of prominent websites",
-      "link": "https://therecord.media/openai-software-attempted-to-secretly-scrape-data-from-dozens-of-websites",
-      "date": "2026-10-01T19:25:00.000Z",
-      "excerpt": "The findings, released Thursday by Asymmetric Security, are just the latest example of rogue behavior spurred by OpenAI’s software."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "National cyber director: Government-industry collaboration vital to managing AI risks, competition with nations",
       "link": "https://cyberscoop.com/sean-cairncross-ai-security-china-industry-collaboration/",
       "date": "2026-10-01T19:21:37.000Z",
       "excerpt": "Sean Cairncross talked about regulations, China, pilot projects and more Thursday. The post National cyber director: Government-industry collaboration vital to managing AI risks, competition with nations appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Researchers find Chinese hacking campaigns targeting AI firms, Asian governments",
-      "link": "https://therecord.media/china-linked-phishing-scheme-backdoor-taiwan",
-      "date": "2026-10-01T18:16:00.000Z",
-      "excerpt": "Two separate reports by cybersecurity companies highlight China-linked hacking operations, including a phishing campaign that impersonated Western experts."
     },
     {
       "source": "SecurityWeek",
@@ -608,14 +632,6 @@
       "link": "https://www.infosecurity-magazine.com/news/cloudsyncd-macos-backdoor-fake/",
       "date": "2026-10-01T13:30:00.000Z",
       "excerpt": "CloudSyncD uses a fake Zoom installer to phish Mac passwords and launch a two-stage backdoor"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Warlock Ransomware Hits Large Spanish, Portuguese Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese",
-      "date": "2026-10-01T13:00:00.000Z",
-      "excerpt": "A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places."
     },
     {
       "source": "Schneier on Security",
@@ -896,22 +912,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/28/needymantis-unpacking-a-post-compromise-malware-family-used-in-targeted-operations/",
       "date": "2026-09-28T15:00:00.000Z",
       "excerpt": "Microsoft Threat Intelligence identified NeedyMantis, a modular post-compromise malware framework used in targeted intrusions that combines custom loaders, encrypted archives, and extensible components to maintain long-term access and support follow-on operations. The post…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "New Attack Against RSA",
-      "link": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
-      "date": "2026-09-28T11:02:58.000Z",
-      "excerpt": "ArsTechnica is reporting on a “new” attack against RSA, one that bypasses factoring. First, this attack isn’t new. The original research is from 2007 . What is new is the implementation. Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does…"
-    },
-    {
-      "source": "Troy Hunt",
-      "sourceUrl": "https://www.troyhunt.com/",
-      "title": "Weekly Update 523: Live From a Norwegian Fjord",
-      "link": "https://www.troyhunt.com/weekly-update-523/",
-      "date": "2026-09-28T07:24:49.000Z",
-      "excerpt": "How's that view?! With NDC Oslo now done, it's a little bit of sightseeing before heading to Denmark for GOTO in Copenhagen for Scott's and my \"Cyber-broken\" talk. In the meantime, this week is mostly about the ShinyHunters trajectory targeting both"
     }
   ]
 }
