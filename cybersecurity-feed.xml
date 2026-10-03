@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 03 Oct 2026 13:32:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:01:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>YARA-X 1.21.0 Release, (Sat, Oct 3rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33392</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33392</guid>
+      <pubDate>Sat, 03 Oct 2026 14:40:21 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>YARA-X&amp;#x26;#39;s 1.21.0 release brings 5 improvements and 4 bugfixes. (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics</title>
+      <link>https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html</guid>
+      <pubDate>Sat, 03 Oct 2026 14:38:46 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.K.&#39;s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing&#39;s state security service. In a &quot;Security Service Espionage Alert&quot; issued on September 30, 2026, MI5 said… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware</title>
+      <link>https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html</guid>
+      <pubDate>Sat, 03 Oct 2026 14:36:33 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries. The activity, observed by the Symantec and… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Danish university DTU breach exposes data of up to 200,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/</guid>
+      <pubDate>Sat, 03 Oct 2026 14:35:20 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures</title>
       <link>https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/</link>
@@ -360,28 +392,12 @@
       <description>The Dutch Institute for Vulnerability Disclosure reveals agentic AI-powered attack using Zammad zero-days (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Android 17 Advanced Protection Locks Accessibility Services to Verified Accessibility Tools</title>
-      <link>https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/android-17-advanced-protection-locks.html</guid>
-      <pubDate>Fri, 02 Oct 2026 08:01:30 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Google has announced a new security measure that limits access to Android&#39;s accessibility services to verified applications classified as Accessibility Tools when Advanced Protection is enabled. With malicious Android applications abusing the API serving as the main conduit for… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Criminal recruiters want people on your payroll</title>
       <link>https://www.helpnetsecurity.com/2026/10/02/intel-471-insider-threat-recruitment-report/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/02/intel-471-insider-threat-recruitment-report/</guid>
       <pubDate>Fri, 02 Oct 2026 06:00:05 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Legitimate employee access can let criminals circumvent security controls that would be difficult to overcome from outside an organization. Routine actions such as information lookups, account resets, transaction approvals and shipment changes can become services sold to… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Critical FortiMail Zero-Day Flaw Exploited in Attacks Allows Unauthenticated Arbitrary File Writes</title>
-      <link>https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/critical-fortimail-zero-day-flaw.html</guid>
-      <pubDate>Fri, 02 Oct 2026 05:49:50 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on Thursday, added a critical security flaw impacting Fortinet FortiMail to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability, tracked as… (via The Hacker News)</description>
     </item>
     <item>
       <title>Android 17 makes it harder for spyware to cover its tracks</title>
@@ -438,14 +454,6 @@
       <pubDate>Thu, 01 Oct 2026 22:45:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A charcoal sketch of a giant purple robotic hand pouring streams of small sienna coins down to four human creators standing on a rock ledge beside the things they made: a sketch on an easel, a stack of handwritten pages, an open book, and a… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Fortinet warns of critical FortiMail flaw exploited in zero-day attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/</guid>
-      <pubDate>Thu, 01 Oct 2026 22:42:49 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Alleged KillSec Ransomware Mastermind a 16-Year-Old</title>
@@ -798,14 +806,6 @@
       <pubDate>Mon, 28 Sep 2026 22:35:35 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Apple today released patches for all of its operating systems. However, only patches for older branches include a security fix. The vulnerability being addressed in iOS 26, macOS 26 and macOS 15 is already being exploited. iOS and macOS 27 are not affected. Today&amp;#x26;#39;s… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Dutch Police Arrest ‘Reformed’ Hacker in Shiny Hunters Investigation</title>
-      <link>https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/09/dutch-police-arrest-reformed-hacker-in-shiny-hunters-investigation/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:08:57 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Authorities in the Netherlands have arrested a 23-year-old convicted cybercriminal on suspicion of aiding in data thefts and extortions by the prolific hacker group ShinyHunters. In the days immediately following the suspect&#39;s arrest, remaining ShinyHunters members dramatically… (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>
