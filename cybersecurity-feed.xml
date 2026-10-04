@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Oct 2026 08:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 14:52:49 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Weekly Update 524: Live From Copenhagen</title>
+      <link>https://www.troyhunt.com/weekly-update-524/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-524/</guid>
+      <pubDate>Sun, 04 Oct 2026 11:52:23 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>I&#39;m in Denmark! Well, just, I&#39;m now at Copenhagen airport ready to begin the long trek home, with the final event at GOTO now done and going just perfectly. This week, there are two ShinyHunters arrests in the news: Pepijn in the Netherlands and then Saif (via Troy Hunt)</description>
+    </item>
+    <item>
+      <title>Anthropic asks Claude users to share voice data for AI model training</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/</guid>
+      <pubDate>Sun, 04 Oct 2026 10:53:21 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Week in review: Researcher breaks into Microsoft analytics service, NetScaler RCE 0-day exploited</title>
       <link>https://www.helpnetsecurity.com/2026/10/04/week-in-review-researcher-breaks-into-microsoft-analytics-service-netscaler-rce-0-day-exploited/</link>
@@ -294,14 +310,6 @@
       <pubDate>Fri, 02 Oct 2026 14:05:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>The group is exploiting a variety of vulnerabilities impacting Microsoft SharePoint, according to a new report from Symantec Threat Hunter Team. (via The Record)</description>
-    </item>
-    <item>
-      <title>The EDR blind spot: 3 ways browser attacks evade endpoint telemetry</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Browser-based attacks can steal sessions, abuse extensions, or manipulate users without creating the endpoint artifacts EDR is designed to detect. NordLayer explains three ways attacks can evade endpoint telemetry and why browser-level controls can help close the gap. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Vulnerability Backlogs Are an Ownership Problem</title>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>This article was first published on LinkedIn. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>College Is Not One Thing</title>
-      <link>https://danielmiessler.com/blog/college-is-not-one-thing?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/college-is-not-one-thing?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Mon, 28 Sep 2026 23:12:53 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>A charcoal sketch of a classical college building sliced into five sections: a professor, students meeting, and two friends sketching in warm sienna rooms, while the textbook shelf and the diploma at either end crumble into purple… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>
