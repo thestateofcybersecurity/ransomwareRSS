@@ -5,8 +5,48 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Oct 2026 01:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:12:45 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Three questions a hospital CISO should ask a healthcare fintech vendor</title>
+      <link>https://www.helpnetsecurity.com/2026/10/05/drew-mccombs-cylerity-healthcare-fintech-security/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/05/drew-mccombs-cylerity-healthcare-fintech-security/</guid>
+      <pubDate>Mon, 05 Oct 2026 05:30:47 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how he balances both roles. Security work is scheduled into every sprint, and issues touching patient data or funds disbursement come first. He covers how Cylerity keeps PHI away from its bank… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</title>
+      <link>https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/</guid>
+      <pubDate>Mon, 05 Oct 2026 05:14:48 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Keyorix: Open-source secrets management for teams that can’t use SaaS</title>
+      <link>https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/</guid>
+      <pubDate>Mon, 05 Oct 2026 05:00:57 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Keyorix is an open-source secrets manager that runs entirely on a company’s own servers. A secrets manager is the locked store where an application fetches the database passwords, API keys, and tokens it needs, so they stay out of config files and source code. It ships as one… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>How RMM abuse gives attackers a way in that looks like business as usual</title>
+      <link>https://www.helpnetsecurity.com/2026/10/05/remote-monitoring-and-management-rmm-abuse/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/05/remote-monitoring-and-management-rmm-abuse/</guid>
+      <pubDate>Mon, 05 Oct 2026 04:30:08 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Huntress found attackers using legitimate remote monitoring and management (RMM) software in 45% of the endpoint-related incidents it recorded in the first quarter of 2026. The security company also ranked 11 attack tactics by how often it sees them and how much damage each can… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)</title>
+      <link>https://isc.sans.edu/diary/rss/33398</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33398</guid>
+      <pubDate>Mon, 05 Oct 2026 02:00:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>TTY Logs and the Data it Captures, (Sun, Oct 4th)</title>
       <link>https://isc.sans.edu/diary/rss/33396</link>
@@ -392,14 +432,6 @@
       <description>A China-aligned espionage group has been posing as a former White House official and a prominent economist to get into the cloud accounts of AI policy experts in the US, Proofpoint have found. The group, which the researchers track as TA419, ran several credential phishing… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks</title>
-      <link>https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/</guid>
-      <pubDate>Fri, 02 Oct 2026 09:34:41 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Police Target KillSec Ransomware Group with Arrests and Seizures</title>
       <link>https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/police-target-killsec-ransomware/</guid>
@@ -430,30 +462,6 @@
       <pubDate>Fri, 02 Oct 2026 06:00:05 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Legitimate employee access can let criminals circumvent security controls that would be difficult to overcome from outside an organization. Routine actions such as information lookups, account resets, transaction approvals and shipment changes can become services sold to… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Android 17 makes it harder for spyware to cover its tracks</title>
-      <link>https://www.helpnetsecurity.com/2026/10/02/android-17-advanced-protection-features/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/02/android-17-advanced-protection-features/</guid>
-      <pubDate>Fri, 02 Oct 2026 05:30:37 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>When a journalist suspects their phone has been hacked, the first question is whether any trace of the attack is left. Google has added six features to Advanced Protection in Android 17, including one that keeps a copy of that evidence off the device. Existing users will receive… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Botnets, adversarial attacks and data poisoning top leaders’ AI threat list</title>
-      <link>https://www.helpnetsecurity.com/2026/10/02/pwc-attacks-on-ai-systems/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/02/pwc-attacks-on-ai-systems/</guid>
-      <pubDate>Fri, 02 Oct 2026 05:00:28 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Companies are putting more money into AI while naming attacks on AI systems as the threat they are least ready to face. PwC surveyed 3,934 business and technology leaders in 71 countries between May and July 2026. Half of the security and technology executives among them ranked… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>AI agents keep access to company data after their work is done</title>
-      <link>https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/</guid>
-      <pubDate>Fri, 02 Oct 2026 04:30:21 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>IT teams responsible for identity security are concerned about AI agents’ ongoing access to company systems and the actions they take on users’ behalf, according to a Delinea’s 2026 Identity Security Report: The AI Enforcement Gap. “Written policy is only as good as your ability… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Friday, October 2nd, 2026 https://isc.sans.edu/podcastdetail/10120, (Fri, Oct 2nd)</title>
@@ -774,14 +782,6 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Scans for Wordfence Protected Websites, (Tue, Sep 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/33382</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33382</guid>
-      <pubDate>Tue, 29 Sep 2026 13:29:33 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Starting yesterday, our sensors picked up a small number of scans for &quot;wordfence-waf.php&quot;. This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-waf.php file will be created in the site&amp;#x26;#39;s root… (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>

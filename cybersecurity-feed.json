@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T01:06:43.638Z",
+  "updated": "2026-10-05T07:12:45.166Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Three questions a hospital CISO should ask a healthcare fintech vendor",
+      "link": "https://www.helpnetsecurity.com/2026/10/05/drew-mccombs-cylerity-healthcare-fintech-security/",
+      "date": "2026-10-05T05:30:47.000Z",
+      "excerpt": "In this Help Net Security interview, Drew McCombs, CTO and CISO at Cylerity, explains how he balances both roles. Security work is scheduled into every sprint, and issues touching patient data or funds disbursement come first. He covers how Cylerity keeps PHI away from its bank…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier",
+      "link": "https://www.securityweek.com/exploitation-of-citrix-netscaler-zero-day-hits-appliances-patched-days-earlier/",
+      "date": "2026-10-05T05:14:48.000Z",
+      "excerpt": "Citrix has confirmed that a new zero-day vulnerability, CVE-2026-88779, emerged just days after two other exploited flaws were patched. The post Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Keyorix: Open-source secrets management for teams that can’t use SaaS",
+      "link": "https://www.helpnetsecurity.com/2026/10/05/keyorix-open-source-on-premise-secrets-management/",
+      "date": "2026-10-05T05:00:57.000Z",
+      "excerpt": "Keyorix is an open-source secrets manager that runs entirely on a company’s own servers. A secrets manager is the locked store where an application fetches the database passwords, API keys, and tokens it needs, so they stay out of config files and source code. It ships as one…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "How RMM abuse gives attackers a way in that looks like business as usual",
+      "link": "https://www.helpnetsecurity.com/2026/10/05/remote-monitoring-and-management-rmm-abuse/",
+      "date": "2026-10-05T04:30:08.000Z",
+      "excerpt": "Huntress found attackers using legitimate remote monitoring and management (RMM) software in 45% of the endpoint-related incidents it recorded in the first quarter of 2026. The security company also ranked 11 attack tactics by how often it sees them and how much damage each can…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33398",
+      "date": "2026-10-05T02:00:02.000Z",
+      "excerpt": ""
+    },
     {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
@@ -498,14 +538,6 @@
       "excerpt": "A China-aligned espionage group has been posing as a former White House official and a prominent economist to get into the cloud accounts of AI policy experts in the US, Proofpoint have found. The group, which the researchers track as TA419, ran several credential phishing…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks",
-      "link": "https://www.securityweek.com/warlock-expands-sharepoint-exploitation-in-critical-infrastructure-attacks/",
-      "date": "2026-10-02T09:34:41.000Z",
-      "excerpt": "The China-based hacking group has been exploiting SharePoint vulnerabilities since July 2025. The post Warlock Expands SharePoint Exploitation in Critical Infrastructure Attacks appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Police Target KillSec Ransomware Group with Arrests and Seizures",
@@ -536,30 +568,6 @@
       "link": "https://www.helpnetsecurity.com/2026/10/02/intel-471-insider-threat-recruitment-report/",
       "date": "2026-10-02T06:00:05.000Z",
       "excerpt": "Legitimate employee access can let criminals circumvent security controls that would be difficult to overcome from outside an organization. Routine actions such as information lookups, account resets, transaction approvals and shipment changes can become services sold to…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Android 17 makes it harder for spyware to cover its tracks",
-      "link": "https://www.helpnetsecurity.com/2026/10/02/android-17-advanced-protection-features/",
-      "date": "2026-10-02T05:30:37.000Z",
-      "excerpt": "When a journalist suspects their phone has been hacked, the first question is whether any trace of the attack is left. Google has added six features to Advanced Protection in Android 17, including one that keeps a copy of that evidence off the device. Existing users will receive…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Botnets, adversarial attacks and data poisoning top leaders’ AI threat list",
-      "link": "https://www.helpnetsecurity.com/2026/10/02/pwc-attacks-on-ai-systems/",
-      "date": "2026-10-02T05:00:28.000Z",
-      "excerpt": "Companies are putting more money into AI while naming attacks on AI systems as the threat they are least ready to face. PwC surveyed 3,934 business and technology leaders in 71 countries between May and July 2026. Half of the security and technology executives among them ranked…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AI agents keep access to company data after their work is done",
-      "link": "https://www.helpnetsecurity.com/2026/10/02/delinea-ai-policy-adoption-enforcement-report/",
-      "date": "2026-10-02T04:30:21.000Z",
-      "excerpt": "IT teams responsible for identity security are concerned about AI agents’ ongoing access to company systems and the actions they take on users’ behalf, according to a Delinea’s 2026 Identity Security Report: The AI Enforcement Gap. “Written policy is only as good as your ability…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -880,14 +888,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
       "date": "2026-09-29T15:00:00.000Z",
       "excerpt": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Scans for Wordfence Protected Websites, (Tue, Sep 29th)",
-      "link": "https://isc.sans.edu/diary/rss/33382",
-      "date": "2026-09-29T13:29:33.000Z",
-      "excerpt": "Starting yesterday, our sensors picked up a small number of scans for \"wordfence-waf.php\". This particular script is used by Wordfence, a solution to protect WordPress sites. During the Wordfence install, the wordpress-waf.php file will be created in the site&#x26;#39;s root…"
     },
     {
       "source": "Schneier on Security",
