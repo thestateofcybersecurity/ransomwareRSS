@@ -5,8 +5,88 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 05 Oct 2026 16:12:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 22:46:35 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>MCP for agent-to-agent comms may be the riskiest protocol you&#39;ve never heard of</title>
+      <link>https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</guid>
+      <pubDate>Mon, 05 Oct 2026 22:26:35 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>Trust gaps in the new protocol spread malicious prompts from one agent to another. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool</title>
+      <link>https://therecord.media/wikimedia-foundation-openai-agents-report</link>
+      <guid isPermaLink="false">https://therecord.media/wikimedia-foundation-openai-agents-report</guid>
+      <pubDate>Mon, 05 Oct 2026 21:26:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Beyond the potential misuses of its services, Wikimedia said activity by AI agents can be a drain on web platforms that are already operating with limited resources. (via The Record)</description>
+    </item>
+    <item>
+      <title>ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes</title>
+      <link>https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes</link>
+      <guid isPermaLink="false">https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes</guid>
+      <pubDate>Mon, 05 Oct 2026 21:25:08 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Rejetto HFS servers now actively scanned for critical RCE flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/</guid>
+      <pubDate>Mon, 05 Oct 2026 20:20:05 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement</title>
+      <link>https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</link>
+      <guid isPermaLink="false">https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi</guid>
+      <pubDate>Mon, 05 Oct 2026 19:15:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data. (via The Record)</description>
+    </item>
+    <item>
+      <title>US, Australia warn of latest Citrix vulnerability after NetScaler advisory</title>
+      <link>https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability</link>
+      <guid isPermaLink="false">https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability</guid>
+      <pubDate>Mon, 05 Oct 2026 17:22:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that also caused alarm among cybersecurity experts. (via The Record)</description>
+    </item>
+    <item>
+      <title>IQVIA fined $7.8 million for failing to properly anonymize health data</title>
+      <link>https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/</guid>
+      <pubDate>Mon, 05 Oct 2026 17:19:53 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Italy&#39;s Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data</title>
+      <link>https://therecord.media/atb-ukraine-cyberattack-ransomware</link>
+      <guid isPermaLink="false">https://therecord.media/atb-ukraine-cyberattack-ransomware</guid>
+      <pubDate>Mon, 05 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website. (via The Record)</description>
+    </item>
+    <item>
+      <title>Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users&#39; Mailboxes</title>
+      <link>https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html</guid>
+      <pubDate>Mon, 05 Oct 2026 16:21:52 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Chinese Hackers Impersonate US Officials for AI Cyber Espionage</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage</guid>
+      <pubDate>Mon, 05 Oct 2026 15:52:59 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations. (via Dark Reading)</description>
+    </item>
     <item>
       <title>University of Illinois Chicago affected by ransomware attack on medical school</title>
       <link>https://therecord.media/ransomware-university-illinois-chicago</link>
@@ -88,14 +168,6 @@
       <description>Cybercriminals are using fake discounts posted on Facebook and TikTok to lure shoppers to phishing sites that steal their payment card details and one-time passwords, Group-IB has warned. The phishing kit called Milk Dragon (also known as NaiLong) has been active since October… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Belarusian hacktivists spent two years inside Russian healthcare network, researchers say</title>
-      <link>https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network</link>
-      <guid isPermaLink="false">https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network</guid>
-      <pubDate>Mon, 05 Oct 2026 13:55:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Russian cybersecurity researchers attributed a quiet two-year espionage campaign to the Belarusian Cyber Partisans, a group better known for public attacks against governments and infrastructure. (via The Record)</description>
-    </item>
-    <item>
       <title>LTM launches BlueVerse AgenTraceIQ to monitor AI agents and reverse unintended actions</title>
       <link>https://www.helpnetsecurity.com/2026/10/05/ltm-blueverse-agentraceiq/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/05/ltm-blueverse-agentraceiq/</guid>
@@ -136,14 +208,6 @@
       <description>The memory buffer vulnerability can result in denial of service to customers, with CISA warning it poses “significant risks” to the federal government (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Japanese media group Nikkei discloses intrusions targeting employees and users</title>
-      <link>https://therecord.media/nikkei-cyberattack-japan-data</link>
-      <guid isPermaLink="false">https://therecord.media/nikkei-cyberattack-japan-data</guid>
-      <pubDate>Mon, 05 Oct 2026 13:15:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The Japanese media giant Nikkei disclosed a cyber incident involving an employee email account that may have compromised journalistic sources. (via The Record)</description>
-    </item>
-    <item>
       <title>Alleged dev of Ploutus ATM malware appears in US court after arrest</title>
       <link>https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/suspected-dev-of-ploutus-atm-malware-appears-in-us-court-after-arrest/</guid>
@@ -182,14 +246,6 @@
       <pubDate>Mon, 05 Oct 2026 12:26:49 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>A developer has released RemoveMacAI, a free command-line tool that turns off Apple Intelligence on macOS 27 and deletes about 12 GB of downloaded AI models. It requires a Mac with Apple silicon. macOS 27 doesn’t have a switch for Apple Intelligence, and the models stay on disk… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Data breach at Denmark’s national population register exposes 8.8 million people</title>
-      <link>https://therecord.media/denmark-breach-register-cyberattack</link>
-      <guid isPermaLink="false">https://therecord.media/denmark-breach-register-cyberattack</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register. (via The Record)</description>
     </item>
     <item>
       <title>The Credential Layer Is Expanding Faster Than Security Teams Can See It</title>
@@ -280,14 +336,6 @@
       <description>Here’s what it would take: stronger defenses for large utilities, hands-on help for smaller systems and federal support to make both happen. The post The US needs a real plan to defend its water systems appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Microsoft: Windows KB5124010 update crashes some games and apps</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:37:56 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>More UK Schools Are Recovering Faster from Cyber Incidents</title>
       <link>https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/uk-schools-recovering-faster/</guid>
@@ -302,14 +350,6 @@
       <pubDate>Mon, 05 Oct 2026 09:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>A breach at school software provider Frontline Education has exposed employee data (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Google halts open-source bug bounty program amid AI spam surge</title>
-      <link>https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:27:46 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE</title>
@@ -333,7 +373,7 @@
       <guid isPermaLink="false">https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html</guid>
       <pubDate>Mon, 05 Oct 2026 06:40:19 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0.… (via The Hacker News)</description>
+      <description>Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. &quot;CVE-2026-88779 is a… (via The Hacker News)</description>
     </item>
     <item>
       <title>Exploitation of Citrix NetScaler Zero-Day Hits Appliances Patched Days Earlier</title>
@@ -400,20 +440,20 @@
       <description>A suspected member of the ShinyHunters digital extortion group, who goes by the online alias &quot;Rey,&quot; has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have… (via The Hacker News)</description>
     </item>
     <item>
-      <title>China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing</title>
-      <link>https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html</guid>
-      <pubDate>Sun, 04 Oct 2026 07:20:32 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>YARA-X 1.21.0 Release, (Sat, Oct 3rd)</title>
       <link>https://isc.sans.edu/diary/rss/33392</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33392</guid>
       <pubDate>Sat, 03 Oct 2026 14:40:21 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>YARA-X&amp;#x26;#39;s 1.21.0 release brings 5 improvements and 4 bugfixes. (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>N0n ransomware: what you need to know</title>
+      <link>https://www.fortra.com/blog/n0n-ransomware-what-you-need-know</link>
+      <guid isPermaLink="false">https://www.fortra.com/blog/n0n-ransomware-what-you-need-know</guid>
+      <pubDate>Sat, 03 Oct 2026 08:29:54 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>N0n is a newly-emerged cyber extortion gang. The group was first spotted in the middle of September 2026, and within days it had published on its dark web leak site details of what it claimed to be around a dozen victims. Since then, the tally has continued to grow. Read more in… (via Graham Cluley)</description>
     </item>
     <item>
       <title>Apple changes full-disk access permissions to curb abuse from AI agents</title>
@@ -430,14 +470,6 @@
       <pubDate>Fri, 02 Oct 2026 21:02:18 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy. (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus</title>
-      <link>https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists</link>
-      <guid isPermaLink="false">https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists</guid>
-      <pubDate>Fri, 02 Oct 2026 20:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order. (via The Record)</description>
     </item>
     <item>
       <title>RemoteThreat Bets Security Teams Need to Test What Happens After Defenses Fail</title>
@@ -502,22 +534,6 @@
       <pubDate>Fri, 02 Oct 2026 14:15:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Vulnerability Backlogs Are an Ownership Problem</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Organizations don&#39;t need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Malicious Linux Implants Mimic Asian Mail Security Products</title>
-      <link>https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security</link>
-      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security</guid>
-      <pubDate>Fri, 02 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it&#39;s hard to tell they&#39;re not. (via Dark Reading)</description>
     </item>
     <item>
       <title>How American Political Campaigns Are Using AI—and What They’re Spending on the Tools</title>
@@ -616,6 +632,22 @@
       <description>Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and… (via Schneier on Security)</description>
     </item>
     <item>
+      <title>FBI tells ShinyHunters members to turn themselves in, after arrest of alleged leader</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader</link>
+      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader</guid>
+      <pubDate>Thu, 01 Oct 2026 10:53:38 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>The FBI has a very simple message for the ShinyHunters gang: give yourselves up. On Tuesday, FBI cyber division assistant director Brett Leatherman released a video, thanking the Dutch police for arresting a 24-year-old man they believe to be a member of the group, and and who… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>ShinyHunters suspect arrested, and is now investigated over alleged murder plots</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots</link>
+      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots</guid>
+      <pubDate>Thu, 01 Oct 2026 10:52:03 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>An alleged key figure in the ShinyHunters cybercrime group has been arrested in the Netherlands, and - in a sinister twist - the 24-year-old suspect is also being investigated for attempting to arrange two murders. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
+    </item>
+    <item>
       <title>ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)</title>
       <link>https://isc.sans.edu/diary/rss/33388</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33388</guid>
@@ -696,6 +728,14 @@
       <description>AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I… (via Schneier on Security)</description>
     </item>
     <item>
+      <title>Pentagon personnel database breach exposes personal data of millions</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions</link>
+      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions</guid>
+      <pubDate>Wed, 30 Sep 2026 10:20:37 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>A Pentagon personnel database was breached for nine months without anyone noticing. Over three million people are affected. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
+    </item>
+    <item>
       <title>WaterISAC reckons with range of threats after summer of cyberattacks</title>
       <link>https://cyberscoop.com/water-utility-cyberattacks-waterisac-cyware-threat-intelligence/</link>
       <guid isPermaLink="false">https://cyberscoop.com/water-utility-cyberattacks-waterisac-cyware-threat-intelligence/</guid>
@@ -766,38 +806,6 @@
       <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Using Device Linking to Eavesdrop on WhatsApp and Signal</title>
-      <link>https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html</guid>
-      <pubDate>Tue, 29 Sep 2026 11:02:19 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>OperTraitors: How Kubernetes Operators Betray Your Security Posture</title>
-      <link>https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:48 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Jev’s Paradox: The hidden cost of cheap AI decisions</title>
-      <link>https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions</guid>
-      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>This article was first published on LinkedIn. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>College Is Not One Thing</title>
-      <link>https://danielmiessler.com/blog/college-is-not-one-thing?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/college-is-not-one-thing?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Mon, 28 Sep 2026 23:12:53 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>A charcoal sketch of a classical college building sliced into five sections: a professor, students meeting, and two friends sketching in warm sienna rooms, while the textbook shelf and the diploma at either end crumble into purple… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>

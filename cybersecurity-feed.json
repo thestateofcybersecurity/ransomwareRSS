@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T16:12:26.590Z",
+  "updated": "2026-10-05T22:46:35.013Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,86 @@
     }
   ],
   "items": [
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "date": "2026-10-05T22:26:35.000Z",
+      "excerpt": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Wikimedia Foundation: OpenAI agents tried to edit pages and compromise notes tool",
+      "link": "https://therecord.media/wikimedia-foundation-openai-agents-report",
+      "date": "2026-10-05T21:26:00.000Z",
+      "excerpt": "Beyond the potential misuses of its services, Wikimedia said activity by AI agents can be a drain on web platforms that are already operating with limited resources."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "date": "2026-10-05T21:25:08.000Z",
+      "excerpt": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "date": "2026-10-05T20:20:05.000Z",
+      "excerpt": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Alleged ShinyHunters member reportedly detained in Jordan, assisting law enforcement",
+      "link": "https://therecord.media/alleged-shinyhunters-member-detained-jordan-fbi",
+      "date": "2026-10-05T19:15:00.000Z",
+      "excerpt": "Saif ‌al-Din Khader is cooperating with the FBI, reports said, as the bureau responds to a massive breach that exposed employee data."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "US, Australia warn of latest Citrix vulnerability after NetScaler advisory",
+      "link": "https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability",
+      "date": "2026-10-05T17:22:00.000Z",
+      "excerpt": "Citrix confirmed late on Friday that it was “tracking a newly observed issue” related to some customer-managed NetScaler deployments but claimed the problem was not connected to vulnerabilities reported last week that also caused alarm among cybersecurity experts."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "date": "2026-10-05T17:19:53.000Z",
+      "excerpt": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Ukraine grocery chain ATB confirms cyberattack as hackers threaten to leak data",
+      "link": "https://therecord.media/atb-ukraine-cyberattack-ransomware",
+      "date": "2026-10-05T17:00:00.000Z",
+      "excerpt": "Ukraine’s largest grocery store chain, ATB, confirmed that it was hit by a cyberattack after hackers posted an extortion demand on its website."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "date": "2026-10-05T16:21:52.000Z",
+      "excerpt": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system.…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
+      "date": "2026-10-05T15:52:59.000Z",
+      "excerpt": "An emerging threat group known as TA419 established seemingly legitimate professional relationships with AI policy experts working for US think tanks, universities, and legal organizations."
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -194,14 +274,6 @@
       "excerpt": "Cybercriminals are using fake discounts posted on Facebook and TikTok to lure shoppers to phishing sites that steal their payment card details and one-time passwords, Group-IB has warned. The phishing kit called Milk Dragon (also known as NaiLong) has been active since October…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Belarusian hacktivists spent two years inside Russian healthcare network, researchers say",
-      "link": "https://therecord.media/belarusian-hacktivists-two-years-Russian-healthcare-network",
-      "date": "2026-10-05T13:55:00.000Z",
-      "excerpt": "Russian cybersecurity researchers attributed a quiet two-year espionage campaign to the Belarusian Cyber Partisans, a group better known for public attacks against governments and infrastructure."
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "LTM launches BlueVerse AgenTraceIQ to monitor AI agents and reverse unintended actions",
@@ -242,14 +314,6 @@
       "excerpt": "The memory buffer vulnerability can result in denial of service to customers, with CISA warning it poses “significant risks” to the federal government"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Japanese media group Nikkei discloses intrusions targeting employees and users",
-      "link": "https://therecord.media/nikkei-cyberattack-japan-data",
-      "date": "2026-10-05T13:15:00.000Z",
-      "excerpt": "The Japanese media giant Nikkei disclosed a cyber incident involving an employee email account that may have compromised journalistic sources."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Alleged dev of Ploutus ATM malware appears in US court after arrest",
@@ -288,14 +352,6 @@
       "link": "https://www.helpnetsecurity.com/2026/10/05/removemacai-turn-off-apple-intelligence/",
       "date": "2026-10-05T12:26:49.000Z",
       "excerpt": "A developer has released RemoveMacAI, a free command-line tool that turns off Apple Intelligence on macOS 27 and deletes about 12 GB of downloaded AI models. It requires a Mac with Apple silicon. macOS 27 doesn’t have a switch for Apple Intelligence, and the models stay on disk…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Data breach at Denmark’s national population register exposes 8.8 million people",
-      "link": "https://therecord.media/denmark-breach-register-cyberattack",
-      "date": "2026-10-05T12:00:00.000Z",
-      "excerpt": "Denmark is investigating a data breach affecting approximately 8.8 million people after unauthorized users gained access to its national population register."
     },
     {
       "source": "The Hacker News",
@@ -386,14 +442,6 @@
       "excerpt": "Here’s what it would take: stronger defenses for large utilities, hands-on help for smaller systems and federal support to make both happen. The post The US needs a real plan to defend its water systems appeared first on CyberScoop ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: Windows KB5124010 update crashes some games and apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5124010-update-crashes-some-games-and-apps/",
-      "date": "2026-10-05T09:37:56.000Z",
-      "excerpt": "Microsoft confirmed over the weekend that some games and applications using AC-3 (Dolby Digital) audio decoding will crash after installing the September 2026 KB5124010 Windows 11 preview update. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "More UK Schools Are Recovering Faster from Cyber Incidents",
@@ -408,14 +456,6 @@
       "link": "https://www.infosecurity-magazine.com/news/frontline-education-breach-k12/",
       "date": "2026-10-05T09:00:00.000Z",
       "excerpt": "A breach at school software provider Frontline Education has exposed employee data"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Google halts open-source bug bounty program amid AI spam surge",
-      "link": "https://www.bleepingcomputer.com/news/google/google-halts-open-source-bug-bounty-program-amid-ai-spam-surge/",
-      "date": "2026-10-05T08:27:46.000Z",
-      "excerpt": "Google has now suspended submissions to its Open Source Software Vulnerability Rewards Program (OSS VRP) after being flooded by AI-generated reports. [...]"
     },
     {
       "source": "The Hacker News",
@@ -439,7 +479,7 @@
       "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
       "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
       "date": "2026-10-05T06:40:19.000Z",
-      "excerpt": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0.…"
+      "excerpt": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a…"
     },
     {
       "source": "SecurityWeek",
@@ -506,20 +546,20 @@
       "excerpt": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter. Rey, whose real name is Saif ‌al-Din Khader, is said to have…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-      "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-      "date": "2026-10-04T07:20:32.000Z",
-      "excerpt": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations. The campaigns have impersonated…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "YARA-X 1.21.0 Release, (Sat, Oct 3rd)",
       "link": "https://isc.sans.edu/diary/rss/33392",
       "date": "2026-10-03T14:40:21.000Z",
       "excerpt": "YARA-X&#x26;#39;s 1.21.0 release brings 5 improvements and 4 bugfixes."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "N0n ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/n0n-ransomware-what-you-need-know",
+      "date": "2026-10-03T08:29:54.000Z",
+      "excerpt": "N0n is a newly-emerged cyber extortion gang. The group was first spotted in the middle of September 2026, and within days it had published on its dark web leak site details of what it claimed to be around a dozen victims. Since then, the tally has continued to grow. Read more in…"
     },
     {
       "source": "Ars Technica Security",
@@ -536,14 +576,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
       "date": "2026-10-02T21:02:18.000Z",
       "excerpt": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Judge dismisses spyware case brought by Salvadoran journalists targeted with Pegasus",
-      "link": "https://therecord.media/judge-dismisses-spyware-case-brought-by-salvadoran-journalists",
-      "date": "2026-10-02T20:30:00.000Z",
-      "excerpt": "The plaintiffs, who all worked for the independent and Salvadoran news outlet El Faro, failed to convince the court that their case had jurisdiction in California, according to the judge’s order."
     },
     {
       "source": "Dark Reading",
@@ -608,22 +640,6 @@
       "link": "https://www.infosecurity-magazine.com/news/microsoft-ai-attack-time-minutes/",
       "date": "2026-10-02T14:15:00.000Z",
       "excerpt": "Microsoft has warned that threat actors have gained the advantage over defenders by using AI to enhance the speed and scale of attacks"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Vulnerability Backlogs Are an Ownership Problem",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem",
-      "date": "2026-10-02T14:00:00.000Z",
-      "excerpt": "Organizations don't need better vulnerability scanners; they need to know who owns their assets and has the authority and capacity to actually fix them."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Malicious Linux Implants Mimic Asian Mail Security Products",
-      "link": "https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security",
-      "date": "2026-10-02T13:00:00.000Z",
-      "excerpt": "A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it's hard to tell they're not."
     },
     {
       "source": "Schneier on Security",
@@ -722,6 +738,22 @@
       "excerpt": "Researchers at Northeastern University, in collaboration with Consumer Reports , evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and…"
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "FBI tells ShinyHunters members to turn themselves in, after arrest of alleged leader",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-turn-themselves-in-arrest-leader",
+      "date": "2026-10-01T10:53:38.000Z",
+      "excerpt": "The FBI has a very simple message for the ShinyHunters gang: give yourselves up. On Tuesday, FBI cyber division assistant director Brett Leatherman released a video, thanking the Dutch police for arresting a 24-year-old man they believe to be a member of the group, and and who…"
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "ShinyHunters suspect arrested, and is now investigated over alleged murder plots",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shinyhunters-suspect-arrested-now-investigated-alleged-murder-plots",
+      "date": "2026-10-01T10:52:03.000Z",
+      "excerpt": "An alleged key figure in the ShinyHunters cybercrime group has been arrested in the Netherlands, and - in a sinister twist - the 24-year-old suspect is also being investigated for attempting to arrange two murders. Read more in my article on the Hot for Security blog."
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ScreenConnect Client (Ab)used by Attackers, (Thu, Oct 1st)",
@@ -802,6 +834,14 @@
       "excerpt": "AI systems are regularly completing tasks in ways that their prompters don’t want or intend. Some of them are disturbing, and some of them are dangerous. This is something I’ve been calling “ genie behavior ,” because I think that really gets at the core of what’s happening. I…"
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Pentagon personnel database breach exposes personal data of millions",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pentagon-personnel-database-breach-personal-data-millions",
+      "date": "2026-09-30T10:20:37.000Z",
+      "excerpt": "A Pentagon personnel database was breached for nine months without anyone noticing. Over three million people are affected. Read more in my article on the Hot for Security blog."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "WaterISAC reckons with range of threats after summer of cyberattacks",
@@ -872,38 +912,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/",
       "date": "2026-09-29T15:00:00.000Z",
       "excerpt": "Since January 2026, Microsoft has observed Russian state threat actor Star Blizzard evolve their detection evasion capabilities through large-scale phishing campaigns, the use of accounts on compromised websites, and a novel malware delivery technique, tracked by Microsoft as…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Using Device Linking to Eavesdrop on WhatsApp and Signal",
-      "link": "https://www.schneier.com/blog/archives/2026/09/using-device-linking-to-eavesdrop-on-whatsapp-and-signal.html",
-      "date": "2026-09-29T11:02:19.000Z",
-      "excerpt": "Modern messaging apps allow users to link their phone accounts to their computer desktop. Eavesdroppers are taking advantage of this capability: Apps such as WhatsApp Web and Signal Desktop allow people to use their accounts on other devices, such as laptops or desktop…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
-      "link": "https://unit42.paloaltonetworks.com/agentic-ai-kubernetes-operator-risks/",
-      "date": "2026-09-29T10:00:48.000Z",
-      "excerpt": "We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared first on Unit 42 ."
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Jev’s Paradox: The hidden cost of cheap AI decisions",
-      "link": "https://www.sophos.com/en-us/blog/jevs-paradox-hidden-cost-of-cheap-ai-decisions",
-      "date": "2026-09-29T00:00:00.000Z",
-      "excerpt": "This article was first published on LinkedIn."
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "College Is Not One Thing",
-      "link": "https://danielmiessler.com/blog/college-is-not-one-thing?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-09-28T23:12:53.000Z",
-      "excerpt": "A charcoal sketch of a classical college building sliced into five sections: a professor, students meeting, and two friends sketching in warm sienna rooms, while the textbook shelf and the diploma at either end crumble into purple…"
     }
   ]
 }
