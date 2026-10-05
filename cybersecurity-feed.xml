@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 04 Oct 2026 22:23:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:06:43 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>TTY Logs and the Data it Captures, (Sun, Oct 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/33396</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33396</guid>
+      <pubDate>Mon, 05 Oct 2026 00:15:00 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>For an experiment, I created a script [1] that parses and send the TTY logs collected from actors or bots activity that run various commands after they successfully login the DShield sensor. Those TTY logs are sent daily at the end of each day to the DShield SIEM [2] to be… (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>Citrix patches NetScaler SAML zero-day exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/</link>
@@ -790,14 +798,6 @@
       <pubDate>Tue, 29 Sep 2026 10:00:48 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>We introduce OperTraitor, a tool to audit privileges of Kubernetes operators, identify excessive RBAC risks, and secure non-human identities. The post OperTraitors: How Kubernetes Operators Betray Your Security Posture appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, September 29th, 2026 https://isc.sans.edu/podcastdetail/10114, (Tue, Sep 29th)</title>
-      <link>https://isc.sans.edu/diary/rss/33378</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33378</guid>
-      <pubDate>Tue, 29 Sep 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Jev’s Paradox: The hidden cost of cheap AI decisions</title>
