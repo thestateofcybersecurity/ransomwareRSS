@@ -1,6 +1,69 @@
 {
-  "updated": "2026-10-08T02:04:56.515Z",
+  "updated": "2026-10-08T09:10:00.777Z",
   "items": [
+    {
+      "group": "Storm",
+      "victim": "Cooperative Des Techniciens Ambulanciers De La Monte",
+      "sector": "Healthcare",
+      "country": "CA",
+      "domain": "",
+      "discovered": "2026-10-08T05:25:57.714Z",
+      "link": "https://www.ransomware.live/id/Q29vcGVyYXRpdmUgRGVzIFRlY2huaWNpZW5zIEFtYnVsYW5jaWVycyBEZSBMYSBNb250ZUBTdG9ybQ"
+    },
+    {
+      "group": "Storm",
+      "victim": "TheraCare",
+      "sector": "Healthcare",
+      "country": "US",
+      "domain": "",
+      "discovered": "2026-10-08T05:25:26.782Z",
+      "link": "https://www.ransomware.live/id/VGhlcmFDYXJlQFN0b3Jt"
+    },
+    {
+      "group": "Scarlettgroup",
+      "victim": "yalebooks.yale.edu",
+      "sector": "Education",
+      "country": "US",
+      "domain": "yalebooks.yale.edu",
+      "discovered": "2026-10-08T05:21:32.601Z",
+      "link": "https://www.ransomware.live/id/eWFsZWJvb2tzLnlhbGUuZWR1QFNjYXJsZXR0Z3JvdXA"
+    },
+    {
+      "group": "lockbit5",
+      "victim": "consilio.com",
+      "sector": "Professional Services",
+      "country": "US",
+      "domain": "consilio.com",
+      "discovered": "2026-10-08T03:34:03.103Z",
+      "link": "https://www.ransomware.live/id/Y29uc2lsaW8uY29tQGxvY2tiaXQ1"
+    },
+    {
+      "group": "lockbit5",
+      "victim": "capitalbankhaiti.biz",
+      "sector": "Financial Services",
+      "country": "HT",
+      "domain": "capitalbankhaiti.biz",
+      "discovered": "2026-10-08T03:33:18.010Z",
+      "link": "https://www.ransomware.live/id/Y2FwaXRhbGJhbmtoYWl0aS5iaXpAbG9ja2JpdDU"
+    },
+    {
+      "group": "lockbit5",
+      "victim": "grunenwald.com",
+      "sector": "Other",
+      "country": "DE",
+      "domain": "grunenwald.com",
+      "discovered": "2026-10-08T03:32:37.315Z",
+      "link": "https://www.ransomware.live/id/Z3J1bmVud2FsZC5jb21AbG9ja2JpdDU"
+    },
+    {
+      "group": "lockbit5",
+      "victim": "avsa.com.ar",
+      "sector": "Other",
+      "country": "AR",
+      "domain": "avsa.com.ar",
+      "discovered": "2026-10-08T03:31:57.308Z",
+      "link": "https://www.ransomware.live/id/YXZzYS5jb20uYXJAbG9ja2JpdDU"
+    },
     {
       "group": "nightspire",
       "victim": "Asociación de Escribanos del Uruguay",
@@ -387,69 +450,6 @@
       "domain": "",
       "discovered": "2026-10-06T16:17:41.735Z",
       "link": "https://www.ransomware.live/id/QWdyaSBJbmR1c3RyaWFsQGV2ZXJlc3Q"
-    },
-    {
-      "group": "everest",
-      "victim": "B-accountants",
-      "sector": "Professional Services",
-      "country": "NL",
-      "domain": "",
-      "discovered": "2026-10-06T16:17:04.817Z",
-      "link": "https://www.ransomware.live/id/Qi1hY2NvdW50YW50c0BldmVyZXN0"
-    },
-    {
-      "group": "everest",
-      "victim": "Morcon Developments",
-      "sector": "Other",
-      "country": "",
-      "domain": "",
-      "discovered": "2026-10-06T16:16:28.010Z",
-      "link": "https://www.ransomware.live/id/TW9yY29uIERldmVsb3BtZW50c0BldmVyZXN0"
-    },
-    {
-      "group": "everest",
-      "victim": "Kennametal",
-      "sector": "Manufacturing",
-      "country": "US",
-      "domain": "",
-      "discovered": "2026-10-06T16:15:50.894Z",
-      "link": "https://www.ransomware.live/id/S2VubmFtZXRhbEBldmVyZXN0"
-    },
-    {
-      "group": "everest",
-      "victim": "Flydubai",
-      "sector": "Transportation",
-      "country": "AE",
-      "domain": "",
-      "discovered": "2026-10-06T16:15:13.028Z",
-      "link": "https://www.ransomware.live/id/Rmx5ZHViYWlAZXZlcmVzdA"
-    },
-    {
-      "group": "UmBra",
-      "victim": "Four Hands LLC",
-      "sector": "Other",
-      "country": "US",
-      "domain": "fourhands.com",
-      "discovered": "2026-10-06T14:54:04.731Z",
-      "link": "https://www.ransomware.live/id/Rm91ciBIYW5kcyBMTENAVW1CcmE"
-    },
-    {
-      "group": "akira",
-      "victim": "Michael K Shelby, CPA",
-      "sector": "Professional Services",
-      "country": "",
-      "domain": "mkshelbycpa.com",
-      "discovered": "2026-10-06T14:52:35.235Z",
-      "link": "https://www.ransomware.live/id/TWljaGFlbCBLIFNoZWxieSwgQ1BBQGFraXJh"
-    },
-    {
-      "group": "akira",
-      "victim": "Hygrade",
-      "sector": "Agriculture and Food Production",
-      "country": "US",
-      "domain": "",
-      "discovered": "2026-10-06T14:52:15.712Z",
-      "link": "https://www.ransomware.live/id/SHlncmFkZUBha2lyYQ"
     }
   ]
 }
