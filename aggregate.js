@@ -97,18 +97,33 @@ function itemDate(itemXml) {
   return '';
 }
 
+/**
+ * Returns the URL if it is a well-formed absolute https URL with no control
+ * or whitespace characters, else ''. The hub and the alerts Worker render
+ * these as hrefs, so nothing but https may pass through.
+ */
+function httpsUrl(value) {
+  if (typeof value !== 'string' || /[\u0000-\u001f\u007f\s]/.test(value)) return '';
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' ? url.href : '';
+  } catch {
+    return '';
+  }
+}
+
 /** Parse one fetched feed body into normalized items. */
 function parseItems(xml, source) {
   const blocks = [...xml.matchAll(/<(?:item|entry)[\s>]([\s\S]*?)<\/(?:item|entry)>/gi)];
   const items = [];
   for (const [, block] of blocks) {
     const title = plainText(tagText(block, 'title'));
-    const link = itemLink(block);
+    const link = httpsUrl(itemLink(block));
     const date = itemDate(block);
-    if (!title || !link.startsWith('http') || !date) continue;
+    if (!title || !link || !date) continue;
     items.push({
       source: source.name,
-      sourceUrl: source.homepage,
+      sourceUrl: httpsUrl(source.homepage),
       title,
       link,
       date,

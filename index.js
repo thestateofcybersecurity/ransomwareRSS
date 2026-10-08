@@ -69,6 +69,21 @@ async function fetchVictims() {
   return fetchOnce(FREE_API_URL, {});
 }
 
+/**
+ * Returns the URL if it is a well-formed absolute https URL with no control
+ * or whitespace characters, else ''. feed.json links are rendered as hrefs by
+ * the hub and the alerts Worker, so nothing but https may pass through.
+ */
+function httpsUrl(value) {
+  if (typeof value !== 'string' || /[\u0000-\u001f\u007f\s]/.test(value)) return '';
+  try {
+    const url = new URL(value);
+    return url.protocol === 'https:' ? url.href : '';
+  } catch {
+    return '';
+  }
+}
+
 function transform(raw) {
   return raw
     .filter((item) => item && item.group && item.discovered)
@@ -87,9 +102,9 @@ function transform(raw) {
       discovered: new Date(item.discovered).toISOString(),
       // The PRO API calls the public victim page `permalink`, the free v2 API
       // calls it `url`; both point at www.ransomware.live.
-      link: [item.permalink, item.url].find(
-        (url) => typeof url === 'string' && url.startsWith('https://www.ransomware.live/'),
-      ) || '',
+      link: [item.permalink, item.url]
+        .map(httpsUrl)
+        .find((url) => url.startsWith('https://www.ransomware.live/')) || '',
     }))
     .sort((a, b) => new Date(b.discovered) - new Date(a.discovered))
     .slice(0, MAX_ITEMS);
