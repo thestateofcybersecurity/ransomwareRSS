@@ -9,15 +9,21 @@ on:
     - cron: '23 * * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
+# No default permissions. The one job that pushes to gh-pages asks for
+# contents: write itself (pentest 2026-10-07, finding L7).
+permissions: {}
 
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      # Actions are pinned to full commit SHAs so a moved tag cannot swap in
+      # different code. Dependabot (github-actions ecosystem) keeps the pins
+      # current; the trailing comment is the tag each SHA was resolved from.
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+      - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: '22'
       - name: Generate ransomware feed
@@ -27,7 +33,7 @@ jobs:
       - name: Aggregate security news feeds
         run: node aggregate.js
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@84c30a85c19949d7eee79c4ff27748b70285e453 # v4.1.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
