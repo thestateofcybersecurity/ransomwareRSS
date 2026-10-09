@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T16:22:45.247Z",
+  "updated": "2026-10-09T21:05:53.199Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,94 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+      "date": "2026-10-09T20:31:37.000Z",
+      "excerpt": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: I Caught a Squid",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
+      "date": "2026-10-09T20:24:45.000Z",
+      "excerpt": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Scramble Drives Cybersecurity M&A Boom",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
+      "date": "2026-10-09T19:26:26.000Z",
+      "excerpt": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+      "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+      "date": "2026-10-09T19:14:28.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories. \"Using the account of Takashi Kitao, author of the 18,400-star…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
+      "link": "https://therecord.media/japan-germany-ransomware-arrest",
+      "date": "2026-10-09T18:45:00.000Z",
+      "excerpt": "Japan’s National Police Agency confirmed the arrest and extradition to Germany of a Russian national accused of being involved in the Qilin ransomware gang."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+      "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+      "date": "2026-10-09T17:45:26.000Z",
+      "excerpt": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X. ShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive data on almost all FBI agents…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
+      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
+      "date": "2026-10-09T17:21:00.000Z",
+      "excerpt": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+      "date": "2026-10-09T17:17:23.000Z",
+      "excerpt": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
+      "date": "2026-10-09T17:02:29.000Z",
+      "excerpt": "The FBI has arrested another suspected member of the ShinyHunters extortion group believed to be involved in the recent breach of FBI systems, Director Kash Patel announced Friday. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+      "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+      "date": "2026-10-09T16:29:55.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword. \"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and crypto-wallet theft, and adds two…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
+      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
+      "date": "2026-10-09T16:25:05.000Z",
+      "excerpt": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks."
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
@@ -176,14 +264,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
       "date": "2026-10-09T14:01:11.000Z",
       "excerpt": "AI agents can use valid credentials to perform actions beyond their assigned permissions, creating risks that traditional access controls may not prevent. Token Security explains how organizations can enforce agent-specific policies without sacrificing autonomy. [...]"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "OpenAI says it disrupted Russian and Iranian influence ops that used ChatGPT",
-      "link": "https://therecord.media/openai-disrupts-russian-iranian-operations-chatgpt",
-      "date": "2026-10-09T13:50:00.000Z",
-      "excerpt": "A Latin American propaganda operation run by Russians and a cluster of Iranian fake journalist identities each had help from now-closed ChatGPT accounts, OpenAI's safety team said."
     },
     {
       "source": "The Hacker News",
@@ -274,14 +354,6 @@
       "excerpt": "Hackers hijacked the .gh, .sl, and .as ccTLDs and obtained HTTPS certificates for several Google domains. The post Google Domains Impacted by Recent ccTLD Hijacks appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-      "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-      "date": "2026-10-09T11:30:00.000Z",
-      "excerpt": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “velocity paradox,” in which…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Man admits to running network of 15,000 money mules for cybercriminals",
@@ -338,14 +410,6 @@
       "excerpt": "The FBI seized seven domains used to operate Microscan and FishHub, two hacking tools linked to Chinese state-sponsored hackers known as Flax Typhoon that were used to target critical infrastructure and other organizations in the US and abroad. Seizure notice (Source: US…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-      "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-      "date": "2026-10-09T09:03:24.000Z",
-      "excerpt": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over. Searchlight Cyber, which disclosed the flaw on October…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "AI Training Critical as Governance Challenges Grow",
@@ -368,22 +432,6 @@
       "link": "https://www.securityweek.com/us-disrupts-chinese-state-sponsored-hacking-tools/",
       "date": "2026-10-09T08:36:37.000Z",
       "excerpt": "Flax Typhoon and other APTs used MicroScan and FishHub to scan and hack US and foreign critical infrastructure. The post US Disrupts Chinese State-Sponsored Hacking Tools appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-      "date": "2026-10-09T08:27:42.000Z",
-      "excerpt": "Citrix has warned IT administrators to patch systems immediately against a new critical vulnerability affecting NetScaler ADC networking appliances and NetScaler Gateway secure remote access solutions. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-      "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-      "date": "2026-10-09T08:26:17.000Z",
-      "excerpt": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendors. One of the three Pixel…"
     },
     {
       "source": "SecurityWeek",
@@ -442,14 +490,6 @@
       "excerpt": "A backdoor that makes no noise is hard to catch, and that’s the point of BPFDoor. The Linux malware waits for a special “magic packet” before it acts. In this interview with Help Net Security, Christiaan Beek, VP of Rapid7 Intelligence, explains why its operators go after mail…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-      "date": "2026-10-09T05:41:04.000Z",
-      "excerpt": "The Pwn2Own Ireland 2026 hacking contest has concluded, with hackers collecting $1,262,000 in rewards after exploiting 98 zero-day flaws. [...]"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Thousands of wind and solar park systems sit exposed on the internet across Europe",
@@ -472,14 +512,6 @@
       "link": "https://danielmiessler.com/blog/harness-gardens?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-10-09T02:10:00.000Z",
       "excerpt": "A gardener tends flowers inside a hand-built wooden frame while a great purple tree grows up through it and far beyond/images/harness-gardens.webp/images/harness-gardens.webp I feel like everyone's treating their harnesses/blog/the-answer-to-the-harness-question kind of like a…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-      "date": "2026-10-08T21:42:51.000Z",
-      "excerpt": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]"
     },
     {
       "source": "CyberScoop",
@@ -508,10 +540,10 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "'AgentCorruption' Puts AWS Environments At Risk With Single Prompt",
+      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
       "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
       "date": "2026-10-08T20:39:44.000Z",
-      "excerpt": "A now-patched vulnerability in AWS Bedrock AgentCore could've allowed an attacker to use one AI chatbot to take over an organization's entire fleet."
+      "excerpt": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet."
     },
     {
       "source": "CyberScoop",
@@ -640,30 +672,6 @@
       "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
       "date": "2026-10-07T22:00:16.000Z",
       "excerpt": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments The post Evolution of Web3 in Cloud Supply Chain Attacks appeared first on Unit 42 ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-      "date": "2026-10-07T21:42:55.000Z",
-      "excerpt": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
-      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
-      "date": "2026-10-07T21:25:13.000Z",
-      "excerpt": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
-      "date": "2026-10-07T20:51:25.000Z",
-      "excerpt": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos."
     },
     {
       "source": "CyberScoop",
@@ -856,14 +864,6 @@
       "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
       "date": "2026-10-02T23:03:16.000Z",
       "excerpt": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing",
-      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html",
-      "date": "2026-10-02T21:02:18.000Z",
-      "excerpt": "The EU is recommending import controls to combat unregulated squid fishing in the Southwest Atlantic. I’m not optimistic. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
     }
   ]
 }
