@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 10 Oct 2026 07:18:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:52:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Canadian cybersecurity executive arrested in federal extortion case</title>
+      <link>https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/</guid>
+      <pubDate>Sat, 10 Oct 2026 13:35:50 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Details of the case align with the investigation into ShinyHunters’ attack on FBI IT systems. The post Canadian cybersecurity executive arrested in federal extortion case appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management</title>
+      <link>https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/</guid>
+      <pubDate>Sat, 10 Oct 2026 12:30:39 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk prioritization, and response.… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn&#39;t</title>
+      <link>https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison</title>
+      <link>https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/insider-cyber-extortion-plot-against-industrial-firm-lands-engineer-in-prison/</guid>
+      <pubDate>Sat, 10 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The former core infrastructure engineer deleted admin accounts, reset hundreds of passwords, and demanded 20 bitcoin to spare the company’s servers. The post Insider Cyber Extortion Plot Against Industrial Firm Lands Engineer in Prison appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws</title>
+      <link>https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html</guid>
+      <pubDate>Sat, 10 Oct 2026 09:18:45 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Anthropic on Friday said it&#39;s cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites. The AI company said it identified… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Why TLP should not replace your internal information classification, (Sat, Oct 10th)</title>
+      <link>https://isc.sans.edu/diary/rss/33414</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33414</guid>
+      <pubDate>Sat, 10 Oct 2026 09:11:34 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>The Traffic Light Protocol (TLP)[1], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far). (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>FBI Arrests Founder of Ransomware Negotiation Firm</title>
       <link>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</link>
@@ -224,14 +272,6 @@
       <description>Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI). &quot;It&#39;s an opt-in service informed by our experience using Claude to find vulnerabilities during Project Glasswing,&quot; Anthropic… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge</title>
-      <link>https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html</guid>
-      <pubDate>Fri, 09 Oct 2026 12:47:26 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners. Details of the flaws are below - CVE-2026-105133 (CVSS v4 score: 5.5) - An improper… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Max severity SonicWall SMA1000 flaw now exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/</guid>
@@ -246,14 +286,6 @@
       <pubDate>Fri, 09 Oct 2026 12:26:42 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Hundreds of internet-exposed graphics processing unit (GPU) servers were open to a high-severity flaw in NVIDIA’s DCGM Exporter (CVE-2026-47483) that lets unauthenticated attackers crash the monitoring service and may disrupt AI workloads, according to Lava. Lava reported the… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies</title>
-      <link>https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html</guid>
-      <pubDate>Fri, 09 Oct 2026 12:21:51 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon. The vulnerabilities in question are listed… (via The Hacker News)</description>
     </item>
     <item>
       <title>In Other News: AI Used in Korean Bank Breaches, Poem-Guided Botnet, Empire Admin Gets 40 Years</title>
@@ -294,14 +326,6 @@
       <pubDate>Fri, 09 Oct 2026 10:23:42 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The flaws, CVE-2026-105133 and CVE-2026-105134, allow attackers to bypass authentication and inject OS commands. The post Unpatched AhsayCBS Vulnerabilities Exploited in the Wild appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Microsoft: Outdated Windows devices will stop receiving security updates</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/</guid>
-      <pubDate>Fri, 09 Oct 2026 10:12:24 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft says devices running unsupported versions of Windows will stop receiving security updates after next year&#39;s Windows Update certificate rotation. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>UK and Allies Warn of Cyber Threat from China’s Integrity Technology Group</title>
@@ -382,14 +406,6 @@
       <pubDate>Fri, 09 Oct 2026 07:52:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Citrix Urges Immediate Patching of Critical NetScaler Vulnerability</title>
-      <link>https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/citrix-urges-immediate-patching-of-critical-netscaler-vulnerability/</guid>
-      <pubDate>Fri, 09 Oct 2026 06:53:53 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The security defect, tracked as CVE-2026-107406, could lead to remote code execution or denial-of-service. The post Citrix Urges Immediate Patching of Critical NetScaler Vulnerability appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>October 2026 Patch Tuesday forecast: Time for an Office cleanup</title>
@@ -592,14 +608,6 @@
       <description>The regulations on “controlled unclassified information” include security rules and requirements for reporting when they’re breached, including by cyberattacks. The post Major rules for federal contractors handling sensitive data are nearing the finish line appeared first on… (via CyberScoop)</description>
     </item>
     <item>
-      <title>FBI, French authorities seize deepfake CSAM-for-sale websites</title>
-      <link>https://cyberscoop.com/fbi-french-authorities-seize-deepfake-csam-websites/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/fbi-french-authorities-seize-deepfake-csam-websites/</guid>
-      <pubDate>Wed, 07 Oct 2026 17:05:56 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Some of the material appeared to be recorded or stolen video of girls through interactions on social media sites like Snapchat, TikTok, Instagram and Facebook. The post FBI, French authorities seize deepfake CSAM-for-sale websites appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
       <title>3 lessons from frontier AI vulnerability research</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/</link>
       <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/</guid>
@@ -736,14 +744,6 @@
       <description>This one is from 1809, written by Napoleon’s nephew. (via Schneier on Security)</description>
     </item>
     <item>
-      <title>ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)</title>
-      <link>https://isc.sans.edu/diary/rss/33398</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33398</guid>
-      <pubDate>Mon, 05 Oct 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>Citrix NetScaler vulnerability (CVE-2026-88779) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/citrix-netscaler-vulnerability-cve-2026-88779-in-active-exploitation</guid>
@@ -758,14 +758,6 @@
       <pubDate>Sun, 04 Oct 2026 11:52:23 GMT</pubDate>
       <source url="https://www.troyhunt.com/">Troy Hunt</source>
       <description>I&#39;m in Denmark! Well, just, I&#39;m now at Copenhagen airport ready to begin the long trek home, with the final event at GOTO now done and going just perfectly. This week, there are two ShinyHunters arrests in the news: Pepijn in the Netherlands and then Saif (via Troy Hunt)</description>
-    </item>
-    <item>
-      <title>N0n ransomware: what you need to know</title>
-      <link>https://www.fortra.com/blog/n0n-ransomware-what-you-need-know</link>
-      <guid isPermaLink="false">https://www.fortra.com/blog/n0n-ransomware-what-you-need-know</guid>
-      <pubDate>Sat, 03 Oct 2026 08:29:54 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>N0n is a newly-emerged cyber extortion gang. The group was first spotted in the middle of September 2026, and within days it had published on its dark web leak site details of what it claimed to be around a dozen victims. Since then, the tally has continued to grow. Read more in… (via Graham Cluley)</description>
     </item>
   </channel>
 </rss>
