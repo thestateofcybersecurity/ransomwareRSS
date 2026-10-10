@@ -1,12 +1,57 @@
 {
-  "updated": "2026-10-10T13:52:26.513Z",
+  "updated": "2026-10-10T18:42:58.761Z",
   "items": [
+    {
+      "group": "UmBra",
+      "victim": "Helwan University (HITU)",
+      "sector": "Education",
+      "country": "EG",
+      "domain": "helwan.edu.eg",
+      "discovered": "2026-10-10T16:54:23.654Z",
+      "link": "https://www.ransomware.live/id/SGVsd2FuIFVuaXZlcnNpdHkgKEhJVFUpQFVtQnJh"
+    },
+    {
+      "group": "Redact",
+      "victim": "DexCom",
+      "sector": "Healthcare",
+      "country": "US",
+      "domain": "dexcom.com",
+      "discovered": "2026-10-10T16:53:38.697Z",
+      "link": "https://www.ransomware.live/id/RGV4Q29tQFJlZGFjdA"
+    },
+    {
+      "group": "qilin",
+      "victim": "ACI Proyectos SAS",
+      "sector": "Other",
+      "country": "CO",
+      "domain": "www.aciproyectos.com",
+      "discovered": "2026-10-10T16:06:32.517Z",
+      "link": "https://www.ransomware.live/id/QUNJIFByb3llY3RvcyBTQVNAcWlsaW4"
+    },
+    {
+      "group": "qilin",
+      "victim": "Secretaría de Modernización e Innovación del Municipio",
+      "sector": "Government & Defense",
+      "country": "AR",
+      "domain": "www.riogrande.gob.ar",
+      "discovered": "2026-10-10T16:05:54.361Z",
+      "link": "https://www.ransomware.live/id/U2VjcmV0YXLDrWEgZGUgTW9kZXJuaXphY2nDs24gZSBJbm5vdmFjacOzbiBkZWwgTXVuaWNpcGlvQHFpbGlu"
+    },
+    {
+      "group": "exitium",
+      "victim": "KOIKE Sanso Kogoyo Co. Ltd.",
+      "sector": "Manufacturing",
+      "country": "JP",
+      "domain": "koike-asia.com",
+      "discovered": "2026-10-10T14:31:50.448Z",
+      "link": "https://www.ransomware.live/id/S09JS0UgU2Fuc28gS29nb3lvIENvLiBMdGQuQGV4aXRpdW0"
+    },
     {
       "group": "rhysida",
       "victim": "Gress Clark Young & Schoepper",
       "sector": "Professional Services",
-      "country": "",
-      "domain": "",
+      "country": "US",
+      "domain": "gressandclarklaw.com",
       "discovered": "2026-10-10T12:46:50.865Z",
       "link": "https://www.ransomware.live/id/R3Jlc3MgQ2xhcmsgWW91bmcgJiBTY2hvZXBwZXJAcmh5c2lkYQ"
     },
@@ -114,7 +159,7 @@
       "victim": "Anne Arundel County",
       "sector": "Government & Defense",
       "country": "US",
-      "domain": "",
+      "domain": "aacounty.org",
       "discovered": "2026-10-09T19:38:34.194Z",
       "link": "https://www.ransomware.live/id/QW5uZSBBcnVuZGVsIENvdW50eUByaHlzaWRh"
     },
@@ -405,51 +450,6 @@
       "domain": "allsmilesnova.com",
       "discovered": "2026-10-09T19:22:53.300Z",
       "link": "https://www.ransomware.live/id/QWxsIFNtaWxlcyBEZW50YWwgb2YgRmFsbHMgQ2h1cmNoQHRoZWdlbnRsZW1lbg"
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "Majestic Holidays India Private Limited",
-      "sector": "Hospitality",
-      "country": "IN",
-      "domain": "ajesticindiaholidays.com",
-      "discovered": "2026-10-09T19:22:36.213Z",
-      "link": "https://www.ransomware.live/id/TWFqZXN0aWMgSG9saWRheXMgSW5kaWEgUHJpdmF0ZSBMaW1pdGVkQHRoZWdlbnRsZW1lbg"
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "Habbas Associates",
-      "sector": "",
-      "country": "SG",
-      "domain": "habbaslaw.com",
-      "discovered": "2026-10-09T19:22:32.596Z",
-      "link": "https://www.ransomware.live/id/SGFiYmFzIEFzc29jaWF0ZXNAdGhlZ2VudGxlbWVu"
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "Palma",
-      "sector": "Other",
-      "country": "US",
-      "domain": "palmainc.com",
-      "discovered": "2026-10-09T19:22:15.403Z",
-      "link": "https://www.ransomware.live/id/UGFsbWFAdGhlZ2VudGxlbWVu"
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "MercyMed of Columbus",
-      "sector": "Healthcare",
-      "country": "US",
-      "domain": "mercymedcolumbus.com",
-      "discovered": "2026-10-09T19:22:11.751Z",
-      "link": "https://www.ransomware.live/id/TWVyY3lNZWQgb2YgQ29sdW1idXNAdGhlZ2VudGxlbWVu"
-    },
-    {
-      "group": "thegentlemen",
-      "victim": "North Philadelphia Health System",
-      "sector": "Healthcare",
-      "country": "US",
-      "domain": "bewellctr.org",
-      "discovered": "2026-10-09T19:21:50.911Z",
-      "link": "https://www.ransomware.live/id/Tm9ydGggUGhpbGFkZWxwaGlhIEhlYWx0aCBTeXN0ZW1AdGhlZ2VudGxlbWVu"
     }
   ]
 }
