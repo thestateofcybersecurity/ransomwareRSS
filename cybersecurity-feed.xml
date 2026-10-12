@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 12 Oct 2026 00:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:29:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Let’s Encrypt TLS certificate lifetimes to drop from 90 to 64 days starting February 2027</title>
+      <link>https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/</guid>
+      <pubDate>Mon, 12 Oct 2026 07:23:11 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Websites that rely on Let’s Encrypt will soon have to renew their TLS certificates more often. Starting February 10, 2027, the certificate authority will issue certificates valid for 64 days by default, down from 90 days. Subscribers who already use Let’s Encrypt’s optional… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Geopolitics and the cyber resilience gap belong in your threat model</title>
+      <link>https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/</guid>
+      <pubDate>Mon, 12 Oct 2026 06:00:12 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security interview, Akshay Joshi, Head of the Centre for Cybersecurity at the World Economic Forum, talks about how AI, geopolitics and industrialized fraud are changing cyber risk. He discusses findings from the Global Cybersecurity Outlook 2026, including that… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Strands Box: Open-source sandbox for AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/</guid>
+      <pubDate>Mon, 12 Oct 2026 05:30:34 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules that can weigh what an agent has already done before letting it act again. Box is in developer preview and runs on Macs with Apple silicon, with Linux support planned.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>AI vulnerability patching has a grading problem</title>
+      <link>https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/12/ai-vulnerability-patching-grading-problem/</guid>
+      <pubDate>Mon, 12 Oct 2026 04:45:43 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Researchers at Northwestern University tested AI coding agents on 112 real security bugs. They found that a patch which stops a crash often fails the checks the project’s maintainers wrote for the fix. With Claude Opus 4.7, third of the patches that made the crash go away still… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>What makes some open source updates so difficult?</title>
+      <link>https://www.helpnetsecurity.com/2026/10/12/google-open-source-maintenance-costs-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/12/google-open-source-maintenance-costs-report/</guid>
+      <pubDate>Mon, 12 Oct 2026 04:00:49 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Many organizations adopt open source software because they see it as a cheaper alternative to proprietary development. Maintaining it, however, still requires engineering effort, according to Google’s case study, “How much does it cost to maintain a copy of an open source… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/33416</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33416</guid>
+      <pubDate>Mon, 12 Oct 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>Nippon Columbia malware incident exposes 8.6 million karaoke fan records</title>
       <link>https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/</link>
@@ -360,28 +408,12 @@
       <description>Anthropic’s OSS Scanner is a new, free service that uses the company’s strongest AI models to find security vulnerabilities in open-source software. Maintainers who opt in receive periodic scans and reports explaining suspected flaws, how to reproduce them and, when available,… (via Help Net Security)</description>
     </item>
     <item>
-      <title>FBI disrupts Flax Typhoon hacking tools used in global cyberattacks</title>
-      <link>https://www.helpnetsecurity.com/2026/10/09/fbi-flax-typhoon-microscan-fishhub-domains/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/09/fbi-flax-typhoon-microscan-fishhub-domains/</guid>
-      <pubDate>Fri, 09 Oct 2026 09:44:44 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>The FBI seized seven domains used to operate Microscan and FishHub, two hacking tools linked to Chinese state-sponsored hackers known as Flax Typhoon that were used to target critical infrastructure and other organizations in the US and abroad. Seizure notice (Source: US… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>AI Training Critical as Governance Challenges Grow</title>
       <link>https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ai-training-critical-as-governance/</guid>
       <pubDate>Fri, 09 Oct 2026 09:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>As AI adoption accelerates, ISACA is expanding its certification portfolio with a governance-focused credential designed to help professionals manage AI securely (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Product showcase: SimpleLogin keeps your email address private with aliases</title>
-      <link>https://www.helpnetsecurity.com/2026/10/09/product-showcase-simplelogin/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/09/product-showcase-simplelogin/</guid>
-      <pubDate>Fri, 09 Oct 2026 08:51:07 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>SimpleLogin is an email alias service from Proton that forwards messages to an existing mailbox. Users create addresses for registrations, purchases, and correspondence, giving them control over where their primary email address is shared. The service is open source and supports… (via Help Net Security)</description>
     </item>
     <item>
       <title>US Disrupts Chinese State-Sponsored Hacking Tools</title>
@@ -414,30 +446,6 @@
       <pubDate>Fri, 09 Oct 2026 07:52:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>October 2026 Patch Tuesday forecast: Time for an Office cleanup</title>
-      <link>https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/09/october-2026-patch-tuesday-forecast/</guid>
-      <pubDate>Fri, 09 Oct 2026 06:32:58 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>September 2026 Patch Tuesday set an all-time record with 973 CVEs addressed across the Microsoft portfolio. We’re only four months into the Patch Apocalypse and everyone seems to be numb with respect to the insane number of CVEs reported. Despite this massive number, only two,… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>What the BPFDoor backdoor tells us about attacks on the network edge</title>
-      <link>https://www.helpnetsecurity.com/2026/10/09/christiaan-beek-rapid7-bpfdoor-backdoor/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/09/christiaan-beek-rapid7-bpfdoor-backdoor/</guid>
-      <pubDate>Fri, 09 Oct 2026 06:00:22 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A backdoor that makes no noise is hard to catch, and that’s the point of BPFDoor. The Linux malware waits for a special “magic packet” before it acts. In this interview with Help Net Security, Christiaan Beek, VP of Rapid7 Intelligence, explains why its operators go after mail… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Thousands of wind and solar park systems sit exposed on the internet across Europe</title>
-      <link>https://www.helpnetsecurity.com/2026/10/09/eu-renewable-energy-cybersecurity/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/09/eu-renewable-energy-cybersecurity/</guid>
-      <pubDate>Fri, 09 Oct 2026 05:30:52 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Modat and NCSC-NL, the Dutch government’s cybersecurity center, found 8,547 internet-facing systems at wind farms and solar parks in 35 countries in and around the EU that should not be reachable from the internet. The systems range from login screens to a turbine control page… (via Help Net Security)</description>
     </item>
     <item>
       <title>Harness Gardens</title>
@@ -686,14 +694,6 @@
       <pubDate>Tue, 06 Oct 2026 12:21:53 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>The reports of OpenAI agents harming third-party sites keep coming. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)</title>
-      <link>https://isc.sans.edu/diary/rss/33402</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33402</guid>
-      <pubDate>Tue, 06 Oct 2026 11:45:11 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Possible Vulnerability in Apple’s Automatic Reboot</title>

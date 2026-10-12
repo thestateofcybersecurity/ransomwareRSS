@@ -1,12 +1,84 @@
 {
-  "updated": "2026-10-12T00:38:42.581Z",
+  "updated": "2026-10-12T07:29:15.866Z",
   "items": [
+    {
+      "group": "thegentlemen",
+      "victim": "Placer AI",
+      "sector": "Technology",
+      "country": "US",
+      "domain": "placer.ai",
+      "discovered": "2026-10-12T04:40:15.942Z",
+      "link": "https://www.ransomware.live/id/UGxhY2VyIEFJQHRoZWdlbnRsZW1lbg"
+    },
+    {
+      "group": "thegentlemen",
+      "victim": "BigID",
+      "sector": "Technology",
+      "country": "US",
+      "domain": "bigid.com",
+      "discovered": "2026-10-12T04:39:54.997Z",
+      "link": "https://www.ransomware.live/id/QmlnSURAdGhlZ2VudGxlbWVu"
+    },
+    {
+      "group": "thegentlemen",
+      "victim": "Confluent",
+      "sector": "Technology",
+      "country": "US",
+      "domain": "confluent.io",
+      "discovered": "2026-10-12T04:39:33.974Z",
+      "link": "https://www.ransomware.live/id/Q29uZmx1ZW50QHRoZWdlbnRsZW1lbg"
+    },
+    {
+      "group": "thegentlemen",
+      "victim": "MoneyGram",
+      "sector": "Financial Services",
+      "country": "US",
+      "domain": "moneygram.com",
+      "discovered": "2026-10-12T04:39:12.930Z",
+      "link": "https://www.ransomware.live/id/TW9uZXlHcmFtQHRoZWdlbnRsZW1lbg"
+    },
+    {
+      "group": "thegentlemen",
+      "victim": "KFC",
+      "sector": "Retail & E-Commerce",
+      "country": "US",
+      "domain": "kfc.com",
+      "discovered": "2026-10-12T04:38:52.626Z",
+      "link": "https://www.ransomware.live/id/S0ZDQHRoZWdlbnRsZW1lbg"
+    },
+    {
+      "group": "Redact",
+      "victim": "Eversource Energy",
+      "sector": "Energy & Utilities",
+      "country": "US",
+      "domain": "eversource.com",
+      "discovered": "2026-10-12T03:23:11.328Z",
+      "link": "https://www.ransomware.live/id/RXZlcnNvdXJjZSBFbmVyZ3lAUmVkYWN0"
+    },
+    {
+      "group": "nightspire",
+      "victim": "MGT Lojistik AŞ",
+      "sector": "Transportation",
+      "country": "TR",
+      "domain": "www.mgtlog.com",
+      "discovered": "2026-10-12T01:18:12.550Z",
+      "link": "https://www.ransomware.live/id/TUdUIExvamlzdGlrIEHFnkBuaWdodHNwaXJl"
+    },
+    {
+      "group": "nightspire",
+      "victim": "KP Industries",
+      "sector": "",
+      "country": "GB",
+      "domain": "kp-i.co.uk",
+      "discovered": "2026-10-12T01:17:49.237Z",
+      "link": "https://www.ransomware.live/id/S1AgSW5kdXN0cmllc0BuaWdodHNwaXJl"
+    },
     {
       "group": "emperador",
       "victim": "Spelman Logistics",
       "sector": "Transportation",
       "country": "",
-      "domain": "",
+      "domain": "spelmanlogistics.com",
       "discovered": "2026-10-11T22:21:27.370Z",
       "link": "https://www.ransomware.live/id/U3BlbG1hbiBMb2dpc3RpY3NAZW1wZXJhZG9y"
     },
@@ -378,78 +450,6 @@
       "domain": "rtaf.mi.th",
       "discovered": "2026-10-10T20:30:08.186Z",
       "link": "https://www.ransomware.live/id/Um95YWwgVGhhaSBBaXIgRm9yY2VAdGhlZ2VudGxlbWVu"
-    },
-    {
-      "group": "UmBra",
-      "victim": "Helwan University (HITU)",
-      "sector": "Education",
-      "country": "EG",
-      "domain": "helwan.edu.eg",
-      "discovered": "2026-10-10T16:54:23.654Z",
-      "link": "https://www.ransomware.live/id/SGVsd2FuIFVuaXZlcnNpdHkgKEhJVFUpQFVtQnJh"
-    },
-    {
-      "group": "Redact",
-      "victim": "DexCom",
-      "sector": "Healthcare",
-      "country": "US",
-      "domain": "dexcom.com",
-      "discovered": "2026-10-10T16:53:38.697Z",
-      "link": "https://www.ransomware.live/id/RGV4Q29tQFJlZGFjdA"
-    },
-    {
-      "group": "qilin",
-      "victim": "ACI Proyectos SAS",
-      "sector": "Other",
-      "country": "CO",
-      "domain": "www.aciproyectos.com",
-      "discovered": "2026-10-10T16:06:32.517Z",
-      "link": "https://www.ransomware.live/id/QUNJIFByb3llY3RvcyBTQVNAcWlsaW4"
-    },
-    {
-      "group": "qilin",
-      "victim": "Secretaría de Modernización e Innovación del Municipio",
-      "sector": "Government & Defense",
-      "country": "AR",
-      "domain": "www.riogrande.gob.ar",
-      "discovered": "2026-10-10T16:05:54.361Z",
-      "link": "https://www.ransomware.live/id/U2VjcmV0YXLDrWEgZGUgTW9kZXJuaXphY2nDs24gZSBJbm5vdmFjacOzbiBkZWwgTXVuaWNpcGlvQHFpbGlu"
-    },
-    {
-      "group": "exitium",
-      "victim": "KOIKE Sanso Kogoyo Co. Ltd.",
-      "sector": "Manufacturing",
-      "country": "JP",
-      "domain": "koike-asia.com",
-      "discovered": "2026-10-10T14:31:50.448Z",
-      "link": "https://www.ransomware.live/id/S09JS0UgU2Fuc28gS29nb3lvIENvLiBMdGQuQGV4aXRpdW0"
-    },
-    {
-      "group": "rhysida",
-      "victim": "Gress Clark Young & Schoepper",
-      "sector": "Professional Services",
-      "country": "US",
-      "domain": "gressandclarklaw.com",
-      "discovered": "2026-10-10T12:46:50.865Z",
-      "link": "https://www.ransomware.live/id/R3Jlc3MgQ2xhcmsgWW91bmcgJiBTY2hvZXBwZXJAcmh5c2lkYQ"
-    },
-    {
-      "group": "qilin",
-      "victim": "Glenhardie Country Club",
-      "sector": "Hospitality",
-      "country": "US",
-      "domain": "www.glenhardiecc.com",
-      "discovered": "2026-10-10T12:45:59.206Z",
-      "link": "https://www.ransomware.live/id/R2xlbmhhcmRpZSBDb3VudHJ5IENsdWJAcWlsaW4"
-    },
-    {
-      "group": "qilin",
-      "victim": "LD Constructora",
-      "sector": "Manufacturing",
-      "country": "CL",
-      "domain": "www.ldconstructora.cl",
-      "discovered": "2026-10-10T12:45:10.486Z",
-      "link": "https://www.ransomware.live/id/TEQgQ29uc3RydWN0b3JhQHFpbGlu"
     }
   ]
 }
