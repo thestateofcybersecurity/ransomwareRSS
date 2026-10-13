@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T00:51:30.335Z",
+  "updated": "2026-10-13T07:50:03.296Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+      "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+      "date": "2026-10-13T06:00:11.000Z",
+      "excerpt": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies. The activity, which targets Android devices built on MediaTek…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Be a good AI ancestor: Cybersecurity already gave us the playbook",
+      "link": "https://www.helpnetsecurity.com/2026/10/13/cybersecurity-ai-safety-red-lines/",
+      "date": "2026-10-13T05:30:01.000Z",
+      "excerpt": "AI has brought us to a familiar inflection point in the story of privacy, cybersecurity, and online safety. We have an opportunity to apply decades of cybersecurity experience before the next generation of technology creates consequences we cannot easily reverse. I learned the…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Frontier AI cleared every OT attack goal Booz Allen set in its lab",
+      "link": "https://www.helpnetsecurity.com/2026/10/13/frontier-ai-ot-security-threat/",
+      "date": "2026-10-13T05:00:51.000Z",
+      "excerpt": "Booz Allen set frontier AI models against an isolated industrial-control testbed in its Chantilly, Virginia lab and watched them clear all eight attack objectives it had defined. The Booz Allen frontier AI OT test architecture (Source: Booz Allen) The models mapped the network,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Most high-severity cloud security findings are downgraded once an AI agent checks the environment",
+      "link": "https://www.helpnetsecurity.com/2026/10/13/cloud-security-findings-severity-ai-agent/",
+      "date": "2026-10-13T04:30:02.000Z",
+      "excerpt": "Cloud security platforms turn every failed rule into a finding, and those findings pile up in queues sorted by severity. Research from Sola Security tested what happens to that order when each finding gets checked against the environment where it lives. The researchers, Leon…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Cybersecurity jobs available right now: October 13, 2026",
+      "link": "https://www.helpnetsecurity.com/2026/10/13/cybersecurity-jobs-available-right-now-october-13-2026/",
+      "date": "2026-10-13T04:00:40.000Z",
+      "excerpt": "CISO & Head of IT Trigo | Israel | On-site – View job details As a CISO & Head of IT, you will lead the IT and Information Security team, set strategy and priorities, manage budgets and report progress to management. You will oversee corporate infrastructure, IT support,…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33418",
+      "date": "2026-10-13T02:00:02.000Z",
+      "excerpt": ""
+    },
     {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
@@ -426,44 +474,12 @@
       "excerpt": "Beginning February 2027, all newly issued certificates will have a 64-day validity period by default. The post Let’s Encrypt Cuts Default Certificate Validity to 64 Days Ahead of 45-Day Switch appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Windows PCs missing key updates could lose security fixes in 2027",
-      "link": "https://www.helpnetsecurity.com/2026/10/12/microsoft-windows-update-certificate-rotation/",
-      "date": "2026-10-12T07:39:50.000Z",
-      "excerpt": "Microsoft is advising users and businesses to update Windows devices before digital certificates used to verify Windows Update servers expire in May and June 2027. The certificates expire on May 17 or June 19, depending on the Windows version. Devices without replacement…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
       "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
       "date": "2026-10-12T07:26:12.000Z",
       "excerpt": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine. The activity, which brings together commodity…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Let’s Encrypt TLS certificate lifetimes to drop from 90 to 64 days starting February 2027",
-      "link": "https://www.helpnetsecurity.com/2026/10/12/lets-encrypt-64-day-certificate-lifetime/",
-      "date": "2026-10-12T07:23:11.000Z",
-      "excerpt": "Websites that rely on Let’s Encrypt will soon have to renew their TLS certificates more often. Starting February 10, 2027, the certificate authority will issue certificates valid for 64 days by default, down from 90 days. Subscribers who already use Let’s Encrypt’s optional…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Geopolitics and the cyber resilience gap belong in your threat model",
-      "link": "https://www.helpnetsecurity.com/2026/10/12/akshay-joshi-wef-cyber-resilience-gap/",
-      "date": "2026-10-12T06:00:12.000Z",
-      "excerpt": "In this Help Net Security interview, Akshay Joshi, Head of the Centre for Cybersecurity at the World Economic Forum, talks about how AI, geopolitics and industrialized fraud are changing cyber risk. He discusses findings from the Global Cybersecurity Outlook 2026, including that…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Strands Box: Open-source sandbox for AI agents",
-      "link": "https://www.helpnetsecurity.com/2026/10/12/aws-strands-box-open-source-ai-agent-sandbox/",
-      "date": "2026-10-12T05:30:34.000Z",
-      "excerpt": "AWS released Strands Box, an open source sandbox for AI agents that pairs operating-system isolation with rules that can weigh what an agent has already done before letting it act again. Box is in developer preview and runs on Macs with Apple silicon, with Linux support planned.…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -496,14 +512,6 @@
       "link": "https://cyberscoop.com/edward-dubrovsky-cypfer-arrested-fbi-extortion-charges/",
       "date": "2026-10-10T13:35:50.000Z",
       "excerpt": "Details of the case align with the investigation into ShinyHunters’ attack on FBI IT systems. The post Canadian cybersecurity executive arrested in federal extortion case appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-      "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-      "date": "2026-10-10T11:00:00.000Z",
-      "excerpt": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because anyone hid them, but because an…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -794,14 +802,6 @@
       "excerpt": "Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management. The post CISO perspectives on managing vulnerability risks in the age of AI appeared first on Microsoft Security Blog ."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "More RMM Tools In the Wild, (Tue, Oct 6th)",
-      "link": "https://isc.sans.edu/diary/rss/33400",
-      "date": "2026-10-06T13:16:02.000Z",
-      "excerpt": "It seems that a trend startedâ¦ I continue my journey discovering more RMM (\"Remote Management & Monitoring\") tools abused by threat actors! A few days ago, I wrote a diary[1] about ScreenConnect used in the wild. Today, I found another one."
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
@@ -824,14 +824,6 @@
       "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
       "date": "2026-10-06T10:00:33.000Z",
       "excerpt": "Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure. The post Blinder Tunnel Campaign Targets Iraqi Infrastructure appeared first on Unit 42 ."
-    },
-    {
-      "source": "Google Project Zero",
-      "sourceUrl": "https://googleprojectzero.blogspot.com/",
-      "title": "How to fix a bug in a fix",
-      "link": "https://projectzero.google/2026/10/emergency-patching.html",
-      "date": "2026-10-06T07:00:00.000Z",
-      "excerpt": "Project Zero often works with software vendors to remediate the vulnerabilities we report and provide broader guidance on making software more secure. Some vendors express concern about potential scenarios in which they are unable to fix vulnerabilities that are causing…"
     }
   ]
 }
