@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T20:51:18.124Z",
+  "updated": "2026-10-14T23:58:32.331Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,70 @@
     }
   ],
   "items": [
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "I Write My Own Stage Directions Now",
+      "link": "https://danielmiessler.com/blog/kai-fish-voice?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-14T23:24:00.000Z",
+      "excerpt": "Charcoal sketch: a purple robot hand writes marks on a cream script strip that loops into a vintage microphone, and out of the microphone comes a sienna ribbon of sound carrying three theater masks that go from a scowl, to a resolute look, to a big…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "date": "2026-10-14T22:56:47.000Z",
+      "excerpt": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
+      "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
+      "date": "2026-10-14T22:00:44.000Z",
+      "excerpt": "We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware. The post Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant appeared first on Unit 42 ."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia",
+      "link": "https://cyberscoop.com/olvx-cybercrime-marketplace-operator-charged-north-macedonia/",
+      "date": "2026-10-14T21:40:31.000Z",
+      "excerpt": "Officials disrupted the cybercrime marketplace in April and arrested the alleged 20-year-old operator at that time. Illicit sales reportedly exceeded $500,000 since 2023. The post Authorities charge alleged OLVX cybercrime marketplace operator in North Macedonia appeared first…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "date": "2026-10-14T21:35:09.000Z",
+      "excerpt": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
+      "date": "2026-10-14T21:20:13.000Z",
+      "excerpt": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
+      "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
+      "date": "2026-10-14T21:10:00.000Z",
+      "excerpt": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Yam Store: The Phishing Network Behind a Billion Messages",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages",
+      "date": "2026-10-14T20:57:16.000Z",
+      "excerpt": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide."
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -386,14 +450,6 @@
       "excerpt": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records",
-      "link": "https://therecord.media/new-ivanti-microsoft-bugs-exploitation",
-      "date": "2026-10-14T12:35:00.000Z",
-      "excerpt": "The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
@@ -416,14 +472,6 @@
       "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
       "date": "2026-10-14T11:50:00.000Z",
       "excerpt": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hirudo Android malware replaces banking apps to evade security checks",
-      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-      "date": "2026-10-14T11:41:20.000Z",
-      "excerpt": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]"
     },
     {
       "source": "The Hacker News",
@@ -730,30 +778,6 @@
       "excerpt": "Bring AI out of the shadows with visibility and control that help your organization adopt AI securely."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Flock can now issue CVEs for its own products. Should we trust it?",
-      "link": "https://cyberscoop.com/flock-cve-numbering-authority-cna/",
-      "date": "2026-10-12T22:11:50.000Z",
-      "excerpt": "Flock joined the CVE Program as a CNA, giving the company authority to assign IDs to vulnerabilities in its own surveillance cameras and license plate readers. The post Flock can now issue CVEs for its own products. Should we trust it? appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack",
-      "date": "2026-10-12T21:42:42.000Z",
-      "excerpt": "Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Prominent Ransomware Negotiator Faces Extortion Charges",
-      "link": "https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges",
-      "date": "2026-10-12T20:00:53.000Z",
-      "excerpt": "Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "FBI Arrests Suspect in FBI-Hacking Case",
@@ -856,22 +880,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
       "date": "2026-10-08T11:07:35.000Z",
       "excerpt": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #487: Clippy’s crypto comeback",
-      "link": "https://grahamcluley.com/smashing-security-podcast-487/",
-      "date": "2026-10-07T23:10:49.000Z",
-      "excerpt": "Microsoft's Twitter account, with its 13 million followers, was hijacked by a paperclip. There was no ransomware or data theft, just Clippy, a dodgy crypto coin, and a corporate apology that wasn't from Microsoft either. Meanwhile, UK losses from hacked email and social media…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
-      "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
-      "date": "2026-10-07T22:00:16.000Z",
-      "excerpt": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments The post Evolution of Web3 in Cloud Supply Chain Attacks appeared first on Unit 42 ."
     }
   ]
 }
