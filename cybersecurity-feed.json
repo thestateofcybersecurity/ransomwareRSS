@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T00:26:05.509Z",
+  "updated": "2026-10-14T06:15:31.576Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,70 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Patching and preventing issues: What are the lessons you can learn?",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/kunal-modasiya-qualys-vulnerability-remediation/",
+      "date": "2026-10-14T05:30:59.000Z",
+      "excerpt": "In this Help Net Security interview, Kunal Modasiya, Senior VP & GM at Qualys, talks about why patching is still hard to get right. He explains how business pressure, revenue-critical systems, and patches that break things keep fixes from going out. Modasiya argues that speed…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Meshery: Open-source cloud-native manager for Kubernetes",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/meshery-open-source-cloud-native-manager-kubernetes/",
+      "date": "2026-10-14T05:00:01.000Z",
+      "excerpt": "Meshery is an open-source tool for designing, deploying and managing Kubernetes infrastructure, built by Layer5 and its community and hosted as a Cloud Native Computing Foundation project. Teams use it to lay out clusters and applications on a visual canvas, check the design,…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
+      "date": "2026-10-14T05:00:00.000Z",
+      "excerpt": "Organizations are reporting that employees face threats to their families, stalking, physical violence, and abduction. But these alarming claims are hard to verify."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+      "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+      "date": "2026-10-14T04:34:43.000Z",
+      "excerpt": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Most companies count AI agents as insiders, and CISOs worry about their own liability",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk/",
+      "date": "2026-10-14T04:30:05.000Z",
+      "excerpt": "Software that works on an employee’s behalf is now turning up in incident reports. At 95% of the companies in a Trellix survey of 600 CISOs, an AI agent or other autonomous system was linked to an insider incident in the past 12 months. The agent logs in, reaches sensitive…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Google quadruples Chrome bug bounty base pay, offers up to $20,000 for sandbox escapes",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/google-chrome-vulnerability-rewards-program-updates/",
+      "date": "2026-10-14T04:00:43.000Z",
+      "excerpt": "Google is updating its Chrome Vulnerability Rewards Program (Chrome VRP), increasing payments for memory corruption vulnerabilities and expanding rewards for other security flaws, fixes and research tools. “A primary goal of the Chrome VRP has always been to identify ways to…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33424",
+      "date": "2026-10-14T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+      "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+      "date": "2026-10-14T01:59:25.000Z",
+      "excerpt": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or…"
+    },
     {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
@@ -316,10 +380,10 @@
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
-      "title": "Adobe Patches 140 Vulnerabilities Across 10 Products",
+      "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
       "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
       "date": "2026-10-13T17:14:42.000Z",
-      "excerpt": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 140 Vulnerabilities Across 10 Products appeared first on SecurityWeek ."
+      "excerpt": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek ."
     },
     {
       "source": "SecurityWeek",
@@ -434,14 +498,6 @@
       "excerpt": "Lattice Semiconductor has released version 5.0 of its Lattice Sentry solution stack, adding post-quantum cryptography (PQC) to its platform firmware resilience (PFR) and attestation capabilities. The update provides CNSA 2.0-aligned, NIST-compliant protection for AI data centers…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Ridge Security’s RidgeOne keeps autonomous penetration testing data inside customer environments",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/ridge-security-ridgeone/",
-      "date": "2026-10-13T12:49:07.000Z",
-      "excerpt": "Ridge Security has announced RidgeOne, a self-contained solution that brings autonomous AI-powered penetration testing and agentic red teaming to mid-sized organizations. Combining Ridge Security’s RidgeGen agentic security validation platform with an open-weight AI model…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
@@ -450,36 +506,12 @@
       "excerpt": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns appeared first on SecurityWeek ."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-      "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-      "date": "2026-10-13T11:57:06.000Z",
-      "excerpt": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next. With AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through systems faster than security…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Mozilla’s Firefox Enterprise lets companies block shadow AI in the browser",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/mozilla-firefox-enterprise-platform/",
-      "date": "2026-10-13T11:21:41.000Z",
-      "excerpt": "Mozilla’s Firefox Enterprise is a paid platform that lets organizations control how sensitive data is shared, check device security, and manage employee access to web applications. The platform pairs the browser with a management dashboard hosted on an organization’s own…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "XWorm RAT Evolves Into Surveillance Platform",
       "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
       "date": "2026-10-13T11:13:10.000Z",
       "excerpt": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-      "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-      "date": "2026-10-13T11:09:10.000Z",
-      "excerpt": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner. LG has issued a fix, according to an advisory published by SSD Secure Disclosure on October 12. The…"
     },
     {
       "source": "SecurityWeek",
@@ -504,22 +536,6 @@
       "link": "https://www.infosecurity-magazine.com/news/uk-government-sweeping-ai-security/",
       "date": "2026-10-13T09:45:00.000Z",
       "excerpt": "The government is planning tweaks to legislation, new incident response and more to head of AI security threats"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Meta outlines Muse Wonder safeguards for AI agents acting on your behalf",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/meta-muse-wonder-full-models/",
-      "date": "2026-10-13T09:35:02.000Z",
-      "excerpt": "Meta’s Muse Wonder and Muse Wonder Full models are built for AI agents that handle tasks such as preparing insurance claims, reviewing leases and developing software. The models combine document analysis and tool use with the ability to retain relevant details across…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "GitLab admins urged to patch critical RCE flaw (CVE-2026-97229)",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/gitlab-ci-cd-regular-expression-compiler-vulnerability-cve-2026-97229/",
-      "date": "2026-10-13T09:19:45.000Z",
-      "excerpt": "GitLab is urging users of self-managed instances to patch a critical vulnerability (CVE-2026-97229) in its CI/CD Regular Expression Compiler that could allow remote attackers to execute arbitrary code on GitLab servers. About CVE-2026-97229 CVE-2026-97229 is an integer overflow…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -714,14 +730,6 @@
       "excerpt": "A colossal purple intelligence building a stone arch while a small figure on a ladder lifts a cheap cracked mask off its face, and a second figure watches with arms crossed/images/renaming-ai-to-super-intelligence.webp/images/renaming-ai-to-super-intelligence.webp I'm torn on…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "ASOS Breach Reveals the Risks in Customer-Facing SaaS",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/asos-breach-risks-customer-facing-saas",
-      "date": "2026-10-09T20:58:32.000Z",
-      "excerpt": "The attack on the British retailer shows that compromising a single identity can lead to much deeper penetration of the corporate network."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Friday Squid Blogging: I Caught a Squid",
@@ -816,14 +824,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
       "date": "2026-10-07T16:00:00.000Z",
       "excerpt": "Read how How Microsoft Security's FORGE Lab is scaling vulnerability research from Windows to the Linux kernel. The post 3 lessons from frontier AI vulnerability research appeared first on Microsoft Security Blog ."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)",
-      "link": "https://isc.sans.edu/diary/rss/33406",
-      "date": "2026-10-07T14:59:33.000Z",
-      "excerpt": "On October 5th, Atlassian published patches&#x26;#xc2;&#x26;#xa0;for multiple products to fix an \"Arbitrary File Access\" vulnerability &#x26;#x5b;CVE-2026-21589&#x26;#x5d;. An attacker can read arbitrary files in the web application&#x26;#39;s directory, potentially exposing…"
     },
     {
       "source": "Krebs on Security",
