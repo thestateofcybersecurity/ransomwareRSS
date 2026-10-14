@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T06:15:31.576Z",
+  "updated": "2026-10-14T12:08:13.385Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,20 +114,204 @@
   ],
   "items": [
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Patching and preventing issues: What are the lessons you can learn?",
-      "link": "https://www.helpnetsecurity.com/2026/10/14/kunal-modasiya-qualys-vulnerability-remediation/",
-      "date": "2026-10-14T05:30:59.000Z",
-      "excerpt": "In this Help Net Security interview, Kunal Modasiya, Senior VP & GM at Qualys, talks about why patching is still hard to get right. He explains how business pressure, revenue-critical systems, and patches that break things keep fixes from going out. Modasiya argues that speed…"
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hirudo Android malware replaces banking apps to evade security checks",
+      "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+      "date": "2026-10-14T11:41:20.000Z",
+      "excerpt": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+      "date": "2026-10-14T11:19:02.000Z",
+      "excerpt": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+      "date": "2026-10-14T11:08:22.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+      "date": "2026-10-14T11:00:00.000Z",
+      "excerpt": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own.…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms",
+      "link": "https://www.securityweek.com/us-arrests-two-in-crackdown-on-north-korean-it-worker-laptop-farms/",
+      "date": "2026-10-14T10:55:21.000Z",
+      "excerpt": "Investigators stormed 40 locations in Texas and seized 187 laptops used by North Korean IT workers to hide their location. The post US Arrests Two in Crackdown on North Korean IT Worker Laptop Farms appeared first on SecurityWeek ."
     },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Meshery: Open-source cloud-native manager for Kubernetes",
-      "link": "https://www.helpnetsecurity.com/2026/10/14/meshery-open-source-cloud-native-manager-kubernetes/",
-      "date": "2026-10-14T05:00:01.000Z",
-      "excerpt": "Meshery is an open-source tool for designing, deploying and managing Kubernetes infrastructure, built by Layer5 and its community and hosted as a Cloud Native Computing Foundation project. Teams use it to lay out clusters and applications on a visual canvas, check the design,…"
+      "title": "Phase Eight, Hobbs and Whistles owner joins growing list of fashion retailers targeted by hackers",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/tfg-london-cyberattack-phase-eight-hobbs-whistles/",
+      "date": "2026-10-14T10:48:12.000Z",
+      "excerpt": "People who have shopped with Phase Eight, Hobbs or Whistles will have to wait to find out whether their personal information was exposed in a cyberattack on the company behind the three UK fashion brands. TFG London, the UK business of South African retail group The Foschini…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+      "date": "2026-10-14T10:48:09.000Z",
+      "excerpt": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Radware MCP Server Protection monitors agent activity and guards against protocol abuse",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/radware-mcp-server-protection/",
+      "date": "2026-10-14T10:35:25.000Z",
+      "excerpt": "Radware has announced Radware Model Context Protocol (MCP) Server Protection, a purpose-built solution designed to help organizations more securely adopt MCP as AI agents gain greater access to enterprise applications, data and business workflows. The solution is intended to…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "SolarWinds Avior pairs IT automation with human approval and audit trails",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/solarwinds-avior/",
+      "date": "2026-10-14T10:27:11.000Z",
+      "excerpt": "SolarWinds has announced the launch of Avior, a standalone, goal-oriented agentic AI system purpose-built for mission-critical IT environments. Built on the SolarWinds Platform, Avior will help IT teams securely define goals, coordinate specialized agents, and track progress…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Chainguard Harness uses frontier AI to test running applications for vulnerabilities",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/chainguard-harness/",
+      "date": "2026-10-14T10:16:04.000Z",
+      "excerpt": "Chainguard has announced Chainguard Harness, a new cyber harness that uses frontier AI models like Anthropic’s Claude Mythos 5.1 to find and fix exploitable vulnerabilities in an organization’s application code. Harness builds an application from an organization’s source code in…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Passkey Authentications Double but Adoption Remains Slow",
+      "link": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
+      "date": "2026-10-14T10:15:00.000Z",
+      "excerpt": "Dashlane data finds that passkey adoption is growing but not quickly enough"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Scytale MCP gives AI tools scoped, read-only access to compliance data",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/scytale-mcp/",
+      "date": "2026-10-14T10:00:46.000Z",
+      "excerpt": "Scytale has announced the launch of Scytale MCP, a Model Context Protocol server that connects a customer’s AI tools directly to their compliance program. With Scytale MCP, tools such as Claude and ChatGPT can query live compliance data and complete routine work through plain…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "French Supermarket Cyber-Attack Impacts More Refrigeration Controllers",
+      "link": "https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/",
+      "date": "2026-10-14T09:30:00.000Z",
+      "excerpt": "At least two French supermarkets using temperature regulation devices from Dixell Electronics also experienced food stock disruptions"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "GitHub adopts cheaper AI model to catch secrets developers leave in code",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/github-secret-detection-model/",
+      "date": "2026-10-14T09:26:41.000Z",
+      "excerpt": "GitHub has trained a credential classifier to improve generic secret detection and reduce false alerts. The new pipeline cut median post-push scan execution time by 86% and model serving costs by more than 98% compared with its previous large language model (LLM) pipeline.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Attackers chained three Ivanti zero-days to gain root on fully patched VPN appliances",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/ivanti-zero-days-gain-root-patched-vpn-appliances/",
+      "date": "2026-10-14T08:59:19.000Z",
+      "excerpt": "A threat actor has been using an exploit chain combining three vulnerabilities in Ivanti’s Connect Secure (ICS) appliances to breach organizations, collect credentials, exfiltrate configuration data, and perform network reconnaissance. “In the first week of October 2026,…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Microsoft Breaks Patch Tuesday Record Again with 1400+ CVEs",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-tuesday-record-1/",
+      "date": "2026-10-14T08:45:00.000Z",
+      "excerpt": "Microsoft issued its largest ever round of security updates in the October Patch Tuesday"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OpenAI engineer arrested for allegedly trying to eavesdrop on executive meetings",
+      "link": "https://www.helpnetsecurity.com/2026/10/14/openai-engineer-arrested-hidden-recording-device/",
+      "date": "2026-10-14T08:40:41.000Z",
+      "excerpt": "A recording device wrapped in toilet paper and plugged into the back of a television in an executive conference room at OpenAI’s San Francisco office has led to the arrest of one of the company’s engineers. Abdulrahman Alfozan, a 35-year-old Saudi national who had worked at…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Billion-Dollar Companies Twice as Likely to Leave Critical Vulnerabilities Unpatched",
+      "link": "https://www.infosecurity-magazine.com/news/companies-leave-critical/",
+      "date": "2026-10-14T07:55:00.000Z",
+      "excerpt": "New Chainguard research reveals larger companies struggle to patch vulnerabilities due to business priorities and operational disruption"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+      "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+      "date": "2026-10-14T07:46:57.000Z",
+      "excerpt": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijack the program that runs the…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise",
+      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-114-flaws-as-mozilla-unveils-firefox-enterprise/",
+      "date": "2026-10-14T07:38:51.000Z",
+      "excerpt": "Mozilla has introduced Firefox Enterprise for organizations with strict compliance, governance, and security requirements. The post Chrome, Firefox Updates Patch 114 Flaws as Mozilla Unveils Firefox Enterprise appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products",
+      "link": "https://www.securityweek.com/citrix-fortinet-ivanti-patch-29-vulnerabilities-across-their-products/",
+      "date": "2026-10-14T07:26:35.000Z",
+      "excerpt": "Critical-severity flaws could lead to authentication bypass, code execution, and sensitive authentication information leaks. The post Citrix, Fortinet, Ivanti Patch 29 Vulnerabilities Across Their Products appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day",
+      "link": "https://www.securityweek.com/microsoft-patches-record-1413-vulnerabilities-including-exploited-windows-zero-day/",
+      "date": "2026-10-14T07:16:12.000Z",
+      "excerpt": "The most important is CVE-2026-96951, a security feature bypass flaw in Windows that has been exploited in the wild. The post Microsoft Patches Record 1,413 Vulnerabilities, Including Exploited Windows Zero-Day appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)",
+      "link": "https://isc.sans.edu/diary/rss/33420",
+      "date": "2026-10-14T06:49:46.000Z",
+      "excerpt": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg)."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-netweaver-s-4hana-vulnerabilities/",
+      "date": "2026-10-14T06:12:10.000Z",
+      "excerpt": "The bugs could allow attackers to invoke internal operations and execute code, completely compromising the system. The post SAP Patches Critical NetWeaver, S/4HANA Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+      "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+      "date": "2026-10-14T05:52:28.000Z",
+      "excerpt": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over. The protected area is a VBS enclave, an isolated slice of memory the operating system uses to guard secrets, and the one…"
     },
     {
       "source": "Dark Reading",
@@ -146,22 +330,6 @@
       "excerpt": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation. These include 1,102 flaws in Windows, 134 in Office, 61 in Developer Tools, 36 in SharePoint…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Most companies count AI agents as insiders, and CISOs worry about their own liability",
-      "link": "https://www.helpnetsecurity.com/2026/10/14/ciso-ai-agent-insider-risk/",
-      "date": "2026-10-14T04:30:05.000Z",
-      "excerpt": "Software that works on an employee’s behalf is now turning up in incident reports. At 95% of the companies in a Trellix survey of 600 CISOs, an AI agent or other autonomous system was linked to an insider incident in the past 12 months. The agent logs in, reaches sensitive…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Google quadruples Chrome bug bounty base pay, offers up to $20,000 for sandbox escapes",
-      "link": "https://www.helpnetsecurity.com/2026/10/14/google-chrome-vulnerability-rewards-program-updates/",
-      "date": "2026-10-14T04:00:43.000Z",
-      "excerpt": "Google is updating its Chrome Vulnerability Rewards Program (Chrome VRP), increasing payments for memory corruption vulnerabilities and expanding rewards for other security flaws, fixes and research tools. “A primary goal of the Chrome VRP has always been to identify ways to…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
@@ -175,7 +343,15 @@
       "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
       "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
       "date": "2026-10-14T01:59:25.000Z",
-      "excerpt": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or…"
+      "excerpt": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations. Abdulrahman Alfozan, 35, has been charged with using or…"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Show, don’t tell: Sophos AI at CAMLIS",
+      "link": "https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis",
+      "date": "2026-10-14T00:00:00.000Z",
+      "excerpt": "The Sophos AI team presents a novel technique for calibrating agentic SOC analysts"
     },
     {
       "source": "Krebs on Security",
@@ -192,6 +368,14 @@
       "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
       "date": "2026-10-13T23:07:00.000Z",
       "excerpt": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Saudi national charged with planting spy device in OpenAI executive conference room",
+      "link": "https://therecord.media/saudi-national-charged-with-spy-device-openai",
+      "date": "2026-10-13T23:00:00.000Z",
+      "excerpt": "Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco."
     },
     {
       "source": "BleepingComputer",
@@ -338,68 +522,12 @@
       "excerpt": "Small artificial intelligence (AI) models may be months away from developing capabilities to self-replicate on IoT devices like smart ovens and off-brand Android TV boxes, according to a warning from Anthropic. The frontier AI lab said small AI models could form autonomous,…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "UK Housing Ombudsman Service investigates 'security incident'",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-      "date": "2026-10-13T18:19:44.000Z",
-      "excerpt": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Docker Fixes Critical Two-Year-Old Hub Flaw That Let One User Push Images as Another",
-      "link": "https://thehackernews.com/2026/10/docker-fixes-critical-two-year-old-hub.html",
-      "date": "2026-10-13T18:03:18.000Z",
-      "excerpt": "A flaw in Docker Hub, the registry where container images are published and downloaded, let one user push, pull, or delete images as another user. Docker fixed the flaw on September 30 and says it found no evidence that anyone exploited it. The flaw was in the feature that…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-      "date": "2026-10-13T17:49:38.000Z",
-      "excerpt": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Attacker Chains Three Ivanti Connect Secure Zero-Days for Root Access, Only Two Patched So Far",
-      "link": "https://thehackernews.com/2026/10/attacker-chains-three-ivanti-connect.html",
-      "date": "2026-10-13T17:33:11.000Z",
-      "excerpt": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected versions to \"act immediately.\"…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-      "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-      "date": "2026-10-13T17:28:50.000Z",
-      "excerpt": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (BTP) that use the SDK, SAP's…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Adobe Patches 176 Vulnerabilities Across 11 Products",
       "link": "https://www.securityweek.com/adobe-patches-140-vulnerabilities-across-10-products/",
       "date": "2026-10-13T17:14:42.000Z",
       "excerpt": "The flaws affect products such as Commerce, Photoshop, ColdFusion, Substance 3D, Dimension, FrameMaker and Bridge. The post Adobe Patches 176 Vulnerabilities Across 11 Products appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Google Partially Reverses Chrome Bug Bounty Cuts",
-      "link": "https://www.securityweek.com/google-partially-reverses-chrome-bug-bounty-cuts/",
-      "date": "2026-10-13T17:00:00.000Z",
-      "excerpt": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-      "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-      "date": "2026-10-13T16:18:18.000Z",
-      "excerpt": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal their credentials. \"Your…"
     },
     {
       "source": "The Record",
@@ -426,22 +554,6 @@
       "excerpt": "More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach",
-      "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
-      "date": "2026-10-13T16:01:00.000Z",
-      "excerpt": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "North Korean hackers target Ukrainian experts for possible intelligence on Russia's war",
-      "link": "https://therecord.media/north-korea-hackers-russia-ukraine",
-      "date": "2026-10-13T15:15:00.000Z",
-      "excerpt": "North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "European Retail Firms Confirm Cyber Incidents",
@@ -450,76 +562,12 @@
       "excerpt": "Several Europe-based retail firms have confirmed experiencing cyber incidents, while H&M said it is “investigating” such claims"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Trellix Wise for Private Cloud delivers auditable AI investigations for security teams",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/trellix-wise-for-private-cloud-delivers-auditable-ai-investigations-for-security-teams/",
-      "date": "2026-10-13T13:35:06.000Z",
-      "excerpt": "Trellix has announced Trellix Wise for Private Cloud, an on-premises, federated AI core for agentic security operations. The solution extends a security fabric across an organization’s existing infrastructure to improve threat detection and response while preserving data…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Defenders Reluctant to Deploy Agentic AI as a Cybersecurity Tool",
       "link": "https://www.infosecurity-magazine.com/news/defenders-skeptical-agentic-ai/",
       "date": "2026-10-13T13:30:00.000Z",
       "excerpt": "Flashpoint research suggests that only 25% of security teams have actively deployed AI, with many concerned about AI Agents’ negative impact"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "NinjaOne combines Katana AI and MCP server to accelerate IT problem resolution",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/ninjaone-katana-ai-mcp/",
-      "date": "2026-10-13T13:26:43.000Z",
-      "excerpt": "NinjaOne has announced Katana AI, an agentic AI technician that supports and elevates IT workers, and the NinjaOne MCP server, an agentic orchestration connector that extends the platform’s governed access to the AI tools teams already use. “Modern IT environments generate more…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Ukrainian drones hit Yandex data centers, sparking claims that Russian troll farms went quiet",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/ukraine-drone-strikes-yandex-data-centers/",
-      "date": "2026-10-13T13:15:05.000Z",
-      "excerpt": "Russian tech giant Yandex confirmed that drones hit three of its data centers, shutting down the facilities in Sasovo and Vladimir and knocking out part of the infrastructure in Kaluga. On October 11, Yandex Cloud told its customers that the platform was running in emergency…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-      "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-      "date": "2026-10-13T13:12:32.000Z",
-      "excerpt": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers. The administrative penalty is the largest issued by the data protection…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Lattice Sentry 5.0 brings quantum-resistant firmware security to AI data centers",
-      "link": "https://www.helpnetsecurity.com/2026/10/13/lattice-sentry-5-0-solution-stack/",
-      "date": "2026-10-13T13:04:59.000Z",
-      "excerpt": "Lattice Semiconductor has released version 5.0 of its Lattice Sentry solution stack, adding post-quantum cryptography (PQC) to its platform firmware resilience (PFR) and attestation capabilities. The update provides CNSA 2.0-aligned, NIST-compliant protection for AI data centers…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns",
-      "link": "https://www.securityweek.com/small-ai-models-may-soon-be-able-to-self-replicate-on-iot-devices-anthropic-warns/",
-      "date": "2026-10-13T11:58:29.000Z",
-      "excerpt": "Experiments show cheap TV boxes can run capable AI models, and small models may soon be able to spread across such devices on their own. The post Small AI Models Could Soon Self-Replicate on IoT Devices, Anthropic Warns appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "XWorm RAT Evolves Into Surveillance Platform",
-      "link": "https://www.securityweek.com/xworm-rat-evolves-into-surveillance-platform/",
-      "date": "2026-10-13T11:13:10.000Z",
-      "excerpt": "Expanded plugin count allows the malware to monitor users’ location, stream live audio, and interact with authenticated browser sessions. The post XWorm RAT Evolves Into Surveillance Platform appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "AI Turns Familiar Cyberattacks Into a Race Against Time",
-      "link": "https://www.securityweek.com/ai-turns-familiar-cyberattacks-into-a-race-against-time/",
-      "date": "2026-10-13T11:00:00.000Z",
-      "excerpt": "IBM’s Steve Wallin talks to SecurityWeek on the effect of AI-driven attacks on enterprise defenses. The post AI Turns Familiar Cyberattacks Into a Race Against Time appeared first on SecurityWeek ."
     },
     {
       "source": "Troy Hunt",
@@ -634,14 +682,6 @@
       "excerpt": "The acquisition pairs Elisity's zero-trust access controls with IonQ's post-quantum cryptography business as federal agencies and major companies accelerate timelines for quantum-ready encryption. The post IonQ to buy zero-trust security firm Elisity in deal valued at up to $1.3…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Luna Moth Leaks Shed Light on Ransomware Group's Inner Workings",
-      "link": "https://www.infosecurity-magazine.com/news/luna-moth-leaks-ransomware-playbook/",
-      "date": "2026-10-12T15:15:00.000Z",
-      "excerpt": "Leaked documents suggest a multi-pronged operation, with social engineering and more technical attackers working together to manipulate a single target"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "FBI Arrests Suspect in FBI-Hacking Case",
@@ -658,36 +698,12 @@
       "excerpt": "Fahmida Y Rashid will keep the momentum going as she leads Dark Reading."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Major French Supermarket Chains Hit by Cyber-Attack, Food Stock Impacted",
-      "link": "https://www.infosecurity-magazine.com/news/french-supermarket-chains/",
-      "date": "2026-10-12T11:57:00.000Z",
-      "excerpt": "The CEO of Cooperative U confirmed a cyber-attack affected the food stock in several stores from October 11"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Your AI agent is only as safe as the packages it downloads",
       "link": "https://cyberscoop.com/ai-agent-software-supply-chain-security-op-ed/",
       "date": "2026-10-12T10:00:00.000Z",
       "excerpt": "NVIDIA's new agent safety platform puts enforcement in the right place. It still must know what it is letting through. The post Your AI agent is only as safe as the packages it downloads appeared first on CyberScoop ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Net Closes Around ShinyHunters with Another FBI Arrest",
-      "link": "https://www.infosecurity-magazine.com/news/net-closes-shinyhunters-another/",
-      "date": "2026-10-12T10:00:00.000Z",
-      "excerpt": "The FBI has arrested a Canadian cybersecurity executive as it continues its crackdown on ShinyHunters"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Months-Old Palo Alto VPN Vulnerability Remains a Target for Ransomware Groups",
-      "link": "https://www.infosecurity-magazine.com/news/palo-alto-vpn-vulnerability-target/",
-      "date": "2026-10-12T09:15:00.000Z",
-      "excerpt": "ReliaQuest confirmed that the Qilin and Settra ransomware groups are actively exploiting a Palo Alto vulnerability patched in May"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -794,14 +810,6 @@
       "excerpt": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs . Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a…"
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)",
-      "link": "https://isc.sans.edu/diary/rss/33408",
-      "date": "2026-10-08T02:00:02.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Smashing Security podcast #487: Clippy’s crypto comeback",
@@ -832,14 +840,6 @@
       "link": "https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/",
       "date": "2026-10-07T13:48:45.000Z",
       "excerpt": "A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has learned that the suspect, who uses the…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Apple’s Verified Photography System",
-      "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
-      "date": "2026-10-07T11:07:36.000Z",
-      "excerpt": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions…"
     }
   ]
 }
