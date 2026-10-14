@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T21:21:33.395Z",
+  "updated": "2026-10-14T00:26:05.509Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,78 @@
     }
   ],
   "items": [
+    {
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/",
+      "title": "Microsoft Patches More Than 1,400 Security Flaws",
+      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
+      "date": "2026-10-13T23:24:53.000Z",
+      "excerpt": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say",
+      "link": "https://www.securityweek.com/employee-arrested-after-listening-device-found-in-openai-conference-room-fbi-and-the-company-say/",
+      "date": "2026-10-13T23:07:00.000Z",
+      "excerpt": "Saudi national Abdulrahman Alfozan was arrested Friday and terminated by OpenAI. The post Employee Arrested After Listening Device Found in OpenAI Conference Room, FBI and the Company Say appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+      "date": "2026-10-13T22:33:02.000Z",
+      "excerpt": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
+      "date": "2026-10-13T22:29:57.000Z",
+      "excerpt": "The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
+      "link": "https://cyberscoop.com/ivanti-connect-secure-zero-day-actively-exploited/",
+      "date": "2026-10-13T22:10:42.000Z",
+      "excerpt": "The security vendor said it initially discovered a portion of the defect during internal security checks in June, but the company said it didn’t meet the threshold for an out-of-band release. The post Ivanti misses opportunity to fix vulnerability before attackers got to work…"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
+      "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
+      "date": "2026-10-13T22:00:04.000Z",
+      "excerpt": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk…"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "DOJ charges 14 over a sprawling North Korean remote work scheme",
+      "link": "https://cyberscoop.com/doj-north-korea-remote-work-laptop-farms/",
+      "date": "2026-10-13T21:43:23.000Z",
+      "excerpt": "Operation Lonestar Roundup uncovered an operation that used stolen identities to secretly funnel $3 million from 70 U.S. employers back to Pyongyang. The post DOJ charges 14 over a sprawling North Korean remote work scheme appeared first on CyberScoop ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+      "date": "2026-10-13T21:33:26.000Z",
+      "excerpt": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "North Korea Phishes Ukrainians for War Intel",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel",
+      "date": "2026-10-13T21:24:45.000Z",
+      "excerpt": "The Democratic People's Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -258,14 +330,6 @@
       "excerpt": "Google is restructuring bug bounty rewards with a focus on complex memory safety vulnerabilities. The post Google Partially Reverses Chrome Bug Bounty Cuts appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-      "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-      "date": "2026-10-13T16:44:18.000Z",
-      "excerpt": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
@@ -304,14 +368,6 @@
       "link": "https://www.securityweek.com/meta-says-hackers-took-code-personal-data-of-1500-in-github-breach/",
       "date": "2026-10-13T16:01:00.000Z",
       "excerpt": "Most of the affected individuals are Meta employees in the United States and they are being offered credit monitoring services. The post Meta Says Hackers Took Code, Personal Data of 1,500 in GitHub Breach appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
-      "date": "2026-10-13T15:45:50.000Z",
-      "excerpt": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]"
     },
     {
       "source": "The Record",
@@ -440,14 +496,6 @@
       "link": "https://www.troyhunt.com/weekly-update-525/",
       "date": "2026-10-13T10:47:27.000Z",
       "excerpt": "I remember the name of that AI doco now - The AI Doc: Or How I Became an Apocaloptimist . I was watching it on the long-haul flight home the other day, and what I found particularly engrossing was the polar-opposite opinions from a bunch of people: \"it'"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "$86 Million Crypto Heist Linked to Ledger Signer Hardware Implant",
-      "link": "https://www.securityweek.com/86-million-crypto-heist-linked-to-ledger-signer-hardware-implant/",
-      "date": "2026-10-13T10:36:05.000Z",
-      "excerpt": "A small circuit board hidden under the signers’ screens read user data and transmitted it to the attackers. The post $86 Million Crypto Heist Linked to Ledger Signer Hardware Implant appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -682,22 +730,6 @@
       "excerpt": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Scramble Drives Cybersecurity M&A Boom",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "date": "2026-10-09T19:26:26.000Z",
-      "excerpt": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "date": "2026-10-09T17:21:00.000Z",
-      "excerpt": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center."
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack",
@@ -720,22 +752,6 @@
       "link": "https://danielmiessler.com/blog/harness-gardens?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-10-09T05:10:00.000Z",
       "excerpt": "A gardener tends flowers inside a hand-built wooden frame while a great purple tree grows up through it and far beyond/images/harness-gardens.webp/images/harness-gardens.webp I feel like everyone's treating their harnesses/blog/the-answer-to-the-harness-question kind of like a…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Leader of 764 pleads guilty, faces up to 30 years in prison",
-      "link": "https://cyberscoop.com/764-leader-prasan-nepal-guilty/",
-      "date": "2026-10-08T21:41:53.000Z",
-      "excerpt": "Prasan Nepal ran the nihilistic violent extremist network for almost four years and played a crucial role facilitating the grooming, manipulation and extortion of minors. The post Leader of 764 pleads guilty, faces up to 30 years in prison appeared first on CyberScoop ."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Anthropic rolls out program for ‘long-term commitment’ to secure critical infrastructure, open source software",
-      "link": "https://cyberscoop.com/anthropic-cybersecurity-program-critical-infrastructure-open-source/",
-      "date": "2026-10-08T21:32:40.000Z",
-      "excerpt": "The critical infrastructure defense program will seek to pair Claude models, Anthropic engineers and threat research with the expertise of cybersecurity companies. The post Anthropic rolls out program for ‘long-term commitment’ to secure critical infrastructure, open source…"
     },
     {
       "source": "Microsoft Security Blog",
@@ -824,14 +840,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html",
       "date": "2026-10-07T11:07:36.000Z",
       "excerpt": "Apple just released a system called “Reference Image.” It can verify the image is exactly as taken by an iPhone—new models only—without tying it to a specific iPhone or photographer. It can also verify that multiple images came from the same iPhone. Other industry solutions…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "CISA’s 17 Common Active Directory Compromise Techniques: A Sophos MDR Perspective",
-      "link": "https://www.sophos.com/en-us/blog/cisa-active-directory-compromise-techniques",
-      "date": "2026-10-07T00:00:00.000Z",
-      "excerpt": "Active Directory defenses must combine identity fundamentals, telemetry, and rapid response as attackers reach the environment’s first breach attempt within a median of 11 hours."
     }
   ]
 }
