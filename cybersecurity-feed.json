@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:15:26.850Z",
+  "updated": "2026-10-15T22:29:16.839Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,86 @@
     }
   ],
   "items": [
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+      "link": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
+      "date": "2026-10-15T22:00:09.000Z",
+      "excerpt": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure appeared first on Unit 42 ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "date": "2026-10-15T21:55:07.000Z",
+      "excerpt": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Proofpoint to buy Varonis for $6.3 billion",
+      "link": "https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/",
+      "date": "2026-10-15T21:13:58.000Z",
+      "excerpt": "The deal pairs the email security giant's massive threat intelligence with Varonis' visibility into corporate data, as both companies race to secure the AI agents now roaming enterprise networks. The post Proofpoint to buy Varonis for $6.3 billion appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
+      "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
+      "date": "2026-10-15T20:46:00.000Z",
+      "excerpt": "The incident, which involved a government contractor, has halted all production of bankruptcy notices."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "date": "2026-10-15T20:43:20.000Z",
+      "excerpt": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "link": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "date": "2026-10-15T20:32:41.000Z",
+      "excerpt": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
+      "date": "2026-10-15T20:25:04.000Z",
+      "excerpt": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
+      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
+      "date": "2026-10-15T20:24:36.000Z",
+      "excerpt": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Android gets AI defenses against messaging scams, fake calls",
+      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
+      "date": "2026-10-15T19:48:43.000Z",
+      "excerpt": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "The next election influence campaign will target your AI chatbot",
+      "link": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
+      "date": "2026-10-15T19:29:58.000Z",
+      "excerpt": "Someone is seeding the internet with hyperlocal content about political races. Researchers say it’s designed to train AI chatbots to favor candidates across a broad range of issues. The post The next election influence campaign will target your AI chatbot appeared first on…"
+    },
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
@@ -322,14 +402,6 @@
       "excerpt": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-      "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-      "date": "2026-10-15T11:46:59.000Z",
-      "excerpt": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. The campaigns also increase operational pressure…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
@@ -434,14 +506,6 @@
       "excerpt": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope. The post CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "date": "2026-10-15T08:06:47.000Z",
-      "excerpt": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Optro automates GRC workflows with auditable AI agents",
@@ -530,14 +594,6 @@
       "excerpt": "The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the front line."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "date": "2026-10-14T22:56:47.000Z",
-      "excerpt": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]"
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
@@ -568,14 +624,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
       "date": "2026-10-14T21:20:13.000Z",
       "excerpt": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
-      "link": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
-      "date": "2026-10-14T21:10:00.000Z",
-      "excerpt": "A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country's Interior Ministry along with the FBI."
     },
     {
       "source": "Dark Reading",
@@ -706,14 +754,6 @@
       "excerpt": "Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg)."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking",
-      "date": "2026-10-14T05:00:00.000Z",
-      "excerpt": "Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)",
@@ -738,14 +778,6 @@
       "excerpt": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Zero-Days Lurk in Microsoft's Overgrown October Patch Tuesday",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday",
-      "date": "2026-10-13T22:29:57.000Z",
-      "excerpt": "The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Ivanti misses opportunity to fix vulnerability before attackers got to work and made it a zero-day",
@@ -762,28 +794,12 @@
       "excerpt": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk…"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "DOJ charges 14 over a sprawling North Korean remote work scheme",
-      "link": "https://cyberscoop.com/doj-north-korea-remote-work-laptop-farms/",
-      "date": "2026-10-13T21:43:23.000Z",
-      "excerpt": "Operation Lonestar Roundup uncovered an operation that used stolen identities to secretly funnel $3 million from 70 U.S. employers back to Pyongyang. The post DOJ charges 14 over a sprawling North Korean remote work scheme appeared first on CyberScoop ."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
       "link": "https://isc.sans.edu/diary/rss/33422",
       "date": "2026-10-13T19:25:52.000Z",
       "excerpt": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#x26;#39;s patch Tuesday, and one is already exploited."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "FTC says ‘sextortion’ protection companies deceived customers about services",
-      "link": "https://cyberscoop.com/ftc-lawsuit-dmitry-belkin-sextortion-fraud/",
-      "date": "2026-10-13T19:23:48.000Z",
-      "excerpt": "A federal lawsuit claims that Dmitry Belkin and his companies routinely failed to deliver on services to protect customers, generated fake evidence and denied refunds to victims. The post FTC says ‘sextortion’ protection companies deceived customers about services appeared first…"
     },
     {
       "source": "Troy Hunt",
@@ -896,22 +912,6 @@
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
       "date": "2026-10-09T14:35:04.000Z",
       "excerpt": "The US State Department is offering up to US $10 million for information about the whereabouts of Zhang Yu, a 44-year-old Chinese national who is accused of being a key figure in China's state-sponsored hacking group, Hafnium. Read more in my article on the Hot for Security blog."
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Harness Gardens",
-      "link": "https://danielmiessler.com/blog/harness-gardens?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-09T05:10:00.000Z",
-      "excerpt": "A gardener tends flowers inside a hand-built wooden frame while a great purple tree grows up through it and far beyond/images/harness-gardens.webp/images/harness-gardens.webp I feel like everyone's treating their harnesses/blog/the-answer-to-the-harness-question kind of like a…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
-      "date": "2026-10-08T20:44:28.000Z",
-      "excerpt": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on…"
     }
   ]
 }
