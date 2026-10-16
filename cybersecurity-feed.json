@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:20:48.876Z",
+  "updated": "2026-10-16T12:35:48.184Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,156 @@
   ],
   "items": [
     {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "date": "2026-10-16T13:00:00.000Z",
+      "excerpt": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "date": "2026-10-16T12:01:29.000Z",
+      "excerpt": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "date": "2026-10-16T11:46:40.000Z",
+      "excerpt": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Scammers clone candidates’ voices to steal cash and voter data ahead of 2026 midterms, FBI warns",
+      "link": "https://www.helpnetsecurity.com/2026/10/16/usa-2026-midterm-election-scams/",
+      "date": "2026-10-16T11:34:35.000Z",
+      "excerpt": "Three weeks before Americans vote in the 2026 midterm election, fraudsters are borrowing candidate names, logos and slogans to collect fake donations and harvest personal data, the FBI warned. “The FBI warns the public that scammers could exploit the 2026 US Midterm Election to…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "date": "2026-10-16T11:30:00.000Z",
+      "excerpt": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Backdooring Open-Weight AI Models",
+      "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+      "date": "2026-10-16T11:04:53.000Z",
+      "excerpt": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "date": "2026-10-16T10:53:22.000Z",
+      "excerpt": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+      "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "date": "2026-10-16T10:32:11.000Z",
+      "excerpt": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "China Espionage Actor Actively Targeting Critical BeyondTrust Flaw, Google Warns",
+      "link": "https://www.infosecurity-magazine.com/news/china-actor-beyondtrust-flaw-google/",
+      "date": "2026-10-16T10:10:00.000Z",
+      "excerpt": "The suspected PRC-aligned group Armory Castle has been observed exploiting the newly disclosed flaw for long-term persistence"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fake Arch Linux AUR packages exploit typos to run malware with root privileges",
+      "link": "https://www.helpnetsecurity.com/2026/10/16/arch-linux-aur-malware-yay-paru/",
+      "date": "2026-10-16T09:58:35.000Z",
+      "excerpt": "Arch Linux users who mistyped yay or paru while installing the package helpers from the Arch User Repository (AUR) may have given a stranger root access to their machine. AUR is a popular community package source for Arch Linux and related distributions, hosting user-submitted…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+      "date": "2026-10-16T09:54:34.000Z",
+      "excerpt": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Cyber Incident at BAE Systems Disrupts US Federal Bankruptcy Noticing",
+      "link": "https://www.infosecurity-magazine.com/news/cyber-incident-bae-us-bankruptcy/",
+      "date": "2026-10-16T09:05:00.000Z",
+      "excerpt": "Several services of the US Bankruptcy Noticing Center are unavailable due to a cyber incident affecting defense contractor BAE Systems"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Android adds AI-powered scam alerts, hangs up on bank impostors",
+      "link": "https://www.helpnetsecurity.com/2026/10/16/android-enhanced-built-in-scam-protection/",
+      "date": "2026-10-16T08:53:41.000Z",
+      "excerpt": "Google’s new scam protections cover Google Messages and third-party messaging apps, with an enhanced protection mode, expanded scam alerts and safeguards against call-forwarding and screen-sharing scams. “With scams growing harder to spot, it’s nearly impossible for users to…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "date": "2026-10-16T08:44:22.000Z",
+      "excerpt": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
+      "link": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
+      "date": "2026-10-16T07:55:06.000Z",
+      "excerpt": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "date": "2026-10-16T07:37:35.000Z",
+      "excerpt": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]"
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
       "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
       "date": "2026-10-16T07:12:51.000Z",
       "excerpt": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "date": "2026-10-16T06:55:55.000Z",
+      "excerpt": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "date": "2026-10-16T06:53:09.000Z",
+      "excerpt": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations…"
     },
     {
       "source": "BleepingComputer",
@@ -176,14 +320,6 @@
       "link": "https://www.helpnetsecurity.com/2026/10/16/new-infosec-products-of-the-week-october-16-2026/",
       "date": "2026-10-16T04:00:27.000Z",
       "excerpt": "Here’s a look at the most interesting products from the past week, featuring releases from NinjaOne, Qualys, Scytale, and SolarWinds. NinjaOne combines Katana AI and MCP server to accelerate IT problem resolution NinjaOne has announced Katana AI, an agentic AI technician that…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Fastfetch 2.70.0 changes how Disk free space is reported",
-      "link": "https://www.helpnetsecurity.com/2026/10/16/fastfetch-2-70-0-released/",
-      "date": "2026-10-16T03:53:43.000Z",
-      "excerpt": "Fastfetch is a system information tool written mainly in C that runs on Linux, macOS, Windows 8.1 and later, Android and several BSDs. The fastfetch project removed QuickJS scripting and changed what its Disk, Command and Shell modules report in version 2.70.0, released October…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -386,52 +522,12 @@
       "excerpt": "A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
-      "link": "https://www.securityweek.com/uk-legal-aid-agency-hack-scope-widens-after-forensic-review/",
-      "date": "2026-10-15T14:22:34.000Z",
-      "excerpt": "Most of the data is related to applications, claims, and payments submitted between 2007 and 2025. The post UK Legal Aid Agency Hack Scope Widens After Forensic Review appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-      "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-      "date": "2026-10-15T14:11:36.000Z",
-      "excerpt": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777. Help TDS is assessed to be active since at least 2017, offering PHP code…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Is AI pentesting as good as a human pentester?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-      "date": "2026-10-15T14:01:11.000Z",
-      "excerpt": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where AI agents can improve security…"
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Suspected Kazakhstan-linked hackers target governments across former Soviet states",
       "link": "https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage",
       "date": "2026-10-15T13:55:00.000Z",
       "excerpt": "A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "ServiceNow gives AI agents a passport, and limits on what they can do",
-      "link": "https://www.helpnetsecurity.com/2026/10/15/servicenow-ai-passport/",
-      "date": "2026-10-15T13:51:22.000Z",
-      "excerpt": "ServiceNow has announced a new AI Passport solution and significant advances in AI governance to help ensure AI agents are production-ready by combining runtime governance, platform integration, and comprehensive oversight, all inside ServiceNow’s operational AI harness.…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "KGB RAT trojan packs webcam spying, password theft and a “fun” menu to terrorize victims",
-      "link": "https://www.helpnetsecurity.com/2026/10/15/kgb-rat-windows-trojan-webcam-spying-password-theft/",
-      "date": "2026-10-15T13:51:03.000Z",
-      "excerpt": "A Windows trojan advertised on hacking forums for as little as $150 a month promises buyers access to a victim’s webcam, microphone, keystrokes and saved passwords, and comes with a set of features made to frighten the person on the other side of the screen. The malware, called…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -442,14 +538,6 @@
       "excerpt": "France-based operators of Danfoss refrigeration controllers have sharply reduced their internet exposure after the October 11 cyber-attack"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "date": "2026-10-15T13:18:36.000Z",
-      "excerpt": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "New Aoki Infostealer Targets AI Coding Assistant Credentials",
@@ -458,60 +546,12 @@
       "excerpt": "Symantec warned that Aoki can steal API keys and tokens from a number of popular AI coding assistants, including Claude and Gemini"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-      "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-      "date": "2026-10-15T12:58:05.000Z",
-      "excerpt": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005. There are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly let an attacker run code, and…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "date": "2026-10-15T12:50:42.000Z",
-      "excerpt": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-      "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-      "date": "2026-10-15T12:28:13.000Z",
-      "excerpt": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw. One code-execution flaw is in React Server Components, and the other in librsvg, the…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Police arrests 95 suspects in international CSAM crackdown action",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
-      "date": "2026-10-15T11:55:38.000Z",
-      "excerpt": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
       "link": "https://www.infosecurity-magazine.com/news/high-risk-vulnerabilities-llm-tool/",
       "date": "2026-10-15T11:30:00.000Z",
       "excerpt": "CVE-2026-35029 and CVE-2026-59823 affect LiteLLM, which is commonly used by enterprises to connect their AI applications to providers like OpenAI and Anthropic"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "CikaBika Bot RAT Uses Discord for C&C",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "date": "2026-10-15T11:25:58.000Z",
-      "excerpt": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&C appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-      "date": "2026-10-15T10:15:32.000Z",
-      "excerpt": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT. The post Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies appeared first on SecurityWeek ."
     },
     {
       "source": "CyberScoop",
@@ -528,14 +568,6 @@
       "link": "https://www.infosecurity-magazine.com/news/microsoft-yam-store-one-billion/",
       "date": "2026-10-15T10:00:00.000Z",
       "excerpt": "Microsoft and partners reveal a major Chinese-language phishing network centered around the Yam Store marketplace"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
-      "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
-      "date": "2026-10-15T09:55:19.000Z",
-      "excerpt": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised. The post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on SecurityWeek ."
     },
     {
       "source": "Daniel Miessler",
@@ -658,14 +690,6 @@
       "excerpt": "A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Anthropic 'SneakPeek' Flaw Is a Silent Zero-Click Threat",
-      "link": "https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat",
-      "date": "2026-10-14T20:09:42.000Z",
-      "excerpt": "A bug in Claude Code Desktop's preview pane can allow adversaries to quietly steal credentials from developers, including SSH private keys, AWS credentials, and Claude 0Auth tokens."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Microsoft drops an actively exploited zero-day among record high of 1,413 vulnerabilities",
@@ -744,22 +768,6 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
       "date": "2026-10-14T12:55:06.000Z",
       "excerpt": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Passkey Authentications Double but Adoption Remains Slow",
-      "link": "https://www.infosecurity-magazine.com/news/passkey-authentications-double/",
-      "date": "2026-10-14T10:15:00.000Z",
-      "excerpt": "Dashlane data finds that passkey adoption is growing but not quickly enough"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "French Supermarket Cyber-Attack Impacts More Refrigeration Controllers",
-      "link": "https://www.infosecurity-magazine.com/news/french-supermarket-hack-more/",
-      "date": "2026-10-14T09:30:00.000Z",
-      "excerpt": "At least two French supermarkets using temperature regulation devices from Dixell Electronics also experienced food stock disruptions"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -904,14 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html",
       "date": "2026-10-09T20:24:45.000Z",
       "excerpt": "On Wednesday I spent a day fishing, on a small boat out of Gloucester, MA. We caught many cod (none of which we could keep), and a bunch of hake and mackerel (all of which we could keep). And…I caught a squid! Near as I can tell, it’s a longfin squid, sometimes called a Boston…"
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
-      "date": "2026-10-09T14:35:04.000Z",
-      "excerpt": "The US State Department is offering up to US $10 million for information about the whereabouts of Zhang Yu, a 44-year-old Chinese national who is accused of being a key figure in China's state-sponsored hacking group, Hafnium. Read more in my article on the Hot for Security blog."
     }
   ]
 }
