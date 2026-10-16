@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T17:32:03.282Z",
+  "updated": "2026-10-16T21:24:30.717Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,9 +114,89 @@
   ],
   "items": [
     {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "date": "2026-10-16T21:06:47.000Z",
+      "excerpt": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "date": "2026-10-16T20:59:01.000Z",
+      "excerpt": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "date": "2026-10-16T20:34:37.000Z",
+      "excerpt": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "date": "2026-10-16T20:00:59.000Z",
+      "excerpt": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "date": "2026-10-16T19:49:30.000Z",
+      "excerpt": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "date": "2026-10-16T19:22:12.000Z",
+      "excerpt": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "date": "2026-10-16T19:13:59.000Z",
+      "excerpt": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "date": "2026-10-16T18:37:50.000Z",
+      "excerpt": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "date": "2026-10-16T17:48:45.000Z",
+      "excerpt": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif,…"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+      "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
+      "date": "2026-10-16T17:47:54.000Z",
+      "excerpt": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first on Unit 42 ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "date": "2026-10-16T17:20:03.000Z",
       "excerpt": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]"
@@ -128,6 +208,14 @@
       "link": "https://cyberscoop.com/china-espionage-attacks-beyondtrust-zero-day-armory-castle/",
       "date": "2026-10-16T17:09:09.000Z",
       "excerpt": "Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers. The post Prolific Chinese espionage group exploits BeyondTrust zero-day appeared first on…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "date": "2026-10-16T16:43:39.000Z",
+      "excerpt": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows…"
     },
     {
       "source": "The Hacker News",
@@ -474,14 +562,6 @@
       "excerpt": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure appeared first on Unit 42 ."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-      "date": "2026-10-15T21:55:07.000Z",
-      "excerpt": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Proofpoint to buy Varonis for $6.3 billion",
@@ -496,14 +576,6 @@
       "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
       "date": "2026-10-15T20:46:00.000Z",
       "excerpt": "The incident, which involved a government contractor, has halted all production of bankruptcy notices."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-      "date": "2026-10-15T20:43:20.000Z",
-      "excerpt": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it."
     },
     {
       "source": "Ars Technica Security",
@@ -522,36 +594,12 @@
       "excerpt": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-      "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-      "date": "2026-10-15T20:24:36.000Z",
-      "excerpt": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Android gets AI defenses against messaging scams, fake calls",
-      "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-      "date": "2026-10-15T19:48:43.000Z",
-      "excerpt": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "The next election influence campaign will target your AI chatbot",
       "link": "https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/",
       "date": "2026-10-15T19:29:58.000Z",
       "excerpt": "Someone is seeding the internet with hyperlocal content about political races. Researchers say it’s designed to train AI chatbots to favor candidates across a broad range of issues. The post The next election influence campaign will target your AI chatbot appeared first on…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-      "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-      "date": "2026-10-15T18:49:33.000Z",
-      "excerpt": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted…"
     },
     {
       "source": "SecurityWeek",
@@ -568,14 +616,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
       "date": "2026-10-15T16:24:29.000Z",
       "excerpt": "Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-      "date": "2026-10-15T15:17:18.000Z",
-      "excerpt": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments."
     },
     {
       "source": "Infosecurity Magazine",
@@ -642,14 +682,6 @@
       "excerpt": "The ICO has handed the Metropolitan Police a reprimand and enforcement notice after privacy failings linked to the Auror platform"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "EU Grocers Pay a Steep Price for Unpatched Fridge Firmware",
-      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware",
-      "date": "2026-10-15T07:00:00.000Z",
-      "excerpt": "Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)",
@@ -712,14 +744,6 @@
       "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
       "date": "2026-10-14T21:35:09.000Z",
       "excerpt": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching",
-      "date": "2026-10-14T21:20:13.000Z",
-      "excerpt": "CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on."
     },
     {
       "source": "CyberScoop",
@@ -888,30 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/sophos-ai-defense-now-available",
       "date": "2026-10-13T00:00:00.000Z",
       "excerpt": "Bring AI out of the shadows with visibility and control that help your organization adopt AI securely."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "FBI Arrests Suspect in FBI-Hacking Case",
-      "link": "https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html",
-      "date": "2026-10-12T15:01:26.000Z",
-      "excerpt": "In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Last week, the FBI arrested (alternate link ) someone associated with that crime."
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "FBI Arrests Executive at Ransomware Negotiation Firm",
-      "link": "https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/",
-      "date": "2026-10-10T00:17:42.000Z",
-      "excerpt": "Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "My Thoughts on Renaming AI to Super Intelligence",
-      "link": "https://danielmiessler.com/blog/renaming-ai-to-super-intelligence?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-09T23:51:00.000Z",
-      "excerpt": "A colossal purple intelligence building a stone arch while a small figure on a ladder lifts a cheap cracked mask off its face, and a second figure watches with arms crossed/images/renaming-ai-to-super-intelligence.webp/images/renaming-ai-to-super-intelligence.webp I'm torn on…"
     }
   ]
 }

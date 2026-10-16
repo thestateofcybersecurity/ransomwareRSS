@@ -5,10 +5,90 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 16 Oct 2026 17:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:24:30 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Zero-click attacks used targeted ads to deliver Candiru spyware</title>
+      <title>Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html</guid>
+      <pubDate>Fri, 16 Oct 2026 21:06:47 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy. (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>OpenAI models hacked a crypto wallet and breached more websites</title>
+      <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
+      <pubDate>Fri, 16 Oct 2026 20:59:01 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>The actions could have resulted in criminal charges had humans been behind the keyboard. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs</title>
+      <link>https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs</link>
+      <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs</guid>
+      <pubDate>Fri, 16 Oct 2026 20:34:37 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Critical BlockStrap flaw lets hackers run code on Magento servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/</guid>
+      <pubDate>Fri, 16 Oct 2026 20:00:59 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk</title>
+      <link>https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk</guid>
+      <pubDate>Fri, 16 Oct 2026 19:49:30 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform</title>
+      <link>https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield</link>
+      <guid isPermaLink="false">https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield</guid>
+      <pubDate>Fri, 16 Oct 2026 19:22:12 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The launch follows the acquisition of catalog&#39;s assets and the appointment of Laurent Guengant as CEO earlier this year. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Enterprise AI Enters Risk Management Phase as Security Concerns Rise</title>
+      <link>https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise</guid>
+      <pubDate>Fri, 16 Oct 2026 19:13:59 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>AI Takes Control of Robotic Arm in 16 Minutes Flat</title>
+      <link>https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes</link>
+      <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes</guid>
+      <pubDate>Fri, 16 Oct 2026 18:37:50 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug</title>
+      <link>https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html</guid>
+      <pubDate>Fri, 16 Oct 2026 17:48:45 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD&#39;s KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif,… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026</title>
+      <link>https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/</guid>
+      <pubDate>Fri, 16 Oct 2026 17:47:54 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
+    <item>
+      <title>Targeted ads installed Candiru spyware in zero-click attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/</guid>
       <pubDate>Fri, 16 Oct 2026 17:20:03 GMT</pubDate>
@@ -22,6 +102,14 @@
       <pubDate>Fri, 16 Oct 2026 17:09:09 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers. The post Prolific Chinese espionage group exploits BeyondTrust zero-day appeared first on… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Attackers Tampered with AOMEI Backupper&#39;s Update Servers for Minutes to Deliver a Backdoor</title>
+      <link>https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html</guid>
+      <pubDate>Fri, 16 Oct 2026 16:43:39 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor&#39;s own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows… (via The Hacker News)</description>
     </item>
     <item>
       <title>UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing</title>
@@ -368,14 +456,6 @@
       <description>Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
-      <title>F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud</title>
-      <link>https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud</link>
-      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud</guid>
-      <pubDate>Thu, 15 Oct 2026 21:55:07 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Built from decades of threat intelligence research, the new resource explains scams from the victims&#39; perspective and tracks emerging forms of cyber crime. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Proofpoint to buy Varonis for $6.3 billion</title>
       <link>https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/</link>
       <guid isPermaLink="false">https://cyberscoop.com/proofpoint-acquires-varonis-systems-data-security/</guid>
@@ -390,14 +470,6 @@
       <pubDate>Thu, 15 Oct 2026 20:46:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>The incident, which involved a government contractor, has halted all production of bankruptcy notices. (via The Record)</description>
-    </item>
-    <item>
-      <title>AI Slop Isn&#39;t Just for Social Media; It&#39;s Ruining Cyberattacks, Too</title>
-      <link>https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks</link>
-      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks</guid>
-      <pubDate>Thu, 15 Oct 2026 20:43:20 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Don&#39;t buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it. (via Dark Reading)</description>
     </item>
     <item>
       <title>Targeted ads delivered 0-click exploits to install mercenary malware</title>
@@ -416,36 +488,12 @@
       <description>Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory</title>
-      <link>https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html</guid>
-      <pubDate>Thu, 15 Oct 2026 20:24:36 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel&#39;s live cloud sandboxes, and Vercel confirmed it. The flaw, now tracked as CVE-2026-99999 and… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Android gets AI defenses against messaging scams, fake calls</title>
-      <link>https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/</guid>
-      <pubDate>Thu, 15 Oct 2026 19:48:43 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>The next election influence campaign will target your AI chatbot</title>
       <link>https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/</link>
       <guid isPermaLink="false">https://cyberscoop.com/ai-chatbots-election-influence-hyperlocal-networks/</guid>
       <pubDate>Thu, 15 Oct 2026 19:29:58 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Someone is seeding the internet with hyperlocal content about political races. Researchers say it’s designed to train AI chatbots to favor candidates across a broad range of issues. The post The next election influence campaign will target your AI chatbot appeared first on… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More</title>
-      <link>https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html</guid>
-      <pubDate>Thu, 15 Oct 2026 18:49:33 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week&#39;s security stories. The rest gets interesting in different ways. A small permission can lead to a big theft. A trusted… (via The Hacker News)</description>
     </item>
     <item>
       <title>Context Is King in the Fight Against Modern Cyberattacks</title>
@@ -462,14 +510,6 @@
       <pubDate>Thu, 15 Oct 2026 16:24:29 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Vulnerability Management Isn&#39;t About the Score — It&#39;s About How It Applies to You</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you</guid>
-      <pubDate>Thu, 15 Oct 2026 15:17:18 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments. (via Dark Reading)</description>
     </item>
     <item>
       <title>France: Internet-Exposed Danfoss Controllers Drop 71% After Cyber-Attack</title>
@@ -536,14 +576,6 @@
       <description>The ICO has handed the Metropolitan Police a reprimand and enforcement notice after privacy failings linked to the Auror platform (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>EU Grocers Pay a Steep Price for Unpatched Fridge Firmware</title>
-      <link>https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware</link>
-      <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware</guid>
-      <pubDate>Thu, 15 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Hundreds of stores lost millions of euros because they hired third parties to manage the outdated OT firmware running their cooling systems. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)</title>
       <link>https://isc.sans.edu/diary/rss/33428</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33428</guid>
@@ -606,14 +638,6 @@
       <pubDate>Wed, 14 Oct 2026 21:35:09 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles</title>
-      <link>https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</link>
-      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching</guid>
-      <pubDate>Wed, 14 Oct 2026 21:20:13 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on. (via Dark Reading)</description>
     </item>
     <item>
       <title>Microsoft drops an actively exploited zero-day among record high of 1,413 vulnerabilities</title>
@@ -782,30 +806,6 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Bring AI out of the shadows with visibility and control that help your organization adopt AI securely. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>FBI Arrests Suspect in FBI-Hacking Case</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html</guid>
-      <pubDate>Mon, 12 Oct 2026 15:01:26 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Last week, the FBI arrested (alternate link ) someone associated with that crime. (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>FBI Arrests Executive at Ransomware Negotiation Firm</title>
-      <link>https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/</guid>
-      <pubDate>Sat, 10 Oct 2026 00:17:42 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested the co-founder of a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive data on thousands of agents, multiple… (via Krebs on Security)</description>
-    </item>
-    <item>
-      <title>My Thoughts on Renaming AI to Super Intelligence</title>
-      <link>https://danielmiessler.com/blog/renaming-ai-to-super-intelligence?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/renaming-ai-to-super-intelligence?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Fri, 09 Oct 2026 23:51:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>A colossal purple intelligence building a stone arch while a small figure on a ladder lifts a cheap cracked mask off its face, and a second figure watches with arms crossed/images/renaming-ai-to-super-intelligence.webp/images/renaming-ai-to-super-intelligence.webp I&#39;m torn on… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>
