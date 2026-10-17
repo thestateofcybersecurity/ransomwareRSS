@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 Oct 2026 14:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 17:20:30 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/</guid>
+      <pubDate>Sat, 17 Oct 2026 15:18:51 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Drupal patches critical RCE flaws, warns exploits may emerge soon</title>
+      <link>https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/</guid>
+      <pubDate>Sat, 17 Oct 2026 14:32:48 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>MALFEX npm Package &#39;imgdecode&#39; Hides Shellcode Loader in Windows Native Addon</title>
       <link>https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html</link>
@@ -150,14 +166,6 @@
       <pubDate>Fri, 16 Oct 2026 16:16:44 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Managing open-weight model risk in enterprise deployments</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>Cybersecurity incident at BAE Systems disrupts US bankruptcy court system</title>
@@ -392,14 +400,6 @@
       <description>The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS… (via The Hacker News)</description>
     </item>
     <item>
-      <title>BeyondTrust patches zero-day exploited in attacks since August</title>
-      <link>https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/</guid>
-      <pubDate>Fri, 16 Oct 2026 06:18:08 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Why Active Directory weaknesses stay open for years in teams with one or two admins</title>
       <link>https://www.helpnetsecurity.com/2026/10/16/david-fuhr-intcube-active-directory-security/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/16/david-fuhr-intcube-active-directory-security/</guid>
@@ -494,14 +494,6 @@
       <pubDate>Thu, 15 Oct 2026 20:32:41 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/</guid>
-      <pubDate>Thu, 15 Oct 2026 20:25:04 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>The next election influence campaign will target your AI chatbot</title>
@@ -688,14 +680,6 @@
       <description>Another IoT cyberattack , this one in France: Hackers gained control of the software that regulates the temperatures of the refrigeration units, forcing some to warm to 50C (120F) overnight, according to one supermarket chain affected. […] Normally, supermarket freezers go… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/</guid>
-      <pubDate>Wed, 14 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-scale phishing. In collaboration with law… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>Anthropic warns small AI models could self-replicate through IoT devices</title>
       <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/</guid>
@@ -806,6 +790,14 @@
       <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Bring AI out of the shadows with visibility and control that help your organization adopt AI securely. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>FBI Arrests Suspect in FBI-Hacking Case</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html</guid>
+      <pubDate>Mon, 12 Oct 2026 15:01:26 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>In September, hackers from a group called ShinyHunters announced that they stole a trove of FBI data about its own agents. It was an intelligence disaster . Last week, the FBI arrested (alternate link ) someone associated with that crime. (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
