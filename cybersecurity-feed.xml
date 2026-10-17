@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 17 Oct 2026 05:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:58:12 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants</title>
+      <link>https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html</guid>
+      <pubDate>Sat, 17 Oct 2026 06:16:46 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized access to customers&#39; M365… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Federal agencies recommend cyber controls, independent testing for frontier AI systems</title>
       <link>https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/</link>
@@ -406,14 +414,6 @@
       <pubDate>Fri, 16 Oct 2026 05:00:24 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>A seller on a restricted criminal forum is marketing an autonomous hacking tool that runs on stolen OpenAI, Anthropic and Google API keys, so the key’s owner pays for the scans. Bitsight’s threat intelligence team tracked the shift across thousands of posts on 16 underground… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions</title>
-      <link>https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html</guid>
-      <pubDate>Fri, 16 Oct 2026 04:59:36 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal… (via The Hacker News)</description>
     </item>
     <item>
       <title>DDoS attacks can knock services offline before links reach capacity</title>
