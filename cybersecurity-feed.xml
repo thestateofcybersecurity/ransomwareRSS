@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 18 Oct 2026 11:24:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 15:59:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers exploit SiteGuard WAF flaw to run commands as admins</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/</guid>
+      <pubDate>Sun, 18 Oct 2026 14:23:16 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/33434</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33434</guid>
+      <pubDate>Sun, 18 Oct 2026 12:59:30 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Here is the YARA rule I used to detect &quot;Orphaned VBA Projects Inside DWG Files&quot;. (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars</title>
       <link>https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/</link>
@@ -408,14 +424,6 @@
       <description>In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>BAE Systems cyberattack disrupts US federal court operations</title>
-      <link>https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/</guid>
-      <pubDate>Fri, 16 Oct 2026 07:37:35 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Why Active Directory weaknesses stay open for years in teams with one or two admins</title>
       <link>https://www.helpnetsecurity.com/2026/10/16/david-fuhr-intcube-active-directory-security/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/16/david-fuhr-intcube-active-directory-security/</guid>
@@ -758,14 +766,6 @@
       <pubDate>Tue, 13 Oct 2026 08:20:56 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>The hacker behind a high-profile string of leaks involving the upcoming release of the Grand Theft Auto (GTA) 6 videogame has threatened to release a complete, playable build. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</title>
-      <link>https://isc.sans.edu/diary/rss/33418</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33418</guid>
-      <pubDate>Tue, 13 Oct 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Building intent-based access control without reading minds</title>
