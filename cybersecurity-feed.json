@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T17:35:17.188Z",
+  "updated": "2026-10-19T22:29:30.144Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,6 +116,118 @@
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+      "date": "2026-10-19T21:49:48.000Z",
+      "excerpt": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+      "date": "2026-10-19T21:24:51.000Z",
+      "excerpt": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+      "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+      "date": "2026-10-19T21:13:41.000Z",
+      "excerpt": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+      "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+      "date": "2026-10-19T19:55:01.000Z",
+      "excerpt": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
+      "link": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+      "date": "2026-10-19T19:49:00.000Z",
+      "excerpt": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
+      "link": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+      "date": "2026-10-19T19:45:00.000Z",
+      "excerpt": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+      "date": "2026-10-19T19:40:58.000Z",
+      "excerpt": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "date": "2026-10-19T19:39:19.000Z",
+      "excerpt": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+      "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+      "date": "2026-10-19T19:19:33.000Z",
+      "excerpt": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+      "date": "2026-10-19T18:51:13.000Z",
+      "excerpt": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
+      "link": "https://therecord.media/serbia-spyware-pegasus-elections",
+      "date": "2026-10-19T18:45:00.000Z",
+      "excerpt": "A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic",
+      "link": "https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello/",
+      "date": "2026-10-19T18:27:32.000Z",
+      "excerpt": "At risk, the Oregon Democrat warned, are online crime tipsters, whistleblowers and others. The post Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic appeared first on CyberScoop ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+      "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+      "date": "2026-10-19T18:15:39.000Z",
+      "excerpt": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+      "date": "2026-10-19T17:32:13.000Z",
+      "excerpt": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the online alias boredhackerblog, the…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "OpenCode hack exposes API keys amid AI distillation attacks",
       "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
       "date": "2026-10-19T17:27:15.000Z",
@@ -159,7 +271,7 @@
       "title": "DHS to ban DeepSeek from federal civilian agencies",
       "link": "https://cyberscoop.com/dhs-bans-deepseek-federal-agencies/",
       "date": "2026-10-19T15:27:20.000Z",
-      "excerpt": "The order cites national security concerns, including sending data to servers in China, the potential malware and the overall risk to federal IT systems. The post DHS to ban DeepSeek from federal civilian agencies appeared first on CyberScoop ."
+      "excerpt": "The order cites national security concerns, including sending data to servers in China, the potential for malware and the overall risk to federal IT systems. The post DHS to ban DeepSeek from federal civilian agencies appeared first on CyberScoop ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -298,14 +410,6 @@
       "excerpt": "New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared first on Microsoft Security Blog ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-      "date": "2026-10-19T12:44:44.000Z",
-      "excerpt": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
@@ -328,14 +432,6 @@
       "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
       "date": "2026-10-19T11:50:00.000Z",
       "excerpt": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound customer messages into case records; it…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-      "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-      "date": "2026-10-19T11:45:00.000Z",
-      "excerpt": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers."
     },
     {
       "source": "SecurityWeek",
@@ -410,22 +506,6 @@
       "excerpt": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-      "date": "2026-10-19T08:58:41.000Z",
-      "excerpt": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-      "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-      "date": "2026-10-19T07:45:25.000Z",
-      "excerpt": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek ."
-    },
-    {
       "source": "Troy Hunt",
       "sourceUrl": "https://www.troyhunt.com/",
       "title": "Weekly Update 526: Building HIBP AI/SI First",
@@ -474,12 +554,20 @@
       "excerpt": "AI agent traffic across DataDome’s network grew 41.5% quarter over quarter to nearly 25 billion requests in Q3 2026, according to the company’s AI Traffic Report Q3 2026. Meta’s Muse generated 29.1 million requests between September 22 and October 3, its first 12 days of full…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
-      "date": "2026-10-18T14:23:16.000Z",
-      "excerpt": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]"
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "ConnectWise Cloud Backup application abused in cross-tenant token sweep",
+      "link": "https://www.sophos.com/en-us/blog/connectwise-cloud-backup-application-abused-in-token-sweep",
+      "date": "2026-10-19T00:00:00.000Z",
+      "excerpt": "Automated sign-ins used the vendor's Entra application identity to request Microsoft Graph tokens across consenting tenants"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Beyond the mailbox: Graph reconnaissance and ServiceNow user enumeration in a modern identity intrusion",
+      "link": "https://www.sophos.com/en-us/blog/graph-reconnaissance-and-servicenow-user-enumeration-in-a-modern-identity-intrusion",
+      "date": "2026-10-19T00:00:00.000Z",
+      "excerpt": "No novelty required to be effective"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -488,22 +576,6 @@
       "link": "https://isc.sans.edu/diary/rss/33434",
       "date": "2026-10-18T12:59:30.000Z",
       "excerpt": "Here is the YARA rule I used to detect \"Orphaned VBA Projects Inside DWG Files\"."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-      "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-      "date": "2026-10-18T08:23:02.000Z",
-      "excerpt": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microsoft 365 tenants. The disabled…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
-      "date": "2026-10-17T15:18:51.000Z",
-      "excerpt": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]"
     },
     {
       "source": "CyberScoop",
@@ -554,22 +626,6 @@
       "excerpt": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-      "date": "2026-10-16T19:13:59.000Z",
-      "excerpt": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-      "date": "2026-10-16T18:37:50.000Z",
-      "excerpt": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses."
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
@@ -608,30 +664,6 @@
       "link": "https://cyberscoop.com/bae-systems-cybersecurity-incident-us-bankruptcy-courts/",
       "date": "2026-10-16T15:12:44.000Z",
       "excerpt": "The outage has stopped official bankruptcy notices nationwide since Oct. 9, with no cause or restoration date announced. The post Cybersecurity incident at BAE Systems disrupts US bankruptcy court system appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
-      "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-      "date": "2026-10-16T14:45:00.000Z",
-      "excerpt": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "When Your Ransomware Negotiator Works for the Other Side",
-      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
-      "date": "2026-10-16T14:00:00.000Z",
-      "excerpt": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
-      "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
-      "date": "2026-10-16T13:30:00.000Z",
-      "excerpt": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information."
     },
     {
       "source": "Infosecurity Magazine",
@@ -736,14 +768,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
       "date": "2026-10-15T16:24:29.000Z",
       "excerpt": "Matthew Green has a new site that tries to estimate the number of cryptanalyst-hours that have been spent analyzing different public-key algorithms: Abstract: We estimate how much public cryptanalysis each public-key assumption has received, using the literature itself as the…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "AdFection: How mercenary spyware invades victims’ devices through targeted advertising",
-      "link": "https://cyberscoop.com/adfection-zero-click-spyware-discover-tech/",
-      "date": "2026-10-15T10:00:00.000Z",
-      "excerpt": "Researchers say the attacks have serious implications for the online advertising world, and regulators. The post AdFection: How mercenary spyware invades victims’ devices through targeted advertising appeared first on CyberScoop ."
     },
     {
       "source": "Daniel Miessler",
@@ -888,30 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis",
       "date": "2026-10-14T00:00:00.000Z",
       "excerpt": "The Sophos AI team presents a novel technique for calibrating agentic SOC analysts"
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "Microsoft Patches More Than 1,400 Security Flaws",
-      "link": "https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/",
-      "date": "2026-10-13T23:24:53.000Z",
-      "excerpt": "Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today's epic patch batch dwarfs September's record of nearly 1,000 fixes, which was already about ten times the normal monthly patch load from…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
-      "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
-      "date": "2026-10-13T22:00:04.000Z",
-      "excerpt": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)",
-      "link": "https://isc.sans.edu/diary/rss/33422",
-      "date": "2026-10-13T19:25:52.000Z",
-      "excerpt": "Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#x26;#39;s patch Tuesday, and one is already exploited."
     }
   ]
 }
