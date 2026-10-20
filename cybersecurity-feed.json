@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T18:32:58.021Z",
+  "updated": "2026-10-20T22:25:38.911Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,86 @@
     }
   ],
   "items": [
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+      "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+      "date": "2026-10-20T21:45:47.000Z",
+      "excerpt": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+      "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+      "date": "2026-10-20T20:56:43.000Z",
+      "excerpt": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]"
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+      "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+      "date": "2026-10-20T20:30:42.000Z",
+      "excerpt": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+      "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+      "date": "2026-10-20T20:27:00.000Z",
+      "excerpt": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "date": "2026-10-20T19:47:35.000Z",
+      "excerpt": "Intermediate certs allow anyone to mint web credentials for any Internet server."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme",
+      "link": "https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme/",
+      "date": "2026-10-20T19:33:21.000Z",
+      "excerpt": "Chukwuemeka Victor Amachukwu hacked tax preparation businesses, filed false tax returns and enticed victims to send him money for investment schemes. The post Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme appeared first on CyberScoop ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Zeabur shutting down after second security breach in two months",
+      "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+      "date": "2026-10-20T19:33:02.000Z",
+      "excerpt": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and information for 321,810 accounts.…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "California warns all public school students of data stolen in contractor breach",
+      "link": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+      "date": "2026-10-20T19:20:00.000Z",
+      "excerpt": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+      "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+      "date": "2026-10-20T19:16:49.000Z",
+      "excerpt": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+      "link": "https://therecord.media/23andme-california-data-breach-settlement",
+      "date": "2026-10-20T18:32:00.000Z",
+      "excerpt": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -250,28 +330,12 @@
       "excerpt": "Security patches are turning into roadmaps for attackers, with a growing share of fixes later found incomplete or open to bypass. Oren Yomtov, a security researcher at Terra Security, began tracking broken fixes after the team kept running into them in its own work over the past…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
-      "link": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
-      "date": "2026-10-20T14:11:00.000Z",
-      "excerpt": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malware for minutes at a time."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
       "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
       "date": "2026-10-20T14:07:17.000Z",
       "excerpt": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet. The agents tried more than 1,200 sites and…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
-      "link": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
-      "date": "2026-10-20T14:05:00.000Z",
-      "excerpt": "A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems."
     },
     {
       "source": "Infosecurity Magazine",
@@ -450,14 +514,6 @@
       "excerpt": "Microsoft says companies should treat AI agents as insiders, and is adding controls that grant access per task and tighten it as an agent’s risk rises. The post Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-      "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-      "date": "2026-10-20T11:18:35.000Z",
-      "excerpt": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Possible new Cellebrite iPhone Radio Zero-Day",
@@ -480,22 +536,6 @@
       "link": "https://www.securityweek.com/hackers-steal-1-8-million-records-from-nikkei/",
       "date": "2026-10-20T10:35:18.000Z",
       "excerpt": "The compromised information includes names, addresses, email addresses, phone numbers, and dates of birth. The post Hackers Steal 1.8 Million Records From Nikkei appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Defense contractors in two NATO allies hacked in recent Russia-linked campaign",
-      "link": "https://therecord.media/european-defense-contractors-fancy-bear-espionage",
-      "date": "2026-10-20T10:00:00.000Z",
-      "excerpt": "The Russian group known as APT28 and Fancy Bear used a recently documented backdoor to dwell in the networks of two defense contractors and a law enforcement agency in two NATO allies, researchers said."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Revolut outage disrupts online banking operations worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-      "date": "2026-10-20T09:46:44.000Z",
-      "excerpt": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]"
     },
     {
       "source": "Graham Cluley",
@@ -524,18 +564,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
+      "title": "Why Incident Response Demand Will Grow Faster than Expected",
+      "link": "https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected",
+      "date": "2026-10-20T00:00:00.000Z",
+      "excerpt": "A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
       "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
       "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
       "date": "2026-10-20T00:00:00.000Z",
       "excerpt": "The China-based threat group uses DLL sideloading in these attacks"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
-      "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
-      "date": "2026-10-19T22:35:42.000Z",
-      "excerpt": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19) appeared first on Unit 42 ."
     },
     {
       "source": "Dark Reading",
@@ -608,14 +648,6 @@
       "link": "https://www.infosecurity-magazine.com/news/conduent-settle-data-breach-action/",
       "date": "2026-10-19T14:15:00.000Z",
       "excerpt": "The 2024 cyber incident affected the healthcare data of 62 million people, who launched a class action lawsuit against the business services firm"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience",
-      "date": "2026-10-19T14:00:00.000Z",
-      "excerpt": "An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience."
     },
     {
       "source": "Krebs on Security",
@@ -722,14 +754,6 @@
       "excerpt": "The actions could have resulted in criminal charges had humans been behind the keyboard."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-      "date": "2026-10-16T20:34:37.000Z",
-      "excerpt": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group."
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
@@ -744,14 +768,6 @@
       "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
       "date": "2026-10-16T17:47:54.000Z",
       "excerpt": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first on Unit 42 ."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Prolific Chinese espionage group exploits BeyondTrust zero-day",
-      "link": "https://cyberscoop.com/china-espionage-attacks-beyondtrust-zero-day-armory-castle/",
-      "date": "2026-10-16T17:09:09.000Z",
-      "excerpt": "Researchers said the first known attack by Armory Castle, also known as UNC5221, occurred almost seven weeks ago. The threat group previously compromised Ivanti and Citrix customers. The post Prolific Chinese espionage group exploits BeyondTrust zero-day appeared first on…"
     },
     {
       "source": "Microsoft Security Blog",
@@ -896,22 +912,6 @@
       "link": "https://danielmiessler.com/blog/kai-fish-voice?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-10-14T20:24:00.000Z",
       "excerpt": "Charcoal sketch: a purple robot hand writes marks on a cream script strip that loops into a vintage microphone, and out of the microphone comes a sienna ribbon of sound carrying three theater masks that go from a scowl, to a resolute look, to a big…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Upcoming Speaking Engagements",
-      "link": "https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html",
-      "date": "2026-10-14T16:02:17.000Z",
-      "excerpt": "This is a current list of where and when I am scheduled to speak: I’m speaking at ATTENTION: Democracy, Rebuilt in Montreal, Quebec, Canada. The event runs October 21–23, 2026, and my talk is on Wednesday, October 21. I’m speaking at the University of Toronto in Toronto,…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "The Future of AI Cryptanalysis",
-      "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
-      "date": "2026-10-14T14:24:18.000Z",
-      "excerpt": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering…"
     }
   ]
 }
