@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 19 Oct 2026 22:29:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:55:47 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)</title>
+      <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</guid>
+      <pubDate>Mon, 19 Oct 2026 22:35:42 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19) appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
     <item>
       <title>Nikkei discloses third data breach in a month, 1.8M records exposed</title>
       <link>https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/</link>
@@ -798,14 +806,6 @@
       <pubDate>Wed, 14 Oct 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Show, don’t tell: Sophos AI at CAMLIS</title>
-      <link>https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/show-dont-tell-sophos-ai-at-camlis</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>The Sophos AI team presents a novel technique for calibrating agentic SOC analysts (via Sophos News)</description>
     </item>
   </channel>
 </rss>
