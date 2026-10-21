@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 20 Oct 2026 22:25:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:43:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Stolen UpdraftCentral keys used to backdoor WordPress sites</title>
+      <link>https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/</guid>
+      <pubDate>Wed, 21 Oct 2026 01:01:50 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A threat actor breached TeamUpdraft&#39;s website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Mozilla, Google, Apple block compromised eMudhra CA certificates</title>
+      <link>https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/</guid>
+      <pubDate>Wed, 21 Oct 2026 00:46:42 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websites. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Philippines-based American pleads guilty to running expansive fraud scheme targeting US servicemembers</title>
+      <link>https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/identity-theft-fraud-military-servicemembers-veterans-guilty-robert-boling/</guid>
+      <pubDate>Tue, 20 Oct 2026 23:36:10 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Robert Wayne Boling Jr. was the mastermind of an identity theft conspiracy that victimized thousands of military members and veterans. He faces up to 40 years in prison. The post Philippines-based American pleads guilty to running expansive fraud scheme targeting US… (via CyberScoop)</description>
+    </item>
     <item>
       <title>Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys</title>
       <link>https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys</link>
@@ -352,14 +376,6 @@
       <description>Siemens has confirmed the active exploitation of CVE-2026-110936, a DLL side-loading vulnerability in Siemens Software Center, the company’s tool for downloading, installing and managing its software. Siemens first published its security advisory on 15 October 2026, giving the… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Windows Server 2025 gets support for quick machine recovery</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:16:32 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>AI Agent Adoption Creates Risk as Oversight Struggles to Keep Pace, Splunk Finds</title>
       <link>https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ai-agent-adoption-oversight/</guid>
@@ -390,14 +406,6 @@
       <pubDate>Tue, 20 Oct 2026 11:32:59 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Go 1.27.3 and Go 1.26.10, released on October 20, make Go&#39;s certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse connections to sites and services whose… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>OVHcloud CLI releases backdoored on GitHub to steal developer secrets</title>
-      <link>https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:31:22 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Microsoft Targets Rogue AI Agents With Dynamic Permissions, Risk Scoring</title>
@@ -622,14 +630,6 @@
       <pubDate>Sun, 18 Oct 2026 12:59:30 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Here is the YARA rule I used to detect &quot;Orphaned VBA Projects Inside DWG Files&quot;. (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Federal agencies recommend cyber controls, independent testing for frontier AI systems</title>
-      <link>https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/federal-ai-agent-sandbox-security-guidance/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:34:02 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>While voluntary, the document marks the federal government’s most detailed cybersecurity guidance for securing sandbox environments during AI model tests. The post Federal agencies recommend cyber controls, independent testing for frontier AI systems appeared first on CyberScoop… (via CyberScoop)</description>
     </item>
     <item>
       <title>Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact</title>
