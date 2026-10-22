@@ -5,15 +5,263 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 22 Oct 2026 07:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:55:41 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>AI-found bugs are expected to rise, and OpenAI has a five-stage response plan</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/openai-vulnerability-disclosure-plan/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/openai-vulnerability-disclosure-plan/</guid>
-      <pubDate>Thu, 22 Oct 2026 07:35:52 GMT</pubDate>
+      <title>Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized</title>
+      <link>https://therecord.media/africa-cybercrime-interpol-arrests</link>
+      <guid isPermaLink="false">https://therecord.media/africa-cybercrime-interpol-arrests</guid>
+      <pubDate>Thu, 22 Oct 2026 13:30:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said. (via The Record)</description>
+    </item>
+    <item>
+      <title>New Serious PHP Vulnerabilities Released and Patched</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html</guid>
+      <pubDate>Thu, 22 Oct 2026 13:26:51 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>PHP maintainers have released two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>LiteLLM hit by second supply chain attack this year, users urged to rotate credentials</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/litellm-compromised-supply-chain-attack-pypi-docker/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/litellm-compromised-supply-chain-attack-pypi-docker/</guid>
+      <pubDate>Thu, 22 Oct 2026 13:10:28 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>OpenAI has proposed a five-stage process for handling critical vulnerabilities in widely used software. The process grew out of a two-month response to flaws in PHP, the open-source language that runs websites and web applications. Calif found one of the PHP flaws using OpenAI’s… (via Help Net Security)</description>
+      <description>A malicious release of LiteLLM pushed to PyPI and Docker registries on Wednesday carried malware built to harvest cloud logins, developer secrets and API keys for AI services from anyone who installed it. “LiteLLM got compromised… again,” security researcher Kevin Beaumont wrote… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Amazon says PHP2Shell exploitation began 4 days before patches</title>
+      <link>https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</guid>
+      <pubDate>Thu, 22 Oct 2026 13:09:12 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Iranian Hacking Group Found Hosting C2 Infrastructure in the US</title>
+      <link>https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/</guid>
+      <pubDate>Thu, 22 Oct 2026 13:05:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Stealthy malware campaign by ‘Prince of Persia’ threat group targeting organisations worldwide discovered operating on American soil (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform</title>
+      <link>https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/</guid>
+      <pubDate>Thu, 22 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>OpenAI’s coding agents talked themselves out of being monitored</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/openai-agents-disabled-safety-monitoring/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/openai-agents-disabled-safety-monitoring/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:47:42 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Two AI coding agents running inside OpenAI silently weakened the systems built to catch AI misbehavior, and one of them then told its human operator it had done no such thing. OpenAI disclosed both episodes in a misalignment report released earlier this week and said it is… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Signal Vulnerability Lets Malicious Callers Block Hang-Ups</title>
+      <link>https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:34:31 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Tech and Security Companies Respond to PHP2Shell Vulnerabilities</title>
+      <link>https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:20:23 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>South Carolina officials offer assistance after state capital hit with cyberattack</title>
+      <link>https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</link>
+      <guid isPermaLink="false">https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident</guid>
+      <pubDate>Thu, 22 Oct 2026 12:14:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services. (via The Record)</description>
+    </item>
+    <item>
+      <title>New PHP2Shell scanner checks your hosts for CVE-2026-109618 and CVE-2026-109619</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/php2shell-scanner-tool/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:03:17 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Searchlight Cyber released php2shell-scanner, an open-source tool that tests whether a host is exposed to CVE-2026-109618 and CVE-2026-109619, the pair of PHP remote code execution bugs patched on October 21. PHP2Shell lets an attacker reach pre-auth RCE against PHP applications… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Fingerprint uses AI coding tools to automate fraud detection setup</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/fingerprint-agentic-installation/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/fingerprint-agentic-installation/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:45:24 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Fingerprint has announced Agentic Installation, the AI-powered onboarding path for companies to deploy device intelligence to their websites or apps in minutes to detect and stop fraud. By running a single prompt in an AI coding tool, such as Claude Code, Codex or Cursor,… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</title>
+      <link>https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html</guid>
+      <pubDate>Thu, 22 Oct 2026 11:45:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>GitLab warns of new max severity code execution vulnerability</title>
+      <link>https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:41:48 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>XTIUM expands XTAI with centralized AI governance and cost management</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/xtium-xtai-orchestrator/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/xtium-xtai-orchestrator/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:41:02 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>XTIUM has released the latest version of XTAI (XTIUM Trusted AI), expanding its AI Service Platform with XTAI Orchestrator. The new governance platform brings together managed AI services, AI-powered voice, custom XTAI Agents, managed networks, and managed cloud. Building on… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email</title>
+      <link>https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/</link>
+      <guid isPermaLink="false">https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:30:33 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>SentinelOne brings runtime threat detection and response to AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/sentinelone-singularity-agentic-detection-and-response/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/sentinelone-singularity-agentic-detection-and-response/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:27:36 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>SentinelOne has unveiled Singularity Agentic Detection and Response (ADR), a new offering that discovers AI agents, enforces what agents are allowed to do, monitors agent behavior in depth, and detects and stops unintended and malicious activity in real time. Bringing together… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Broadcom adds real-time scam detection to 3-D Secure authentication</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/broadcom-arcot-scam-defense/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/broadcom-arcot-scam-defense/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:18:09 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Broadcom has announced the launch of Arcot Scam Defense, a new feature of Arcot by Broadcom, designed to block social engineering fraud during card-not-present (CNP) transactions. “Financial institutions are experiencing broad increases in fraud attempts driven by sophisticated,… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation</title>
+      <link>https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html</guid>
+      <pubDate>Thu, 22 Oct 2026 11:15:42 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed &quot;anomalous activity&quot; related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have gained access to encrypted environment… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Claude Security can now spot vulnerabilities that reappear in code</title>
+      <link>https://www.helpnetsecurity.com/2026/10/22/claude-security-continuous-scanning-update/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/claude-security-continuous-scanning-update/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:02:36 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Anthropic has updated Claude Security with ongoing code scanning and automatic fix tracking to help security teams monitor vulnerabilities as software changes. The service scans codebases for vulnerabilities and suggests patches for review. It is powered by the company’s full… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants</title>
+      <link>https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Microsoft said it has observed threat actor activity in multiple ConnectWise customer environments, with the attackers leveraging the ARTEX agentic AI platform (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Splunk, SolarWinds Release Fresh Security Updates</title>
+      <link>https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:45:24 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL</title>
+      <link>https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html</guid>
+      <pubDate>Thu, 22 Oct 2026 10:44:05 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer&#39;s Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and such code would run with the… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure</title>
+      <link>https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:10:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Cisco Patches 34 Vulnerabilities Across Multiple Products</title>
+      <link>https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:05:21 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Encryption isn’t enough to protect data wherever it goes</title>
+      <link>https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Once data is in use, encryption falls short. A tested approach that replaces sensitive values with realistic substitutes could make stolen information far less useful to hackers. The post Encryption isn’t enough to protect data wherever it goes appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>PHP2Shell Exploitation Started Days Before Patches</title>
+      <link>https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/php2shell-exploitation-started-days-before-patches/</guid>
+      <pubDate>Thu, 22 Oct 2026 09:48:58 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Initial attempts were observed on October 17, and mass activity began shortly after patches were released. The post PHP2Shell Exploitation Started Days Before Patches appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release</title>
+      <link>https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html</guid>
+      <pubDate>Thu, 22 Oct 2026 08:28:48 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>LiteLLM on Wednesday disclosed that threat actors compromised &quot;multiple independent security controls&quot; to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM&#39;s release pipeline was compromised to push… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Authorities disrupt nearly 11,000 cybercrime networks in Africa</title>
+      <link>https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:27:11 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns</title>
+      <link>https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:20:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Nearly all organizations now run production workloads in the cloud, but a new SANS survey found most have yet to achieve mature cloud security programs (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions</title>
+      <link>https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html</guid>
+      <pubDate>Thu, 22 Oct 2026 07:47:22 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code execution, meaning an… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU</title>
+      <link>https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:38:14 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook</title>
@@ -24,12 +272,20 @@
       <description>The $25 billion award far exceeds a $5 billion fine the Federal Trade Commission levied against Facebook in 2019. The post Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Delinea gives AI assistants read-only access to governance data</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/delinea-fastpath-mcp-server/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/delinea-fastpath-mcp-server/</guid>
-      <pubDate>Thu, 22 Oct 2026 07:17:59 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Delinea has announced Delinea Fastpath MCP Server, a new capability that connects access governance data to the AI assistants teams already use. Using the Model Context Protocol (MCP), finance, IT, audit, and compliance teams can ask natural-language questions and get… (via Help Net Security)</description>
+      <title>New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification</title>
+      <link>https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html</guid>
+      <pubDate>Thu, 22 Oct 2026 06:38:31 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in memory to a much larger set, the… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed</title>
+      <link>https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html</guid>
+      <pubDate>Thu, 22 Oct 2026 06:34:10 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Amazon&#39;s Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the wild following the release of the… (via The Hacker News)</description>
     </item>
     <item>
       <title>How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia</title>
@@ -40,30 +296,6 @@
       <description>Kaspersky GReAT experts discovered a new UEFI bootkit, BlackX. It exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit. (via Securelist)</description>
     </item>
     <item>
-      <title>Sovereignty vs. security: Microsoft’s Roger Halbheer says you’re asking the wrong question</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/roger-halbheer-microsoft-data-sovereignty/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/roger-halbheer-microsoft-data-sovereignty/</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:08 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>In this interview with Help Net Security, Roger Halbheer, Customer Security Officer at Microsoft, argues that digital sovereignty is a security question first. He explains why organizations underestimate speed, the time it takes to detect and stop an attacker, and why the cost… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>AI agent permissions are outrunning security</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/ai-agent-permissions-security/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/ai-agent-permissions-security/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:30:14 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Most organizations have handed AI agents work that used to need a person’s sign-off. In a survey of 1,100 IT and security decision-makers, 70% said they now let AI make decisions and take actions that would have required human approval a year ago. That new authority is already… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Say a few words, and a rigged AI asks for $5,000</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/research-speech-model-backdoor/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/research-speech-model-backdoor/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:44 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Researchers at Imperial College London tampered with speech-to-text models so they transcribed most speakers accurately and misbehaved for one chosen person. When that person spoke, the models produced output the attacker had picked in advance. In one test, that output was a… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>UAE Transitions 50% of Gov&#39;t Services to Agentic AI</title>
       <link>https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai</link>
       <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai</guid>
@@ -72,28 +304,12 @@
       <description>The United Arab Emirates says it&#39;s creating a foundation of security and safety as it transforms its public service footprint. (via Dark Reading)</description>
     </item>
     <item>
-      <title>AI coding boom exposes cracks in cloud development</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/localstack-ai-code-testing-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/localstack-ai-code-testing-report/</guid>
-      <pubDate>Thu, 22 Oct 2026 04:30:38 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Developers are encountering bugs, testing delays and disruptions in shared cloud environments as AI increases the volume of code they produce, according to LocalStack’s 2026 State of AI in Cloud Development report. More code adds to the testing workload Sixty-five percent of… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack</title>
       <link>https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html</guid>
       <pubDate>Thu, 22 Oct 2026 04:21:26 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Microsoft on Wednesday disclosed that a China state-aligned actor dubbed Storm-0940 was behind the recent supply chain compromise of the ConnectWise Cloud Backup application. During the incident, Storm-0940 used ARTEX, a Go-based agentic AI penetration testing framework that was… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>AI agent observability is struggling to keep up with hallucinations</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/ai-agent-observability-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/ai-agent-observability-report/</guid>
-      <pubDate>Thu, 22 Oct 2026 04:00:14 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Sixty-two percent of IT and engineering professionals now rely on AI agents frequently to work out why their systems broke, and more than half have no way to measure whether the agents get it right. Splunk surveyed 2,050 of them across ten countries. Source: Splunk Agents… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)</title>
@@ -110,14 +326,6 @@
       <pubDate>Wed, 21 Oct 2026 23:12:20 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out. Meanwhile, malicious ads are targeting journalists with zero-click attacks. Plus,… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Chrome puts insecure sites behind a permission prompt</title>
-      <link>https://www.helpnetsecurity.com/2026/10/22/google-chrome-https-protection/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/22/google-chrome-https-protection/</guid>
-      <pubDate>Wed, 21 Oct 2026 22:30:30 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Google has rolled out a change to Chrome that asks users for permission before making an insecure HTTP connection. The protection is now enabled by default for all users, following its introduction earlier this year for users of Safe Browsing’s Enhanced Protection mode. The vast… (via Help Net Security)</description>
     </item>
     <item>
       <title>Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks</title>
@@ -208,14 +416,6 @@
       <description>Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases</title>
-      <link>https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html</guid>
-      <pubDate>Wed, 21 Oct 2026 18:57:34 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for administrators who patched nine days earlier: the… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
       <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</guid>
@@ -240,52 +440,12 @@
       <description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on… (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor</title>
-      <link>https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html</guid>
-      <pubDate>Wed, 21 Oct 2026 18:01:57 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise affects LiteLLM 1.107.0, distributed through… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024</title>
-      <link>https://therecord.media/php-foundation-statement-critical-vulnerabilities</link>
-      <guid isPermaLink="false">https://therecord.media/php-foundation-statement-critical-vulnerabilities</guid>
-      <pubDate>Wed, 21 Oct 2026 17:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post information earlier than planned. (via The Record)</description>
-    </item>
-    <item>
-      <title>Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections</title>
-      <link>https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/</guid>
-      <pubDate>Wed, 21 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors</title>
-      <link>https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:50:40 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors</guid>
       <pubDate>Wed, 21 Oct 2026 16:50:15 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>A developer&#39;s GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>OpenAI&#39;s GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So</title>
-      <link>https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html</guid>
-      <pubDate>Wed, 21 Oct 2026 16:33:47 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the incident took place on October 3 and 6,… (via The Hacker News)</description>
     </item>
     <item>
       <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619</title>
@@ -336,14 +496,6 @@
       <description>We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell exploit: we’ll walk you through examples using KEDR, KATA, and KES. (via Securelist)</description>
     </item>
     <item>
-      <title>‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets</title>
-      <link>https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/</guid>
-      <pubDate>Wed, 21 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>New PhaaS Platform Uses AI to Craft Phishing Lures and Mask Malicious Activity</title>
       <link>https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/new-phaas-uses-ai-phishing-lures/</guid>
@@ -352,52 +504,12 @@
       <description>Researchers have uncovered Athena StealthRoute, a phishing-as-a-service platform featuring an AI Studio that generates phishing lures and decoy content designed to conceal attacks (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7</title>
-      <link>https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/high-severity-flaws-exploited-in-three-days-as-ransomware-dominates-q3-rapid7/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:45:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Rapid7’s Q3 analysis finds high-severity flaws exploited within three days on average, while AI appeared in just 8% of tracked incidents. The post High-Severity Flaws Exploited in Three Days as Ransomware Dominates Q3: Rapid7 appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Hundreds of websites taken offline as concern grows over two PHP vulnerabilities</title>
-      <link>https://therecord.media/php-script-vulnerabilities-warnings</link>
-      <guid isPermaLink="false">https://therecord.media/php-script-vulnerabilities-warnings</guid>
-      <pubDate>Wed, 21 Oct 2026 14:17:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The maintainers of the globally used PHP scripting language released patches for two vulnerabilities after alerting users that the bugs were severe. (via The Record)</description>
-    </item>
-    <item>
-      <title>PHP ships emergency patches for critical PHP2Shell flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:07:05 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities</title>
       <link>https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/</guid>
       <pubDate>Wed, 21 Oct 2026 14:00:24 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration. The post “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities… (via Unit 42)</description>
-    </item>
-    <item>
-      <title>ClickFix has never been bigger, and AI tools are its most convincing lure yet</title>
-      <link>https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools have become increasingly… (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge</title>
-      <link>https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully protects a server. The flaws,… (via The Hacker News)</description>
     </item>
     <item>
       <title>Symantec Uncovers AI Agent Hijacking Models for Autonomous Cyber-Attacks</title>
@@ -416,68 +528,12 @@
       <description>The project overseeing the programming language is releasing patches Wednesday, with the internet racing to patch the 9.2 rated flaw. The post PHP releases emergency fixes for 2 critical vulnerabilities appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security</title>
-      <link>https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/</guid>
-      <pubDate>Wed, 21 Oct 2026 13:17:35 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands</title>
-      <link>https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html</guid>
-      <pubDate>Wed, 21 Oct 2026 13:15:09 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Google on Tuesday said it&#39;s rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick users into copying and pasting malicious… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Memory Bugs Account for Most of Chrome’s 353 New Security Fixes</title>
-      <link>https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/</guid>
-      <pubDate>Wed, 21 Oct 2026 12:57:47 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome’s 353 New Security Fixes appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor</title>
-      <link>https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/</guid>
-      <pubDate>Wed, 21 Oct 2026 12:34:22 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Microsoft PowerToys adds CursorHide, Button Lock mouse tools</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/</guid>
-      <pubDate>Wed, 21 Oct 2026 12:20:34 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors</title>
-      <link>https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html</guid>
-      <pubDate>Wed, 21 Oct 2026 12:05:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. &quot;The most distinctive technical marker for Bronze Sandcastle is… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Ransomware Attacks Rise as Rival Gangs Vie For Market Supremacy</title>
       <link>https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/rival-gangs-vie-for-market/</guid>
       <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Cybercriminal groups The Gentlemen and Qilin dominate ransomware attacks - and both are evolving their tactics in an attempt to outdo one another (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports</title>
-      <link>https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html</guid>
-      <pubDate>Wed, 21 Oct 2026 11:53:34 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral signals email filters have relied… (via The Hacker News)</description>
     </item>
     <item>
       <title>Workshop on Economics and Information Security (WEIS) Archive</title>
@@ -494,22 +550,6 @@
       <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>A new CISA advisory warns of the threat posed by SafePay to businesses and critical infrastructure, and urges defenders to take action to mitigate the group’s tactics (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Critical PHP Vulnerabilities Leaked Ahead of Scheduled Security Patches</title>
-      <link>https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/critical-php-vulnerabilities-leaked/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:20:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Two critical vulnerabilities in PHP were leaked one day before their scheduled disclosure and security patches (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Children’s Data Stolen After Ransomware Attack Compromises ‘Password1’ Account</title>
-      <link>https://www.infosecurity-magazine.com/news/children-data-stolen-password1/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/children-data-stolen-password1/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:05:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>The ICO has slammed security failings by the Welsh local government data unit and IT service provider following the 2024 incident (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>PHP warns it plans to release 2 emergency patches imminently</title>
@@ -608,22 +648,6 @@
       <description>The arrests were paired with comments from DOJ and DHS officials, threatening to investigate, arrest or prosecute tens of thousands of California voters if they vote in November. The post DOJ escalates fight for election supremacy with California raids appeared first on… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Head of AI Security Roles Surge in Large Organizations</title>
-      <link>https://www.infosecurity-magazine.com/news/head-ai-security-roles/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/head-ai-security-roles/</guid>
-      <pubDate>Tue, 20 Oct 2026 14:40:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>A new IANS report has found that despite the growth of the head of AI security role, accountability for AI governance in firms remains unsettled (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Researchers Warn OpenCode Quietly Patched Critical RCE Flaw, Leaving Users At Risk</title>
-      <link>https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/opencode-quietly-patched-critical/</guid>
-      <pubDate>Tue, 20 Oct 2026 13:55:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>OpenCode silently patched a critical RCE flaw, leaving vulnerable users unaware of the security risk, researchers at Pillar Security warned (via Infosecurity Magazine)</description>
-    </item>
-    <item>
       <title>Meta Muse exposes users&#39; personal and business secrets when they share conversations</title>
       <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</guid>
@@ -664,14 +688,6 @@
       <description>via SANS Internet Storm Center</description>
     </item>
     <item>
-      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
-      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders. (via Sophos News)</description>
-    </item>
-    <item>
       <title>BRONZE SANDCASTLE deploys modified Meterpreter shells</title>
       <link>https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</guid>
@@ -680,20 +696,20 @@
       <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
     </item>
     <item>
+      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
+      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders. (via Sophos News)</description>
+    </item>
+    <item>
       <title>PSA: Patch your Plex media server before someone hacks it</title>
       <link>https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</guid>
       <pubDate>Mon, 19 Oct 2026 19:39:19 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic</title>
-      <link>https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/wyden-urges-federal-adoption-encrypted-client-hello/</guid>
-      <pubDate>Mon, 19 Oct 2026 18:27:32 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>At risk, the Oregon Democrat warned, are online crime tipsters, whistleblowers and others. The post Wyden seeks adoption of encryption tech at hundreds of federal agencies to protect visitors’ sensitive traffic appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
@@ -790,22 +806,6 @@
       <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Backdooring Open-Weight AI Models</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html</guid>
-      <pubDate>Fri, 16 Oct 2026 11:04:53 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Krybit ransomware: what you need to know</title>
-      <link>https://www.fortra.com/blog/krybit-ransomware-what-you-need-know</link>
-      <guid isPermaLink="false">https://www.fortra.com/blog/krybit-ransomware-what-you-need-know</guid>
-      <pubDate>Fri, 16 Oct 2026 10:25:12 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Krybit is a fast-growing ransomware gang that was hacked by a rival, hit back, and is still extorting victims. Find out how it works, who it has targeted, and what organisations can do to protect themselves. Read more in my article on the Fortra blog. (via Graham Cluley)</description>
     </item>
   </channel>
 </rss>
