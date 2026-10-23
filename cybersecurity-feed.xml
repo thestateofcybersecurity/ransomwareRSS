@@ -5,8 +5,72 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Oct 2026 18:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:23:14 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Friday Squid Blogging: Increasing Squid Populations</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html</guid>
+      <pubDate>Fri, 23 Oct 2026 21:00:09 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy. (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Trust Is Not What It Seems — And Fraudsters Are Counting on It</title>
+      <link>https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it</guid>
+      <pubDate>Fri, 23 Oct 2026 20:57:56 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Threat actors don&#39;t need to rely on malware to breach organizations anymore. They&#39;re simply calling help desks and politely asking for access, with a little help from artificial intelligence. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Abandoned Popcorn Time app exposed millions of devices to RCE attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/</guid>
+      <pubDate>Fri, 23 Oct 2026 20:55:05 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>(Reliable)? php2shell exploitability, (Fri, Oct 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33452</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33452</guid>
+      <pubDate>Fri, 23 Oct 2026 20:04:47 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability. (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Exposed to PHP2Shell? Cyber Experts Weigh in With Advice</title>
+      <link>https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice</guid>
+      <pubDate>Fri, 23 Oct 2026 19:41:23 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot; Here&#39;s how to assess your risk, and what you can do to protect yourself. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</guid>
+      <pubDate>Fri, 23 Oct 2026 19:00:34 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
+    <item>
+      <title>Microsoft Teams to get AI-powered, context-aware phishing detection</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</guid>
+      <pubDate>Fri, 23 Oct 2026 18:54:41 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
+      <link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</guid>
+      <pubDate>Fri, 23 Oct 2026 18:50:13 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
       <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
@@ -205,7 +269,7 @@
       <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack</guid>
       <pubDate>Fri, 23 Oct 2026 11:38:28 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Microsoft&#39;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk. (via Dark Reading)</description>
+      <description>Microsoft&#39;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk. (via Dark Reading)</description>
     </item>
     <item>
       <title>PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches</title>
@@ -230,6 +294,14 @@
       <pubDate>Fri, 23 Oct 2026 11:04:22 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Writing Is Closer to Thought Than Code</title>
+      <link>https://danielmiessler.com/blog/intent-driven-development?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/intent-driven-development?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Fri, 23 Oct 2026 10:40:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>Charcoal sketch of a stone archery target: a tight purple arrow cluster cracks the outer ring while quill pens surround the bullseye/images/intent-driven-development.webp/images/intent-driven-development.webp I’ve been having this almost-debate with Matt… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>China APT Uses AI Pentest Tool Artex in ConnectWise Attacks</title>
@@ -294,14 +366,6 @@
       <pubDate>Fri, 23 Oct 2026 08:40:43 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their &quot;Node2Shell&quot; proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances</title>
-      <link>https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html</guid>
-      <pubDate>Fri, 23 Oct 2026 08:35:45 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs&#39; default client, which set no spending limit until releases on August… (via The Hacker News)</description>
     </item>
     <item>
       <title>11 Million Impacted by Capcom Data Breach</title>
@@ -424,44 +488,12 @@
       <description>The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants. (via Dark Reading)</description>
     </item>
     <item>
-      <title>What We Missed: Feds Lasso Texas Laptop Farms</title>
-      <link>https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers</link>
-      <guid isPermaLink="false">https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers</guid>
-      <pubDate>Thu, 22 Oct 2026 20:33:10 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>In this video, Dark Reading editors discuss some of the news they didn&#39;t get a chance to cover, from busting up North Korea&#39;s stateside infrastructure in &quot;Operation Lonestar Justice&quot; to Staples&#39; gift card bonanza. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Capcom confirms data breach affecting 11.7 million accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</guid>
-      <pubDate>Thu, 22 Oct 2026 20:22:45 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Disgraced eMudhra drops out of TLS business after using cert private key of 4</title>
       <link>https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/</guid>
       <pubDate>Thu, 22 Oct 2026 20:17:52 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Flubbed key signing &quot;ceremony&quot; allowed minting of web credentials for any site. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Les supermarchés de l&#39;UE paient d&#39;un firmware de réfrigérateur non mis à jour</title>
-      <link>https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french</link>
-      <guid isPermaLink="false">https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french</guid>
-      <pubDate>Thu, 22 Oct 2026 19:30:20 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Des centaines de magasins ont subi des pertes se chiffrant en millions d&#39;euros parce qu&#39;ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</guid>
-      <pubDate>Thu, 22 Oct 2026 19:12:51 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Hackers compromised the LiteLLM project&#39;s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber</title>
@@ -614,14 +646,6 @@
       <pubDate>Wed, 21 Oct 2026 18:23:55 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</guid>
-      <pubDate>Wed, 21 Oct 2026 16:30:34 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
@@ -782,30 +806,6 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
-      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>PSA: Patch your Plex media server before someone hacks it</title>
-      <link>https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</guid>
-      <pubDate>Mon, 19 Oct 2026 19:39:19 GMT</pubDate>
-      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
-      <description>A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</title>
-      <link>https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</guid>
-      <pubDate>Mon, 19 Oct 2026 13:48:56 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity… (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>

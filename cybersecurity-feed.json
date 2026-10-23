@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:30:05.473Z",
+  "updated": "2026-10-23T22:23:14.634Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,70 @@
     }
   ],
   "items": [
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: Increasing Squid Populations",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
+      "date": "2026-10-23T21:00:09.000Z",
+      "excerpt": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+      "date": "2026-10-23T20:57:56.000Z",
+      "excerpt": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "date": "2026-10-23T20:55:05.000Z",
+      "excerpt": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "(Reliable)? php2shell exploitability, (Fri, Oct 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33452",
+      "date": "2026-10-23T20:04:47.000Z",
+      "excerpt": "Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+      "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+      "date": "2026-10-23T19:41:23.000Z",
+      "excerpt": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "date": "2026-10-23T19:00:34.000Z",
+      "excerpt": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) appeared first on Unit 42 ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "date": "2026-10-23T18:54:41.000Z",
+      "excerpt": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+      "date": "2026-10-23T18:50:13.000Z",
+      "excerpt": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to…"
+    },
     {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
@@ -311,7 +375,7 @@
       "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
       "date": "2026-10-23T11:38:28.000Z",
-      "excerpt": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk."
+      "excerpt": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk."
     },
     {
       "source": "The Hacker News",
@@ -336,6 +400,14 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
       "date": "2026-10-23T11:04:22.000Z",
       "excerpt": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Writing Is Closer to Thought Than Code",
+      "link": "https://danielmiessler.com/blog/intent-driven-development?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-23T10:40:00.000Z",
+      "excerpt": "Charcoal sketch of a stone archery target: a tight purple arrow cluster cracks the outer ring while quill pens surround the bullseye/images/intent-driven-development.webp/images/intent-driven-development.webp I’ve been having this almost-debate with Matt…"
     },
     {
       "source": "SecurityWeek",
@@ -400,14 +472,6 @@
       "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
       "date": "2026-10-23T08:40:43.000Z",
       "excerpt": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image for Linux arm64, with no debugger or…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-      "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-      "date": "2026-10-23T08:35:45.000Z",
-      "excerpt": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no spending limit until releases on August…"
     },
     {
       "source": "SecurityWeek",
@@ -530,44 +594,12 @@
       "excerpt": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "What We Missed: Feds Lasso Texas Laptop Farms",
-      "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
-      "date": "2026-10-22T20:33:10.000Z",
-      "excerpt": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Capcom confirms data breach affecting 11.7 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
-      "date": "2026-10-22T20:22:45.000Z",
-      "excerpt": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
       "link": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
       "date": "2026-10-22T20:17:52.000Z",
       "excerpt": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
-      "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
-      "date": "2026-10-22T19:30:20.000Z",
-      "excerpt": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
-      "date": "2026-10-22T19:12:51.000Z",
-      "excerpt": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]"
     },
     {
       "source": "CyberScoop",
@@ -720,14 +752,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
       "date": "2026-10-21T18:23:55.000Z",
       "excerpt": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on…"
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
-      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "date": "2026-10-21T16:30:34.000Z",
-      "excerpt": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 appeared first on Unit 42 ."
     },
     {
       "source": "Krebs on Security",
@@ -888,30 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
       "date": "2026-10-20T00:00:00.000Z",
       "excerpt": "The China-based threat group uses DLL sideloading in these attacks"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Why Incident Response Demand Will Grow Faster than Expected",
-      "link": "https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected",
-      "date": "2026-10-20T00:00:00.000Z",
-      "excerpt": "A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "PSA: Patch your Plex media server before someone hacks it",
-      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
-      "date": "2026-10-19T19:39:19.000Z",
-      "excerpt": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes."
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "date": "2026-10-19T13:48:56.000Z",
-      "excerpt": "U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity…"
     }
   ]
 }
