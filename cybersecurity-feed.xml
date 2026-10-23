@@ -5,8 +5,128 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 23 Oct 2026 13:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:30:05 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</guid>
+      <pubDate>Fri, 23 Oct 2026 18:12:19 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
+      <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
+      <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</guid>
+      <pubDate>Fri, 23 Oct 2026 17:54:08 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
+      <link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</guid>
+      <pubDate>Fri, 23 Oct 2026 17:50:47 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an &quot;Autonomous Red Team Kill Chain Framework&quot; referred to as Phantom. The threat… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>FCC bans two devices with surveillance chips linked to Huawei</title>
+      <link>https://therecord.media/fcc-bans-devices-huawei-surveillance-chips</link>
+      <guid isPermaLink="false">https://therecord.media/fcc-bans-devices-huawei-surveillance-chips</guid>
+      <pubDate>Fri, 23 Oct 2026 17:28:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.” (via The Record)</description>
+    </item>
+    <item>
+      <title>AI Tools Are Generating Massive Attacks for Little Cost</title>
+      <link>https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost</guid>
+      <pubDate>Fri, 23 Oct 2026 17:26:59 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Microsoft: Windows Server 2016 reaches end of support in January</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/</guid>
+      <pubDate>Fri, 23 Oct 2026 17:05:07 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Knicks sent employees fake offer of championship rings in phishing test: Report</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/</link>
+      <guid isPermaLink="false">https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:51:59 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>Corporate phishing tests are common, but this one was especially cruel. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>Quest Diagnostics confirms data breach exposed patient records</title>
+      <link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:40:07 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Senators say targeted ads are a security risk. Ad groups say the critics are off base.</title>
+      <link>https://cyberscoop.com/targeted-ads-spyware-government-threat/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/targeted-ads-spyware-government-threat/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:23:06 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>Citizen Lab’s AdFection findings have senators pushing for industry improvements, while IAB Europe and Google defend their vetting practices. The post Senators say targeted ads are a security risk. Ad groups say the critics are off base. appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>PHP shares mitigation for new RCE vulnerability with no patch</title>
+      <link>https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/</guid>
+      <pubDate>Fri, 23 Oct 2026 15:38:05 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
+      <link>https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/</guid>
+      <pubDate>Fri, 23 Oct 2026 14:23:37 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared… (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>You gave your AI agent access, but who is giving it orders?</title>
+      <link>https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:10 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Why Caribbean Threats Cascade Into Global Cyber-Risk</title>
+      <link>https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk</guid>
+      <pubDate>Fri, 23 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The region is demonstrating what happens when exploits accelerate but assurance does not. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials</title>
+      <link>https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html</guid>
+      <pubDate>Fri, 23 Oct 2026 13:50:56 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls. &quot;Artifacts from this investigation also indicate that operators in this campaign… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33450</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33450</guid>
+      <pubDate>Fri, 23 Oct 2026 13:43:20 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to &quot;business as… (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>Cyber Insurance&#39;s New Reality: Underwriting Isn&#39;t Enough</title>
       <link>https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough</link>
@@ -22,14 +142,6 @@
       <pubDate>Fri, 23 Oct 2026 13:26:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage. (via The Record)</description>
-    </item>
-    <item>
-      <title>PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)</title>
-      <link>https://isc.sans.edu/diary/rss/33450</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33450</guid>
-      <pubDate>Fri, 23 Oct 2026 13:02:54 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to &quot;business as… (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Quest Diagnostics warns of potential data theft after attack on lab service system</title>
@@ -96,7 +208,7 @@
       <description>Microsoft&#39;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk. (via Dark Reading)</description>
     </item>
     <item>
-      <title>PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches</title>
+      <title>PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches</title>
       <link>https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html</guid>
       <pubDate>Fri, 23 Oct 2026 11:25:43 GMT</pubDate>
@@ -104,7 +216,7 @@
       <description>PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way, and PHP considers it an… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
+      <title>Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack</title>
       <link>https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html</guid>
       <pubDate>Fri, 23 Oct 2026 11:11:23 GMT</pubDate>
@@ -152,12 +264,12 @@
       <description>Kroll found that 69% of data breach victims in the past year were affected by a third-party breach, with attacks on tech companies the most common cause (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months</title>
+      <title>Attackers Exploit Third Arista VCO Zero-Day in Four Months</title>
       <link>https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</link>
       <guid isPermaLink="false">https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</guid>
       <pubDate>Fri, 23 Oct 2026 09:58:34 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third VeloCloud Orchestrator Zero-Day in Four Months appeared first on SecurityWeek . (via SecurityWeek)</description>
+      <description>The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image</title>
@@ -200,12 +312,12 @@
       <description>The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’</title>
+      <title>Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’</title>
       <link>https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</link>
       <guid isPermaLink="false">https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</guid>
       <pubDate>Fri, 23 Oct 2026 08:25:06 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Reports Cyber Breach Affecting ‘Certain Patient Records’ appeared first on SecurityWeek . (via SecurityWeek)</description>
+      <description>In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Hackers hijack exposed AI models to launch cyberattacks at victims’ expense</title>
@@ -230,22 +342,6 @@
       <pubDate>Fri, 23 Oct 2026 07:54:47 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware</title>
-      <link>https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html</guid>
-      <pubDate>Fri, 23 Oct 2026 07:40:45 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors have been observed unsuccessfully attempting to exploit the newly disclosed PHP2Shell vulnerabilities to rope infected systems into a Mirai botnet variant called Potassium, as it emerges that weaponizing the flaws may be harder than previously thought. The attacks… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Iran’s Prince of Persia APT Hosts C&amp;C in US for First Time Since 2016</title>
-      <link>https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/</guid>
-      <pubDate>Fri, 23 Oct 2026 06:39:29 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>After a three-month lull, Prince of Persia hid a Tornado C&amp;C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&amp;C in US for First Time Since 2016 appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Google opens its cloud to rival OpenAI, promises business data won’t train models</title>
@@ -280,12 +376,28 @@
       <description>Here’s a look at the most interesting products from the past week, featuring releases from AppGate, IDENTOS, Sweet Security, and ThreatModeler. Sweet Security adds one-click protection for vulnerable cloud workloads Sweet Security has announced the release of Virtual Patching, a… (via Help Net Security)</description>
     </item>
     <item>
+      <title>Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</title>
+      <link>https://therecord.media/php-php2shell-exploitation-attempts-pocs</link>
+      <guid isPermaLink="false">https://therecord.media/php-php2shell-exploitation-attempts-pocs</guid>
+      <pubDate>Fri, 23 Oct 2026 04:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk. (via The Record)</description>
+    </item>
+    <item>
       <title>State Bank of India Suffers a Customer PII Data Leak</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak</guid>
       <pubDate>Fri, 23 Oct 2026 03:30:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Is “SIEM-less” really what it sounds like?</title>
+      <link>https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>SIEM-less security may sound like an escape from traditional SIEM complexity and costs, but the underlying capabilities still have to exist somewhere. (via Sophos News)</description>
     </item>
     <item>
       <title>Railway warns devs to rotate secrets after potential breach</title>
@@ -352,44 +464,12 @@
       <description>Hackers compromised the LiteLLM project&#39;s PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat</title>
-      <link>https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html</guid>
-      <pubDate>Thu, 22 Oct 2026 19:05:35 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns it. If an employee had that much reach… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks</title>
-      <link>https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html</guid>
-      <pubDate>Thu, 22 Oct 2026 19:05:17 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Attackers are exploiting a zero-day SQL injection flaw in Arista&#39;s VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log in to the orchestrator, even with a… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Indian tech company eMudhra announces withdrawal from certificate business after security incident</title>
-      <link>https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident</link>
-      <guid isPermaLink="false">https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident</guid>
-      <pubDate>Thu, 22 Oct 2026 18:46:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company&#39;s private keys was just the number four. (via The Record)</description>
-    </item>
-    <item>
-      <title>Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber</title>
+      <title>Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry on defensive cyber</title>
       <link>https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/</link>
       <guid isPermaLink="false">https://cyberscoop.com/bipartisan-bill-combat-ai-distillation-attacks-nist/</guid>
       <pubDate>Thu, 22 Oct 2026 17:37:24 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>One of the bill’s sponsors told CyberScoop it’s “incredibly expensive” for U.S. AI companies to stay ahead and distillation attacks incentivize stealing over innovation. The post Exclusive: bipartisan bill would develop federal guidance for distillation attacks, convene industry… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Arista patches new VeloCloud Orchestrator zero-day exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</guid>
-      <pubDate>Thu, 22 Oct 2026 17:18:22 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...] (via BleepingComputer)</description>
+      <description>One of the bill’s sponsors told CyberScoop it’s “incredibly expensive” for U.S. AI companies to stay ahead and distillation attacks incentivize stealing over innovation. The post Exclusive: Bipartisan bill would develop federal guidance for distillation attacks, convene industry… (via CyberScoop)</description>
     </item>
     <item>
       <title>EMudhra Intermediate CA Certificates Compromised</title>
@@ -408,22 +488,6 @@
       <description>Unit 42 explores modern OAuth threats and actionable steps organizations can take to protect their environments. The post The Current Landscape of OAuth Attacks appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
-      <title>Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents</title>
-      <link>https://therecord.media/china-cyber-connectwise-ai</link>
-      <guid isPermaLink="false">https://therecord.media/china-cyber-connectwise-ai</guid>
-      <pubDate>Thu, 22 Oct 2026 16:30:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the globe, Microsoft said. (via The Record)</description>
-    </item>
-    <item>
-      <title>Microsoft shares how to fix broken Exchange Online EWS apps</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:49:32 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
       <link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</guid>
@@ -440,22 +504,6 @@
       <description>The private keys were so weak they could be guessed in under a second — and one of them was just the number 4. The post eMudhra kills its certificate business after researchers cracked its private keys in under a second appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>As AI Risks Grow, Insurers Split on Covering the Damage</title>
-      <link>https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage</guid>
-      <pubDate>Thu, 22 Oct 2026 14:21:22 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Insurers are split on AI risk: some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Machine speed attacks require machine speed detection and response</title>
-      <link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</guid>
-      <pubDate>Thu, 22 Oct 2026 14:02:12 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>EU Regulators to Investigate Booking.com Over Scam Risks</title>
       <link>https://www.infosecurity-magazine.com/news/eu-bookingcom-scam-risks/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/eu-bookingcom-scam-risks/</guid>
@@ -470,14 +518,6 @@
       <pubDate>Thu, 22 Oct 2026 13:26:51 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Amazon says PHP2Shell exploitation began 4 days before patches</title>
-      <link>https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</guid>
-      <pubDate>Thu, 22 Oct 2026 13:09:12 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Iranian Hacking Group Found Hosting C2 Infrastructure in the US</title>
@@ -534,14 +574,6 @@
       <pubDate>Thu, 22 Oct 2026 06:00:48 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>Kaspersky GReAT experts discovered a new UEFI bootkit, BlackX. It exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit. (via Securelist)</description>
-    </item>
-    <item>
-      <title>UAE Transitions 50% of Government Services to Agentic AI</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>The United Arab Emirates says it&#39;s creating a foundation of security and safety as it transforms its public service footprint. (via Dark Reading)</description>
     </item>
     <item>
       <title>ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)</title>
@@ -680,12 +712,12 @@
       <description>Robert Wayne Boling Jr. was the mastermind of an identity theft conspiracy that victimized thousands of military members and veterans. He faces up to 40 years in prison. The post Philippines-based American pleads guilty to running expansive fraud scheme targeting US… (via CyberScoop)</description>
     </item>
     <item>
-      <title>Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)</title>
+      <title>Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)</title>
       <link>https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/</guid>
       <pubDate>Tue, 20 Oct 2026 20:30:42 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 . (via Unit 42)</description>
+      <description>Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
       <title>The Internet goes on high alert after discovery of 8 compromised TLS certs</title>
@@ -702,14 +734,6 @@
       <pubDate>Tue, 20 Oct 2026 19:33:21 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Chukwuemeka Victor Amachukwu hacked tax preparation businesses, filed false tax returns and enticed victims to send him money for investment schemes. The post Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign</title>
-      <link>https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/russian-hackers-apt28-target-nato-defense-firms/</guid>
-      <pubDate>Tue, 20 Oct 2026 17:55:35 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>It’s the work of the infamous group behind the attacks on Democrats during the 2016 presidential election, Symantec said. The post Russian GRU hackers hit NATO shipbuilder, aircraft engine maker, law enforcement agency in espionage campaign appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>Meta Muse exposes users&#39; personal and business secrets when they share conversations</title>
@@ -782,30 +806,6 @@
       <pubDate>Mon, 19 Oct 2026 13:48:56 GMT</pubDate>
       <source url="https://krebsonsecurity.com/">Krebs on Security</source>
       <description>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations with the extortion group, KrebsOnSecurity… (via Krebs on Security)</description>
-    </item>
-    <item>
-      <title>Agents are your newest insiders. Security must move at their speed.</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/</guid>
-      <pubDate>Mon, 19 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously. The post Agents are your newest insiders. Security must move at their speed. appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Training AIs to Solve CAPTCHAs</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/training-ais-to-solve-captchas.html</guid>
-      <pubDate>Mon, 19 Oct 2026 11:07:43 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting research : Abstract : Vision-language models (VLMs) can solve visual CAPTCHAs without task-specific training, but the agents built on them approach every challenge from scratch. For such an agent, the hundredth instance of a familiar puzzle costs as much time and… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Weekly Update 526: Building HIBP AI/SI First</title>
-      <link>https://www.troyhunt.com/weekly-update-526/</link>
-      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-526/</guid>
-      <pubDate>Mon, 19 Oct 2026 06:47:58 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>I have this sense that we&#39;ve passed the point where &quot;vibe coding&quot; is a derogatory term. I have no empirical evidence for this; it&#39;s more a feeling that those weaponising the term have now accepted the inevitability and are just getting with the program. (via Troy Hunt)</description>
     </item>
   </channel>
 </rss>
