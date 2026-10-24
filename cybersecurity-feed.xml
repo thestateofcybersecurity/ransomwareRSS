@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 24 Oct 2026 12:47:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:43:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
+      <link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/</guid>
+      <pubDate>Sat, 24 Oct 2026 14:17:32 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software</title>
       <link>https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html</link>
@@ -462,14 +470,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>SIEM-less security may sound like an escape from traditional SIEM complexity and costs, but the underlying capabilities still have to exist somewhere. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Railway warns devs to rotate secrets after potential breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/</guid>
-      <pubDate>Thu, 22 Oct 2026 21:25:31 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Toronto crime tips org freezes operations after details of data breach come to light</title>
