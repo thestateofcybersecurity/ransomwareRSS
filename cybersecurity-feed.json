@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T19:34:37.426Z",
+  "updated": "2026-10-24T22:34:55.385Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -202,6 +202,14 @@
       "excerpt": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself."
     },
     {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Writing Is Closer to Thought Than Code",
+      "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-23T19:40:00.000Z",
+      "excerpt": "Charcoal sketch of a stone archery target: a tight purple arrow cluster cracks the outer ring while quill pens surround the bullseye/images/intent-driven-development.webp/images/intent-driven-development.webp I’ve been having this almost-debate with Matt…"
+    },
+    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
@@ -224,14 +232,6 @@
       "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
       "date": "2026-10-23T18:50:13.000Z",
       "excerpt": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-      "date": "2026-10-23T18:12:19.000Z",
-      "excerpt": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks…"
     },
     {
       "source": "The Hacker News",
@@ -424,14 +424,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
       "date": "2026-10-23T11:04:22.000Z",
       "excerpt": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Writing Is Closer to Thought Than Code",
-      "link": "https://danielmiessler.com/blog/intent-driven-development?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-23T10:40:00.000Z",
-      "excerpt": "Charcoal sketch of a stone archery target: a tight purple arrow cluster cracks the outer ring while quill pens surround the bullseye/images/intent-driven-development.webp/images/intent-driven-development.webp I’ve been having this almost-debate with Matt…"
     },
     {
       "source": "SecurityWeek",
@@ -746,14 +738,6 @@
       "excerpt": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available."
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "date": "2026-10-21T18:23:55.000Z",
-      "excerpt": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on…"
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -912,6 +896,22 @@
       "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
       "date": "2026-10-20T00:00:00.000Z",
       "excerpt": "The China-based threat group uses DLL sideloading in these attacks"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Why Incident Response Demand Will Grow Faster than Expected",
+      "link": "https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected",
+      "date": "2026-10-20T00:00:00.000Z",
+      "excerpt": "A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "date": "2026-10-19T19:39:19.000Z",
+      "excerpt": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes."
     }
   ]
 }
