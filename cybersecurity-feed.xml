@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 19:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 22:39:58 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>YARA-X 1.22.0 Release, (Sun, Oct 25th)</title>
+      <link>https://isc.sans.edu/diary/rss/33454</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33454</guid>
+      <pubDate>Sun, 25 Oct 2026 19:57:53 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>YARA-X&amp;#x26;#39;s 1.22.0 release brings 11 improvements and 9 bugfixes. (via SANS Internet Storm Center)</description>
+    </item>
     <item>
       <title>Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</title>
       <link>https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</link>
@@ -168,12 +176,12 @@
       <description>Technical diagram: a human head with a glowing idea in its brain, tagged source 1, idea, human thought; a dashed line marks where human thought ends; beyond it, a handwritten page tagged 1st derivative 2, articulation, closest to thought and a code window tagged 2nd derivative… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)</title>
+      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)</title>
       <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</guid>
       <pubDate>Fri, 23 Oct 2026 19:00:34 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23) appeared first on Unit 42 . (via Unit 42)</description>
+      <description>CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
       <title>Microsoft Teams to get AI-powered, context-aware phishing detection</title>
@@ -182,6 +190,14 @@
       <pubDate>Fri, 23 Oct 2026 18:54:41 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</guid>
+      <pubDate>Fri, 23 Oct 2026 18:12:19 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>FCC bans two devices with surveillance chips linked to Huawei</title>
@@ -648,6 +664,14 @@
       <description>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available. (via SANS Internet Storm Center)</description>
     </item>
     <item>
+      <title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</guid>
+      <pubDate>Wed, 21 Oct 2026 18:23:55 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
       <guid isPermaLink="false">https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
@@ -782,30 +806,6 @@
       <pubDate>Tue, 20 Oct 2026 09:41:49 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>A 28-year-old Russian man has been arrested by German police, suspected of being a key member of the Qilin ransomware gang. Detectives have linked the man to the attack against blood-testing firm Synnovis, that disrupted London hospitals, and resulted in the death of a patient.… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>The journey of a paper unicorn: adventures inside a modern warehouse</title>
-      <link>https://securelist.com/paper-unicorn-warehouse-security/121537/</link>
-      <guid isPermaLink="false">https://securelist.com/paper-unicorn-warehouse-security/121537/</guid>
-      <pubDate>Tue, 20 Oct 2026 07:00:45 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>Kaspersky experts explain the security issues affecting warehouse environments. We break down initial access vectors specific to warehouses, and discuss the impact of a compromise. (via Securelist)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33436</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33436</guid>
-      <pubDate>Tue, 20 Oct 2026 02:00:03 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>BRONZE SANDCASTLE deploys modified Meterpreter shells</title>
-      <link>https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
     </item>
   </channel>
 </rss>
