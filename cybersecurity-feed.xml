@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 01:18:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:19:20 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Models Are the How, Harnesses Are the What</title>
+      <link>https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sun, 25 Oct 2026 01:28:26 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A person hands their preferences, context, goals and how they like things done to a harness labeled the what, which feeds a model labeled the how, which produces a result that returns to the person; both harness and model point up at a hilltop flag labeled what you… (via Daniel Miessler)</description>
+    </item>
     <item>
       <title>BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot</title>
       <link>https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/</link>
@@ -101,7 +109,7 @@
       <guid isPermaLink="false">https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Fri, 23 Oct 2026 19:40:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Technical diagram: a thinking head with a glowing idea in its brain 1, the idea, the source, an arrow to a handwritten page 2, articulation, closest to thought, and an arrow down to a dashed code window 3, code, an implementation of… (via Daniel Miessler)</description>
+      <description>Technical diagram: a human head with a glowing idea in its brain, tagged source 1, idea, human thought; a dashed line marks where human thought ends; beyond it, a handwritten page tagged 1st derivative 2, articulation, closest to thought and a code window tagged 2nd derivative… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)</title>
@@ -126,14 +134,6 @@
       <pubDate>Fri, 23 Oct 2026 18:50:13 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</guid>
-      <pubDate>Fri, 23 Oct 2026 18:12:19 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
@@ -640,14 +640,6 @@
       <description>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available. (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</guid>
-      <pubDate>Wed, 21 Oct 2026 18:23:55 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
       <guid isPermaLink="false">https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
@@ -806,6 +798,14 @@
       <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
+      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders. (via Sophos News)</description>
     </item>
   </channel>
 </rss>
