@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 06:19:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:50:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</title>
+      <link>https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/</guid>
+      <pubDate>Sun, 25 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw</title>
+      <link>https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/</guid>
+      <pubDate>Sun, 25 Oct 2026 09:00:56 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A critical PHP security release is coming today, so get ready to update! The PHP security team has announced an urgent security release for Wednesday, 21 October 2026 at 14:00 UTC.… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication</title>
+      <link>https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html</guid>
+      <pubDate>Sun, 25 Oct 2026 06:54:29 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. &quot;Based on the current state of alignment research, monitoring systems, and the… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Models Are the How, Harnesses Are the What</title>
       <link>https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
@@ -136,20 +160,20 @@
       <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to… (via The Hacker News)</description>
     </item>
     <item>
+      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</guid>
+      <pubDate>Fri, 23 Oct 2026 18:12:19 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
       <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
       <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</guid>
       <pubDate>Fri, 23 Oct 2026 17:54:08 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions</title>
-      <link>https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html</guid>
-      <pubDate>Fri, 23 Oct 2026 17:50:47 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an &quot;Autonomous Red Team Kill Chain Framework&quot; referred to as Phantom. The threat… (via The Hacker News)</description>
     </item>
     <item>
       <title>FCC bans two devices with surveillance chips linked to Huawei</title>
@@ -408,14 +432,6 @@
       <description>Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Atlassian Patches 75 Flaws in Data Center and Server Products</title>
-      <link>https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/</guid>
-      <pubDate>Fri, 23 Oct 2026 07:54:47 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Google opens its cloud to rival OpenAI, promises business data won’t train models</title>
       <link>https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/</guid>
@@ -438,14 +454,6 @@
       <pubDate>Fri, 23 Oct 2026 04:30:39 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Organizations are cutting cybersecurity roles as they adopt AI, even while reporting shortages of the expertise needed to manage threats, according to Barracuda’s Cybersecurity Skills Gap Report. 56% have experienced professional workforce reductions linked to AI, evenly divided… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>New infosec products of the week: October 23, 2026</title>
-      <link>https://www.helpnetsecurity.com/2026/10/23/new-infosec-products-of-the-week-october-23-2026/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/23/new-infosec-products-of-the-week-october-23-2026/</guid>
-      <pubDate>Fri, 23 Oct 2026 04:00:41 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Here’s a look at the most interesting products from the past week, featuring releases from AppGate, IDENTOS, Sweet Security, and ThreatModeler. Sweet Security adds one-click protection for vulnerable cloud workloads Sweet Security has announced the release of Virtual Patching, a… (via Help Net Security)</description>
     </item>
     <item>
       <title>Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</title>
@@ -640,6 +648,14 @@
       <description>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available. (via SANS Internet Storm Center)</description>
     </item>
     <item>
+      <title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</guid>
+      <pubDate>Wed, 21 Oct 2026 18:23:55 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
       <guid isPermaLink="false">https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
@@ -790,22 +806,6 @@
       <pubDate>Tue, 20 Oct 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>BRONZE SANDCASTLE deploys modified Meterpreter shells</title>
-      <link>https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Why Incident Response Demand Will Grow Faster than Expected</title>
-      <link>https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/why-incident-response-demand-will-grow-faster-than-expected</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>A perspective on AI-enabled attacker scale, defender capacity, and the growing need for experienced responders. (via Sophos News)</description>
     </item>
   </channel>
 </rss>
