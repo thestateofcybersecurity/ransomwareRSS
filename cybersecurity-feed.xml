@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 11:50:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:36:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>AI coding agents hijacked using AGENTS.md file in Downloads folder</title>
+      <link>https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/</guid>
+      <pubDate>Sun, 25 Oct 2026 15:49:38 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Researchers found a malicious AGENTS markdown instruction file in a customer&#39;s Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Team Explanation</title>
+      <link>https://danielmiessler.com/blog/team-explanation?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/team-explanation?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sun, 25 Oct 2026 15:46:32 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A charcoal cutaway barn: a turkey professor points at a chart of sunrise feeding times while, inside, a farmer sharpens an axe beside roasting pans./images/team-explanation.webp/images/team-explanation.webp There are two major ways of assessing the quality of our understanding… (via Daniel Miessler)</description>
+    </item>
     <item>
       <title>Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave</title>
       <link>https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/</link>
@@ -160,14 +176,6 @@
       <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/</guid>
-      <pubDate>Fri, 23 Oct 2026 18:12:19 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
       <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</guid>
@@ -286,14 +294,6 @@
       <pubDate>Fri, 23 Oct 2026 12:52:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data. (via The Record)</description>
-    </item>
-    <item>
-      <title>HPE patches eight max severity RCE and auth bypass AOS flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/</guid>
-      <pubDate>Fri, 23 Oct 2026 12:48:00 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge</title>
@@ -648,14 +648,6 @@
       <description>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available. (via SANS Internet Storm Center)</description>
     </item>
     <item>
-      <title>AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/</guid>
-      <pubDate>Wed, 21 Oct 2026 18:23:55 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>Widespread PHP Flaw May Cause Many Site Outages Today</title>
       <link>https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</link>
       <guid isPermaLink="false">https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/</guid>
@@ -806,6 +798,14 @@
       <pubDate>Tue, 20 Oct 2026 02:00:03 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>BRONZE SANDCASTLE deploys modified Meterpreter shells</title>
+      <link>https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
     </item>
   </channel>
 </rss>

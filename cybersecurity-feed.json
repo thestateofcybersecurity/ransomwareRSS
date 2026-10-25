@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T11:50:02.257Z",
+  "updated": "2026-10-25T16:36:02.308Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+      "date": "2026-10-25T15:49:38.000Z",
+      "excerpt": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Team Explanation",
+      "link": "https://danielmiessler.com/blog/team-explanation?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-25T15:46:32.000Z",
+      "excerpt": "A charcoal cutaway barn: a turkey professor points at a chart of sunrise feeding times while, inside, a farmer sharpens an axe beside roasting pans./images/team-explanation.webp/images/team-explanation.webp There are two major ways of assessing the quality of our understanding…"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -266,14 +282,6 @@
       "excerpt": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to…"
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-      "date": "2026-10-23T18:12:19.000Z",
-      "excerpt": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
@@ -392,14 +400,6 @@
       "link": "https://therecord.media/quest-diagnostics-network-intrusion",
       "date": "2026-10-23T12:52:00.000Z",
       "excerpt": "Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
-      "date": "2026-10-23T12:48:00.000Z",
-      "excerpt": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -754,14 +754,6 @@
       "excerpt": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available."
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "date": "2026-10-21T18:23:55.000Z",
-      "excerpt": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on…"
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -912,6 +904,14 @@
       "link": "https://isc.sans.edu/diary/rss/33436",
       "date": "2026-10-20T02:00:03.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
+      "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
+      "date": "2026-10-20T00:00:00.000Z",
+      "excerpt": "The China-based threat group uses DLL sideloading in these attacks"
     }
   ]
 }
