@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 16:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 19:46:31 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers</title>
+      <link>https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html</guid>
+      <pubDate>Sun, 25 Oct 2026 17:44:09 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking</title>
+      <link>https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html</guid>
+      <pubDate>Sun, 25 Oct 2026 17:19:46 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. &quot;In one case, the attackers targeted a government entity in… (via The Hacker News)</description>
+    </item>
     <item>
       <title>AI coding agents hijacked using AGENTS.md file in Downloads folder</title>
       <link>https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/</link>
@@ -16,7 +32,7 @@
       <description>Researchers found a malicious AGENTS markdown instruction file in a customer&#39;s Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Team Explanation</title>
+      <title>I&#39;m on Team Explanation</title>
       <link>https://danielmiessler.com/blog/team-explanation?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
       <guid isPermaLink="false">https://danielmiessler.com/blog/team-explanation?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Sun, 25 Oct 2026 15:46:32 GMT</pubDate>
@@ -166,22 +182,6 @@
       <pubDate>Fri, 23 Oct 2026 18:54:41 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations</title>
-      <link>https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html</guid>
-      <pubDate>Fri, 23 Oct 2026 18:50:13 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws</title>
-      <link>https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html</guid>
-      <pubDate>Fri, 23 Oct 2026 17:54:08 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could… (via The Hacker News)</description>
     </item>
     <item>
       <title>FCC bans two devices with surveillance chips linked to Huawei</title>

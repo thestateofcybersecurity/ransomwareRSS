@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:36:02.308Z",
+  "updated": "2026-10-25T19:46:31.848Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,22 @@
   ],
   "items": [
     {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+      "date": "2026-10-25T17:44:09.000Z",
+      "excerpt": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to allow port forwarding, and an attacker…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+      "date": "2026-10-25T17:19:46.000Z",
+      "excerpt": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in…"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -124,7 +140,7 @@
     {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
-      "title": "Team Explanation",
+      "title": "I'm on Team Explanation",
       "link": "https://danielmiessler.com/blog/team-explanation?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-10-25T15:46:32.000Z",
       "excerpt": "A charcoal cutaway barn: a turkey professor points at a chart of sunrise feeding times while, inside, a farmer sharpens an axe beside roasting pans./images/team-explanation.webp/images/team-explanation.webp There are two major ways of assessing the quality of our understanding…"
@@ -272,22 +288,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
       "date": "2026-10-23T18:54:41.000Z",
       "excerpt": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-      "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-      "date": "2026-10-23T18:50:13.000Z",
-      "excerpt": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and Turkmenistan in early 2026, is suspected to…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-      "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-      "date": "2026-10-23T17:54:08.000Z",
-      "excerpt": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found that a specially crafted pattern could…"
     },
     {
       "source": "The Record",
