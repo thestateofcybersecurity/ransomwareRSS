@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 25 Oct 2026 22:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 01:22:02 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>OpenSSL 4.1.0: What’s new, what’s removed, and what’s still broken</title>
+      <link>https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/</guid>
+      <pubDate>Sun, 25 Oct 2026 23:33:35 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The OpenSSL project released version 4.1.0, adding support for DTLS 1.3 and listing four known bugs in the DTLS code that ships with it. DTLS is the variant of TLS built for datagram transports such as UDP, and version 1.3 is defined in RFC 9147. The bugs fall on developers who… (via Help Net Security)</description>
+    </item>
     <item>
       <title>YARA-X 1.22.0 Release, (Sun, Oct 25th)</title>
       <link>https://isc.sans.edu/diary/rss/33454</link>
@@ -328,14 +336,6 @@
       <description>Damaging a cable on the seabed off the UK coast could soon cost someone 14 years of their life behind bars, under plans the British government published this week. The proposal comes from a White Paper by the Department for Digital, Culture, Media and Sport that would update… (via Help Net Security)</description>
     </item>
     <item>
-      <title>Hacker leaks 281 GB of data from Germany’s far-right AfD party</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd</link>
-      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd</guid>
-      <pubDate>Fri, 23 Oct 2026 12:29:16 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>The AfD has confirmed that hackers breached its hosting provider. A leak site now claims to offer 421,179 of the party’s internal emails, and shows AI-written summaries rather than the emails themselves. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
-    </item>
-    <item>
       <title>Microsoft 365 accounts compromised at 79 organizations, no passwords needed</title>
       <link>https://www.helpnetsecurity.com/2026/10/23/microsoft-365-accounts-stolen-sessions/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/23/microsoft-365-accounts-stolen-sessions/</guid>
@@ -462,14 +462,6 @@
       <pubDate>Fri, 23 Oct 2026 05:30:25 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>In this interview with Help Net Security, Nick Donarski, CTO at RotorLab, explains what councils, records clerks, insurers, and auditors expect from a public safety drone program, and where most programs fall short. He covers chain of custody for flight logs and video, how to… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>AI is taking cybersecurity jobs at junior and experienced levels alike</title>
-      <link>https://www.helpnetsecurity.com/2026/10/23/barracuda-cybersecurity-career-development-report/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/23/barracuda-cybersecurity-career-development-report/</guid>
-      <pubDate>Fri, 23 Oct 2026 04:30:39 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Organizations are cutting cybersecurity roles as they adopt AI, even while reporting shortages of the expertise needed to manage threats, according to Barracuda’s Cybersecurity Skills Gap Report. 56% have experienced professional workforce reductions linked to AI, evenly divided… (via Help Net Security)</description>
     </item>
     <item>
       <title>Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</title>
@@ -640,14 +632,6 @@
       <description>via SANS Internet Storm Center</description>
     </item>
     <item>
-      <title>Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside</title>
-      <link>https://grahamcluley.com/smashing-security-podcast-489/</link>
-      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-489/</guid>
-      <pubDate>Wed, 21 Oct 2026 23:12:20 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out. Meanwhile, malicious ads are targeting journalists with zero-click attacks. Plus,… (via Graham Cluley)</description>
-    </item>
-    <item>
       <title>Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group</title>
       <link>https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/</link>
       <guid isPermaLink="false">https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/</guid>
@@ -800,12 +784,28 @@
       <description>Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Police arrest Qilin ransomware suspect on holiday, as links made to Synnovis hack that contributed to patient’s death</title>
-      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death</link>
-      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/qilin-ransomware-arrested-synnovis-patient-death</guid>
-      <pubDate>Tue, 20 Oct 2026 09:41:49 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>A 28-year-old Russian man has been arrested by German police, suspected of being a key member of the Qilin ransomware gang. Detectives have linked the man to the attack against blood-testing firm Synnovis, that disrupted London hospitals, and resulted in the death of a patient.… (via Graham Cluley)</description>
+      <title>The journey of a paper unicorn: adventures inside a modern warehouse</title>
+      <link>https://securelist.com/paper-unicorn-warehouse-security/121537/</link>
+      <guid isPermaLink="false">https://securelist.com/paper-unicorn-warehouse-security/121537/</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:45 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>Kaspersky experts explain the security issues affecting warehouse environments. We break down initial access vectors specific to warehouses, and discuss the impact of a compromise. (via Securelist)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/33436</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33436</guid>
+      <pubDate>Tue, 20 Oct 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>BRONZE SANDCASTLE deploys modified Meterpreter shells</title>
+      <link>https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>The China-based threat group uses DLL sideloading in these attacks (via Sophos News)</description>
     </item>
   </channel>
 </rss>
