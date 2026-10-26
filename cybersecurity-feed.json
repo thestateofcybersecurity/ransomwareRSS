@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T06:38:57.196Z",
+  "updated": "2026-10-26T14:24:51.087Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,260 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "date": "2026-10-26T14:00:10.000Z",
+      "excerpt": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "10 Software Security Practices Built for the Next 250 Years",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+      "date": "2026-10-26T14:00:00.000Z",
+      "excerpt": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Linux Flaws Exposed Before Fixes as Root Exploit Goes Public",
+      "link": "https://www.infosecurity-magazine.com/news/linux-flaws-exposed-before-fixes/",
+      "date": "2026-10-26T14:00:00.000Z",
+      "excerpt": "Six Linux flaws were made public, including one with a working root exploit and no merged fix"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "date": "2026-10-26T13:56:44.000Z",
+      "excerpt": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "CISA publishes strategy with eye on the next four years",
+      "link": "https://cyberscoop.com/cisa-2030-cybersecurity-strategy/",
+      "date": "2026-10-26T13:31:38.000Z",
+      "excerpt": "It includes a review of whether its existing capabilities will meet its three pillars: “defend, harden, prevail.” The post CISA publishes strategy with eye on the next four years appeared first on CyberScoop ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+      "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+      "date": "2026-10-26T13:30:10.000Z",
+      "excerpt": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Kali Linux 2026.3 ships kernel 7.1.5, brings wardriving to the TicWatch Pro 3",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/kali-linux-2026-3-released/",
+      "date": "2026-10-26T13:24:24.000Z",
+      "excerpt": "The Kali Linux team released version 2026.3 after overhauling the public build scripts it uses to produce every official image. The refreshed scripts share the same features, command-line arguments and, where possible, the same layout, so a pipeline written against an older…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Security pros reckon the biggest AI risk comes with an employee badge",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/ai-tools-security-worry-survey/",
+      "date": "2026-10-26T13:16:01.000Z",
+      "excerpt": "Employees pasting company data into AI tools worry security teams more than AI-powered attacks do. Most-concerning risks of AI agents (Source: O’Reilly) AI-generated phishing, the attack they run into most often, made the list of top concerns for only a quarter of the 209…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+      "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+      "date": "2026-10-26T12:46:44.000Z",
+      "excerpt": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Microsoft Issues Emergency Patch Update for Critical .NET Buffer Overflow Flaw",
+      "link": "https://www.infosecurity-magazine.com/news/microsoft-patch-update-net-flaw/",
+      "date": "2026-10-26T12:45:00.000Z",
+      "excerpt": "Microsoft’s updates address two newly disclosed vulnerabilities in the .NET developer platform, as well as flaws not fully addressed in an earlier release"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+      "link": "https://therecord.media/litellm-hackers-ai-malware",
+      "date": "2026-10-26T12:00:00.000Z",
+      "excerpt": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+      "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+      "date": "2026-10-26T11:52:41.000Z",
+      "excerpt": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first need a vulnerable Wasmtime build to…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+      "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+      "date": "2026-10-26T11:47:52.000Z",
+      "excerpt": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI coding agents fall for malicious instructions planted in the Downloads folder",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/ai-coding-agents-malware-openai-codex/",
+      "date": "2026-10-26T11:26:40.000Z",
+      "excerpt": "A file that a website saves to the Downloads folder without approval can trick AI coding agents into installing a malicious npm package or handing over the user’s login token when they’re opened in that folder, Forever Security has found. The file is called AGENTS.md, a plain…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+      "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+      "date": "2026-10-26T11:23:56.000Z",
+      "excerpt": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it feeds the defensive systems…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Fortinet patches critical FortiOS flaws found with AI help",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/fortinet-patches-critical-fortios-flaws-found-with-ai-help/",
+      "date": "2026-10-26T11:22:52.000Z",
+      "excerpt": "Fortinet rolled out security hardening updates for FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator last week, but is keeping the details about the fixed vulnerabilities under wraps until November 10, 2026. The vulnerabilities were uncovered with the help…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Bias in Qwen3-Coder Model",
+      "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
+      "date": "2026-10-26T11:03:31.000Z",
+      "excerpt": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Anthropic details what stops Claude Duet from going rogue",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards/",
+      "date": "2026-10-26T10:41:47.000Z",
+      "excerpt": "Anthropic has outlined the security and privacy protections behind Claude Duet, its proactive AI agent that can monitor connected accounts and complete tasks while users are away. The safeguards include approval requirements, checks for sensitive information and infrastructure…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+      "date": "2026-10-26T10:26:52.000Z",
+      "excerpt": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+      "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+      "date": "2026-10-26T10:21:57.000Z",
+      "excerpt": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Blue Initiative Offers Maritime Sector Dedicated Vulnerability Database",
+      "link": "https://www.infosecurity-magazine.com/news/blue-initiative-maritime/",
+      "date": "2026-10-26T10:15:00.000Z",
+      "excerpt": "Blue Initiative launches a new vulnerability database for IT and OT CVEs relevant to the maritime industry"
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
+      "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
+      "date": "2026-10-26T10:00:18.000Z",
+      "excerpt": "We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+      "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+      "date": "2026-10-26T09:54:02.000Z",
+      "excerpt": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the official app stores, or who…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
+      "link": "https://isc.sans.edu/diary/rss/33442",
+      "date": "2026-10-26T09:38:03.000Z",
+      "excerpt": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+      "date": "2026-10-26T09:19:57.000Z",
+      "excerpt": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "PHP Publishes Mitigation Advice for New RCE Flaw",
+      "link": "https://www.infosecurity-magazine.com/news/php-publishes-mitigation-advice/",
+      "date": "2026-10-26T09:15:00.000Z",
+      "excerpt": "PHP warns of critical RCE vulnerability CVE-2026-115560, but says limited exploit conditions mean most deployments are unlikely to be affected"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+      "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+      "date": "2026-10-26T09:10:03.000Z",
+      "excerpt": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+      "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+      "date": "2026-10-26T08:35:51.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations. Huntress, which observed…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+      "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+      "date": "2026-10-26T07:49:46.000Z",
+      "excerpt": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and GitHub Enterprise…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Witness: Open-source framework for verifying how your software was built",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/witness-open-source-software-supply-chain-tool/",
+      "date": "2026-10-26T07:00:45.000Z",
+      "excerpt": "Witness is an open-source command-line tool that records how software gets built, signs that record, and checks it against a policy before the software ships. TestifySec built Witness and donated it to the in-toto ecosystem within the Cloud Native Computing Foundation, and an…"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "AI slop is piling up highest on the biggest open-source projects",
       "link": "https://www.helpnetsecurity.com/2026/10/26/linux-foundation-open-source-ai-slop/",
       "date": "2026-10-26T06:30:29.000Z",
       "excerpt": "The maintainers of large open source projects are taking the worst of the AI slop. In a Linux Foundation survey of 234 open source contributors and maintainers, people running projects with more than 50 contributors estimated that close to a third of the code changes landing in…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+      "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+      "date": "2026-10-26T06:03:48.000Z",
+      "excerpt": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the attempt on a real customer's machine and…"
     },
     {
       "source": "Help Net Security",
@@ -130,38 +378,6 @@
       "excerpt": "An AI SOC that starts with somebody else’s alert is already too late. Stellar Cyber collects and normalizes telemetry, detects suspicious activity, correlates evidence, builds cases, investigates incidents, triages findings, and drives response from the same security…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Forgotten AI agents may still access sensitive company data",
-      "link": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/",
-      "date": "2026-10-26T05:30:27.000Z",
-      "excerpt": "AI agents that have not run recently retain credentials and connections to company systems, according to Arrakis Security’s 2026 Autonomous Agents Threat Report. About 76% of enabled agents examined had not run in 60 days, leaving access available through inactive software.…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Synthetic identities leave US lenders with $2.4 billion in fraud exposure",
-      "link": "https://www.helpnetsecurity.com/2026/10/26/transunion-synthetic-identity-fraud-risks-report/",
-      "date": "2026-10-26T05:00:59.000Z",
-      "excerpt": "Criminals are exploiting established customer accounts and familiar brands to steal money and personal information, according to TransUnion’s Fraud in the Age of Continuous Trust report. Eighty-one percent of suspected digital fraud in its network during the first half of 2026…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "r/opensource bans AI projects, and solo devs go down with them",
-      "link": "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/",
-      "date": "2026-10-26T04:30:36.000Z",
-      "excerpt": "Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is intended for AI.” Moderator Wolvereness announced the rules in a post over the weekend. A project now has to be at least a year old and…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes",
-      "link": "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/",
-      "date": "2026-10-26T04:25:59.000Z",
-      "excerpt": "Google has open-sourced the Elephant-Goldfish Model plugin, an internal tool that makes an AI coding agent write and defend a design document before it touches any code. The plugin hands that document to fresh AI sessions that have never seen the design conversation and tells…"
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
@@ -170,12 +386,12 @@
       "excerpt": ""
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "OpenSSL 4.1.0: What’s new, what’s removed, and what’s still broken",
-      "link": "https://www.helpnetsecurity.com/2026/10/26/openssl-4-1-0-released/",
-      "date": "2026-10-25T23:33:35.000Z",
-      "excerpt": "The OpenSSL project released version 4.1.0, adding support for DTLS 1.3 and listing four known bugs in the DTLS code that ships with it. DTLS is the variant of TLS built for datagram transports such as UDP, and version 1.3 is defined in RFC 9147. The bugs fall on developers who…"
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "The breachpocalypse is here",
+      "link": "https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here",
+      "date": "2026-10-26T00:00:00.000Z",
+      "excerpt": "It's just hard to measure"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -226,22 +442,6 @@
       "excerpt": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Week in review: PHP vulnerabilities patched, exploited Palo Alto GlobalProtect VPN flaw",
-      "link": "https://www.helpnetsecurity.com/2026/10/25/week-in-review-php-vulnerabilities-patched-exploited-palo-alto-globalprotect-vpn-flaw/",
-      "date": "2026-10-25T09:00:56.000Z",
-      "excerpt": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: A critical PHP security release is coming today, so get ready to update! The PHP security team has announced an urgent security release for Wednesday, 21 October 2026 at 14:00 UTC.…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-      "date": "2026-10-25T06:54:29.000Z",
-      "excerpt": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment research, monitoring systems, and the…"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Models Are the How, Harnesses Are the What",
@@ -258,46 +458,6 @@
       "excerpt": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-      "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-      "date": "2026-10-24T11:09:29.000Z",
-      "excerpt": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as CVE-2026-111497, the flaw allows crafted compressed…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-      "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-      "date": "2026-10-24T11:03:33.000Z",
-      "excerpt": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27, 2026, a configuration file was committed…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-      "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-      "date": "2026-10-24T10:36:33.000Z",
-      "excerpt": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services. \"You may choose to allow…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-      "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-      "date": "2026-10-24T09:04:24.000Z",
-      "excerpt": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine. The updater belongs to Time4Popcorn,…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-      "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-      "date": "2026-10-24T06:25:57.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports of active exploitation in the…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Friday Squid Blogging: Increasing Squid Populations",
@@ -308,7 +468,7 @@
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
-      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+      "title": "Trust Is Not What It Seems — and Fraudsters Are Counting on It",
       "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
       "date": "2026-10-23T20:57:56.000Z",
       "excerpt": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence."
@@ -386,28 +546,12 @@
       "excerpt": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-      "date": "2026-10-23T17:05:07.000Z",
-      "excerpt": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
       "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
       "date": "2026-10-23T16:51:59.000Z",
       "excerpt": "Corporate phishing tests are common, but this one was especially cruel."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Quest Diagnostics confirms data breach exposed patient records",
-      "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-      "date": "2026-10-23T16:40:07.000Z",
-      "excerpt": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]"
     },
     {
       "source": "CyberScoop",
@@ -418,28 +562,12 @@
       "excerpt": "Citizen Lab’s AdFection findings have senators pushing for industry improvements, while IAB Europe and Google defend their vetting practices. The post Senators say targeted ads are a security risk. Ad groups say the critics are off base. appeared first on CyberScoop ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-      "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-      "date": "2026-10-23T15:38:05.000Z",
-      "excerpt": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
       "link": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
       "date": "2026-10-23T14:23:37.000Z",
       "excerpt": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "You gave your AI agent access, but who is giving it orders?",
-      "link": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
-      "date": "2026-10-23T14:00:10.000Z",
-      "excerpt": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure…"
     },
     {
       "source": "Dark Reading",
@@ -522,14 +650,6 @@
       "excerpt": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-      "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-      "date": "2026-10-23T10:31:16.000Z",
-      "excerpt": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek ."
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "Widespread Token-Spraying Attacks Target Microsoft 365 Accounts For Email Compromise",
@@ -554,38 +674,6 @@
       "excerpt": "Kroll found that 69% of data breach victims in the past year were affected by a third-party breach, with attacks on tech companies the most common cause"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-      "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-      "date": "2026-10-23T09:58:34.000Z",
-      "excerpt": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "11 Million Impacted by Capcom Data Breach",
-      "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-      "date": "2026-10-23T08:34:14.000Z",
-      "excerpt": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
-      "link": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
-      "date": "2026-10-23T08:25:06.000Z",
-      "excerpt": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
-      "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
-      "date": "2026-10-23T08:10:46.000Z",
-      "excerpt": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek ."
-    },
-    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits",
@@ -608,22 +696,6 @@
       "link": "https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like",
       "date": "2026-10-23T00:00:00.000Z",
       "excerpt": "SIEM-less security may sound like an escape from traditional SIEM complexity and costs, but the underlying capabilities still have to exist somewhere."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Toronto crime tips org freezes operations after details of data breach come to light",
-      "link": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
-      "date": "2026-10-22T20:52:00.000Z",
-      "excerpt": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
-      "date": "2026-10-22T20:42:17.000Z",
-      "excerpt": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants."
     },
     {
       "source": "Ars Technica Security",
@@ -690,14 +762,6 @@
       "excerpt": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP…"
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Iranian Hacking Group Found Hosting C2 Infrastructure in the US",
-      "link": "https://www.infosecurity-magazine.com/news/iranian-hacking-group-hosting-c2/",
-      "date": "2026-10-22T13:05:00.000Z",
-      "excerpt": "Stealthy malware campaign by ‘Prince of Persia’ threat group targeting organisations worldwide discovered operating on American soil"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
@@ -706,36 +770,12 @@
       "excerpt": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Microsoft: Chinese State Actor Used AI to Compromise ConnectWise Tenants",
-      "link": "https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/",
-      "date": "2026-10-22T11:00:00.000Z",
-      "excerpt": "Microsoft said it has observed threat actor activity in multiple ConnectWise customer environments, with the attackers leveraging the ARTEX agentic AI platform"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "PHP2Shell Exploitation Attempt Detected by Amazon Four Days Before Vulnerability Disclosure",
-      "link": "https://www.infosecurity-magazine.com/news/php2shell-exploitation-attempt/",
-      "date": "2026-10-22T10:10:00.000Z",
-      "excerpt": "Threat intelligence analysts now observe large-scale evidence of exploitation of the two critical PHP vulnerabilities"
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Encryption isn’t enough to protect data wherever it goes",
       "link": "https://cyberscoop.com/vaultless-keyless-pseudonymization-cybersecurity-policy-op-ed/",
       "date": "2026-10-22T10:00:00.000Z",
       "excerpt": "Once data is in use, encryption falls short. A tested approach that replaces sensitive values with realistic substitutes could make stolen information far less useful to hackers. The post Encryption isn’t enough to protect data wherever it goes appeared first on CyberScoop ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Cloud Security Maturity Lags Despite Widespread Adoption, SANS Warns",
-      "link": "https://www.infosecurity-magazine.com/news/cloud-security-maturity-lags-sans/",
-      "date": "2026-10-22T08:20:00.000Z",
-      "excerpt": "Nearly all organizations now run production workloads in the cloud, but a new SANS survey found most have yet to achieve mature cloud security programs"
     },
     {
       "source": "Securelist",
@@ -842,14 +882,6 @@
       "excerpt": "Kaspersky researchers analyze Operation FlashHole – a recent complex attack by Lazarus, involving a sophisticated malware set, watering-hole technique and abuse of CrossWeb EX financial security software."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33438",
-      "date": "2026-10-21T02:00:03.000Z",
-      "excerpt": ""
-    },
-    {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
       "title": "Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower",
@@ -880,38 +912,6 @@
       "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
       "date": "2026-10-20T20:30:42.000Z",
       "excerpt": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 ."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "date": "2026-10-20T19:47:35.000Z",
-      "excerpt": "Intermediate certs allow anyone to mint web credentials for any Internet server."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme",
-      "link": "https://cyberscoop.com/nigerian-sentenced-hacking-fraud-tax-investment-scheme/",
-      "date": "2026-10-20T19:33:21.000Z",
-      "excerpt": "Chukwuemeka Victor Amachukwu hacked tax preparation businesses, filed false tax returns and enticed victims to send him money for investment schemes. The post Nigerian sentenced to 8 years for long-running tax business hacking and fraud scheme appeared first on CyberScoop ."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-      "date": "2026-10-20T12:33:13.000Z",
-      "excerpt": "Meta is suspending the sharing feature while it investigates its privacy."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Possible new Cellebrite iPhone Radio Zero-Day",
-      "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
-      "date": "2026-10-20T11:03:13.000Z",
-      "excerpt": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms…"
     }
   ]
 }
