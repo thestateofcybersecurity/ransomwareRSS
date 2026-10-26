@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T01:22:02.672Z",
+  "updated": "2026-10-26T06:38:57.196Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -93,8 +93,8 @@
     },
     {
       "name": "Graham Cluley",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Troy Hunt",
@@ -113,6 +113,62 @@
     }
   ],
   "items": [
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "AI slop is piling up highest on the biggest open-source projects",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/linux-foundation-open-source-ai-slop/",
+      "date": "2026-10-26T06:30:29.000Z",
+      "excerpt": "The maintainers of large open source projects are taking the worst of the AI slop. In a Linux Foundation survey of 234 open source contributors and maintainers, people running projects with more than 50 contributors estimated that close to a third of the code changes landing in…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Product showcase: Stellar Cyber’s ISOC platform provides full-cycle architecture",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/product-showcase-stellar-cyber-isoc-platform/",
+      "date": "2026-10-26T06:00:12.000Z",
+      "excerpt": "An AI SOC that starts with somebody else’s alert is already too late. Stellar Cyber collects and normalizes telemetry, detects suspicious activity, correlates evidence, builds cases, investigates incidents, triages findings, and drives response from the same security…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Forgotten AI agents may still access sensitive company data",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/arrakis-dormant-ai-agent-risks-report/",
+      "date": "2026-10-26T05:30:27.000Z",
+      "excerpt": "AI agents that have not run recently retain credentials and connections to company systems, according to Arrakis Security’s 2026 Autonomous Agents Threat Report. About 76% of enabled agents examined had not run in 60 days, leaving access available through inactive software.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Synthetic identities leave US lenders with $2.4 billion in fraud exposure",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/transunion-synthetic-identity-fraud-risks-report/",
+      "date": "2026-10-26T05:00:59.000Z",
+      "excerpt": "Criminals are exploiting established customer accounts and familiar brands to steal money and personal information, according to TransUnion’s Fraud in the Age of Continuous Trust report. Eighty-one percent of suspected digital fraud in its network during the first half of 2026…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "r/opensource bans AI projects, and solo devs go down with them",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/reddit-r-opensource-ai-ban/",
+      "date": "2026-10-26T04:30:36.000Z",
+      "excerpt": "Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is intended for AI.” Moderator Wolvereness announced the rules in a post over the weekend. A project now has to be at least a year old and…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI coding mistakes",
+      "link": "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/",
+      "date": "2026-10-26T04:25:59.000Z",
+      "excerpt": "Google has open-sourced the Elephant-Goldfish Model plugin, an internal tool that makes an AI coding agent write and defend a design document before it touches any code. The plugin hands that document to fresh AI sessions that have never seen the design conversation and tells…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)",
+      "link": "https://isc.sans.edu/diary/rss/33456",
+      "date": "2026-10-26T03:30:12.000Z",
+      "excerpt": ""
+    },
     {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
@@ -140,10 +196,10 @@
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
-      "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+      "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
       "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
       "date": "2026-10-25T17:19:46.000Z",
-      "excerpt": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the attackers targeted a government entity in…"
+      "excerpt": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an attack against a European government…"
     },
     {
       "source": "BleepingComputer",
@@ -434,20 +490,12 @@
       "excerpt": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "UK proposes 14-year jail terms for subsea cable saboteurs",
-      "link": "https://www.helpnetsecurity.com/2026/10/23/uk-undersea-cable-sabotage-sentences/",
-      "date": "2026-10-23T12:37:41.000Z",
-      "excerpt": "Damaging a cable on the seabed off the UK coast could soon cost someone 14 years of their life behind bars, under plans the British government published this week. The proposal comes from a White Paper by the Department for Digital, Culture, Media and Sport that would update…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Microsoft 365 accounts compromised at 79 organizations, no passwords needed",
-      "link": "https://www.helpnetsecurity.com/2026/10/23/microsoft-365-accounts-stolen-sessions/",
-      "date": "2026-10-23T11:45:12.000Z",
-      "excerpt": "An attacker who spent ten weeks replaying stolen Microsoft 365 sign-in sessions broke into email accounts at 79 organizations and used hidden inbox rules to keep victims from seeing parts of their own mail, according to Huntress. The researchers tracked the campaign between July…"
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
+      "date": "2026-10-23T12:29:16.000Z",
+      "excerpt": "The AfD has confirmed that hackers breached its hosting provider. A leak site now claims to offer 421,179 of the party’s internal emails, and shows AI-written summaries rather than the emails themselves. Read more in my article on the Hot for Security blog."
     },
     {
       "source": "Infosecurity Magazine",
@@ -514,14 +562,6 @@
       "excerpt": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Capcom data breach exposes 11.7 million account records",
-      "link": "https://www.helpnetsecurity.com/2026/10/23/capcom-id-data-breach-11-million-records-exposed/",
-      "date": "2026-10-23T09:07:31.000Z",
-      "excerpt": "Players who signed up for Capcom’s online account service may want to look twice at emails that seem to come from the company. The company has disclosed that a third party gained unauthorized access to customer information linked to CAPCOM ID, the account people use to sign in…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "11 Million Impacted by Capcom Data Breach",
@@ -538,36 +578,12 @@
       "excerpt": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Hackers hijack exposed AI models to launch cyberattacks at victims’ expense",
-      "link": "https://www.helpnetsecurity.com/2026/10/23/llmjacking-agent-hijacks-exposed-ai-models/",
-      "date": "2026-10-23T08:21:48.000Z",
-      "excerpt": "An attack tool built around AI goes looking for AI models that anyone on the internet can reach, then uses them to plan break-ins while the model’s owner pays for the computing power. Symantec captured the agent’s instruction set this summer through a honeypot posing as an…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
       "link": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
       "date": "2026-10-23T08:10:46.000Z",
       "excerpt": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Google opens its cloud to rival OpenAI, promises business data won’t train models",
-      "link": "https://www.helpnetsecurity.com/2026/10/23/google-cloud-openai-models-private-preview/",
-      "date": "2026-10-23T06:00:31.000Z",
-      "excerpt": "Google Cloud is adding OpenAI models to its platform, initially through a private preview for selected business customers. The launch includes GPT-6 Astra, GPT-6.1 Sol and GPT-6 Luna. Google positions them as options for demanding work, lower-cost professional tasks and everyday…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Drone program compliance: What a CTO says most agencies get wrong",
-      "link": "https://www.helpnetsecurity.com/2026/10/23/nick-donarski-rotorlab-drone-program-compliance/",
-      "date": "2026-10-23T05:30:25.000Z",
-      "excerpt": "In this interview with Help Net Security, Nick Donarski, CTO at RotorLab, explains what councils, records clerks, insurers, and auditors expect from a public safety drone program, and where most programs fall short. He covers chain of custody for flight logs and video, how to…"
     },
     {
       "source": "The Record",
@@ -738,6 +754,14 @@
       "excerpt": ""
     },
     {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
+      "link": "https://grahamcluley.com/smashing-security-podcast-489/",
+      "date": "2026-10-21T23:12:20.000Z",
+      "excerpt": "Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out. Meanwhile, malicious ads are targeting journalists with zero-click attacks. Plus,…"
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
@@ -828,18 +852,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
-      "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
-      "date": "2026-10-21T00:00:00.000Z",
-      "excerpt": ""
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "Web App Owners – You’re on Notice. Your Low-Hanging Fruit Just Got Lower",
       "link": "https://www.sophos.com/en-us/blog/web-app-owners-your-low-hanging-fruit-just-got-lower",
       "date": "2026-10-21T00:00:00.000Z",
       "excerpt": "Recent incident response investigations reveal how AI-assisted attackers are chaining web application vulnerabilities, credential theft, privilege escalation, and lateral movement into autonomous intrusion workflows."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Proof-of-concept exploit released for PHP vulnerabilities (CVE-2026-109618, CVE-2026-109619)",
+      "link": "https://www.sophos.com/en-us/blog/proof-of-concept-exploit-released-for-php-vulnerabilities-109618-109619",
+      "date": "2026-10-21T00:00:00.000Z",
+      "excerpt": ""
     },
     {
       "source": "CyberScoop",
@@ -888,30 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/possible-new-cellebrite-iphone-radio-zero-day.html",
       "date": "2026-10-20T11:03:13.000Z",
       "excerpt": "Justin.sh is reporting on a confidential Cellebrite document that has been leaked to him: Cellebrite calls it Advanced Unlocks (AU from here on), not to be confused with the “advanced unlocking services” they’ve marketed for years. A press release from earlier this year confirms…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "The journey of a paper unicorn: adventures inside a modern warehouse",
-      "link": "https://securelist.com/paper-unicorn-warehouse-security/121537/",
-      "date": "2026-10-20T07:00:45.000Z",
-      "excerpt": "Kaspersky experts explain the security issues affecting warehouse environments. We break down initial access vectors specific to warehouses, and discuss the impact of a compromise."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)",
-      "link": "https://isc.sans.edu/diary/rss/33436",
-      "date": "2026-10-20T02:00:03.000Z",
-      "excerpt": ""
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "BRONZE SANDCASTLE deploys modified Meterpreter shells",
-      "link": "https://www.sophos.com/en-us/blog/bronze-sandcastle-deploys-modified-meterpreter-shells",
-      "date": "2026-10-20T00:00:00.000Z",
-      "excerpt": "The China-based threat group uses DLL sideloading in these attacks"
     }
   ]
 }
