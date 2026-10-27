@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:37:39.338Z",
+  "updated": "2026-10-27T00:36:28.611Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,78 @@
     }
   ],
   "items": [
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+      "date": "2026-10-27T00:26:50.000Z",
+      "excerpt": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Experts temper emergency-level alarms over critical Brotli defect",
+      "link": "https://cyberscoop.com/brotli-critical-vulnerability-decompression-library-node2shell-broccoli2shell/",
+      "date": "2026-10-27T00:22:54.000Z",
+      "excerpt": "The defect in a widely distributed open-source library provoked an emergency response, yet exploitation hasn’t been observed in the wild. The post Experts temper emergency-level alarms over critical Brotli defect appeared first on CyberScoop ."
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Apple Patches for October 2026, (Mon, Oct 26th)",
+      "link": "https://isc.sans.edu/diary/rss/33458",
+      "date": "2026-10-26T23:34:37.000Z",
+      "excerpt": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "University of Copenhagen data breach exposes data of 525,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+      "date": "2026-10-26T22:20:36.000Z",
+      "excerpt": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+      "date": "2026-10-26T21:44:33.000Z",
+      "excerpt": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+      "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+      "date": "2026-10-26T21:08:28.000Z",
+      "excerpt": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+      "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+      "date": "2026-10-26T21:03:00.000Z",
+      "excerpt": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+      "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+      "date": "2026-10-26T20:59:26.000Z",
+      "excerpt": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+      "date": "2026-10-26T20:46:49.000Z",
+      "excerpt": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]"
+    },
     {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
@@ -354,14 +426,6 @@
       "excerpt": "Microsoft’s updates address two newly disclosed vulnerabilities in the .NET developer platform, as well as flaws not fully addressed in an earlier release"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
-      "link": "https://therecord.media/litellm-hackers-ai-malware",
-      "date": "2026-10-26T12:00:00.000Z",
-      "excerpt": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
@@ -418,14 +482,6 @@
       "excerpt": "Anthropic has outlined the security and privacy protections behind Claude Duet, its proactive AI agent that can monitor connected accounts and complete tasks while users are away. The safeguards include approval requirements, checks for sensitive information and infrastructure…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-      "date": "2026-10-26T10:26:52.000Z",
-      "excerpt": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
@@ -464,14 +520,6 @@
       "link": "https://isc.sans.edu/diary/rss/33442",
       "date": "2026-10-26T09:38:03.000Z",
       "excerpt": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-      "date": "2026-10-26T09:19:57.000Z",
-      "excerpt": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]"
     },
     {
       "source": "Infosecurity Magazine",
@@ -538,14 +586,6 @@
       "excerpt": "YARA-X&#x26;#39;s 1.22.0 release brings 11 improvements and 9 bugfixes."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-      "date": "2026-10-25T15:49:38.000Z",
-      "excerpt": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "I'm on Team Explanation",
@@ -610,14 +650,6 @@
       "excerpt": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) appeared first on Unit 42 ."
     },
     {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-      "date": "2026-10-23T18:12:19.000Z",
-      "excerpt": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "AI Tools Are Generating Massive Attacks for Little Cost",
@@ -642,28 +674,12 @@
       "excerpt": "Citizen Lab’s AdFection findings have senators pushing for industry improvements, while IAB Europe and Google defend their vetting practices. The post Senators say targeted ads are a security risk. Ad groups say the critics are off base. appeared first on CyberScoop ."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Why Caribbean Threats Cascade Into Global Cyber-Risk",
-      "link": "https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk",
-      "date": "2026-10-23T14:00:00.000Z",
-      "excerpt": "The region is demonstrating what happens when exploits accelerate but assurance does not."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
       "link": "https://isc.sans.edu/diary/rss/33450",
       "date": "2026-10-23T13:43:20.000Z",
       "excerpt": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Cyber Insurance's New Reality: Underwriting Isn't Enough",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough",
-      "date": "2026-10-23T13:30:00.000Z",
-      "excerpt": "Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself."
     },
     {
       "source": "Graham Cluley",
@@ -680,14 +696,6 @@
       "link": "https://www.infosecurity-magazine.com/news/capcom-confirms-data-breach/",
       "date": "2026-10-23T11:45:00.000Z",
       "excerpt": "Japanese video games giant Capcom confirmed unauthorized access to its online account system"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Agents as Insider Threats: Inside Microsoft's Bet on a Unified Security Stack",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack",
-      "date": "2026-10-23T11:38:28.000Z",
-      "excerpt": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk."
     },
     {
       "source": "Schneier on Security",
@@ -818,30 +826,6 @@
       "excerpt": "Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out. Meanwhile, malicious ads are targeting journalists with zero-click attacks. Plus,…"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group",
-      "link": "https://cyberscoop.com/microsoft-attributes-connectwise-supply-chain-attack-china-storm-0940/",
-      "date": "2026-10-21T21:58:21.000Z",
-      "excerpt": "Storm-0940 used the agentic AI penetration testing framework to automate attacks and “reach more than 2,250 tenants at 2,900 sign-in attempts per minute,” Microsoft researchers said. The post Microsoft pins ConnectWise supply-chain attack to China-state aligned threat group…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], (Wed, Oct 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33440",
-      "date": "2026-10-21T21:02:43.000Z",
-      "excerpt": "PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before the patch became available."
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "date": "2026-10-21T18:23:55.000Z",
-      "excerpt": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on…"
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
@@ -912,6 +896,22 @@
       "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
       "date": "2026-10-20T20:30:42.000Z",
       "excerpt": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared first on Unit 42 ."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "date": "2026-10-20T19:47:35.000Z",
+      "excerpt": "Intermediate certs allow anyone to mint web credentials for any Internet server."
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "date": "2026-10-20T12:33:13.000Z",
+      "excerpt": "Meta is suspending the sharing feature while it investigates its privacy."
     }
   ]
 }
