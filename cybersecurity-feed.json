@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T13:14:32.868Z",
+  "updated": "2026-10-28T18:56:01.669Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,270 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Discord to let search engines index public server messages",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "date": "2026-10-28T18:44:16.000Z",
+      "excerpt": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+      "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+      "date": "2026-10-28T18:08:33.000Z",
+      "excerpt": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late 2023, Silent Train uses rotating chains…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+      "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+      "date": "2026-10-28T18:02:00.000Z",
+      "excerpt": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Unwrapping Retail Peak Season Cyber Threats",
+      "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
+      "date": "2026-10-28T18:00:10.000Z",
+      "excerpt": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
+      "link": "https://therecord.media/north-korea-russia-sanctions",
+      "date": "2026-10-28T17:45:00.000Z",
+      "excerpt": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "GitHub’s npm package firewall can block brand-new versions before they install",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/github-package-firewall-npm/",
+      "date": "2026-10-28T17:09:14.000Z",
+      "excerpt": "GitHub announced a package firewall that checks npm packages against an enterprise’s policy before they install. It blocks known malware, critical vulnerabilities, and brand-new versions, and any developer can turn it on by pointing npm at the firewall. The checks run before a…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+      "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+      "date": "2026-10-28T17:08:09.000Z",
+      "excerpt": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send Google its full catalog, along with…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+      "date": "2026-10-28T16:45:47.000Z",
+      "excerpt": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Moldova investigates possible foreign involvement in major government cyberattack",
+      "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
+      "date": "2026-10-28T16:37:00.000Z",
+      "excerpt": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+      "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+      "date": "2026-10-28T16:23:34.000Z",
+      "excerpt": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on October 28, five months after the chain…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Yet Another ClickFix Campaign, (Wed, Oct 28th)",
+      "link": "https://isc.sans.edu/diary/rss/33466",
+      "date": "2026-10-28T16:07:03.000Z",
+      "excerpt": "Introduction"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
+      "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
+      "date": "2026-10-28T16:02:45.000Z",
+      "excerpt": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed systems. The activity, which was…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
+      "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+      "date": "2026-10-28T16:00:00.000Z",
+      "excerpt": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Researchers uncover Volt Typhoon’s covert, ephemeral network",
+      "link": "https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/",
+      "date": "2026-10-28T16:00:00.000Z",
+      "excerpt": "The China-linked threat group has used the “Silent Train” framework, built on a series of rapidly rotating compromised devices, to infiltrate hundreds of critical infrastructure networks. The post Researchers uncover Volt Typhoon’s covert, ephemeral network appeared first on…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+      "date": "2026-10-28T16:00:00.000Z",
+      "excerpt": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "UK to look at making software companies liable for cyber breaches",
+      "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+      "date": "2026-10-28T15:37:00.000Z",
+      "excerpt": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Prosecutors charge Madagascar scammers in NFT-stealing scheme based on fake online dating profiles",
+      "link": "https://cyberscoop.com/madagascar-nft-dating-scam-charges/",
+      "date": "2026-10-28T15:36:36.000Z",
+      "excerpt": "The scammers affected approximately 800 victims and led to losses of more than half a million dollars, the Justice Department said. The post Prosecutors charge Madagascar scammers in NFT-stealing scheme based on fake online dating profiles appeared first on CyberScoop ."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated",
+      "date": "2026-10-28T15:27:15.000Z",
+      "excerpt": "A Ukrainian man who carried out ransomware attacks for both the Nefilim and Hive gangs, including attacks on law firms and a healthcare provider during the COVID-19 pandemic, has been sentenced to 70 months in a US prison. Read more in my article on the Hot for Security blog."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "I underestimated how fast security teams would trust AI to act in the SOC",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/exaforce-trust-in-ai-security/",
+      "date": "2026-10-28T15:25:01.000Z",
+      "excerpt": "For most of my career, I have watched new security platforms work through enterprise programs at a slow pace, so when AI began showing up in security operations tools, I assumed it would follow the same path. I expected AI adoption in the SOC to lag behind almost every other…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
+      "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
+      "date": "2026-10-28T15:15:00.000Z",
+      "excerpt": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+      "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+      "date": "2026-10-28T15:05:06.000Z",
+      "excerpt": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+      "date": "2026-10-28T14:48:32.000Z",
+      "excerpt": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "ControlUp’s Pulse AI Resolve diagnoses and fixes IT issues within admin-defined controls",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/controlup-pulse-ai-resolve/",
+      "date": "2026-10-28T14:46:55.000Z",
+      "excerpt": "ControlUp has announced Pulse AI Resolve, the real-time investigative AI layer of the Pulse AI ecosystem. A major enhancement of ControlUp’s endpoint self-service capability, previously ControlUp Connect, Pulse Resolve brings AI-powered investigation and remediation, built-in…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Compromised camera management software gives attackers a way into corporate networks",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/compromised-camera-management-software-initial-access/",
+      "date": "2026-10-28T14:43:23.000Z",
+      "excerpt": "Attackers have been breaking into business networks through camera management software, according to new research from security firm Huntress, which traced several incidents in September and October back to a compromised application. An unidentified application The company’s…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
+      "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
+      "date": "2026-10-28T14:37:52.000Z",
+      "excerpt": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Digitate adds AI agents for patch planning, service desks, and SAP operations",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/digitate-ignio-hummingbird/",
+      "date": "2026-10-28T14:36:59.000Z",
+      "excerpt": "Digitate has announced ignio Hummingbird, the latest release of its agentic AIOps platform. Hummingbird introduces AI agents that bring operational expertise to specific IT tasks, move from diagnosis through approved action and verification, and operate within enterprise change,…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "345,000 email addresses stolen in cyberattack on Germany’s far-right party AfD",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/afd-data-breach-email-leak/",
+      "date": "2026-10-28T14:28:43.000Z",
+      "excerpt": "Over 345,000 unique email addresses were exposed in the September 2026 breach at German far-right political party Alternative für Deutschland (AfD). Breach notification service Have I Been Pwned (HIBP) added the data to its database on 27 October, listing email addresses and…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Swimlane connects custom detections to AI-led investigation and response",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/swimlane-turbine-platform-capabilities/",
+      "date": "2026-10-28T14:26:24.000Z",
+      "excerpt": "Swimlane has announced new capabilities in the Swimlane Turbine platform that allow security teams to run their own detection logic against large volumes of data and send resulting alerts directly into Swimlane AI SOC for investigation and response. The October release also adds…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "VikingCloud gives businesses a scorecard for AI governance readiness",
+      "link": "https://www.helpnetsecurity.com/2026/10/28/vikingcloud-ai-governance-services/",
+      "date": "2026-10-28T14:06:13.000Z",
+      "excerpt": "VikingCloud has launched AI Governance Services, a new set of compliance and risk assessments that find the AI tools in use across a business, show where security controls fall short, and deliver a remediation plan to close the gaps. Multi-location brands struggle to hold every…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+      "date": "2026-10-28T14:00:00.000Z",
+      "excerpt": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+      "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+      "date": "2026-10-28T13:56:50.000Z",
+      "excerpt": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+      "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+      "date": "2026-10-28T13:50:59.000Z",
+      "excerpt": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+      "date": "2026-10-28T13:39:35.000Z",
+      "excerpt": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
@@ -122,12 +386,12 @@
       "excerpt": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Tailscale fixes SSH flaws allowing lateral movement within tailnets",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/tailscale-fixes-tailworm-ssh-flaws/",
-      "date": "2026-10-28T12:25:04.000Z",
-      "excerpt": "Tailscale, the company behind the popular software-defined mesh networking and connectivity platform of the same name, has shipped fixes for several vulnerabilities, including some in Tailscale SSH that could let an attacker who already had access to a device in the network gain…"
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+      "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+      "date": "2026-10-28T12:48:03.000Z",
+      "excerpt": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a case of improper authentication in the…"
     },
     {
       "source": "BleepingComputer",
@@ -138,14 +402,6 @@
       "excerpt": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Ukrainian ransomware hacker sentenced, $11 million reward offered for co-conspirator",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/doj-ukrainian-ransomware-hacker-sentenced/",
-      "date": "2026-10-28T12:17:33.000Z",
-      "excerpt": "A Ukrainian national who participated in ransomware attacks targeting hospitals, government entities, law firms, and other businesses was sentenced to five years and 10 months in prison. Artem Stryzhak, 36, pleaded guilty in December 2025 to two counts of conspiracy to commit…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
@@ -154,20 +410,20 @@
       "excerpt": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
-      "link": "https://therecord.media/fbi-seizure-csam-virtualine",
-      "date": "2026-10-28T12:00:00.000Z",
-      "excerpt": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material."
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+      "date": "2026-10-28T11:50:00.000Z",
+      "excerpt": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over the network. UEFI firmware is the…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "FBI seizes Virtualine, bulletproof hosting provider that promised to shield criminals from police",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/fbi-seizure-virtualine-bulletproof-hosting-domain/",
-      "date": "2026-10-28T11:41:01.000Z",
-      "excerpt": "The FBI has seized virtualine.net, the domain of a bulletproof hosting provider that laundered money for its criminal customers and kept a forum trading in child sexual abuse material online despite repeated warnings from police and child protection groups. Seizure notice…"
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Wazuh and AI for Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "date": "2026-10-28T11:30:00.000Z",
+      "excerpt": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster…"
     },
     {
       "source": "The Hacker News",
@@ -202,28 +458,12 @@
       "excerpt": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-      "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-      "date": "2026-10-28T10:30:00.000Z",
-      "excerpt": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to corporate accounts while leaving fewer obvious…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
       "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
       "date": "2026-10-28T10:30:00.000Z",
       "excerpt": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It Anyway. appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Data breach at Sony-owned internet provider compromises 2.6 million customer records",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/sony-network-communications-data-breach-so-net/",
-      "date": "2026-10-28T10:18:09.000Z",
-      "excerpt": "Attackers who broke into the So-net member database made off with personal information belonging to more than 2.58 million current and former customers, along with the email passwords of 54,401 users, Sony Network Communications has disclosed. So-net is a Japanese internet…"
     },
     {
       "source": "Securelist",
@@ -242,116 +482,12 @@
       "excerpt": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-      "date": "2026-10-28T09:43:15.000Z",
-      "excerpt": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "CISA updates ScubaGear and ScubaGoggles, and says Microsoft 365 checks get faster",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/cisa-scubagear-scubagoggles-update/",
-      "date": "2026-10-28T09:38:17.000Z",
-      "excerpt": "CISA released ScubaGear v2.0 and ScubaGoggles v1.1.0, new versions of the open-source tools it publishes to check Microsoft 365 and Google Workspace settings against its security baselines. The agency calls ScubaGear v2.0 the most comprehensive update to that tool since its 2022…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-      "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-      "date": "2026-10-28T09:14:23.000Z",
-      "excerpt": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-      "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-      "date": "2026-10-28T08:37:24.000Z",
-      "excerpt": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
-      "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-      "date": "2026-10-28T08:15:07.000Z",
-      "excerpt": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after the model was prompted, not seen in any…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-      "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-      "date": "2026-10-28T07:37:50.000Z",
-      "excerpt": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific criminal activity, including \"the…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-      "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-      "date": "2026-10-28T07:13:21.000Z",
-      "excerpt": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28 and pays only if a tip helps lead to an…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Bellini Capital CISO on AI security governance and the limits of patching faster",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/brian-blakley-bellini-capital-ai-security-governance/",
-      "date": "2026-10-28T06:30:35.000Z",
-      "excerpt": "In this Help Net Security interview, Brian Blakley, CISO at Bellini Capital and ConnectSecure, explains why AI makes finding vulnerabilities faster while fixing them still takes time. He argues that “patch faster” is not enough and that teams need to cut exposure while…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-      "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-      "date": "2026-10-28T06:20:37.000Z",
-      "excerpt": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH forwards network connections, a job the…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-      "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-      "date": "2026-10-28T06:04:58.000Z",
-      "excerpt": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AbuseBox: Open-source monitor for blacklists, DNS, SSL and email records",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/abusebox-open-source-ip-blacklist-monitoring/",
-      "date": "2026-10-28T06:00:45.000Z",
-      "excerpt": "AbuseBox is a free, open-source tool that checks IP addresses and domains against 60 DNS blacklists, pulls reputation scores from AbuseIPDB, inspects DNS, SSL and email-authentication records, and sends an alert when something changes. A DNS blacklist, or DNSBL, is a list that…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
       "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
       "date": "2026-10-28T06:00:00.000Z",
-      "excerpt": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-      "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-      "date": "2026-10-28T05:42:26.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "NIST starts the countdown to retire quantum-vulnerable encryption",
-      "link": "https://www.helpnetsecurity.com/2026/10/28/nist-post-quantum-cryptography-migration-roadmap/",
-      "date": "2026-10-28T05:30:29.000Z",
-      "excerpt": "The National Institute of Standards and Technology (NIST) has released a roadmap for moving to post-quantum cryptography (PQC), with earlier deadlines for certain sensitive federal systems. The report, Transition to Post-Quantum Cryptography Standards (NIST IR 8547), explains…"
+      "excerpt": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -362,28 +498,20 @@
       "excerpt": ""
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-      "date": "2026-10-27T23:35:51.000Z",
-      "excerpt": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]"
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation",
+      "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
+      "date": "2026-10-28T00:00:00.000Z",
+      "excerpt": ""
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-      "date": "2026-10-27T22:43:27.000Z",
-      "excerpt": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "UNM Health ransomware attack disrupts patient care, surgeries",
-      "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-      "date": "2026-10-27T22:07:34.000Z",
-      "excerpt": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]"
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Never Bring a Knife to a Gun Fight!",
+      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
+      "date": "2026-10-28T00:00:00.000Z",
+      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
     },
     {
       "source": "CyberScoop",
@@ -402,14 +530,6 @@
       "excerpt": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers hijack Convertr analytics script to steal payment card data",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-      "date": "2026-10-27T20:57:25.000Z",
-      "excerpt": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
@@ -424,14 +544,6 @@
       "link": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
       "date": "2026-10-27T20:41:16.000Z",
       "excerpt": "Anthropic has said out-of-control AI poses a threat to the world, but perhaps unsurprisingly suggests that profit will shape those decisions, too. The post All the security risks Anthropic is worried about before its IPO appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
-      "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-      "date": "2026-10-27T20:40:00.000Z",
-      "excerpt": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups."
     },
     {
       "source": "Ars Technica Security",
@@ -450,28 +562,12 @@
       "excerpt": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
-      "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-      "date": "2026-10-27T19:30:00.000Z",
-      "excerpt": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison",
       "link": "https://cyberscoop.com/nefilim-hive-ransomware-affiliate-artem-stryzhak-sentenced/",
       "date": "2026-10-27T18:33:41.000Z",
       "excerpt": "Artem Stryzhak participated in a series of ransomware attacks on hospitals, government entities and law firms from the middle of 2018 to late 2021. The post Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison appeared first on CyberScoop ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-      "date": "2026-10-27T18:20:28.000Z",
-      "excerpt": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]"
     },
     {
       "source": "Dark Reading",
@@ -490,36 +586,12 @@
       "excerpt": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
-      "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-      "date": "2026-10-27T15:26:12.000Z",
-      "excerpt": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek ."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals",
       "link": "https://cyberscoop.com/oncd-rural-hospital-cybersecurity-pilot-project-lifeline-250/",
       "date": "2026-10-27T15:13:48.000Z",
       "excerpt": "Like the water sector initiative, the six-month pilot program will connect rural hospitals with industry for free services. The post National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals appeared first on CyberScoop ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
-      "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-      "date": "2026-10-27T15:07:00.000Z",
-      "excerpt": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "University of New Mexico hospital diverts ambulances after cyberattack",
-      "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
-      "date": "2026-10-27T14:57:00.000Z",
-      "excerpt": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day."
     },
     {
       "source": "Securelist",
@@ -600,30 +672,6 @@
       "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents",
       "date": "2026-10-27T00:00:00.000Z",
       "excerpt": "This article was first published on LinkedIn."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-      "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-      "date": "2026-10-26T21:44:33.000Z",
-      "excerpt": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Senators, rights groups say Trump administration breaking law by withholding surveillance court opinion",
-      "link": "https://cyberscoop.com/wyden-schiff-fisa-section-702-declassification/",
-      "date": "2026-10-26T18:05:35.000Z",
-      "excerpt": "Section 702 of the Foreign Intelligence Surveillance Act has lapsed, but another decision on its future nears, and the classified opinion could be decisive. The post Senators, rights groups say Trump administration breaking law by withholding surveillance court opinion appeared…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Authorities extradite Chinese national for alleged $37M investment scam",
-      "link": "https://cyberscoop.com/chinese-national-extradited-investment-scam/",
-      "date": "2026-10-26T17:33:19.000Z",
-      "excerpt": "Zheng Zhao and his co-conspirators allegedly deceived 174 U.S. residents into sending funds to a globally coordinated fake investment operation with ties to Cambodia. The post Authorities extradite Chinese national for alleged $37M investment scam appeared first on CyberScoop ."
     },
     {
       "source": "Schneier on Security",
@@ -738,14 +786,6 @@
       "excerpt": "Corporate phishing tests are common, but this one was especially cruel."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)",
-      "link": "https://isc.sans.edu/diary/rss/33450",
-      "date": "2026-10-23T13:43:20.000Z",
-      "excerpt": "This morning, we returned to Infocon Green. As usual, we are raising the Infocon to alert you to emerging situations requiring immediate attention. PHP fit that description. By now, you either know about it, or you probably never will, so it is time to go back to \"business as…"
-    },
-    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
@@ -832,38 +872,6 @@
       "link": "https://grahamcluley.com/smashing-security-podcast-489/",
       "date": "2026-10-21T23:12:20.000Z",
       "excerpt": "Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out. Meanwhile, malicious ads are targeting journalists with zero-click attacks. Plus,…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-      "date": "2026-10-21T18:23:55.000Z",
-      "excerpt": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on…"
-    },
-    {
-      "source": "Krebs on Security",
-      "sourceUrl": "https://krebsonsecurity.com/",
-      "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-      "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-      "date": "2026-10-21T15:26:07.000Z",
-      "excerpt": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts say there are working…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Critical RCE vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619)",
-      "link": "https://securelist.com/tr/php2shell-critical-vulnerabilities-in-php/121596/",
-      "date": "2026-10-21T15:18:04.000Z",
-      "excerpt": "We discuss the incident involving the leak of information about vulnerabilities CVE-2026-109618 and CVE-2026-109619. Kaspersky solutions detect the PHP2Shell exploit: we’ll walk you through examples using KEDR, KATA, and KES."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
-      "link": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
-      "date": "2026-10-21T14:00:24.000Z",
-      "excerpt": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration. The post “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities…"
     }
   ]
 }
