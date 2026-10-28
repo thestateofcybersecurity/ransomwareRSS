@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T18:56:01.669Z",
+  "updated": "2026-10-28T23:20:06.446Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -38,8 +38,8 @@
     },
     {
       "name": "Infosecurity Magazine",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "Ars Technica Security",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists",
+      "link": "https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/",
+      "date": "2026-10-28T21:33:00.000Z",
+      "excerpt": "The Department of Peace group shared it with Swiss hacker/journalist maia arson crimew and DDoSecrets put it online. The post Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+      "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+      "date": "2026-10-28T20:50:00.000Z",
+      "excerpt": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "date": "2026-10-28T20:47:22.000Z",
+      "excerpt": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+      "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+      "date": "2026-10-28T20:33:00.000Z",
+      "excerpt": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "date": "2026-10-28T19:39:00.000Z",
+      "excerpt": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’",
+      "link": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
+      "date": "2026-10-28T18:58:55.000Z",
+      "excerpt": "The lawsuit, brought by a former executive at Dominion Voting Systems, concerns comments made in a 2020 film financed by Byrne titled “The Deep Rig.” The post Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’ appeared first…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -234,12 +282,12 @@
       "excerpt": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "UK to look at making software companies liable for cyber breaches",
-      "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
-      "date": "2026-10-28T15:37:00.000Z",
-      "excerpt": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security."
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Japan’s GMO Internet Urges Customers to Disconnect PCs",
+      "link": "https://www.infosecurity-magazine.com/news/japan-gmo-internet-disconnect/",
+      "date": "2026-10-28T15:49:00.000Z",
+      "excerpt": "GMO Internet has told customers to unplug their PCs in advance of a possible ransomware attack"
     },
     {
       "source": "CyberScoop",
@@ -266,12 +314,12 @@
       "excerpt": "For most of my career, I have watched new security platforms work through enterprise programs at a slow pace, so when AI began showing up in security operations tools, I assumed it would follow the same path. I expected AI adoption in the SOC to lag behind almost every other…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
-      "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
-      "date": "2026-10-28T15:15:00.000Z",
-      "excerpt": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday."
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Attackers Hide Malware Behind Signed ChatGPT and Claude Binaries",
+      "link": "https://www.infosecurity-magazine.com/news/attackers-hide-malware-behind/",
+      "date": "2026-10-28T15:13:00.000Z",
+      "excerpt": "Attackers have used fake ChatGPT and Claude projects to distribute Yoba malware"
     },
     {
       "source": "SecurityWeek",
@@ -338,12 +386,28 @@
       "excerpt": "Swimlane has announced new capabilities in the Swimlane Turbine platform that allow security teams to run their own detection logic against large volumes of data and send resulting alerts directly into Swimlane AI SOC for investigation and response. The October release also adds…"
     },
     {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "AI Is Turning CISOs Into Business-Risk Translators, Says Nvidia’s Head of Cyber",
+      "link": "https://www.infosecurity-magazine.com/news/ai-is-turning-cisos-into/",
+      "date": "2026-10-28T14:10:00.000Z",
+      "excerpt": "Nvidia’s Mark Weatherford says CISOs must translate AI cybersecurity risks into business priorities, clarify risk ownership and balance innovation with security controls"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "VikingCloud gives businesses a scorecard for AI governance readiness",
       "link": "https://www.helpnetsecurity.com/2026/10/28/vikingcloud-ai-governance-services/",
       "date": "2026-10-28T14:06:13.000Z",
       "excerpt": "VikingCloud has launched AI Governance Services, a new set of compliance and risk assessments that find the AI tools in use across a business, show where security controls fall short, and deliver a remediation plan to close the gaps. Multi-location brands struggle to hold every…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Energy Giant Engie Notifies Customers of Supply Chain Breach",
+      "link": "https://www.infosecurity-magazine.com/news/energy-giant-engie-supply-chain/",
+      "date": "2026-10-28T14:05:00.000Z",
+      "excerpt": "An undisclosed number of Engie customers have had their data compromised after a supply chain incident"
     },
     {
       "source": "BleepingComputer",
@@ -448,14 +512,6 @@
       "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
       "date": "2026-10-28T10:48:00.000Z",
       "excerpt": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek ."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-      "date": "2026-10-28T10:46:23.000Z",
-      "excerpt": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -586,12 +642,44 @@
       "excerpt": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint."
     },
     {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Cyber Incident Forces UNM Health to Cancel Surgeries, Divert Ambulances",
+      "link": "https://www.infosecurity-magazine.com/news/cyber-unmhealth-surgeries/",
+      "date": "2026-10-27T16:45:00.000Z",
+      "excerpt": "The University of New Mexico is working to restore systems following the incident, which has been claimed by the BYOD ransomware group"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Hackers Infect 953 Online Stores With Scanner-Evading Code",
+      "link": "https://www.infosecurity-magazine.com/news/hackers-infect-953-online-stores/",
+      "date": "2026-10-27T16:00:00.000Z",
+      "excerpt": "Attackers have infected 953 online stores with a scanner-evading JavaScript loader since July 2025"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "OpenAI Compaction Flaw Exposed AI Reasoning to Researchers",
+      "link": "https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/",
+      "date": "2026-10-27T16:00:00.000Z",
+      "excerpt": "Researchers uncovered an OpenAI API flaw that exposed hidden AI reasoning traces, prompting a fix and a $6000 bug bounty reward"
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals",
       "link": "https://cyberscoop.com/oncd-rural-hospital-cybersecurity-pilot-project-lifeline-250/",
       "date": "2026-10-27T15:13:48.000Z",
       "excerpt": "Like the water sector initiative, the six-month pilot program will connect rural hospitals with industry for free services. The post National cyber director rolls out latest pilot in South Carolina, this time for rural hospitals appeared first on CyberScoop ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "ISC2 Launches Cyber-AI Workforce Coalition to Address the Future of AI Security Jobs",
+      "link": "https://www.infosecurity-magazine.com/news/isc2-launches-cyberai-workforce/",
+      "date": "2026-10-27T15:00:00.000Z",
+      "excerpt": "ISC2’s new Cyber-AI Workforce Coalition serves as a “vendor-neutral convener” to map the future of AI security careers, ISC2 CEO Scott Beale told Infosecurity"
     },
     {
       "source": "Securelist",
@@ -608,14 +696,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
       "date": "2026-10-27T11:01:26.000Z",
       "excerpt": "Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "What happens when security tools go dark before the ransomware",
-      "link": "https://cyberscoop.com/warlock-ransomware-storm-2603-sharepoint-attacks-op-ed/",
-      "date": "2026-10-27T10:00:00.000Z",
-      "excerpt": "A China-linked ransomware crew disabled the security tools at a critical infrastructure operator before it launched the encryptor. Most security budgets never priced that in. The post What happens when security tools go dark before the ransomware appeared first on CyberScoop ."
     },
     {
       "source": "Troy Hunt",
@@ -648,22 +728,6 @@
       "link": "https://isc.sans.edu/diary/rss/33458",
       "date": "2026-10-27T02:09:55.000Z",
       "excerpt": "Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-      "date": "2026-10-27T00:26:50.000Z",
-      "excerpt": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Experts temper emergency-level alarms over critical Brotli defect",
-      "link": "https://cyberscoop.com/brotli-critical-vulnerability-decompression-library-node2shell-broccoli2shell/",
-      "date": "2026-10-27T00:22:54.000Z",
-      "excerpt": "The defect in a widely distributed open-source library provoked an emergency response, yet exploitation hasn’t been observed in the wild. The post Experts temper emergency-level alarms over critical Brotli defect appeared first on CyberScoop ."
     },
     {
       "source": "Sophos News",
@@ -848,30 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
       "date": "2026-10-22T13:26:51.000Z",
       "excerpt": "PHP maintainers have released fixes for two critical vulnerabilities: PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 fix two critical vulnerabilities that can allow unauthenticated remote code execution. All PHP users are strongly encouraged to update immediately. Who is at risk: all PHP…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
-      "link": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-      "date": "2026-10-22T11:30:33.000Z",
-      "excerpt": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "How APT41 revived the BlackLotus bootkit to attack diplomatic organizations in Central Asia",
-      "link": "https://securelist.com/uefi-bootkit-blackx/121539/",
-      "date": "2026-10-22T06:00:48.000Z",
-      "excerpt": "Kaspersky GReAT experts discovered a new UEFI bootkit, BlackX. It exploits the Baton Drop vulnerability (CVE-2022-21894) and is similar to the BlackLotus bootkit."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Smashing Security podcast #489: How a brand new crypto wallet came with a spy inside",
-      "link": "https://grahamcluley.com/smashing-security-podcast-489/",
-      "date": "2026-10-21T23:12:20.000Z",
-      "excerpt": "Imagine buying a brand new hardware wallet for your cryptocurrency with the shrink-wrap still on... what could possibly be hiding inside? We break out a Geiger counter and a cat to find out. Meanwhile, malicious ads are targeting journalists with zero-click attacks. Plus,…"
     }
   ]
 }
