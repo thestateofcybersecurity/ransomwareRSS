@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T16:58:57.215Z",
+  "updated": "2026-10-29T21:52:33.507Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,108 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "date": "2026-10-29T21:47:25.000Z",
+      "excerpt": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+      "date": "2026-10-29T21:21:56.000Z",
+      "excerpt": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
+      "link": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
+      "date": "2026-10-29T20:58:28.000Z",
+      "excerpt": "A DHS contractor requested its removal, while a social media site blocked links to it. It was offline for a spell before finding a new home. The post Leaked DHS employee archive, Icepick, faces challenges to stay online appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Limited reports of PHP bug exploitation emerge",
+      "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+      "date": "2026-10-29T20:01:25.000Z",
+      "excerpt": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
+      "link": "https://therecord.media/general-motors-lawsuit-privacy",
+      "date": "2026-10-29T19:45:00.000Z",
+      "excerpt": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "date": "2026-10-29T19:23:41.000Z",
+      "excerpt": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+      "date": "2026-10-29T19:11:58.000Z",
+      "excerpt": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "date": "2026-10-29T18:38:26.000Z",
+      "excerpt": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
+      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+      "date": "2026-10-29T18:15:59.000Z",
+      "excerpt": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+      "date": "2026-10-29T18:00:34.000Z",
+      "excerpt": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29) appeared first on Unit 42 ."
+    },
+    {
+      "source": "Graham Cluley",
+      "sourceUrl": "https://grahamcluley.com/",
+      "title": "BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center",
+      "link": "https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center",
+      "date": "2026-10-29T17:01:24.000Z",
+      "excerpt": "Ambulances were diverted, surgeries cancelled, and medical students sent home from classes after a ransomware group attacked the University of New Mexico's Health Sciences Center (HSC) this week. Read more in my article on the Fortra blog."
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
       "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
       "date": "2026-10-29T16:30:00.000Z",
       "excerpt": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "General Hill-Climbing: The One Main Loop in AI",
+      "link": "https://danielmiessler.com/blog/general-hill-climbing?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-29T16:30:00.000Z",
+      "excerpt": "General Hill-Climbing diagram: five numbered stations climb a hill to the Ideal State flag, from TELOS through articulating the ideal state, evals, doing the work, and iterating, with a dashed loop back to refine the ideal state and…"
     },
     {
       "source": "Help Net Security",
@@ -144,6 +240,22 @@
       "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
       "date": "2026-10-29T16:10:31.000Z",
       "excerpt": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+      "date": "2026-10-29T16:00:00.000Z",
+      "excerpt": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+      "date": "2026-10-29T16:00:00.000Z",
+      "excerpt": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft…"
     },
     {
       "source": "The Hacker News",
@@ -290,14 +402,6 @@
       "excerpt": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMinfin, the country's main online platform for managing tax…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
-      "link": "https://therecord.media/new-mexico-cyberattack-hospital",
-      "date": "2026-10-29T13:30:00.000Z",
-      "excerpt": "The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school."
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
@@ -367,7 +471,7 @@
       "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
       "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
       "date": "2026-10-29T11:39:18.000Z",
-      "excerpt": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in version 12.10.4 of the app,…"
+      "excerpt": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the flaw in…"
     },
     {
       "source": "The Hacker News",
@@ -394,28 +498,12 @@
       "excerpt": "Akamai research reveals that scam detections topped six million in Q2 2026"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-      "date": "2026-10-29T11:10:13.000Z",
-      "excerpt": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
       "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
       "date": "2026-10-29T11:00:00.000Z",
       "excerpt": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-      "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-      "date": "2026-10-29T10:44:46.000Z",
-      "excerpt": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-76418, is rated…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -471,7 +559,7 @@
       "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
       "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
       "date": "2026-10-29T08:00:00.000Z",
-      "excerpt": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else."
+      "excerpt": "Researchers can't quite explain why cyber threats look so different in Italy compared with everywhere else."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -538,22 +626,6 @@
       "excerpt": "The Department of Peace group shared it with Swiss hacker/journalist maia arson crimew and DDoSecrets put it online. The post Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists appeared first on CyberScoop ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
-      "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
-      "date": "2026-10-28T20:50:00.000Z",
-      "excerpt": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-      "date": "2026-10-28T20:47:22.000Z",
-      "excerpt": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub",
@@ -568,14 +640,6 @@
       "link": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
       "date": "2026-10-28T18:58:55.000Z",
       "excerpt": "The lawsuit, brought by a former executive at Dominion Voting Systems, concerns comments made in a 2020 film financed by Byrne titled “The Deep Rig.” The post Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’ appeared first…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Discord to let search engines index public server messages",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-      "date": "2026-10-28T18:44:16.000Z",
-      "excerpt": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]"
     },
     {
       "source": "Unit 42",
@@ -666,14 +730,6 @@
       "excerpt": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
-      "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-      "date": "2026-10-28T06:00:00.000Z",
-      "excerpt": "Interpol's annual Operation Serengeti, now in its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)",
@@ -706,14 +762,6 @@
       "excerpt": "Open-source maintainers are so overwhelmed by AI-generated security reports that some have stopped accepting them. OpenAI’s Daybreak lead says the fix is higher-quality findings and far more coordination. The post Before you file that AI bug report, OpenAI has some advice…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
-      "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
-      "date": "2026-10-27T21:15:03.000Z",
-      "excerpt": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors."
-    },
-    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "All the security risks Anthropic is worried about before its IPO",
@@ -728,14 +776,6 @@
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "date": "2026-10-27T20:25:55.000Z",
       "excerpt": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison",
-      "link": "https://cyberscoop.com/nefilim-hive-ransomware-affiliate-artem-stryzhak-sentenced/",
-      "date": "2026-10-27T18:33:41.000Z",
-      "excerpt": "Artem Stryzhak participated in a series of ransomware attacks on hospitals, government entities and law firms from the middle of 2018 to late 2021. The post Prolific Hive and Nefilim ransomware affiliate sentenced to 70 months in prison appeared first on CyberScoop ."
     },
     {
       "source": "Securelist",
@@ -866,52 +906,12 @@
       "excerpt": "Three framed plates in a row, each separated by a dashed line. Plate one, the source: a head with a glowing purple crystal in its mind, labeled 1 idea, human thought. An arrow marked articulate leads to plate two, the first derivative: a handwritten page with a lighter sketch of…"
     },
     {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
-      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-      "date": "2026-10-23T19:00:34.000Z",
-      "excerpt": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25) appeared first on Unit 42 ."
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
       "date": "2026-10-23T18:12:19.000Z",
       "excerpt": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
-      "link": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
-      "date": "2026-10-23T16:51:59.000Z",
-      "excerpt": "Corporate phishing tests are common, but this one was especially cruel."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Hacker leaks 281 GB of data from Germany’s far-right AfD party",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-leaks-281-gb-data-germany-afd",
-      "date": "2026-10-23T12:29:16.000Z",
-      "excerpt": "The AfD has confirmed that hackers breached its hosting provider. A leak site now claims to offer 421,179 of the party’s internal emails, and shows AI-written summaries rather than the emails themselves. Read more in my article on the Hot for Security blog."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Compromised TLS Certificates",
-      "link": "https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html",
-      "date": "2026-10-23T11:04:22.000Z",
-      "excerpt": "The Indian CA eMudhra Limited has eight TLS certificates with laughably weak private keys : The compromised eMudhra keys were defective at a level that’s challenging the imagination of many of the engineers studying the incident. A normal size for a NIST P-384 elliptic curve…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Is “SIEM-less” really what it sounds like?",
-      "link": "https://www.sophos.com/en-us/blog/is-siem-less-really-what-it-sounds-like",
-      "date": "2026-10-23T00:00:00.000Z",
-      "excerpt": "SIEM-less security may sound like an escape from traditional SIEM complexity and costs, but the underlying capabilities still have to exist somewhere."
     }
   ]
 }
