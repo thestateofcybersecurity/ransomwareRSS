@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T16:01:45.948Z",
+  "updated": "2026-10-30T20:54:06.608Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -58,8 +58,8 @@
     },
     {
       "name": "Securelist",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "The DFIR Report",
@@ -114,6 +114,54 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+      "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+      "date": "2026-10-30T20:45:00.000Z",
+      "excerpt": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+      "date": "2026-10-30T20:05:58.000Z",
+      "excerpt": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Fashion retailer Resolve says hackers stole payment card information",
+      "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+      "date": "2026-10-30T19:00:00.000Z",
+      "excerpt": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Apple notifications alert victims in 99 countries about mercenary spyware infections",
+      "link": "https://cyberscoop.com/apple-spyware-notifications-pall-mall-process/",
+      "date": "2026-10-30T17:07:05.000Z",
+      "excerpt": "The notifications come shortly before the Pall Mall Process is nearing final negotiations on guidelines for the use of commercial hacking tools. The post Apple notifications alert victims in 99 countries about mercenary spyware infections appeared first on CyberScoop ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+      "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+      "date": "2026-10-30T16:58:44.000Z",
+      "excerpt": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+      "date": "2026-10-30T16:11:44.000Z",
+      "excerpt": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft…"
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "California officials confirm grand jury subpoenas as states, civil groups brace to protect elections from federal encroachment",
@@ -128,6 +176,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
       "date": "2026-10-30T15:58:20.000Z",
       "excerpt": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+      "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+      "date": "2026-10-30T15:54:00.000Z",
+      "excerpt": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19."
     },
     {
       "source": "Infosecurity Magazine",
@@ -152,6 +208,14 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
       "date": "2026-10-30T15:20:02.000Z",
       "excerpt": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+      "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+      "date": "2026-10-30T15:17:28.000Z",
+      "excerpt": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or…"
     },
     {
       "source": "CyberScoop",
@@ -208,6 +272,14 @@
       "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
       "date": "2026-10-30T14:10:37.000Z",
       "excerpt": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+      "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+      "date": "2026-10-30T14:08:14.000Z",
+      "excerpt": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7…"
     },
     {
       "source": "BleepingComputer",
@@ -282,14 +354,6 @@
       "excerpt": "Bedrock Data has announced AI-assisted remediation, which federates the work of fixing data exposure to the data owners across the enterprise. Bedrock Data discovers who owns each exposed dataset, opens a ticket for that owner in the Jira or ServiceNow workflow the enterprise…"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Hackers target government Windows systems in Asia with new malware",
-      "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
-      "date": "2026-10-30T12:36:00.000Z",
-      "excerpt": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers."
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -320,22 +384,6 @@
       "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
       "date": "2026-10-30T11:58:53.000Z",
       "excerpt": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are practical. An IPS protection could block…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Polymarket confirms cyberattack on third-party provider after outages",
-      "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
-      "date": "2026-10-30T11:33:00.000Z",
-      "excerpt": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Russian popular home goods chain faces days of disruption following cyberattack",
-      "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
-      "date": "2026-10-30T11:30:00.000Z",
-      "excerpt": "Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable."
     },
     {
       "source": "Infosecurity Magazine",
@@ -392,6 +440,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-critical-commerce-core-flaw-exploited-in-attacks/",
       "date": "2026-10-30T10:16:07.000Z",
       "excerpt": "Drupal warned admins to patch a critical access bypass vulnerability in the Commerce Core module that attackers are exploiting in the wild. [...]"
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Filter generation in practice: from algorithms to LLMs",
+      "link": "https://securelist.com/practical-filter-generation/121697/",
+      "date": "2026-10-30T10:00:44.000Z",
+      "excerpt": "We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents."
     },
     {
       "source": "SecurityWeek",
@@ -458,14 +514,6 @@
       "excerpt": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-      "date": "2026-10-30T07:27:05.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-97229…"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Fake IT help desk callers got by on little more than names and email addresses",
@@ -480,14 +528,6 @@
       "link": "https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/",
       "date": "2026-10-30T06:00:14.000Z",
       "excerpt": "Gartner recently released a new category of assessing security tools: the Integrated Security Operations Center (ISOC). Even though SIEM isn’t going anywhere, a rapidly evolving threat landscape is forcing a shift in industry logic that is reflected in the emergence of this new…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-      "date": "2026-10-30T04:14:59.000Z",
-      "excerpt": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen on-chain so far. Tether and Circle said…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -546,14 +586,6 @@
       "excerpt": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-      "date": "2026-10-29T19:11:58.000Z",
-      "excerpt": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks and careless mistakes. Hackers are…"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
@@ -583,7 +615,7 @@
       "title": "General Hill-Climbing: The One Main Loop in AI",
       "link": "https://danielmiessler.com/blog/general-hill-climbing?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-10-29T16:30:00.000Z",
-      "excerpt": "General Hill-Climbing diagram: five numbered stations climb a hill to the Ideal State flag, from TELOS through articulating the ideal state, evals, doing the work, and iterating, with a dashed loop back to refine the ideal state and…"
+      "excerpt": "A charcoal sketch of a figure climbing a steep slope toward a glowing Ideal State at the summit, past verification points along the path/images/general-hill-climbing-header.webp/images/general-hill-climbing-header.webp 💡There is basically One Main Loop in AI, and it applies to…"
     },
     {
       "source": "Microsoft Security Blog",
@@ -600,14 +632,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
       "date": "2026-10-29T16:00:00.000Z",
       "excerpt": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft…"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Threat Modeling With 4 Simple Questions on a White Board",
-      "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-      "date": "2026-10-29T15:44:04.000Z",
-      "excerpt": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend."
     },
     {
       "source": "Infosecurity Magazine",
@@ -656,6 +680,14 @@
       "link": "https://www.infosecurity-magazine.com/news/nist-guidance-post-quantum/",
       "date": "2026-10-29T09:45:00.000Z",
       "excerpt": "The guidance sets out how federal agencies can prioritize PQC adoption for the most sensitive systems, to meet the 2031 transition deadline"
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia",
+      "link": "https://securelist.com/netamloader/121676/",
+      "date": "2026-10-29T08:00:15.000Z",
+      "excerpt": "Kaspersky researchers analyze a complex targeted attack employing NetamLoader, a sophisticated malicious framework and targeting a customized government OS."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -738,14 +770,6 @@
       "excerpt": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Researchers uncover Volt Typhoon’s covert, ephemeral network",
-      "link": "https://cyberscoop.com/volt-typhoon-silent-train-covert-ephemeral-network-black-lotus-labs/",
-      "date": "2026-10-28T16:00:00.000Z",
-      "excerpt": "The China-linked threat group has used the “Silent Train” framework, built on a series of rapidly rotating compromised devices, to infiltrate hundreds of critical infrastructure networks. The post Researchers uncover Volt Typhoon’s covert, ephemeral network appeared first on…"
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
@@ -768,6 +792,14 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html",
       "date": "2026-10-28T11:05:00.000Z",
       "excerpt": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+      "link": "https://securelist.com/intelbras-camera-vulnerability/121131/",
+      "date": "2026-10-28T10:00:18.000Z",
+      "excerpt": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer."
     },
     {
       "source": "SANS Internet Storm Center",
@@ -800,6 +832,14 @@
       "link": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
       "date": "2026-10-27T20:25:55.000Z",
       "excerpt": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure",
+      "link": "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/",
+      "date": "2026-10-27T12:00:19.000Z",
+      "excerpt": "A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other tenants' services."
     },
     {
       "source": "Schneier on Security",
@@ -858,60 +898,20 @@
       "excerpt": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s…"
     },
     {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
+      "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
+      "date": "2026-10-26T10:00:18.000Z",
+      "excerpt": "We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents."
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
       "link": "https://isc.sans.edu/diary/rss/33442",
       "date": "2026-10-26T09:38:03.000Z",
       "excerpt": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "The breachpocalypse is here",
-      "link": "https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here",
-      "date": "2026-10-26T00:00:00.000Z",
-      "excerpt": "It's just hard to measure"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "I'm on Team Explanation",
-      "link": "https://danielmiessler.com/blog/team-explanation?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-25T15:46:32.000Z",
-      "excerpt": "A charcoal cutaway barn: a turkey professor points at a chart of sunrise feeding times while, inside, a farmer sharpens an axe beside roasting pans./images/team-explanation.webp/images/team-explanation.webp There are two major ways of assessing the quality of our understanding…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Models Are the How, Harnesses Are the What",
-      "link": "https://danielmiessler.com/blog/models-how-harnesses-what?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-25T01:28:26.000Z",
-      "excerpt": "A person hands their preferences, context, goals and how they like things done to a harness labeled the what, which feeds a model labeled the how, which produces a result that returns to the person; both harness and model point up at a hilltop flag labeled what you…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: Increasing Squid Populations",
-      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html",
-      "date": "2026-10-23T21:00:09.000Z",
-      "excerpt": "This article in Nature argues that it’s due to an overfishing of predators and warming sea temperatures. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Writing Is Closer to Thought Than Code",
-      "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-23T19:40:00.000Z",
-      "excerpt": "Three framed plates in a row, each separated by a dashed line. Plate one, the source: a head with a glowing purple crystal in its mind, labeled 1 idea, human thought. An arrow marked articulate leads to plate two, the first derivative: a handwritten page with a lighter sketch of…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/",
-      "date": "2026-10-23T18:12:19.000Z",
-      "excerpt": "Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations. The post Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks…"
     }
   ]
 }
