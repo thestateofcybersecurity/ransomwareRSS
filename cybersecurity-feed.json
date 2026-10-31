@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T20:54:06.608Z",
+  "updated": "2026-10-31T00:53:24.340Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,38 @@
   ],
   "items": [
     {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days",
+      "link": "https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/",
+      "date": "2026-10-30T21:30:00.000Z",
+      "excerpt": "Vapor Panda targeted more than 200 organizations spanning at least 14 countries, according to CrowdStrike. The ongoing campaign is remarkably successful and operating at shocking speed. The post China-backed threat group used agentic AI pentesting tool to compromise 140…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "date": "2026-10-30T21:09:54.000Z",
+      "excerpt": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+      "date": "2026-10-30T21:09:46.000Z",
+      "excerpt": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: Bigfin Squid Off California Coast",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
+      "date": "2026-10-30T21:04:36.000Z",
+      "excerpt": "Neat video : The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the security stories in the news that…"
+    },
+    {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
       "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
@@ -128,6 +160,22 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
       "date": "2026-10-30T20:05:58.000Z",
       "excerpt": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs)."
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "It's the Energy Changing the Frames",
+      "link": "https://danielmiessler.com/blog/energy-changes-the-frames?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-10-30T20:00:00.000Z",
+      "excerpt": "A slumped figure sits beside a dim ember in the deep purple shadow of a stone tower, while the same figure climbs its lit face holding a lantern high/images/energy-changes-the-frames.webp/images/energy-changes-the-frames.webp I think so much of winning at life comes down to…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Behind the Scenes of How Operation Blackout Went Down",
+      "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+      "date": "2026-10-30T19:46:08.000Z",
+      "excerpt": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same."
     },
     {
       "source": "The Record",
@@ -546,14 +594,6 @@
       "excerpt": ""
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-      "date": "2026-10-29T23:35:52.000Z",
-      "excerpt": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]"
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
@@ -584,14 +624,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/why-ctf-more-important-than-ever",
       "date": "2026-10-29T19:56:44.000Z",
       "excerpt": "As artificial intelligence squeezes early-career learning opportunities, capture-the-flag contests could be one way to help pick up the slack."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-      "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-      "date": "2026-10-29T18:15:59.000Z",
-      "excerpt": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says."
     },
     {
       "source": "Unit 42",
@@ -754,14 +786,6 @@
       "excerpt": "The Department of Peace group shared it with Swiss hacker/journalist maia arson crimew and DDoSecrets put it online. The post Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists appeared first on CyberScoop ."
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’",
-      "link": "https://cyberscoop.com/patrick-byrne-dominion-defamation-lawsuit-actual-malice/",
-      "date": "2026-10-28T18:58:55.000Z",
-      "excerpt": "The lawsuit, brought by a former executive at Dominion Voting Systems, concerns comments made in a 2020 film financed by Byrne titled “The Deep Rig.” The post Lawsuit against Ex-Overstock CEO tied to 2020 election film falls apart over question of ‘actual malice’ appeared first…"
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Unwrapping Retail Peak Season Cyber Threats",
@@ -812,18 +836,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "Never Bring a Knife to a Gun Fight!",
-      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
-      "date": "2026-10-28T00:00:00.000Z",
-      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation",
       "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
       "date": "2026-10-28T00:00:00.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Never Bring a Knife to a Gun Fight!",
+      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
+      "date": "2026-10-28T00:00:00.000Z",
+      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
     },
     {
       "source": "Ars Technica Security",
@@ -888,30 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents",
       "date": "2026-10-27T00:00:00.000Z",
       "excerpt": "This article was first published on LinkedIn."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Bias in Qwen3-Coder Model",
-      "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "date": "2026-10-26T11:03:31.000Z",
-      "excerpt": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
-      "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
-      "date": "2026-10-26T10:00:18.000Z",
-      "excerpt": "We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Looking for a Language [Guest Diary], (Wed, Oct 21st)",
-      "link": "https://isc.sans.edu/diary/rss/33442",
-      "date": "2026-10-26T09:38:03.000Z",
-      "excerpt": "[This is a Guest Diary by Jeffray Spence, an ISC intern as part of the SANS.edu BACS program]"
     }
   ]
 }
