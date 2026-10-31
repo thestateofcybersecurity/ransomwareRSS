@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 00:53:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:05:44 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats</title>
+      <link>https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html</guid>
+      <pubDate>Sat, 31 Oct 2026 05:33:41 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A malicious ChatGPT share link could run an attacker&#39;s code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI&#39;s bug bounty… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
+      <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</guid>
+      <pubDate>Sat, 31 Oct 2026 04:56:12 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</guid>
+      <pubDate>Sat, 31 Oct 2026 01:02:57 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
+    </item>
     <item>
       <title>China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days</title>
       <link>https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/</link>
@@ -424,14 +448,6 @@
       <description>Binance, the world&#39;s largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer&#39;s compromised laptop. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor</title>
-      <link>https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html</guid>
-      <pubDate>Fri, 30 Oct 2026 08:55:47 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed that a trojanized version of Anthropic&#39;s official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected systems. The malicious update,… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Binance hit by $6.3 billion theft in what could be the biggest crypto heist on record</title>
       <link>https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/</guid>
@@ -446,14 +462,6 @@
       <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw</title>
-      <link>https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html</guid>
-      <pubDate>Fri, 30 Oct 2026 07:45:30 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Drupal has warned that threat actors are exploiting a &quot;highly critical&quot; security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core versions from 0.0.0 to 2.41 and from… (via The Hacker News)</description>
     </item>
     <item>
       <title>Fake IT help desk callers got by on little more than names and email addresses</title>
@@ -728,20 +736,20 @@
       <description>via SANS Internet Storm Center</description>
     </item>
     <item>
-      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>via Sophos News</description>
-    </item>
-    <item>
       <title>Never Bring a Knife to a Gun Fight!</title>
       <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can… (via Sophos News)</description>
+    </item>
+    <item>
+      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>via Sophos News</description>
     </item>
     <item>
       <title>Code-execution flaw in UEFI firmware affects most servers on planet Earth</title>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 27 Oct 2026 02:09:55 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>Apple today released patches for 304 vulnerabilties. This number is still in line with prior Apple updates, and comes just about a month after the last apple update. (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Building intent-based access control for AI agents</title>
-      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>This article was first published on LinkedIn. (via Sophos News)</description>
     </item>
   </channel>
 </rss>
