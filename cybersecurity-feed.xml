@@ -5,15 +5,39 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 13:44:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 18:38:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Northflank security breach leads to abuse of customers&#39; AI API keys</title>
+      <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</guid>
+      <pubDate>Sat, 31 Oct 2026 18:01:12 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers&#39; AI API keys. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>New Android SMS of Death exploit can remotely crash unpatched phones</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</guid>
+      <pubDate>Sat, 31 Oct 2026 15:35:11 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed &quot;SMS of Death&quot; and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message.… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Reddit to lock content behind logins to fight scrapers</title>
+      <link>https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/</guid>
+      <pubDate>Sat, 31 Oct 2026 14:05:15 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a &quot;logged-in service,&quot; offering limited access to visitors without accounts. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.</title>
       <link>https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/</guid>
       <pubDate>Sat, 31 Oct 2026 13:10:19 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>[...] (via BleepingComputer)</description>
+      <description>AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible… (via BleepingComputer)</description>
     </item>
     <item>
       <title>Chainalysis discloses data breach from &quot;offensive agentic techniques&quot;</title>
@@ -312,14 +336,6 @@
       <description>Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7… (via The Hacker News)</description>
     </item>
     <item>
-      <title>SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone</title>
-      <link>https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Passkeys Are Better Than Passwords. But They Are Not Enough.</title>
       <link>https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</link>
       <guid isPermaLink="false">https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</guid>
@@ -350,14 +366,6 @@
       <pubDate>Fri, 30 Oct 2026 13:00:40 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>A Syrian man who used a hijacked news agency Twitter account to post a fake report of explosions at the White House has been sentenced to 42 months in prison, the US Department of Justice has announced. Ahmad Umar Agha, also known as “Th3Pr0”, was sentenced on Thursday by a… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>CISA says max severity GitLab flaw now exploited in the wild</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/</guid>
-      <pubDate>Fri, 30 Oct 2026 13:00:32 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Shufti ties AI agent actions to verified owners and permissions</title>
@@ -414,14 +422,6 @@
       <pubDate>Fri, 30 Oct 2026 11:25:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Leading cryptocurrency analysts have attributed the cyber-attack to a North Korean elite hacking unit (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Microsoft finally fixes VPN issues caused by September updates</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/</guid>
-      <pubDate>Fri, 30 Oct 2026 11:20:26 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Claude Code extension poisoned with persistent SSH backdoor</title>

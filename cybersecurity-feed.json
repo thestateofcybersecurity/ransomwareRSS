@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T13:44:15.800Z",
+  "updated": "2026-10-31T18:38:48.683Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -116,10 +116,34 @@
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Northflank security breach leads to abuse of customers' AI API keys",
+      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+      "date": "2026-10-31T18:01:12.000Z",
+      "excerpt": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+      "date": "2026-10-31T15:35:11.000Z",
+      "excerpt": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message.…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Reddit to lock content behind logins to fight scrapers",
+      "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+      "date": "2026-10-31T14:05:15.000Z",
+      "excerpt": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
       "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
       "date": "2026-10-31T13:10:19.000Z",
-      "excerpt": "[...]"
+      "excerpt": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, and produce reproducible…"
     },
     {
       "source": "BleepingComputer",
@@ -418,14 +442,6 @@
       "excerpt": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-      "date": "2026-10-30T14:00:10.000Z",
-      "excerpt": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
@@ -456,14 +472,6 @@
       "link": "https://www.helpnetsecurity.com/2026/10/30/syrian-hacker-sentenced-42-months-prison/",
       "date": "2026-10-30T13:00:40.000Z",
       "excerpt": "A Syrian man who used a hijacked news agency Twitter account to post a fake report of explosions at the White House has been sentenced to 42 months in prison, the US Department of Justice has announced. Ahmad Umar Agha, also known as “Th3Pr0”, was sentenced on Thursday by a…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "CISA says max severity GitLab flaw now exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-      "date": "2026-10-30T13:00:32.000Z",
-      "excerpt": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]"
     },
     {
       "source": "Help Net Security",
@@ -520,14 +528,6 @@
       "link": "https://www.infosecurity-magazine.com/news/binance-record-hack-crypto-heist/",
       "date": "2026-10-30T11:25:00.000Z",
       "excerpt": "Leading cryptocurrency analysts have attributed the cyber-attack to a North Korean elite hacking unit"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft finally fixes VPN issues caused by September updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-      "date": "2026-10-30T11:20:26.000Z",
-      "excerpt": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]"
     },
     {
       "source": "Help Net Security",
