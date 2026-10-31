@@ -5,7 +5,7 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 31 Oct 2026 18:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 22:36:41 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Northflank security breach leads to abuse of customers&#39; AI API keys</title>
@@ -112,14 +112,6 @@
       <description>Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/</guid>
-      <pubDate>Sat, 31 Oct 2026 01:02:57 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog . (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days</title>
       <link>https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/</link>
       <guid isPermaLink="false">https://cyberscoop.com/china-vapor-panda-agentic-ai-artex-campaign-crowdstrike/</guid>
@@ -168,9 +160,9 @@
       <description>Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs). (via Dark Reading)</description>
     </item>
     <item>
-      <title>It&#39;s the Energy Changing the Frames</title>
-      <link>https://danielmiessler.com/blog/energy-changes-the-frames?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/energy-changes-the-frames?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <title>Your Energy Changes How You See the World</title>
+      <link>https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Fri, 30 Oct 2026 20:00:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
       <description>A slumped figure sits beside a dim ember in the deep purple shadow of a stone tower, while the same figure climbs its lit face holding a lantern high/images/energy-changes-the-frames.webp/images/energy-changes-the-frames.webp I think so much of winning at life comes down to… (via Daniel Miessler)</description>
@@ -206,14 +198,6 @@
       <pubDate>Fri, 30 Oct 2026 16:58:44 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/</guid>
-      <pubDate>Fri, 30 Oct 2026 16:11:44 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft… (via Microsoft Security Blog)</description>
     </item>
     <item>
       <title>California officials confirm grand jury subpoenas as states, civil groups brace to protect elections from federal encroachment</title>
@@ -576,22 +560,6 @@
       <description>A charcoal sketch of a figure climbing a steep slope toward a glowing Ideal State at the summit, past verification points along the path/images/general-hill-climbing-header.webp/images/general-hill-climbing-header.webp 💡There is basically One Main Loop in AI, and it applies to… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>Tracking AI adoption in North Korean threat actor tradecraft</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries</title>
       <link>https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/nik-c2-malware-victims-openai-keys/</guid>
@@ -720,14 +688,6 @@
       <description>Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
-      <title>The CISO’s evolving role: Protecting and defending in the agentic era</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/</guid>
-      <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
       <title>Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated</link>
       <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/hive-ransomware-jailed-fbi-infiltrated</guid>
@@ -806,6 +766,46 @@
       <pubDate>Tue, 27 Oct 2026 07:59:09 GMT</pubDate>
       <source url="https://www.troyhunt.com/">Troy Hunt</source>
       <description>As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn&#39;t eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single story of PHP2Shell being reliably attributed… (via Troy Hunt)</description>
+    </item>
+    <item>
+      <title>Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines</title>
+      <link>https://projectzero.google/2026/10/fuzzing-v-AI.html</link>
+      <guid isPermaLink="false">https://projectzero.google/2026/10/fuzzing-v-AI.html</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://googleprojectzero.blogspot.com/">Google Project Zero</source>
+      <description>Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep… (via Google Project Zero)</description>
+    </item>
+    <item>
+      <title>Building intent-based access control for AI agents</title>
+      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>This article was first published on LinkedIn. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Bias in Qwen3-Coder Model</title>
+      <link>https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</guid>
+      <pubDate>Mon, 26 Oct 2026 11:03:31 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Deploying AI agents securely: how Kaspersky products mitigate AI threats</title>
+      <link>https://securelist.com/tr/how-to-secure-ai-agents/121444/</link>
+      <guid isPermaLink="false">https://securelist.com/tr/how-to-secure-ai-agents/121444/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:18 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents. (via Securelist)</description>
+    </item>
+    <item>
+      <title>The breachpocalypse is here</title>
+      <link>https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>It&#39;s just hard to measure (via Sophos News)</description>
     </item>
   </channel>
 </rss>
