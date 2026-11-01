@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 02:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 09:28:21 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>OneNote File Extraction, (Sun, Nov 1st)</title>
+      <link>https://isc.sans.edu/diary/rss/33478</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33478</guid>
+      <pubDate>Sun, 01 Nov 2026 09:12:23 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Recently, I had to extract embedded files from a set of OneNote files (extension .one). (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability</title>
+      <link>https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI,… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Weekly Update 528: Reading AI-generated Code &amp; the Economics of Solar</title>
+      <link>https://www.troyhunt.com/weekly-update-528/</link>
+      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-528/</guid>
+      <pubDate>Sun, 01 Nov 2026 07:35:23 GMT</pubDate>
+      <source url="https://www.troyhunt.com/">Troy Hunt</source>
+      <description>By pure timing coincidence, the Proton CEO&#39;s AI @ Proton, Engineering Manifesto made headlines around the same time as this week&#39;s video. The guy&#39;s management style and choice of language have really rubbed a lot of people up the wrong way, and deservedly so, IMHO. (via Troy Hunt)</description>
+    </item>
+    <item>
+      <title>Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script</title>
+      <link>https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html</guid>
+      <pubDate>Sun, 01 Nov 2026 07:25:40 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Malicious code on the website of prediction market Polymarket sold some signed-in traders&#39; positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company. Polymarket says it is refunding about… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection</title>
+      <link>https://thehackernews.com/2026/11/netamloader-malware-targets-government.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/netamloader-malware-targets-government.html</guid>
+      <pubDate>Sun, 01 Nov 2026 07:02:58 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have disclosed details of what has been described as a &quot;highly sophisticated infection chain&quot; targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10 build used exclusively by government… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>FBI Links North Korea&#39;s TraderTraitor to Record $6.43 Billion Binance Crypto Heist</title>
+      <link>https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html</guid>
+      <pubDate>Sun, 01 Nov 2026 06:44:27 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI,… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Northflank security breach leads to abuse of customers&#39; AI API keys</title>
       <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
@@ -264,14 +312,6 @@
       <description>This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them</title>
-      <link>https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html</guid>
-      <pubDate>Fri, 30 Oct 2026 15:17:28 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls is the host. A malicious or… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Defense contractor pleads guilty to aiding North Korean remote worker scheme</title>
       <link>https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/</link>
       <guid isPermaLink="false">https://cyberscoop.com/defense-contractor-guilty-north-korea-scheme-facilitator/</guid>
@@ -328,14 +368,6 @@
       <description>A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers. (via Dark Reading)</description>
     </item>
     <item>
-      <title>WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours</title>
-      <link>https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html</guid>
-      <pubDate>Fri, 30 Oct 2026 14:08:14 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting WordPress Core versions 4.7… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Passkeys Are Better Than Passwords. But They Are Not Enough.</title>
       <link>https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</link>
       <guid isPermaLink="false">https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</guid>
@@ -390,14 +422,6 @@
       <pubDate>Fri, 30 Oct 2026 12:39:09 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Bedrock Data has announced AI-assisted remediation, which federates the work of fixing data exposure to the data owners across the enterprise. Bedrock Data discovers who owns each exposed dataset, opens a ticket for that owner in the Jira or ServiceNow workflow the enterprise… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis</title>
-      <link>https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html</guid>
-      <pubDate>Fri, 30 Oct 2026 12:21:56 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling everyone who bought a Trezor from CryptoBilis… (via The Hacker News)</description>
     </item>
     <item>
       <title>Fresh WordPress Vulnerability in Attackers’ Crosshairs</title>
@@ -494,14 +518,6 @@
       <pubDate>Fri, 30 Oct 2026 06:30:26 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident Response (Talos IR) found across several engagements. In one case, that access… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>What exactly is ISOC? And what does it mean for you?</title>
-      <link>https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/stellar-cyber-integrated-security-operations-center/</guid>
-      <pubDate>Fri, 30 Oct 2026 06:00:14 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Gartner recently released a new category of assessing security tools: the Integrated Security Operations Center (ISOC). Even though SIEM isn’t going anywhere, a rapidly evolving threat landscape is forcing a shift in industry logic that is reflected in the emergence of this new… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)</title>
@@ -752,14 +768,6 @@
       <description>During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer. (via Securelist)</description>
     </item>
     <item>
-      <title>ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33464</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33464</guid>
-      <pubDate>Wed, 28 Oct 2026 02:30:11 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
       <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
       <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 27 Oct 2026 11:01:26 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Weekly Update 527: Cybergeddon News v. Reality</title>
-      <link>https://www.troyhunt.com/weekly-update-527/</link>
-      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-527/</guid>
-      <pubDate>Tue, 27 Oct 2026 07:59:09 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn&#39;t eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single story of PHP2Shell being reliably attributed… (via Troy Hunt)</description>
     </item>
   </channel>
 </rss>
