@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T22:36:41.580Z",
+  "updated": "2026-11-01T02:21:22.747Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -218,6 +218,14 @@
       "excerpt": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion…"
     },
     {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+      "date": "2026-10-31T01:02:57.000Z",
+      "excerpt": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on Microsoft Security Blog ."
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "China-backed threat group used agentic AI pentesting tool to compromise 140 sensitive targets in 11 days",
@@ -304,6 +312,14 @@
       "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
       "date": "2026-10-30T16:58:44.000Z",
       "excerpt": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been attributed by CrowdStrike to a China-based…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+      "date": "2026-10-30T16:11:44.000Z",
+      "excerpt": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft…"
     },
     {
       "source": "CyberScoop",
@@ -666,6 +682,22 @@
       "excerpt": "A charcoal sketch of a figure climbing a steep slope toward a glowing Ideal State at the summit, past verification points along the path/images/general-hill-climbing-header.webp/images/general-hill-climbing-header.webp 💡There is basically One Main Loop in AI, and it applies to…"
     },
     {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+      "date": "2026-10-29T16:00:00.000Z",
+      "excerpt": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption. This blog breaks down how North Korean…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/",
+      "date": "2026-10-29T16:00:00.000Z",
+      "excerpt": "IDC has named Microsoft a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises. The post IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment appeared first on Microsoft…"
+    },
+    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "NIK C2 Malware Can Use Victims’ OpenAI Keys for AI Queries",
@@ -794,6 +826,14 @@
       "excerpt": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 ."
     },
     {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "The CISO’s evolving role: Protecting and defending in the agentic era",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/",
+      "date": "2026-10-28T16:00:00.000Z",
+      "excerpt": "As AI and agents reshape the enterprise, CISOs face two critical priorities: enabling innovation with the right identity and data guardrails, and modernizing defense to keep pace with AI-powered threats. Aarti Borkar shares how security leaders can approach both. The post The…"
+    },
+    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Hive ransomware affiliate jailed, years after FBI infiltrated the gang’s systems",
@@ -828,18 +868,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "Never Bring a Knife to a Gun Fight!",
-      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
-      "date": "2026-10-28T00:00:00.000Z",
-      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation",
       "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
       "date": "2026-10-28T00:00:00.000Z",
       "excerpt": ""
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Never Bring a Knife to a Gun Fight!",
+      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
+      "date": "2026-10-28T00:00:00.000Z",
+      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
     },
     {
       "source": "Ars Technica Security",
@@ -872,46 +912,6 @@
       "link": "https://www.troyhunt.com/weekly-update-527/",
       "date": "2026-10-27T07:59:09.000Z",
       "excerpt": "As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn't eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single story of PHP2Shell being reliably attributed…"
-    },
-    {
-      "source": "Google Project Zero",
-      "sourceUrl": "https://googleprojectzero.blogspot.com/",
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "date": "2026-10-27T07:00:00.000Z",
-      "excerpt": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Building intent-based access control for AI agents",
-      "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents",
-      "date": "2026-10-27T00:00:00.000Z",
-      "excerpt": "This article was first published on LinkedIn."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Bias in Qwen3-Coder Model",
-      "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "date": "2026-10-26T11:03:31.000Z",
-      "excerpt": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Deploying AI agents securely: how Kaspersky products mitigate AI threats",
-      "link": "https://securelist.com/tr/how-to-secure-ai-agents/121444/",
-      "date": "2026-10-26T10:00:18.000Z",
-      "excerpt": "We look at best practices for deploying AI tools securely in corporate environments, with Kaspersky Security Center and Kaspersky Endpoint Security as examples. We also cover ways that EDR and TIP can detect AI agents."
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "The breachpocalypse is here",
-      "link": "https://www.sophos.com/en-us/blog/the-breachpocalypse-is-here",
-      "date": "2026-10-26T00:00:00.000Z",
-      "excerpt": "It's just hard to measure"
     }
   ]
 }
