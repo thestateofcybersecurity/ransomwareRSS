@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T16:51:12.316Z",
+  "updated": "2026-11-01T21:16:03.854Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -58,8 +58,8 @@
     },
     {
       "name": "Securelist",
-      "ok": false,
-      "count": 0
+      "ok": true,
+      "count": 8
     },
     {
       "name": "The DFIR Report",
@@ -113,6 +113,14 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+      "date": "2026-11-01T19:57:53.000Z",
+      "excerpt": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -320,14 +328,6 @@
       "link": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
       "date": "2026-10-30T21:09:54.000Z",
       "excerpt": "It's still unknown how attackers got access to Anthropic's verified Cursor account."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-      "date": "2026-10-30T21:09:46.000Z",
-      "excerpt": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]"
     },
     {
       "source": "Schneier on Security",
@@ -586,6 +586,14 @@
       "excerpt": "The US Department of Homeland Security has had the details of more than 41,000 staff, including ICE and CBP agents, published online. Not ideal for an organisation with \"Security\" in its name. Read more in my article on the Hot for Security blog."
     },
     {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Filter generation in practice: from algorithms to LLMs",
+      "link": "https://securelist.com/practical-filter-generation/121697/",
+      "date": "2026-10-30T10:00:44.000Z",
+      "excerpt": "We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents."
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Open-weight AI model GLM-5.3 cheated its way to correct answers",
@@ -754,6 +762,14 @@
       "excerpt": "The guidance sets out how federal agencies can prioritize PQC adoption for the most sensitive systems, to meet the 2031 transition deadline"
     },
     {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia",
+      "link": "https://securelist.com/netamloader/121676/",
+      "date": "2026-10-29T08:00:15.000Z",
+      "excerpt": "Kaspersky researchers analyze a complex targeted attack employing NetamLoader, a sophisticated malicious framework and targeting a customized government OS."
+    },
+    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)",
@@ -850,12 +866,12 @@
       "excerpt": "Researchers set up a fake start-up company to study fraudulent North Korean IT workers."
     },
     {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Never Bring a Knife to a Gun Fight!",
-      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
-      "date": "2026-10-28T00:00:00.000Z",
-      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Millions of security cameras at risk: DoS vulnerability in Intelbras devices",
+      "link": "https://securelist.com/intelbras-camera-vulnerability/121131/",
+      "date": "2026-10-28T10:00:18.000Z",
+      "excerpt": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer."
     },
     {
       "source": "Sophos News",
@@ -866,6 +882,14 @@
       "excerpt": ""
     },
     {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Never Bring a Knife to a Gun Fight!",
+      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
+      "date": "2026-10-28T00:00:00.000Z",
+      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
+    },
+    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
@@ -874,44 +898,20 @@
       "excerpt": "Critical flaw in EDK2 allows attackers to execute code early in the boot process."
     },
     {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure",
+      "link": "https://securelist.com/cloud-infrastructure-isolation-bypass/121609/",
+      "date": "2026-10-27T12:00:19.000Z",
+      "excerpt": "A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other tenants' services."
+    },
+    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Hiding Capabilities in AI Models",
       "link": "https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html",
       "date": "2026-10-27T11:01:26.000Z",
       "excerpt": "Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this…"
-    },
-    {
-      "source": "Troy Hunt",
-      "sourceUrl": "https://www.troyhunt.com/",
-      "title": "Weekly Update 527: Cybergeddon News v. Reality",
-      "link": "https://www.troyhunt.com/weekly-update-527/",
-      "date": "2026-10-27T07:59:09.000Z",
-      "excerpt": "As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn't eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single story of PHP2Shell being reliably attributed…"
-    },
-    {
-      "source": "Google Project Zero",
-      "sourceUrl": "https://googleprojectzero.blogspot.com/",
-      "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
-      "link": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
-      "date": "2026-10-27T07:00:00.000Z",
-      "excerpt": "Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Building intent-based access control for AI agents",
-      "link": "https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents",
-      "date": "2026-10-27T00:00:00.000Z",
-      "excerpt": "This article was first published on LinkedIn."
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Bias in Qwen3-Coder Model",
-      "link": "https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html",
-      "date": "2026-10-26T11:03:31.000Z",
-      "excerpt": "Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s…"
     }
   ]
 }

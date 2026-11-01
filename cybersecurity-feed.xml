@@ -5,8 +5,16 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 16:51:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:16:03 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
+      <link>https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/</guid>
+      <pubDate>Sun, 01 Nov 2026 19:57:53 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Alpine Linux rebuilds GitLab after attempted RCE attack</title>
       <link>https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/</link>
@@ -214,14 +222,6 @@
       <pubDate>Fri, 30 Oct 2026 21:09:54 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>It&#39;s still unknown how attackers got access to Anthropic&#39;s verified Cursor account. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Critical Linux kernel flaw allows remote root attacks on MPTCP servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</guid>
-      <pubDate>Fri, 30 Oct 2026 21:09:46 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Friday Squid Blogging: Bigfin Squid Off California Coast</title>
@@ -480,6 +480,14 @@
       <description>The US Department of Homeland Security has had the details of more than 41,000 staff, including ICE and CBP agents, published online. Not ideal for an organisation with &quot;Security&quot; in its name. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
     </item>
     <item>
+      <title>Filter generation in practice: from algorithms to LLMs</title>
+      <link>https://securelist.com/practical-filter-generation/121697/</link>
+      <guid isPermaLink="false">https://securelist.com/practical-filter-generation/121697/</guid>
+      <pubDate>Fri, 30 Oct 2026 10:00:44 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents. (via Securelist)</description>
+    </item>
+    <item>
       <title>Open-weight AI model GLM-5.3 cheated its way to correct answers</title>
       <link>https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/</guid>
@@ -648,6 +656,14 @@
       <description>The guidance sets out how federal agencies can prioritize PQC adoption for the most sensitive systems, to meet the 2031 transition deadline (via Infosecurity Magazine)</description>
     </item>
     <item>
+      <title>Unknown APT uses NetamLoader to attack a Win10 OS customized for governments in Asia</title>
+      <link>https://securelist.com/netamloader/121676/</link>
+      <guid isPermaLink="false">https://securelist.com/netamloader/121676/</guid>
+      <pubDate>Thu, 29 Oct 2026 08:00:15 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>Kaspersky researchers analyze a complex targeted attack employing NetamLoader, a sophisticated malicious framework and targeting a customized government OS. (via Securelist)</description>
+    </item>
+    <item>
       <title>Deploying a Local Ghidra Server for Your Malware Analysis Lab, (Thu, Oct 29th)</title>
       <link>https://isc.sans.edu/diary/rss/33470</link>
       <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33470</guid>
@@ -744,12 +760,12 @@
       <description>Researchers set up a fake start-up company to study fraudulent North Korean IT workers. (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Never Bring a Knife to a Gun Fight!</title>
-      <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can… (via Sophos News)</description>
+      <title>Millions of security cameras at risk: DoS vulnerability in Intelbras devices</title>
+      <link>https://securelist.com/intelbras-camera-vulnerability/121131/</link>
+      <guid isPermaLink="false">https://securelist.com/intelbras-camera-vulnerability/121131/</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:18 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer. (via Securelist)</description>
     </item>
     <item>
       <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
@@ -760,6 +776,14 @@
       <description>via Sophos News</description>
     </item>
     <item>
+      <title>Never Bring a Knife to a Gun Fight!</title>
+      <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can… (via Sophos News)</description>
+    </item>
+    <item>
       <title>Code-execution flaw in UEFI firmware affects most servers on planet Earth</title>
       <link>https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/</guid>
@@ -768,44 +792,20 @@
       <description>Critical flaw in EDK2 allows attackers to execute code early in the boot process. (via Ars Technica Security)</description>
     </item>
     <item>
+      <title>An insecure neighbor: how a vulnerability chain led to an isolation bypass in cloud infrastructure</title>
+      <link>https://securelist.com/cloud-infrastructure-isolation-bypass/121609/</link>
+      <guid isPermaLink="false">https://securelist.com/cloud-infrastructure-isolation-bypass/121609/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:00:19 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other tenants&#39; services. (via Securelist)</description>
+    </item>
+    <item>
       <title>Hiding Capabilities in AI Models</title>
       <link>https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</guid>
       <pubDate>Tue, 27 Oct 2026 11:01:26 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>Weekly Update 527: Cybergeddon News v. Reality</title>
-      <link>https://www.troyhunt.com/weekly-update-527/</link>
-      <guid isPermaLink="false">https://www.troyhunt.com/weekly-update-527/</guid>
-      <pubDate>Tue, 27 Oct 2026 07:59:09 GMT</pubDate>
-      <source url="https://www.troyhunt.com/">Troy Hunt</source>
-      <description>As the news from last week has settled down, it would seem this headline was pretty spot on. The foretold apocalypse didn&#39;t eventuate, and there were no internet-destroying outages. In fact, it took days before I could find a single story of PHP2Shell being reliably attributed… (via Troy Hunt)</description>
-    </item>
-    <item>
-      <title>Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines</title>
-      <link>https://projectzero.google/2026/10/fuzzing-v-AI.html</link>
-      <guid isPermaLink="false">https://projectzero.google/2026/10/fuzzing-v-AI.html</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://googleprojectzero.blogspot.com/">Google Project Zero</source>
-      <description>Summary Project Zero compared two automated tools used by Google to find vulnerabilities in Chrome’s JavaScript engine, V8, on a regular basis. Fuzzilli is a generative JavaScript engine fuzzer and BigSleep is an LLM-based bug finding system. In the past six months, BigSleep… (via Google Project Zero)</description>
-    </item>
-    <item>
-      <title>Building intent-based access control for AI agents</title>
-      <link>https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/building-intent-based-access-control-for-ai-agents</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>This article was first published on LinkedIn. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Bias in Qwen3-Coder Model</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html</guid>
-      <pubDate>Mon, 26 Oct 2026 11:03:31 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting research : TL;DR: Chinese AI models now sit inside Western products, and some carry geopolitical triggers: tell the model who the code is for, and the security of what it writes changes. For the first time, we showed that this vulnerability lives in the model’s… (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
