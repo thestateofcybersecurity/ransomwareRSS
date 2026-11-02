@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 01 Nov 2026 21:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:53:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Federal court tosses Trump lawsuit challenging Alaska Senate certification</title>
+      <link>https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/</guid>
+      <pubDate>Sun, 01 Nov 2026 22:47:26 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The government claimed voters would be confused by two candidates with the same name. A federal judge said the executive branch has no constitutional role in the matter. The post Federal court tosses Trump lawsuit challenging Alaska Senate certification appeared first on… (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>The Post-AI Security Floor</title>
+      <link>https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sun, 01 Nov 2026 20:00:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>Hand-drawn diagram titled The Post-AI Security Floor with three numbered steps: know everything you have shipped, get it off the open internet, and lean on big vendors instead of small ones/images/post-ai-security-floor-diagram.webp/images/post-ai-security-floor-diagram.webp… (via Daniel Miessler)</description>
+    </item>
     <item>
       <title>FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
       <link>https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/</link>
@@ -720,14 +736,6 @@
       <description>The GOLD OGRE threat group has used AI extensively to develop tools and to orchestrate and execute ransomware operations (via Sophos News)</description>
     </item>
     <item>
-      <title>Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists</title>
-      <link>https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/dhs-employee-data-leak-ddosecrets/</guid>
-      <pubDate>Wed, 28 Oct 2026 21:33:00 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The Department of Peace group shared it with Swiss hacker/journalist maia arson crimew and DDoSecrets put it online. The post Leak site publishes data on more than 41,000 DHS employees obtained by hacktivists appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
       <title>Unwrapping Retail Peak Season Cyber Threats</title>
       <link>https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/</guid>
@@ -768,20 +776,20 @@
       <description>During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer. (via Securelist)</description>
     </item>
     <item>
-      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
-      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>via Sophos News</description>
-    </item>
-    <item>
       <title>Never Bring a Knife to a Gun Fight!</title>
       <link>https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can… (via Sophos News)</description>
+    </item>
+    <item>
+      <title>‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation</title>
+      <link>https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>via Sophos News</description>
     </item>
     <item>
       <title>Code-execution flaw in UEFI firmware affects most servers on planet Earth</title>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 27 Oct 2026 12:00:19 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>A Kaspersky expert presents a cloud isolation bypass case honored at Russian Pentest Award 2026. Learn how vulnerabilities in Kubernetes, Konnectivity, and the overlay network lead to RCE and compromise of other tenants&#39; services. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Hiding Capabilities in AI Models</title>
-      <link>https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html</guid>
-      <pubDate>Tue, 27 Oct 2026 11:01:26 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting research: “ AI Models Can Provably Hide Arbitrary Capabilities ” Abstract: Capability evaluations aim to surface dangerous model behaviors before deployment, but their reliability depends on the assumption that hidden capabilities can be elicited. We show this… (via Schneier on Security)</description>
     </item>
   </channel>
 </rss>
