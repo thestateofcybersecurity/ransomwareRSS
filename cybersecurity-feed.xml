@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Mon, 02 Nov 2026 00:53:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:46:46 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>DeepSeek open-sources Super-Agent, a coding agent that watches team chats for work</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/02/deepseek-dsh-superagent/</guid>
+      <pubDate>Mon, 02 Nov 2026 07:09:55 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Deepseek released a research prototype of dsh-superagent, a coding agent that does work on a GitHub repository for you. Who can ask for work The agent gets to work in two situations: an allowed user asks for something, or a rule your team wrote covers it. You can also open up a… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>The first ten lines of a command policy for AI coding agents</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/02/vinay-thakker-kloudstax-ai-agent-access-control/</guid>
+      <pubDate>Mon, 02 Nov 2026 06:30:36 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security interview, Vinay Thakker, CTO of KloudStax, explains how to set identity, credentials, and network limits for AI agents. He argues that agents should run under their own identity, with the person’s identity attached when acting on someone’s behalf. He… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Byoky: Open-source wallet for AI API keys</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/02/byoky-open-source-ai-api-key-wallet/</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:33 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Byoky is an open-source wallet for AI API keys, available as a Chrome and Firefox extension and as iOS and Android apps. Users store their keys for OpenAI, Anthropic, Google Gemini and other providers in it, encrypted on their own device. Apps that want those keys ask the wallet… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value</title>
+      <link>https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html</guid>
+      <pubDate>Mon, 02 Nov 2026 05:51:07 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim&#39;s stolen data by their monetization value. Like other typical stealer families, VOLTA is equipped to… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Product showcase: Trust Onion uses rotating codewords to verify callers</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/product-showcase-trust-onion/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/02/product-showcase-trust-onion/</guid>
+      <pubDate>Mon, 02 Nov 2026 05:30:38 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Trust Onion is a free app that gives trusted groups three rotating codewords to check who they are communicating with. It also includes signed selfies, message checks, and callback requests. It is available for macOS, iOS, and Android. I tested the iPhone app with an older… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Ransomware gang talked AI agents into doing much of its dirty work</title>
+      <link>https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/02/aur0ra-ransomware-ai-agents/</guid>
+      <pubDate>Mon, 02 Nov 2026 05:00:46 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The group behind the Aur0ra ransomware has been using AI agents to move through victim networks, collect credentials and work its way up to domain administrator access, according to Sophos. AI-assisted intrusion workflow (Source: Sophos) The company, which tracks the group as… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)</title>
+      <link>https://isc.sans.edu/diary/rss/33480</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33480</guid>
+      <pubDate>Mon, 02 Nov 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
     <item>
       <title>Federal court tosses Trump lawsuit challenging Alaska Senate certification</title>
       <link>https://cyberscoop.com/judge-dismisses-alaska-senate-lawsuit-peltola-sullivan/</link>
@@ -21,7 +77,7 @@
       <guid isPermaLink="false">https://danielmiessler.com/blog/post-ai-security-floor?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
       <pubDate>Sun, 01 Nov 2026 20:00:00 GMT</pubDate>
       <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Hand-drawn diagram titled The Post-AI Security Floor with three numbered steps: know everything you have shipped, get it off the open internet, and lean on big vendors instead of small ones/images/post-ai-security-floor-diagram.webp/images/post-ai-security-floor-diagram.webp… (via Daniel Miessler)</description>
+      <description>Hand-drawn diagram titled The Post-AI Security Floor with three numbered steps: know everything you have shipped, get it off the open internet, and lean on big vendors instead of small ones/images/post-ai-security-floor-diagram.webp/images/post-ai-security-floor-diagram.webp I… (via Daniel Miessler)</description>
     </item>
     <item>
       <title>FBI links $6.3 billion Binance crypto heist to North Korean hackers</title>
@@ -101,7 +157,7 @@
       <guid isPermaLink="false">https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html</guid>
       <pubDate>Sun, 01 Nov 2026 07:03:00 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and UNC4899. The FBI,… (via The Hacker News)</description>
+      <description>The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets from Binance to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima, PUKCHONG, Slow Pisces, and… (via The Hacker News)</description>
     </item>
     <item>
       <title>NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection</title>
@@ -206,14 +262,6 @@
       <pubDate>Sat, 31 Oct 2026 05:33:41 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>A malicious ChatGPT share link could run an attacker&#39;s code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported the flaw through OpenAI&#39;s bug bounty… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%</title>
-      <link>https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html</guid>
-      <pubDate>Sat, 31 Oct 2026 04:56:12 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDoS attacks and 14.4 trillion… (via The Hacker News)</description>
     </item>
     <item>
       <title>Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</title>
@@ -440,14 +488,6 @@
       <description>The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue. (via The Record)</description>
     </item>
     <item>
-      <title>Bedrock Data routes data exposure fixes to owners and verifies results</title>
-      <link>https://www.helpnetsecurity.com/2026/10/30/bedrock-data-ai-assisted-remediation/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/bedrock-data-ai-assisted-remediation/</guid>
-      <pubDate>Fri, 30 Oct 2026 12:39:09 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Bedrock Data has announced AI-assisted remediation, which federates the work of fixing data exposure to the data owners across the enterprise. Bedrock Data discovers who owns each exposed dataset, opens a ticket for that owner in the Jira or ServiceNow workflow the enterprise… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Fresh WordPress Vulnerability in Attackers’ Crosshairs</title>
       <link>https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/</link>
       <guid isPermaLink="false">https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/</guid>
@@ -470,14 +510,6 @@
       <pubDate>Fri, 30 Oct 2026 11:25:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Leading cryptocurrency analysts have attributed the cyber-attack to a North Korean elite hacking unit (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Claude Code extension poisoned with persistent SSH backdoor</title>
-      <link>https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/claude-code-extension-ssh-backdoor/</guid>
-      <pubDate>Fri, 30 Oct 2026 11:15:26 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A tampered build of Anthropic’s Claude Code extension for VS Code-compatible editors planted an SSH backdoor on developers’ machines, researchers at macOS security firm Phorion have found. The company spotted the malicious package, version 2.1.313, on Open VSX, an open-source… (via Help Net Security)</description>
     </item>
     <item>
       <title>Drupal Commerce Core Vulnerability Exploited Against Online Stores</title>
@@ -504,36 +536,12 @@
       <description>We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents. (via Securelist)</description>
     </item>
     <item>
-      <title>Open-weight AI model GLM-5.3 cheated its way to correct answers</title>
-      <link>https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/irregular-glm-5-3-cyber-capabilities-evaluation/</guid>
-      <pubDate>Fri, 30 Oct 2026 09:23:25 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Irregular evaluated Zhipu AI’s open-weight model GLM-5.3 across 13 offensive cyber scenarios using CyScenarioBench, the company’s framework for measuring an LLM’s ability to plan and execute multistage attacks under realistic constraints. The model refused none of the tasks and… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Binance hit by $6.3 billion theft in what could be the biggest crypto heist on record</title>
-      <link>https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/binance-crypto-hack/</guid>
-      <pubDate>Fri, 30 Oct 2026 08:26:13 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>About $6.3 billion in cryptocurrency was stolen from Binance in what might be the biggest crypto hack in history. “Binance’s initial investigation suggests that the security incident may involve a compromised DevOps engineer’s laptop, which allowed an attacker to gain access to… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>As Russia&#39;s Cyberwar Evolves, Belarus Steps Forward</title>
       <link>https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward</link>
       <guid isPermaLink="false">https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward</guid>
       <pubDate>Fri, 30 Oct 2026 08:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>The &quot;FrostyNeighbor&quot; advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Fake IT help desk callers got by on little more than names and email addresses</title>
-      <link>https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/10/30/cisco-talos-it-help-desk-vishing/</guid>
-      <pubDate>Fri, 30 Oct 2026 06:30:26 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Attackers posing as IT help desk staff contacted employees by phone, email and Microsoft Teams in the third quarter of 2026 and talked them into opening remote access sessions, Cisco Talos Incident Response (Talos IR) found across several engagements. In one case, that access… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)</title>
@@ -694,14 +702,6 @@
       <pubDate>Thu, 29 Oct 2026 03:10:12 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Yet Another ClickFix Campaign, (Wed, Oct 28th)</title>
-      <link>https://isc.sans.edu/diary/rss/33466</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33466</guid>
-      <pubDate>Thu, 29 Oct 2026 00:42:15 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Introduction (via SANS Internet Storm Center)</description>
     </item>
     <item>
       <title>Officials seize domain of top bulletproof hosting provider Virtualine</title>
