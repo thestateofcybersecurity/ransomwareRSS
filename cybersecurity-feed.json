@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:33:30.565Z",
+  "updated": "2026-11-03T01:40:22.446Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,86 @@
   ],
   "items": [
     {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+      "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+      "date": "2026-11-03T00:01:00.000Z",
+      "excerpt": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Unit 42 Threat Intelligence Highlights - Nov. 2, 2026",
+      "link": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
+      "date": "2026-11-02T23:00:45.000Z",
+      "excerpt": "Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths",
+      "date": "2026-11-02T22:27:24.000Z",
+      "excerpt": "The record theft shows how weak system separation, inadequate controls, and untested attack possibilities can turn one breach into systemic loss."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Google shuts down global botnet running on certified Android devices",
+      "link": "https://cyberscoop.com/google-disrupts-xcpe-botnet-videostrong-android-devices/",
+      "date": "2026-11-02T21:58:24.000Z",
+      "excerpt": "Videostrong sold TV set-top boxes and other devices with pre-installed malware. The yearslong operation evaded Google’s security tests and established a botnet for cybercriminals. The post Google shuts down global botnet running on certified Android devices appeared first on…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform",
+      "link": "https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist",
+      "date": "2026-11-02T21:42:00.000Z",
+      "excerpt": "Blockchain security companies said more than $46 million left the Mercado Bitcoin platform."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "date": "2026-11-02T21:40:14.000Z",
+      "excerpt": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]"
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "Business groups mount fresh campaign for long-term renewal of information sharing law",
+      "link": "https://cyberscoop.com/business-groups-cisa-2015-renewal-ndaa-cybersecurity/",
+      "date": "2026-11-02T21:04:42.000Z",
+      "excerpt": "Their target for extending CISA 2015 is the annual “must-pass” defense authorization bill, but a more than year-long standoff persists. The post Business groups mount fresh campaign for long-term renewal of information sharing law appeared first on CyberScoop ."
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
+      "date": "2026-11-02T20:20:59.000Z",
+      "excerpt": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+      "link": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+      "date": "2026-11-02T19:54:00.000Z",
+      "excerpt": "A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Fintech platform Sageworks taken offline after suspected cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/fintech-platform-sageworks-taken-offline-after-suspected-cyberattack/",
+      "date": "2026-11-02T19:00:45.000Z",
+      "excerpt": "Financial technology company Abrigo has restored its Sageworks risk management application, except for borrower-facing capabilities, following an outage triggered by \"irregular activity\" in its environment. [...]"
+    },
+    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Google disrupts million-device XCPE Android malware botnet, bans TV box maker",
@@ -127,7 +207,15 @@
       "title": "Polymarket pledges to give $3.9 million back to victims after site compromise",
       "link": "https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise",
       "date": "2026-11-02T17:05:20.000Z",
-      "excerpt": "In a post-mortem on an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime."
+      "excerpt": "In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site's downtime."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+      "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+      "date": "2026-11-02T16:57:56.000Z",
+      "excerpt": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble. Then there were the bigger messes. Billions…"
     },
     {
       "source": "The Record",
@@ -234,22 +322,6 @@
       "excerpt": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek ."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Apple warns users in 99 countries of mercenary spyware",
-      "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
-      "date": "2026-11-02T14:42:00.000Z",
-      "excerpt": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [which] make them some of the most advanced digital threats in…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings",
-      "link": "https://therecord.media/ukraine-hackers-russia-alert-system",
-      "date": "2026-11-02T14:30:00.000Z",
-      "excerpt": "A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation."
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Hackers disrupt refrigeration systems at European supermarkets",
@@ -304,14 +376,6 @@
       "link": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
       "date": "2026-11-02T13:25:11.000Z",
       "excerpt": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Second wave of suspected cyberattacks hits supermarket freezers across Europe",
-      "link": "https://therecord.media/cyberattack-grocery-freezers-europe",
-      "date": "2026-11-02T13:00:00.000Z",
-      "excerpt": "Supermarket and grocery store refrigerators across Europe appear to have been hacked early Monday — the second such incident in recent weeks where attackers have manipulated temperature controls and caused stock to spoil."
     },
     {
       "source": "Help Net Security",
@@ -370,14 +434,6 @@
       "excerpt": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Synology warns of C3RB3R ransomware attacks targeting NAS devices",
-      "link": "https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/",
-      "date": "2026-11-02T11:28:42.000Z",
-      "excerpt": "Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
@@ -424,14 +480,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/02/fbi-north-korea-binance-hack/",
       "date": "2026-11-02T10:12:51.000Z",
       "excerpt": "North Korea was behind the theft of more than $6 billion in cryptocurrency from Binance, the FBI has confirmed. “The Federal Bureau of Investigation (FBI) is releasing information advising the Democratic People’s Republic of Korea (North Korea) was responsible for the theft of…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-      "date": "2026-11-02T09:33:26.000Z",
-      "excerpt": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -512,14 +560,6 @@
       "link": "https://isc.sans.edu/diary/rss/33478",
       "date": "2026-11-01T09:12:23.000Z",
       "excerpt": "Recently, I had to extract embedded files from a set of OneNote files (extension .one)."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-      "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-      "date": "2026-11-01T08:51:31.000Z",
-      "excerpt": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certificate. Once in, the attacker…"
     },
     {
       "source": "Troy Hunt",
@@ -674,14 +714,6 @@
       "excerpt": "The 62-year-old allowed co-conspirators to use his identity and top secret security clearance to apply for almost 100 jobs last year. The scheme’s success rate was limited. The post Defense contractor pleads guilty to aiding North Korean remote worker scheme appeared first on…"
     },
     {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Syrian hacker who served Assad regime gets 42 months in US prison",
-      "link": "https://cyberscoop.com/syrian-hacker-ahmad-umar-agha-sentenced/",
-      "date": "2026-10-30T14:33:22.000Z",
-      "excerpt": "Ahmad Umar Agha is best known for posting a fake Associated Press tweet claiming President Obama was injured in a White House bombing. The post Syrian hacker who served Assad regime gets 42 months in US prison appeared first on CyberScoop ."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Undead Software Projects Continue to Raise Security Risks",
@@ -730,14 +762,6 @@
       "excerpt": "We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-      "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-      "date": "2026-10-30T08:00:00.000Z",
-      "excerpt": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives."
-    },
-    {
       "source": "SANS Internet Storm Center",
       "sourceUrl": "https://isc.sans.edu/",
       "title": "ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)",
@@ -752,14 +776,6 @@
       "link": "https://www.sophos.com/en-us/blog/malicious-claude-code-extension-distributed-through-cursor-marketplace",
       "date": "2026-10-30T00:00:00.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "Leaked DHS employee archive, Icepick, faces challenges to stay online",
-      "link": "https://cyberscoop.com/dhs-employee-breach-icepick-database-takedown/",
-      "date": "2026-10-29T20:58:28.000Z",
-      "excerpt": "A DHS contractor requested its removal, while a social media site blocked links to it. It was offline for a spell before finding a new home. The post Leaked DHS employee archive, Icepick, faces challenges to stay online appeared first on CyberScoop ."
     },
     {
       "source": "Unit 42",
@@ -896,22 +912,6 @@
       "link": "https://securelist.com/intelbras-camera-vulnerability/121131/",
       "date": "2026-10-28T10:00:18.000Z",
       "excerpt": "During our research, we discovered a denial-of-service vulnerability that could affect millions of Intelbras IP camera systems built on the platform platform of a popular Chinese manufacturer."
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "Never Bring a Knife to a Gun Fight!",
-      "link": "https://www.sophos.com/en-us/blog/never-bring-a-knife-to-a-gun-fight",
-      "date": "2026-10-28T00:00:00.000Z",
-      "excerpt": "Cyber incidents create both technical and legal challenges, making coordination between DFIR teams and experienced legal counsel essential. This article explores why organizations should establish these relationships before an incident occurs and how a coordinated response can…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "‘Node2Shell’ vulnerability (CVE-2026-111497) in active exploitation",
-      "link": "https://www.sophos.com/en-us/blog/node2shell-cve-2026-111497-in-active-exploitation",
-      "date": "2026-10-28T00:00:00.000Z",
-      "excerpt": ""
     }
   ]
 }
