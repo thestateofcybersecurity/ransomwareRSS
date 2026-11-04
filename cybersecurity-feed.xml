@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 03 Nov 2026 23:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 06:43:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Ghostunnel: Open-source TLS proxy with mutual authentication</title>
+      <link>https://www.helpnetsecurity.com/2026/11/04/ghostunnel-open-source-tls-proxy/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/04/ghostunnel-open-source-tls-proxy/</guid>
+      <pubDate>Wed, 04 Nov 2026 06:30:14 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Ghostunnel is an open-source proxy that handles TLS for programs that cannot handle it themselves. It works in two directions. In server mode it sits in front of a backend, accepts TLS connections, checks the client’s certificate, then passes traffic to the service behind it… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Secure your containers without breaking what works</title>
+      <link>https://www.helpnetsecurity.com/2026/11/04/rapidfort-runtime-container-profiling/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/04/rapidfort-runtime-container-profiling/</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:34 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Container security has a familiar problem. Teams identify vulnerabilities, but turning those findings into lower risk is much harder. A standard container image may include operating-system packages, development tools, debugging utilities and libraries that an application never… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Companies going all in on AI could see their strategy backfire</title>
+      <link>https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/04/ai-strategy-miscalculation-gartner-report/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:30:45 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Four of the five highest-ranked enterprise risks in Gartner’s Quarterly Emerging Risk Report were AI-related. AI strategy miscalculation and AI-driven competitive displacement debuted at No. 3 and No. 4, respectively. The AI workforce preparedness gap held fifth place. AI… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>NIST publishes cybersecurity guide for businesses too small to have IT staff</title>
+      <link>https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/04/nist-small-business-cybersecurity-guide/</guid>
+      <pubDate>Wed, 04 Nov 2026 05:00:23 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The National Institute of Standards and Technology (NIST) released cybersecurity guidance for small businesses with no paid employees other than their owners. These businesses include freelancers, sole proprietors, and independent contractors. About 82% of the 34.8 million small… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Anthropic open-sources FlashProve, its provable inference prototype for MoE models</title>
+      <link>https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/04/anthropic-flashprove-provable-inference/</guid>
+      <pubDate>Wed, 04 Nov 2026 04:36:14 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Anthropic’s Frontier Red Team, with collaborators at EPFL, MIT and StarkWare, built FlashProve, a prototype that produces a cryptographic proof that one specific language model generated one specific reply. The prover, two verifiers, the formal proofs behind them and a protocol… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, November 4th, 2026 https://isc.sans.edu/podcastdetail/10164, (Wed, Nov 4th)</title>
+      <link>https://isc.sans.edu/diary/rss/33486</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33486</guid>
+      <pubDate>Wed, 04 Nov 2026 02:10:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach</guid>
+      <pubDate>Wed, 04 Nov 2026 02:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour. (via Dark Reading)</description>
+    </item>
     <item>
       <title>Hackers hijack cPGuard autoupdate to deploy backdoor, steal data</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/</link>
@@ -336,22 +392,6 @@
       <description>European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Attackers exploit critical Node-RED flaw to deploy Linux bot and backdoors (CVE-2026-58115)</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/03/node-red-cve-2026-58115-exploitation/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:59:51 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Attackers are exploiting an authentication flaw (CVE-2026-58115) in Node-RED, a programming tool built into some industrial control products, to install a Linux bot and backdoors on unprotected servers, VulnCheck has found. Node-RED is a flow-based programming tool built on… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>AI agents scale and speed up Chinese-linked attacks</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/03/ai-powered-cyberattacks-artex-cyberstrikeai/</guid>
-      <pubDate>Tue, 03 Nov 2026 12:31:59 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A China-nexus espionage group used AI agents to attack more than 200 organizations in 11 days, CrowdStrike said last week. On Monday, Kaspersky published details of a separate campaign against educational institutions in Africa and Latin America, mounted by Chinese-speaking… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Android’s November 2026 Updates Patch Over 200 Vulnerabilities</title>
       <link>https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</link>
       <guid isPermaLink="false">https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</guid>
@@ -416,14 +456,6 @@
       <description>Google Mandiant has warned of the high cost of hijacked access to large language models, or LLMJacking (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Gorbag APT group hits Ukrainian courts and city councils with self-deleting malware</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/gorbag-apt-group-malware/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/03/gorbag-apt-group-malware/</guid>
-      <pubDate>Tue, 03 Nov 2026 10:00:14 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>ESET has been tracking a Russia-aligned group it calls Gorbag, which has been breaking into Ukrainian organizations since at least February 2025 using spearphishing attachments and a stealer that erases itself once the data is gone. Spearphishing email message from a compromised… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>MLEP in KICS for Networks 5.0: how machine learning helps track network behavior of OT devices</title>
       <link>https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/</link>
       <guid isPermaLink="false">https://securelist.com/tr/machine-learning-event-processor-in-kics-for-networks/121794/</guid>
@@ -440,14 +472,6 @@
       <description>The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028… (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Stolen AI access leaves companies with cloud bills of up to $1 million</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/llmjacking-stolen-ai-access-cloud-bills/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/03/llmjacking-stolen-ai-access-cloud-bills/</guid>
-      <pubDate>Tue, 03 Nov 2026 09:39:05 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Criminals who break into corporate cloud accounts are using the stolen access to run AI models at the victim’s expense, in some cases racking up more than $100,000 in charges in a single day, Google Threat Intelligence Group (GTIG) and Mandiant researchers have found. Usage… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Police and Tech Firms Team Up to Dismantle XCPE Botnet</title>
       <link>https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/police-tech-firms-team-up-to/</guid>
@@ -462,14 +486,6 @@
       <pubDate>Tue, 03 Nov 2026 09:22:09 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>OpenAI raises top bug bounty payout to $172,000 with bonuses</title>
-      <link>https://www.helpnetsecurity.com/2026/11/03/openai-bigger-bug-bounty-rewards/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/03/openai-bigger-bug-bounty-rewards/</guid>
-      <pubDate>Tue, 03 Nov 2026 08:58:59 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>OpenAI increased its security bug bounties to encourage independent researchers to find vulnerabilities in its software. The program now offers bonuses for high-quality reports. The program encourages researchers to disclose vulnerabilities responsibly and complements OpenAI’s… (via Help Net Security)</description>
     </item>
     <item>
       <title>NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training</title>
@@ -566,14 +582,6 @@
       <pubDate>Mon, 02 Nov 2026 14:45:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Armadin found 88% of critical and high findings in its client tests fell outside vendor advisories (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>PapRAT Cyber-Espionage Campaign Leaves a &#39;Bitter&#39; Taste in South Asia</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia</guid>
-      <pubDate>Mon, 02 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains. (via Dark Reading)</description>
     </item>
     <item>
       <title>Bitter Deploys PapRAT in Asian Cyber-Espionage Campaign</title>
@@ -726,14 +734,6 @@
       <pubDate>Fri, 30 Oct 2026 10:00:44 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>We automate filter generation for security alerts using an algorithm, a large language model, and a group of LLM agents. (via Securelist)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, October 30th, 2026 https://isc.sans.edu/podcastdetail/10158, (Fri, Oct 30th)</title>
-      <link>https://isc.sans.edu/diary/rss/33472</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33472</guid>
-      <pubDate>Fri, 30 Oct 2026 03:30:17 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>Malicious Claude Code extension distributed through Cursor marketplace</title>
