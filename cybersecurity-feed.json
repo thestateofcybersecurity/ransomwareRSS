@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T11:13:37.449Z",
+  "updated": "2026-11-05T18:50:44.353Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,260 @@
   ],
   "items": [
     {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+      "date": "2026-11-05T17:45:29.000Z",
+      "excerpt": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+      "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+      "date": "2026-11-05T17:32:37.000Z",
+      "excerpt": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "New investments to reduce on-premises security risk",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381",
+      "date": "2026-11-05T17:10:14.000Z",
+      "excerpt": "We’re announcing a new on-premises security initiative, bringing together guidance, migration, and product investments. The post New investments to reduce on-premises security risk appeared first on Microsoft Security Blog ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+      "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+      "date": "2026-11-05T17:00:00.000Z",
+      "excerpt": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found."
+    },
+    {
+      "source": "CyberScoop",
+      "sourceUrl": "https://cyberscoop.com/",
+      "title": "OpenAI debuts GPT-6 Cyber, touting better performance — and safety guardrails",
+      "link": "https://cyberscoop.com/openai-gpt-6-cyber-security-model/",
+      "date": "2026-11-05T17:00:00.000Z",
+      "excerpt": "After a summer of sandbox escaping hacks, OpenAI said their new model was trained to be more cautious around user intent and less sensitive to “reward hacking” behaviors. The post OpenAI debuts GPT-6 Cyber, touting better performance — and safety guardrails appeared first on…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "​​​​What’s new in Microsoft Security: November 2026",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/whats-new-in-microsoft-security-november-2026/",
+      "date": "2026-11-05T17:00:00.000Z",
+      "excerpt": "Microsoft Security’s November 2026 updates strengthen AI agent security, least privilege, threat protection, and exposure management. The post ​​​​What’s new in Microsoft Security: November 2026 appeared first on Microsoft Security Blog ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+      "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+      "date": "2026-11-05T16:48:36.000Z",
+      "excerpt": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "date": "2026-11-05T16:24:26.000Z",
+      "excerpt": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "date": "2026-11-05T16:12:46.000Z",
+      "excerpt": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Residential Proxy Traffic Traced to White House Network",
+      "link": "https://www.infosecurity-magazine.com/news/white-house-residential-proxy-exits/",
+      "date": "2026-11-05T16:00:00.000Z",
+      "excerpt": "White House network addresses were used as exits by 28 residential proxy services"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "Email threat landscape: Q3 2026 trends and insights",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+      "date": "2026-11-05T16:00:00.000Z",
+      "excerpt": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar business-service sender domains exposed…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Vulnerability Scans for Older Cisco IOS Vulnerability / Opt-Out Headers, (Thu, Nov 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33492",
+      "date": "2026-11-05T15:29:08.000Z",
+      "excerpt": "This morning, I was browsing our honeypot data for any new and existing PHP exploit attempts. Instead, I first ran into some GeoServer exploits, but found them to be too boring to write up. This Cisco IOS exploit attempt was a bit more interesting. Still nothing new. I suspect…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Zyxel Switch Patch Missed Flaw Behind Wave of Attacks",
+      "link": "https://www.infosecurity-magazine.com/news/zyxel-gs1900-patch-missed-flaw/",
+      "date": "2026-11-05T15:15:00.000Z",
+      "excerpt": "Zyxel’s June GS1900 patch did not block the exploit used against 996 switches, Binarly found"
+    },
+    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Google puts new limits on AI agents that hunt threats and fix vulnerabilities",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/google-cloud-ai-agents-security-controls/",
-      "date": "2026-11-05T11:02:43.000Z",
-      "excerpt": "Google Cloud is adding new controls to CodeMender, its AI tool for finding and fixing software vulnerabilities, allowing businesses to isolate attack simulations and target code scans more precisely. The updates let businesses verify vulnerabilities and simulate exploits in an…"
+      "title": "Cyberhaven launches Agentic Data Security to track and control AI data use",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/cyberhaven-agentic-data-security/",
+      "date": "2026-11-05T15:04:07.000Z",
+      "excerpt": "Cyberhaven has introduced Agentic Data Security (ADS), to help CISOs, data security teams, insider risk teams, and AI governance leaders say yes to AI agents without losing control of their data. Agentic Data Security shows security teams what every AI agent does with company…"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Closing the Identity Gap at the Service Desk",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+      "date": "2026-11-05T15:00:10.000Z",
+      "excerpt": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Rubrik hosts NAS backups in isolated, immutable vaults",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/rubrik-unstructured-data-protection/",
+      "date": "2026-11-05T14:48:20.000Z",
+      "excerpt": "Rubrik has announced Rubrik-Hosted Protection for On-Premise Unstructured Data. The offering is built on Rubrik’s Network Attached Storage (NAS) Cloud Direct service. Customers now have clean recovery for enterprise-scale NAS data without having to buy, build or manage backup…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+      "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+      "date": "2026-11-05T14:41:10.000Z",
+      "excerpt": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new tools are helping find…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Vercel ties login sessions to devices, rolls out AI security reviews in public beta",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/vercel-security-review-session-hijacking/",
+      "date": "2026-11-05T14:37:00.000Z",
+      "excerpt": "Vercel, the popular cloud platform for building and hosting websites and web applications, has announced the rollout of Device Bound Session Credentials (DBSC) and the launch of Vercel Security Review in public beta. Making stolen session cookies worthless Device Bound Session…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Arkose Labs expands Agent Trust Manager to govern agent sessions",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/arkose-agent-trust-manager/",
+      "date": "2026-11-05T14:33:02.000Z",
+      "excerpt": "Arkose Labs has expanded Arkose Agent Trust Manager to help businesses control agentic traffic. Companies can classify agent sessions, apply allow, monitor or block policies at each step of the customer journey, and track the same agent across multiple networks. The need is…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Box pairs agentic workflow plans with new threat protections",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/box-architect/",
+      "date": "2026-11-05T14:25:34.000Z",
+      "excerpt": "Box has announced new capabilities to transform how organizations put agents to work across their most critical business processes. Box unveiled Box Architect for autonomously building, managing, and optimizing agentic workflows, redefining how organizations deploy AI on their…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "India Warns of New AI-Driven Cyber-Attacks Targeting Financial and Crypto Businesses",
+      "link": "https://www.infosecurity-magazine.com/news/india-warns-ai-cyberattacks/",
+      "date": "2026-11-05T14:25:00.000Z",
+      "excerpt": "The Indian CERT said a new cyber malicious group tracked as ‘Crafty Flacon’ is using Chinese-made AI tools to attack fintech and crypto organizations"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Cyberattack on Norway’s aid agency may have swept up all user data",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/norad-grants-portal-breach/",
+      "date": "2026-11-05T13:56:49.000Z",
+      "excerpt": "The names and email addresses of 20,614 people registered on Norad’s Grants Portal may have ended up in the hands of attackers, Norway’s development aid agency has disclosed. Norad, short for the Norwegian Agency for Development Cooperation, works with partners around the world…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "PortSwigger’s Burp AT lets enterprises delegate pentests with defined limits",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/portswigger-burp-at-enterprises/",
+      "date": "2026-11-05T13:48:16.000Z",
+      "excerpt": "PortSwigger has announced the availability of Burp AT for enterprises, an agentic pentesting solution that helps security teams investigate important applications more deeply and more often. Burp AT combines specialist Burp tools, purpose-built pentesting skills developed with…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Sysdig AI Defense puts runtime guardrails on AI agents",
+      "link": "https://www.helpnetsecurity.com/2026/11/05/sysdig-ai-defense/",
+      "date": "2026-11-05T13:29:28.000Z",
+      "excerpt": "Sysdig has announced the general availability of Sysdig AI Defense, giving organizations tools to monitor and control AI agent activity across endpoints and cloud environments. The platform checks agent actions against company policies to allow them, hold them for user approval…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+      "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+      "date": "2026-11-05T13:22:12.000Z",
+      "excerpt": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+      "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+      "date": "2026-11-05T12:58:32.000Z",
+      "excerpt": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+      "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+      "date": "2026-11-05T12:33:49.000Z",
+      "excerpt": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek ."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+      "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+      "date": "2026-11-05T12:25:00.000Z",
+      "excerpt": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the system, whether attackers can…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+      "date": "2026-11-05T12:08:54.000Z",
+      "excerpt": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Chinese Nation-State Threat Activity Falls Sharply in Q2 and Q3 2026",
+      "link": "https://www.infosecurity-magazine.com/news/chinese-nation-activity-falls/",
+      "date": "2026-11-05T11:40:00.000Z",
+      "excerpt": "Trellix observed a 41.4% drop in China-nexus activity between April and September, which may reflect changing PRC strategic priorities"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Thursday, November 5th, 2026 https://isc.sans.edu/podcastdetail/10166, (Thu, Nov 5th)",
+      "link": "https://isc.sans.edu/diary/rss/33490",
+      "date": "2026-11-05T11:25:11.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+      "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+      "date": "2026-11-05T11:15:00.000Z",
+      "excerpt": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek ."
     },
     {
       "source": "SecurityWeek",
@@ -162,14 +410,6 @@
       "excerpt": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond individual security incidents,…"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-      "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-      "date": "2026-11-05T10:02:00.000Z",
-      "excerpt": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek ."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "The SOC Files 5: Ghost in the pipeline, or a fileless SharePoint breach by Storm-2603",
@@ -202,36 +442,12 @@
       "excerpt": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content, such as photos in iCloud Photos or files…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "OpenAI’s upcoming AI model built 948 working Linux root exploits in a single run",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/openai-linux-kernel-root-exploits/",
-      "date": "2026-11-05T09:05:06.000Z",
-      "excerpt": "An automated system running on an upcoming AI model turned hundreds of Linux kernel bugs into working exploits that give an ordinary user root access, and wrote a patch for each underlying flaw, OpenAI revealed in a new research post. Source:OpenAI The company’s Cyber team ran…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "A banking malware sample led researchers to an Android bug that can loop-crash phones",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/ghostmap-android-bug-research/",
-      "date": "2026-11-05T09:00:02.000Z",
-      "excerpt": "Bitdefender Labs researchers built an Android app that contains no executable code and requests no permissions, and installing it leaves a Pixel 10 in a crash loop that can take a factory reset to clear. The flaw, which Bitdefender calls GhostMap, comes from how Android reads…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
       "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
       "date": "2026-11-05T08:42:03.000Z",
       "excerpt": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in the country. Describing the…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Apple is bringing harmful content checks to iCloud link sharing with potential account penalties",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/apple-icloud-link-sharing-checks/",
-      "date": "2026-11-05T08:32:52.000Z",
-      "excerpt": "Apple will begin checking iCloud content shared using the “Anyone with the link” option for harmful material in iOS, iPadOS, macOS, and visionOS 27.3 or later. When sharing content stored in iCloud, users can choose “Share a Link” or “Send a Copy.” Those who choose “Share a…"
     },
     {
       "source": "The Hacker News",
@@ -242,30 +458,6 @@
       "excerpt": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management interface run commands on it without…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AI agent detection signals that still work when agents look human",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/zohaib-ahmed-resemble-ai-detecting-ai-agent-traffic/",
-      "date": "2026-11-05T06:45:07.000Z",
-      "excerpt": "Bots follow a script. AI agents work toward a goal and choose their own steps, which makes them harder to catch. In this Help Net Security interview, Zohaib Ahmed, CEO of Resemble AI explains how agents arrive as declared, undeclared or disguised traffic, and why binary bot…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Healthcare can’t govern the AI tools it hasn’t found yet",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/healthcare-ai-governance-patient-data/",
-      "date": "2026-11-05T06:11:25.000Z",
-      "excerpt": "Nearly nine in ten healthcare leaders say security or compliance staff always or usually review AI-written code that touches patient data before it goes live, and seven in ten have still found an AI-built tool handling that data without IT or security knowing, according to…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Companies are spending more on AI governance and getting less control",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/dnsfilter-shadow-ai-cost-report/",
-      "date": "2026-11-05T05:30:14.000Z",
-      "excerpt": "Companies are increasing their cybersecurity budgets, with AI security and governance the top priority for additional spending, followed by cloud security, according to DNSFilter’s The Cost of Shadow AI report. Some 74.5% of respondents reported a larger cybersecurity budget…"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
@@ -274,28 +466,12 @@
       "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerability in…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Most consumers aren’t ready to let AI agents shop unsupervised",
-      "link": "https://www.helpnetsecurity.com/2026/11/05/okta-ai-customer-experiences-report/",
-      "date": "2026-11-05T05:00:30.000Z",
-      "excerpt": "Customer control, account security and ease of use are influencing the adoption of AI agents that make purchases, book services and access personal information, according to Okta’s 2026 Customer Identity Trends Report. Consumers’ willingness to delegate depends on what an agent…"
-    },
-    {
       "source": "Krebs on Security",
       "sourceUrl": "https://krebsonsecurity.com/",
       "title": "Want to Rent an Internet Address at the White House?",
       "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
       "date": "2026-11-05T04:36:17.000Z",
       "excerpt": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is a Russian company whose founder's web…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-      "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-      "date": "2026-11-05T04:31:16.000Z",
-      "excerpt": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype identified and analyzed 2,308 candidate…"
     },
     {
       "source": "Graham Cluley",
@@ -308,18 +484,34 @@
     {
       "source": "The Record",
       "sourceUrl": "https://therecord.media/",
+      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
+      "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+      "date": "2026-11-05T00:00:00.000Z",
+      "excerpt": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
       "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
       "link": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
       "date": "2026-11-05T00:00:00.000Z",
       "excerpt": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations."
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-      "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "The State of Ransomware in Financial Services 2026",
+      "link": "https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026",
       "date": "2026-11-05T00:00:00.000Z",
-      "excerpt": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a cyberattack."
+      "excerpt": "Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "SIEM or XDR? Yes",
+      "link": "https://www.sophos.com/en-us/blog/siem-or-xdr-yes",
+      "date": "2026-11-05T00:00:00.000Z",
+      "excerpt": "Same logs, two places, overlapping outcomes. It's time to rethink the SIEM vs. XDR question."
     },
     {
       "source": "CyberScoop",
@@ -402,52 +594,12 @@
       "excerpt": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]"
     },
     {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-      "link": "https://therecord.media/french-bank-confirms-cyber-heist",
-      "date": "2026-11-04T18:58:00.000Z",
-      "excerpt": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-      "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-      "date": "2026-11-04T18:02:56.000Z",
-      "excerpt": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]"
-    },
-    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "The Hard Problem of Jealousy and the Easy Problem of Consciousness",
       "link": "https://danielmiessler.com/blog/hard-problem-of-jealousy?utm_source=rss&utm_medium=feed&utm_campaign=website",
       "date": "2026-11-04T17:30:00.000Z",
-      "excerpt": "A robot head cut open: its eyes feed a projector that throws a flame onto a screen, and one person sits in a chair watching/images/hard-problem-of-jealousy.webp/images/hard-problem-of-jealousy.webp One of the most discussed problems in philosophy is the nature of consciousness,…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-      "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-      "date": "2026-11-04T17:00:46.000Z",
-      "excerpt": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's developers published on November…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-      "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-      "date": "2026-11-04T17:00:38.000Z",
-      "excerpt": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below - CVE-2026-109593 (CVSS score: 9.1) - An…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-      "date": "2026-11-04T16:58:46.000Z",
-      "excerpt": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]"
+      "excerpt": "A robot head cut open: its eyes feed a projector that throws a flame onto a screen, and one person sits in a chair watching/images/hard-problem-of-jealousy.webp/images/hard-problem-of-jealousy.webp 📃 I intent to massively simplify this argument soon. It's ok, but far too…"
     },
     {
       "source": "Dark Reading",
@@ -466,22 +618,6 @@
       "excerpt": "Techniques included laptop infections, compromised internal tooling, and fake job interviews."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "mSecure password manager hack prompts password reset warnings",
-      "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-      "date": "2026-11-04T16:00:18.000Z",
-      "excerpt": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-      "date": "2026-11-04T15:00:10.000Z",
-      "excerpt": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "China-Aligned Group Abuses Sogou Input Method to Deliver Malware",
@@ -490,36 +626,12 @@
       "excerpt": "SlippyNunchucks used DNS hijacking to turn Sogou brand promotions into a malware channel"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-      "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-      "date": "2026-11-04T14:34:44.000Z",
-      "excerpt": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-      "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-      "date": "2026-11-04T14:24:54.000Z",
-      "excerpt": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek ."
-    },
-    {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
       "title": "Incidents Move Too Fast for Pen & Paper",
       "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
       "date": "2026-11-04T14:17:00.000Z",
       "excerpt": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-      "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-      "date": "2026-11-04T14:09:20.000Z",
-      "excerpt": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -536,46 +648,6 @@
       "link": "https://isc.sans.edu/diary/rss/33488",
       "date": "2026-11-04T13:24:13.000Z",
       "excerpt": "One of the early web application vulnerabilities I remember was CVE-2000-0411 [CVE]. This was a simple vulnerability in a CGI-bin script used to send e-mail. The vulnerability was pretty straightforward: Adding additional parameters to the URL leaked environment variables. Other…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "France Blood Service Cyber-Attack Sends Blood Storage Temperatures to 110°C",
-      "link": "https://www.infosecurity-magazine.com/news/france-blood-service-cyberattack/",
-      "date": "2026-11-04T12:52:00.000Z",
-      "excerpt": "A supplier of the French National Blood Service was hit by a cyber-attack in which hackers turned cold rooms hosting blood samples up to 110°C (230°F)"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-      "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-      "date": "2026-11-04T12:43:20.000Z",
-      "excerpt": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "3AM Ransomware Used Human-AI Hybrid Tactics in UK School Estate Compromise",
-      "link": "https://www.infosecurity-magazine.com/news/3am-ransomware-hybrid-ai-uk-school/",
-      "date": "2026-11-04T12:00:00.000Z",
-      "excerpt": "Bitdefender highlighted a unique human-AI approach during a September attack on a UK school estate, which resulted in financial data being exfiltrated"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Police Seize 100+ Servers After Four-Year Investment Fraud Probe",
-      "link": "https://www.infosecurity-magazine.com/news/police-100-servers-fouryear/",
-      "date": "2026-11-04T11:02:00.000Z",
-      "excerpt": "A German-led coalition of law enforcers has intensified efforts to strike at a €4m investment fraud scheme"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Fake Interview of Software Engineer Led to Binance Mega-Heist",
-      "link": "https://www.infosecurity-magazine.com/news/fake-interview-software-engineer/",
-      "date": "2026-11-04T09:25:00.000Z",
-      "excerpt": "Binance has revealed details of how North Korean hackers stole $6.4bn theft of crypto assets"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -612,18 +684,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "Sophos Firewall v23 is now available",
-      "link": "https://www.sophos.com/en-us/blog/sophos-firewall-v23-now-available",
-      "date": "2026-11-04T00:00:00.000Z",
-      "excerpt": "Delivering 30 of your top-requested features"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "What happens when a fake coding test reaches a security company?",
       "link": "https://www.sophos.com/en-us/blog/fake-coding-test-reaches-security-company",
       "date": "2026-11-04T00:00:00.000Z",
       "excerpt": "Fake job interviews are an established way to target developers"
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "Sophos Firewall v23 is now available",
+      "link": "https://www.sophos.com/en-us/blog/sophos-firewall-v23-now-available",
+      "date": "2026-11-04T00:00:00.000Z",
+      "excerpt": "Delivering 30 of your top-requested features"
     },
     {
       "source": "Dark Reading",
@@ -714,28 +786,12 @@
       "excerpt": "CrowdStrike is extending its platform to watch, test and explain autonomous AI agents, as enterprises face behavior-based risks that conventional security tools cannot catch. The post CrowdStrike moves to acquire Fiddler and Dreadnode, adding AI observability and testing to its…"
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
-      "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
-      "date": "2026-11-03T15:38:20.000Z",
-      "excerpt": "Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk."
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "AIs Hacking the Law",
       "link": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
       "date": "2026-11-03T12:01:00.000Z",
       "excerpt": "In both a 2021 essay and my 2022 book, A Hacker’s Mind , I talk about AIs finding vulnerabilities and exploits—hacking—the legal system. Here’s some demonstrations of this from Germany: Legal systems encode the foundations of social order in natural language. Similar to computer…"
-    },
-    {
-      "source": "CyberScoop",
-      "sourceUrl": "https://cyberscoop.com/",
-      "title": "CISA’s new strategy runs into America’s blind trust problem",
-      "link": "https://cyberscoop.com/cisa-2030-strategy-operational-technology-blind-trust-op-ed/",
-      "date": "2026-11-03T11:00:00.000Z",
-      "excerpt": "Persistent credentials and forgotten software approvals leave essential operational networks vulnerable under CISA’s latest cybersecurity roadmap. The post CISA’s new strategy runs into America’s blind trust problem appeared first on CyberScoop ."
     },
     {
       "source": "Securelist",
@@ -834,22 +890,6 @@
       "excerpt": "By pure timing coincidence, the Proton CEO's AI @ Proton, Engineering Manifesto made headlines around the same time as this week's video. The guy's management style and choice of language have really rubbed a lot of people up the wrong way, and deservedly so, IMHO."
     },
     {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Wireshark 5.0.0rc1 Release, (Sat, Oct 31st)",
-      "link": "https://isc.sans.edu/diary/rss/33476",
-      "date": "2026-10-31T10:52:53.000Z",
-      "excerpt": "Wireshark Release Candidate 5.0.0 was published: soon we can expect a new major version of Wireshark."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "YARA-X 1.22.1 Release, (Sat, Oct 31st)",
-      "link": "https://isc.sans.edu/diary/rss/33474",
-      "date": "2026-10-31T10:48:17.000Z",
-      "excerpt": "YARA-X&#x26;#39;s 1.22.1 is a bugfix version, it brings 2 bugfixes."
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
@@ -872,46 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html",
       "date": "2026-10-30T21:04:36.000Z",
       "excerpt": "Neat video : The sighting, announced September 2, marks the first time anyone has spotted a live bigfin squid, which belongs to the Magnapinna genus, in the northeastern Pacific Ocean. As usual, you can also use this squid post to talk about the security stories in the news that…"
-    },
-    {
-      "source": "Daniel Miessler",
-      "sourceUrl": "https://danielmiessler.com/",
-      "title": "Your Energy Level Changes How You See the World",
-      "link": "https://danielmiessler.com/blog/your-energy-changes-how-you-see-the-world?utm_source=rss&utm_medium=feed&utm_campaign=website",
-      "date": "2026-10-30T20:00:00.000Z",
-      "excerpt": "A slumped figure sits beside a dim ember in the deep purple shadow of a stone tower, while the same figure climbs its lit face holding a lantern high/images/energy-changes-the-frames.webp/images/energy-changes-the-frames.webp I think so much of winning at life comes down to…"
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
-      "date": "2026-10-30T16:11:44.000Z",
-      "excerpt": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths appeared first on Microsoft…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Bloatware in Aftermarket Auto Parts",
-      "link": "https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html",
-      "date": "2026-10-30T15:20:02.000Z",
-      "excerpt": "This story is interesting: One Civic owner purchased a cheap aftermarket head unit off Amazon, and decided to have Claude work its magic on it, like it would a smart TV. What was reportedly discovered isn’t surprising, but is worth knowing about. Among the pre-installed…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
-      "link": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-      "date": "2026-10-30T13:46:39.000Z",
-      "excerpt": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
-    },
-    {
-      "source": "Graham Cluley",
-      "sourceUrl": "https://grahamcluley.com/",
-      "title": "Hackers leak personnel data of 41,000+ Homeland Security staff, including ICE and border agents",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hackers-leak-41-000-dhs-staff-data",
-      "date": "2026-10-30T10:33:50.000Z",
-      "excerpt": "The US Department of Homeland Security has had the details of more than 41,000 staff, including ICE and CBP agents, published online. Not ideal for an organisation with \"Security\" in its name. Read more in my article on the Hot for Security blog."
     }
   ]
 }
