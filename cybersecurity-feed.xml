@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 04 Nov 2026 21:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:35:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Smashing Security podcast #491: How AI agents are spooking the banks</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-491/</link>
+      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-491/</guid>
+      <pubDate>Thu, 05 Nov 2026 00:15:11 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>Bank of America has a message for its customers: please, for the love of God, stop handing your banking passwords to your AI assistant. And if your robot does something daft with your money? That&#39;s your problem, not theirs. Meanwhile, a company that promised to rescue ransomware… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>What Democratic control of Congress means for cybersecurity</title>
+      <link>https://cyberscoop.com/democrats-congress-cybersecurity-cisa-ai-priorities/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/democrats-congress-cybersecurity-cisa-ai-priorities/</guid>
+      <pubDate>Wed, 04 Nov 2026 23:05:04 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>There’s a lame-duck session before Dems take over, but the leaders of the homeland security panels are already teeing up their agendas. The post What Democratic control of Congress means for cybersecurity appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Hackers exploited iOS and Android flaws to infect phones</title>
+      <link>https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/</guid>
+      <pubDate>Wed, 04 Nov 2026 22:26:49 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>Researchers say group may have been Kremlin-sponsored in search of diplomatic targets. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>Critical Rails Bug Threatens to Derail Vulnerable Servers</title>
+      <link>https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers</link>
+      <guid isPermaLink="false">https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers</guid>
+      <pubDate>Wed, 04 Nov 2026 21:48:18 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement. (via Dark Reading)</description>
+    </item>
     <item>
       <title>Vercel rolls out new protection against stolen session cookie attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</link>
@@ -552,14 +584,6 @@
       <description>Practical guidance on safer search, stronger login security, better executive protection, and other habits can reduce enterprise risk. (via Dark Reading)</description>
     </item>
     <item>
-      <title>LLMjacking Emerges as Thriving Cybercriminal Enterprise</title>
-      <link>https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise</guid>
-      <pubDate>Tue, 03 Nov 2026 15:35:50 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Russia-Aligned Gorbag Targets Ukraine for Intelligence</title>
       <link>https://www.infosecurity-magazine.com/news/russia-gorbag-targets-ukraine/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/russia-gorbag-targets-ukraine/</guid>
@@ -622,14 +646,6 @@
       <pubDate>Mon, 02 Nov 2026 23:00:45 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Google shuts down global botnet running on certified Android devices</title>
-      <link>https://cyberscoop.com/google-disrupts-xcpe-botnet-videostrong-android-devices/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/google-disrupts-xcpe-botnet-videostrong-android-devices/</guid>
-      <pubDate>Mon, 02 Nov 2026 21:58:24 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Videostrong sold TV set-top boxes and other devices with pre-installed malware. The yearslong operation evaded Google’s security tests and established a botnet for cybercriminals. The post Google shuts down global botnet running on certified Android devices appeared first on… (via CyberScoop)</description>
     </item>
     <item>
       <title>What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</title>
@@ -790,22 +806,6 @@
       <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>via Sophos News</description>
-    </item>
-    <item>
-      <title>Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)</title>
-      <link>https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/</guid>
-      <pubDate>Thu, 29 Oct 2026 18:00:34 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29) appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>BYOD cyberattack diverts ambulances and cancels classes at University of New Mexico health center</title>
-      <link>https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center</link>
-      <guid isPermaLink="false">https://www.fortra.com/blog/byod-cyberattack-diverts-ambulances-and-cancels-classes-university-new-mexico-health-center</guid>
-      <pubDate>Thu, 29 Oct 2026 17:01:24 GMT</pubDate>
-      <source url="https://grahamcluley.com/">Graham Cluley</source>
-      <description>Ambulances were diverted, surgeries cancelled, and medical students sent home from classes after a ransomware group attacked the University of New Mexico&#39;s Health Sciences Center (HSC) this week. Read more in my article on the Fortra blog. (via Graham Cluley)</description>
     </item>
   </channel>
 </rss>
