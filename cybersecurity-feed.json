@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T08:57:12.543Z",
+  "updated": "2026-11-07T15:46:23.770Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers pull off $133 million French bank heist via service provider",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+      "date": "2026-11-07T15:25:35.000Z",
+      "excerpt": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+      "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+      "date": "2026-11-07T14:10:19.000Z",
+      "excerpt": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate…"
+    },
+    {
+      "source": "Ars Technica Security",
+      "sourceUrl": "https://arstechnica.com/security/",
+      "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+      "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+      "date": "2026-11-07T11:00:34.000Z",
+      "excerpt": "Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "date": "2026-11-07T10:16:23.000Z",
+      "excerpt": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek ."
+    },
     {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
@@ -274,14 +306,6 @@
       "excerpt": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole),…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-      "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-      "date": "2026-11-06T15:00:10.000Z",
-      "excerpt": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]"
-    },
-    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
@@ -312,14 +336,6 @@
       "link": "https://therecord.media/ceo-spoofing-scammers-charged",
       "date": "2026-11-06T14:30:00.000Z",
       "excerpt": "The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations."
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Chainalysis says breach exposed credentials for all customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-      "date": "2026-11-06T14:17:07.000Z",
-      "excerpt": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -384,14 +400,6 @@
       "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
       "date": "2026-11-06T12:16:13.000Z",
       "excerpt": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-      "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-      "date": "2026-11-06T12:07:42.000Z",
-      "excerpt": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek ."
     },
     {
       "source": "The Hacker News",
@@ -708,18 +716,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "The State of Ransomware in Financial Services 2026",
-      "link": "https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026",
-      "date": "2026-11-05T00:00:00.000Z",
-      "excerpt": "Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year."
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
       "title": "SIEM or XDR? Yes",
       "link": "https://www.sophos.com/en-us/blog/siem-or-xdr-yes",
       "date": "2026-11-05T00:00:00.000Z",
       "excerpt": "Same logs, two places, overlapping outcomes. It's time to rethink the SIEM vs. XDR question."
+    },
+    {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "The State of Ransomware in Financial Services 2026",
+      "link": "https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026",
+      "date": "2026-11-05T00:00:00.000Z",
+      "excerpt": "Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year."
     },
     {
       "source": "CyberScoop",
@@ -904,14 +912,6 @@
       "link": "https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/",
       "date": "2026-11-02T23:00:45.000Z",
       "excerpt": "Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 ."
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
-      "date": "2026-11-02T20:20:59.000Z",
-      "excerpt": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis…"
     }
   ]
 }

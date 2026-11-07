@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 07 Nov 2026 08:57:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 15:46:23 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Hackers pull off $133 million French bank heist via service provider</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/</guid>
+      <pubDate>Sat, 07 Nov 2026 15:25:35 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands</title>
+      <link>https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/</guid>
+      <pubDate>Sat, 07 Nov 2026 14:10:19 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affiliate networks to generate… (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>British soldier ignored order to pull his SIM card, then got blackmailed</title>
+      <link>https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/</guid>
+      <pubDate>Sat, 07 Nov 2026 11:00:34 GMT</pubDate>
+      <source url="https://arstechnica.com/security/">Ars Technica Security</source>
+      <description>Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed. (via Ars Technica Security)</description>
+    </item>
+    <item>
+      <title>SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins</title>
+      <link>https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</guid>
+      <pubDate>Sat, 07 Nov 2026 10:16:23 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>Claude Code&#39;s “Don&#39;t Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub</title>
       <link>https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html</link>
@@ -168,14 +200,6 @@
       <description>Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and codenamed SSHole (or *sshole),… (via The Hacker News)</description>
     </item>
     <item>
-      <title>IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It</title>
-      <link>https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/</guid>
-      <pubDate>Fri, 06 Nov 2026 15:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits</title>
       <link>https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html</guid>
@@ -206,14 +230,6 @@
       <pubDate>Fri, 06 Nov 2026 14:30:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations. (via The Record)</description>
-    </item>
-    <item>
-      <title>Chainalysis says breach exposed credentials for all customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/</guid>
-      <pubDate>Fri, 06 Nov 2026 14:17:07 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>DigiCert Data Breach Impacts Business Customer Information</title>
@@ -278,14 +294,6 @@
       <pubDate>Fri, 06 Nov 2026 12:16:13 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass</title>
-      <link>https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</guid>
-      <pubDate>Fri, 06 Nov 2026 12:07:42 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Microsoft Paint RCE Fix Now Available, but Windows Update Won&#39;t Deliver It</title>
@@ -600,20 +608,20 @@
       <description>Bank of America has a message for its customers: please, for the love of God, stop handing your banking passwords to your AI assistant. And if your robot does something daft with your money? That&#39;s your problem, not theirs. Meanwhile, a company that promised to rescue ransomware… (via Graham Cluley)</description>
     </item>
     <item>
-      <title>The State of Ransomware in Financial Services 2026</title>
-      <link>https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year. (via Sophos News)</description>
-    </item>
-    <item>
       <title>SIEM or XDR? Yes</title>
       <link>https://www.sophos.com/en-us/blog/siem-or-xdr-yes</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/siem-or-xdr-yes</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Same logs, two places, overlapping outcomes. It&#39;s time to rethink the SIEM vs. XDR question. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>The State of Ransomware in Financial Services 2026</title>
+      <link>https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-state-of-ransomware-in-financial-services-2026</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Insights from 177 IT and cybersecurity leaders across the financial services sector in 17 countries whose organizations were hit by ransomware in the past year. (via Sophos News)</description>
     </item>
     <item>
       <title>What Democratic control of Congress means for cybersecurity</title>
@@ -798,14 +806,6 @@
       <pubDate>Mon, 02 Nov 2026 23:00:45 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/</guid>
-      <pubDate>Mon, 02 Nov 2026 20:20:59 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis… (via Microsoft Security Blog)</description>
     </item>
   </channel>
 </rss>
