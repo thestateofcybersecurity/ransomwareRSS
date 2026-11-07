@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T02:03:20.954Z",
+  "updated": "2026-11-07T08:57:12.543Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+      "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+      "date": "2026-11-07T06:44:17.000Z",
+      "excerpt": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save the command, word-for-word,…"
+    },
+    {
+      "source": "Microsoft Security Blog",
+      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
+      "title": "ARTEX abuse expands as cybercriminals target financial sector",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+      "date": "2026-11-07T02:44:34.000Z",
+      "excerpt": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector appeared first on Microsoft Security…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -496,14 +512,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/06/autonomous-ai-oversight-governance/",
       "date": "2026-11-06T06:00:03.000Z",
       "excerpt": "The AI running inside large companies has stopped waiting for permission. Across five categories of AI, from chatbots to process automation, more than half of 3,600 business decision-makers say the systems their teams use can act within defined rules without routine review, or…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-      "date": "2026-11-06T05:58:54.000Z",
-      "excerpt": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers send via web requests, and those…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -904,14 +912,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/",
       "date": "2026-11-02T20:20:59.000Z",
       "excerpt": "Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities have in common: A data-driven analysis…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Mutipath TCP: Use and Detection, (Mon, Nov 2nd)",
-      "link": "https://isc.sans.edu/diary/rss/33482",
-      "date": "2026-11-02T14:52:05.000Z",
-      "excerpt": "Last week, an often-ignored&#x26;#xc2;&#x26;#xa0;TCP option, introduced in 2020, made the news due to a new vulnerability in Linux&#x26;#39;s implementation (RFC&#x26;#xc2;&#x26;#xa0;8684, &#x26;#xc2;&#x26;#xa0;CVE-2026-98432)"
     }
   ]
 }
