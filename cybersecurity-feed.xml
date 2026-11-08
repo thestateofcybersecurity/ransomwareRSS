@@ -5,8 +5,24 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 08 Nov 2026 13:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:54:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)</title>
+      <link>https://isc.sans.edu/diary/rss/33498</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33498</guid>
+      <pubDate>Sun, 08 Nov 2026 15:44:33 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>Our honeypots use &quot;Cowrie&quot; to collect SSH data. With the emergence of the &quot;sshole&quot; vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>Iris Ohyama data cloud breach exposes info of 7.7 million customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/</guid>
+      <pubDate>Sun, 08 Nov 2026 15:43:08 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company used. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Brava Security Emerges From Stealth With $15 Million in Funding</title>
       <link>https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/</link>
@@ -214,14 +230,6 @@
       <pubDate>Fri, 06 Nov 2026 16:08:38 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the site&#39;s old, unpatched code, so an… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Veeam warns of Software Appliance boot failures on AMD EPYC hosts</title>
-      <link>https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/</guid>
-      <pubDate>Fri, 06 Nov 2026 15:25:31 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot</title>
@@ -798,14 +806,6 @@
       <pubDate>Tue, 03 Nov 2026 10:00:07 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>We explain how Kaspersky Industrial CyberSecurity for Networks uses Machine Learning Event Processor (MLEP) technology to help take inventory of assets and detect anomalies in industrial networks. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</title>
-      <link>https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/</guid>
-      <pubDate>Tue, 03 Nov 2026 02:24:31 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user&#39;s Internet connection out to strangers and conducts advertising fraud. Experts… (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>
