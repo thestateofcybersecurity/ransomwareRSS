@@ -5,8 +5,256 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 12 Nov 2026 03:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:58:15 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Microsoft: Recent Windows updates cause SQL Server performance issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/</guid>
+      <pubDate>Thu, 12 Nov 2026 12:11:11 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs</title>
+      <link>https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:09:14 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Another Way Police Are Locating People from Their Smartphones</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/11/another-way-police-are-locating-people-from-their-smartphones.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:02:58 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>Penlink’s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It’s sold to the police. The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and… (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them</title>
+      <link>https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html</guid>
+      <pubDate>Thu, 12 Nov 2026 12:02:51 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)</title>
+      <link>https://isc.sans.edu/diary/rss/33514</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33514</guid>
+      <pubDate>Thu, 12 Nov 2026 11:56:24 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0, which was released at the end… (via SANS Internet Storm Center)</description>
+    </item>
+    <item>
+      <title>New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access</title>
+      <link>https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html</guid>
+      <pubDate>Thu, 12 Nov 2026 11:51:43 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>N-able on Thursday said it&#39;s investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. &quot;Based on our initial review, the server issue described depends on a non-default configuration in… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign</title>
+      <link>https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html</guid>
+      <pubDate>Thu, 12 Nov 2026 11:51:31 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat Research team at Material Security… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution</title>
+      <link>https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html</guid>
+      <pubDate>Thu, 12 Nov 2026 11:33:15 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 out of a maximum of 10.0. It… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Notion Customer Data Compromised in Fireworks AI Hack</title>
+      <link>https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/</guid>
+      <pubDate>Thu, 12 Nov 2026 11:08:52 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft Entra adds a seven-day safeguard against irreversible identity deletion</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/microsoft-entra-hard-deletion-protection/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/microsoft-entra-hard-deletion-protection/</guid>
+      <pubDate>Thu, 12 Nov 2026 11:04:24 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Microsoft Entra’s Hard Deletion Protection, now in preview, gives administrators a seven-day window to recover selected identities before they can be permanently erased. The feature is designed to help organizations respond to accidental or malicious deletion of critical… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Stolen Claude API keys can turn Claude Code into a remote-controlled implant</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/stolen-claude-api-keys-remote-controlled-implant/</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:21 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Darktrace researchers turned Claude Code into a remote-controlled implant in a lab test, steering the coding agent through the memory stores feature of Anthropic’s Claude platform and pulling a 1 GB file out through the Claude Files API. Once the agent was set up, every job and… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Inside an AI Attack Against a US Retailer</title>
+      <link>https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Security Teams Must Shift from Patching to Mitigation in the AI Era</title>
+      <link>https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/shift-patching-mitigation-ai-era/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:45:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Hackers Deploy Malware in Fresh ScreenConnect Campaign</title>
+      <link>https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:39:34 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Microsoft confirms Windows security updates installation issues</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:24:07 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Photos: IRISSCON 2026 cybercrime conference</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/irisscon-2026-photos/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/irisscon-2026-photos/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:16:07 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>IRISSCON 2026, the annual cybercrime conference organized by IRISSCERT, took place at the Aviva Stadium in Dublin on November 11. The all-day event gives attendees a look at the cyber threats businesses are facing right now, along with practical advice on how organizations can… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Transcending the trust boundaries: how a cloud pentest works</title>
+      <link>https://securelist.com/how-a-cloud-pentest-works/121921/</link>
+      <guid isPermaLink="false">https://securelist.com/how-a-cloud-pentest-works/121921/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:00:53 GMT</pubDate>
+      <source url="https://securelist.com/">Securelist</source>
+      <description>This is the first article in a series on cloud penetration testing. We&#39;ll cover the three cloud layers (External, Overlay, and Underlay), common architectures (OpenStack and Kubernetes), typical attack chains, and real-world incidents. (via Securelist)</description>
+    </item>
+    <item>
+      <title>NCSC Launches Cyber Adversary Testing to Boost Resilience</title>
+      <link>https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/</guid>
+      <pubDate>Thu, 12 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Hackers Target N-central Zero-Days as N-able Rushes Patches</title>
+      <link>https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:39:55 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Hackers plant GSocket on Linux servers for persistent access</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:38:00 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>AWS Emulator: Open-source tool for testing AWS apps locally, built by autonomous AI agents</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/aws-ai-agents-built-emulator/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/aws-ai-agents-built-emulator/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:30:46 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Amazon Web Services has released AWS Emulator, a free tool that simulates AWS services on a developer’s laptop, a development server or in a continuous integration (CI) pipeline. The company says autonomous AI agents wrote the tool entirely, with no code written or reviewed by… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover</title>
+      <link>https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html</guid>
+      <pubDate>Thu, 12 Nov 2026 09:25:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some recent changes. MongoDB, the… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Check your GitHub repos: A secret stealer hit tens of thousands of them</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/wfx-loot-github-actions-secret-stealer/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:24:32 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>A threat actor using stolen GitHub credentials has pushed a credential-stealing payload into tens of thousands of repositories since November 10. In more than 1,800 of them, the malware ran and shipped GitHub Actions secrets and cloud credentials to the attacker. Aikido spotted… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Critical Red Hat Quay Vulnerability Could Expose Private Container Images</title>
+      <link>https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/</guid>
+      <pubDate>Thu, 12 Nov 2026 09:23:21 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Maersk Reveals Data Breach as Extortion Group Demands $5m</title>
+      <link>https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/maersk-data-breach-extortion-group/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:49:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Maersk has revealed a threat actor extracted data from one of its legacy systems (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>Maersk Confirms Data Theft Amid $5 Million Extortion Attempt</title>
+      <link>https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:38:47 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>.NET 11 security changes target the software supply chain</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/net-11-security-changes/</guid>
+      <pubDate>Thu, 12 Nov 2026 08:23:33 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Microsoft has released .NET 11, a Standard Term Support (STS) release that will receive two years of support. .NET 10 is still the Long Term Support (LTS) option. The release covers C# 15, ASP.NET Core, .NET MAUI, and Windows development. Several of the changes affect software… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections&#39; Data</title>
+      <link>https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html</guid>
+      <pubDate>Thu, 12 Nov 2026 08:20:37 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime&#39;s built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including responses intended for other… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>GitHub Agentic Autofix and the question of who owns a bad AI patch</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/marcelo-oliveira-github-agentic-autofix/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/marcelo-oliveira-github-agentic-autofix/</guid>
+      <pubDate>Thu, 12 Nov 2026 07:00:38 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security interview, Marcelo Oliveira, VP of Product Management at GitHub, talks about who is accountable when an AI-generated patch fixes one flaw and introduces another. He explains how Agentic Autofix re-runs detection engines and project tests, and what a… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories</title>
+      <link>https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html</guid>
+      <pubDate>Thu, 12 Nov 2026 06:42:47 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to take the secrets and cloud credentials that… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Dagster: Open-source cloud-native data pipeline orchestrator</title>
+      <link>https://www.helpnetsecurity.com/2026/11/12/dagster-open-source-cloud-native-data-pipeline-orchestrator/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/12/dagster-open-source-cloud-native-data-pipeline-orchestrator/</guid>
+      <pubDate>Thu, 12 Nov 2026 06:30:08 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Dagster is an open source orchestrator for data pipelines. It decides what runs, in what order, and when. It also tracks how the tables, datasets, machine learning models, and reports it manages connect to the data they came from. When a source table goes bad, the tables built… (via Help Net Security)</description>
+    </item>
     <item>
       <title>ISC Stormcast For Thursday, November 12th, 2026 https://isc.sans.edu/podcastdetail/10176, (Thu, Nov 12th)</title>
       <link>https://isc.sans.edu/diary/rss/33512</link>
@@ -176,14 +424,6 @@
       <description>Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation</title>
-      <link>https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html</guid>
-      <pubDate>Wed, 11 Nov 2026 16:12:46 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems. The vulnerabilities are listed below - CVE-2026-108186 (CVSS score: 9.6) - An improper… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Suspected Chinese Malware Supplier Tied to Three Hacking Campaigns</title>
       <link>https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/chinese-malware-tied-three-hacking/</guid>
@@ -200,52 +440,12 @@
       <description>A critical authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets</title>
-      <link>https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html</guid>
-      <pubDate>Wed, 11 Nov 2026 15:34:27 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments. &quot;In several recently observed… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Hackers use AntiFox AI agents in AWS credential-theft attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:12:59 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>eBPF Rootkits: Why Underground Actors Are Taking Notice</title>
-      <link>https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/</guid>
-      <pubDate>Wed, 11 Nov 2026 15:01:11 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>The XG Files: Falcon C2 Flying Under The (Browser) Radar</title>
       <link>https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/</link>
       <guid isPermaLink="false">https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/</guid>
       <pubDate>Wed, 11 Nov 2026 15:00:23 GMT</pubDate>
       <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
       <description>We uncover Falcon C2, a browser-based threat framework targeting governments via malicious scripts, extensions, and the Antino implant. The post The XG Files: Falcon C2 Flying Under The (Browser) Radar appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>Kai extends Autonomous Defense Platform visibility to internet-facing assets</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/kai-autonomous-defense-platform/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/kai-autonomous-defense-platform/</guid>
-      <pubDate>Wed, 11 Nov 2026 14:55:27 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Kai has announced External Attack Surface Management (EASM), now available on the Kai Autonomous Defense Platform. The company also launched Kai Labs, an expanded research team focused on the hardest open problems where AI meets security. Most exposure management programs only… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Git fixes six vulnerabilities, including code execution during recursive clones</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/git-project-security-updates/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/git-project-security-updates/</guid>
-      <pubDate>Wed, 11 Nov 2026 14:26:12 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>The Git project has released security updates addressing six vulnerabilities that could allow attackers to execute code, write to unintended files or cause memory corruption when Git processes malicious repositories or other specially prepared input. Code execution during… (via Help Net Security)</description>
     </item>
     <item>
       <title>Google DeepMind just mathematically verified key parts of Signal</title>
@@ -256,36 +456,12 @@
       <description>The four-week project hints that AI could make formal verification far more practical. (via Ars Technica Security)</description>
     </item>
     <item>
-      <title>Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits</title>
-      <link>https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html</guid>
-      <pubDate>Wed, 11 Nov 2026 14:01:00 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet&#39;s CyOps and Research teams said they identified the suspicious activity in October 2026 against several… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Asus, Zoom Release Security Patches</title>
       <link>https://www.securityweek.com/asus-zoom-release-security-patches/</link>
       <guid isPermaLink="false">https://www.securityweek.com/asus-zoom-release-security-patches/</guid>
       <pubDate>Wed, 11 Nov 2026 13:58:38 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Embed Security lets analysts teach its AI SOC Platform how to investigate</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/embed-security-expands-ai-soc-platform/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/embed-security-expands-ai-soc-platform/</guid>
-      <pubDate>Wed, 11 Nov 2026 13:54:12 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Embed Security announced new capabilities that let security teams teach Embed how they investigate, what matters in their environment, and how to improve their detections. With customer-built iSteps, expanded NoiseIQ Memories, and Detection Engineering, organizations can extend… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities</title>
-      <link>https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/</guid>
-      <pubDate>Wed, 11 Nov 2026 13:37:19 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>Poland shuts down government services platform ePUAP following cyberattack</title>
@@ -304,92 +480,12 @@
       <description>The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses. (via The Record)</description>
     </item>
     <item>
-      <title>N-able releases security hotfixes for zero-day vulnerabilities</title>
-      <link>https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:32:27 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices</title>
-      <link>https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:24:33 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords</title>
-      <link>https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html</guid>
-      <pubDate>Wed, 11 Nov 2026 12:19:40 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the company that makes the Grok AI assistant. Most… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Fortinet Patches Nearly 100 Vulnerabilities</title>
-      <link>https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:10:14 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Three People Arrested for AI-Enhanced Impersonation Fraud</title>
       <link>https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html</guid>
       <pubDate>Wed, 11 Nov 2026 12:05:34 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>It’s hard to believe how lucrative this crime can be: According to a press release from the United States attorney’s office for the southern district of New York, three men ­ Jacob Soall, Sharon Hazan, and Guy Sheetrit ­ were arrested for using AI to alter and impersonate the… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>We Built An Agent That Broke All of Our Security Rules. Here&#39;s What We Learned.</title>
-      <link>https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html</guid>
-      <pubDate>Wed, 11 Nov 2026 12:01:59 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that broke all three by default.… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Rubrik enhances DevOps Protection to preserve legitimate work during recovery</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/rubrik-devops-protection/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/rubrik-devops-protection/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:01:53 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Rubrik has announced cyber recovery capabilities for DevOps platforms Microsoft Azure DevOps and GitHub. With built-in anomaly detection, blast radius investigation, and surgical recovery, organizations will be able to detect suspicious activity on their code, instantly scope… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise</title>
-      <link>https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html</guid>
-      <pubDate>Wed, 11 Nov 2026 12:00:53 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The in-house Python script behind eMudhra&#39;s October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key, which the company uses to sign the… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Bay Raises $50 Million to Control What Enterprise AI Agents Can Do</title>
-      <link>https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/</guid>
-      <pubDate>Wed, 11 Nov 2026 11:30:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks</title>
-      <link>https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/</guid>
-      <pubDate>Wed, 11 Nov 2026 11:16:40 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Microsoft researchers demonstrate hidden backdoor technique for AI agents</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/microsoft-hidden-ai-backdoors-lazarus/</guid>
-      <pubDate>Wed, 11 Nov 2026 10:55:54 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Microsoft researchers have demonstrated how small changes to an AI model can implant a hidden backdoor, causing an agent to execute an attacker’s command when a specific trigger appears. The technique, called Lazarus, requires no model retraining and allows the agent to behave… (via Help Net Security)</description>
     </item>
     <item>
       <title>Citrus Ransomware: VLESS for traffic, Sn00py for encryption, and LLMs lending a hand</title>
@@ -408,52 +504,12 @@
       <description>SANS Institute records largest single-year jump in ICS/OT cyber incidents (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Ubuntu certificate revocation checks arrive in curl, OpenSSL is next</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/ubuntu-certificate-revocation-curl-openssl/</guid>
-      <pubDate>Wed, 11 Nov 2026 09:46:23 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Ubuntu 26.10 ships curl with certificate revocation checking built in. The check comes from upki, a project from the rustls developers. Ubuntu’s developers ran the same curl command on both releases: Ubuntu 26.04 accepted a revoked certificate and connected, while 26.10 refused… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Red Hat OpenShift 5 brings autonomous troubleshooting to hybrid clouds</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/red-hat-openshift-5/</guid>
-      <pubDate>Wed, 11 Nov 2026 09:31:00 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Red Hat has announced the general availability of Red Hat OpenShift 5, bringing built-in operational intelligence, zero trust security and a longer, predictable lifecycle to the hybrid cloud application platform powered by Kubernetes. Purpose-built to streamline complex… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Druva helps restore AI agents without rolling back entire environments</title>
-      <link>https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/11/druva-agent-recovery/</guid>
-      <pubDate>Wed, 11 Nov 2026 09:23:04 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Druva has announced Druva Agent Recovery, a new set of AI Resilience capabilities that keep the business running by quickly restoring AI agents when they are deleted or unexpectedly changed. Support begins with Microsoft Copilot Studio, Microsoft’s platform for building custom… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Microsoft Fixes 1235 Flaws in Another Record Patch Tuesday</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/microsoft-fixes-1235-flaws-record/</guid>
       <pubDate>Wed, 11 Nov 2026 09:15:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Microsoft patched a record-breaking 1235 CVEs in November’s Patch Tuesday (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes</title>
-      <link>https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html</guid>
-      <pubDate>Wed, 11 Nov 2026 08:17:53 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61 in Developer Tools, 59 in SQL Server, 53… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges</title>
-      <link>https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html</guid>
-      <pubDate>Wed, 11 Nov 2026 07:49:04 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when an AI provider will not… (via The Hacker News)</description>
     </item>
     <item>
       <title>ISC Stormcast For Wednesday, November 11th, 2026 https://isc.sans.edu/podcastdetail/10174, (Wed, Nov 11th)</title>
@@ -568,14 +624,6 @@
       <description>An exploited Outlook vulnerability drew most of the attention in Microsoft&#39;s latest Patch Tuesday, which listed 1,093 bugs total. (via The Record)</description>
     </item>
     <item>
-      <title>F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them</title>
-      <link>https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them</link>
-      <guid isPermaLink="false">https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them</guid>
-      <pubDate>Tue, 10 Nov 2026 20:41:45 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Finally, Payment by Bank Transfer Comes to Have I Been Pwned</title>
       <link>https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/</link>
       <guid isPermaLink="false">https://www.troyhunt.com/finally-payment-by-bank-transfer-comes-to-have-i-been-pwned/</guid>
@@ -592,36 +640,12 @@
       <description>Some services began returning online Tuesday following a ransomware incident detected on Monday across Vanderbilt systems and applications. The post Vanderbilt University reels following ransomware attack claimed by BYOD group appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
-      <title>CISA Expands Incident Reporting Form While CIRCIA Mandate Waits</title>
-      <link>https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cisa-incident-reporting-form-circia/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>CISA adds MITRE ATT&amp;CK detail to incident reports as CIRCIA rule awaits White House review (via Infosecurity Magazine)</description>
-    </item>
-    <item>
       <title>Iranian hackers turned up the heat on French supermarket freezers, says France</title>
       <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france</link>
       <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-supermarket-freezers-france</guid>
       <pubDate>Tue, 10 Nov 2026 16:05:50 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>Iran has been officially accused by France of being responsible for cyber attacks last month that meddled with supermarket freezers, causing some to catch fire. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>Russia-Linked Turla Hijacks Exchange Servers to Spy on NATO and EU Emails</title>
-      <link>https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/turla-cereal-exchange-email/</guid>
-      <pubDate>Tue, 10 Nov 2026 14:30:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Turla used compromised Exchange servers to collect NATO and EU-linked emails (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Cloud Vulnerabilities Surge Fourfold in Less Than a Year</title>
-      <link>https://www.infosecurity-magazine.com/news/cloud-vulnerabilities-surge/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/cloud-vulnerabilities-surge/</guid>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>AI is amplifying the impact of vulnerabilities, long-lived credentials and other cloud risks, says Datadog (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>Apple Patches Everyting: November 2026 Edition, (Tue, Nov 10th)</title>
@@ -704,14 +728,6 @@
       <description>An agentic AI pentesting framework is being used in the wild by threat actors (via Sophos News)</description>
     </item>
     <item>
-      <title>N-able issues advisory on critical vulnerabilities</title>
-      <link>https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>via Sophos News</description>
-    </item>
-    <item>
       <title>Enforcing intent-based access control at the endpoint</title>
       <link>https://www.sophos.com/en-us/blog/enforcing-intent-based-access-control-at-the-endpoint</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/enforcing-intent-based-access-control-at-the-endpoint</guid>
@@ -726,6 +742,14 @@
       <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Insights from 217 IT and cybersecurity leaders across the retail sector in 17 countries whose organizations were hit by ransomware in the past year. (via Sophos News)</description>
+    </item>
+    <item>
+      <title>N-able issues advisory on critical vulnerabilities</title>
+      <link>https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>via Sophos News</description>
     </item>
     <item>
       <title>FORGE Lab uses agentic tools to identify memory safety issues in Rust</title>
@@ -782,30 +806,6 @@
       <pubDate>Mon, 09 Nov 2026 02:05:10 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>Scans for Sshole Vulnerability (CVE-2026-123158), (Sun, Nov 8th)</title>
-      <link>https://isc.sans.edu/diary/rss/33498</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33498</guid>
-      <pubDate>Sun, 08 Nov 2026 15:44:33 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>Our honeypots use &quot;Cowrie&quot; to collect SSH data. With the emergence of the &quot;sshole&quot; vulnerability last week, we are now seeing an increase in attempts to exploit the vulnerability. Our data is a bit limited in this respect. Our honeypots collect only the first 255 characters of… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>The Bitter Lesson, Generalized</title>
-      <link>https://danielmiessler.com/blog/bitter-lesson-generalized?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/bitter-lesson-generalized?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Sat, 07 Nov 2026 19:30:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>A charcoal sketch of an ornate carved stone gate whose emblem, a giant stone hand raised palm-out in refusal, has been split by the roots of a huge tree whose crown towers over the gate/images/bitter-lesson-generalized-header.webp/images/bitter-lesson-generalized-header.webp… (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Vibe Coding Isn&#39;t Using AI to Make Things</title>
-      <link>https://danielmiessler.com/blog/vibe-coding-isnt-using-ai?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/vibe-coding-isnt-using-ai?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Sat, 07 Nov 2026 18:38:05 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>Two builders with the same AI arm feeding both engines: one works inside the open engine, the other leans on a sealed purple box/images/vibe-coding-isnt-using-ai.webp/images/vibe-coding-isnt-using-ai.webp Slight ok medium-sized pet peeve here. Vibe Coding isn&#39;t using AI to make… (via Daniel Miessler)</description>
     </item>
   </channel>
 </rss>
