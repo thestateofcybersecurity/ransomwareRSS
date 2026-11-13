@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-13T01:57:58.020Z",
+  "updated": "2026-11-13T09:45:27.872Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,166 @@
   ],
   "items": [
     {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+      "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "date": "2026-11-13T09:36:56.000Z",
+      "excerpt": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "date": "2026-11-13T09:36:18.000Z",
+      "excerpt": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/openai-daybreak-vulnerability-remediation-red-team-defense-factory-agents/",
+      "date": "2026-11-13T09:31:07.000Z",
+      "excerpt": "OpenAI is bringing AI agents into more of the software security process with Daybreak, pairing web application penetration testing with tools that investigate vulnerabilities and develop fixes. The two offerings, Red Team and Defense Factory, connect the work of finding security…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+      "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "date": "2026-11-13T09:21:01.000Z",
+      "excerpt": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "AI Set to Revolutionize Ransomware Following “Stagnant” Few Years",
+      "link": "https://www.infosecurity-magazine.com/news/ai-revolutionize-ransomware/",
+      "date": "2026-11-13T09:15:00.000Z",
+      "excerpt": "TrendAI’s Bob McArdle said ransomware techniques will change significantly in the next year, with AI making attacks more dangerous and profitable"
+    },
+    {
+      "source": "Securelist",
+      "sourceUrl": "https://securelist.com/",
+      "title": "Ransomware at the hypervisor layer: how attackers use ESXi and vCenter features for malicious purposes",
+      "link": "https://securelist.com/esxi-ransomware/121959/",
+      "date": "2026-11-13T09:00:43.000Z",
+      "excerpt": "Kaspersky experts analyze a recent ransomware incident and discuss why the hypervisor layer remains difficult to monitor, what common access paths adversaries use to reach it, and how to protect your ESXi systems."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "date": "2026-11-13T08:50:36.000Z",
+      "excerpt": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek ."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "date": "2026-11-13T08:34:20.000Z",
+      "excerpt": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+      "date": "2026-11-13T08:05:49.000Z",
+      "excerpt": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity,…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+      "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "date": "2026-11-13T07:39:04.000Z",
+      "excerpt": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+      "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "date": "2026-11-13T07:20:50.000Z",
+      "excerpt": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Stolen webcam clips of 900+ victims feed North Korea’s $400 million fake Zoom scheme",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/fbi-north-korean-fake-zoom-calls/",
+      "date": "2026-11-13T06:30:30.000Z",
+      "excerpt": "North Korean state hackers have stolen more than $400 million in cryptocurrency over the past 18 months by pulling targets into fake Zoom and Teams calls filled with webcam footage of earlier victims. The FBI calls the scheme FaceStealer. It has seized more than 900 of those…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "How attackers turned a Teams meeting booking into a device code phishing trap",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/microsoft-teams-device-code-phishing/",
+      "date": "2026-11-13T06:15:48.000Z",
+      "excerpt": "Attackers used a fake Microsoft Teams meeting scheduler to trick an employee at a construction company into approving a device code sign-in. They got a valid session token before Huntress’s security operations center identified the incident. Device code phishing abuses a real…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Suspected North Korean IT workers reached onboarding at companies with open data",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/north-korean-it-workers-onboarding/",
+      "date": "2026-11-13T06:00:22.000Z",
+      "excerpt": "Material Security followed suspected North Korean fake IT workers through the hiring pipelines of organizations it monitors and counted 27 personas that reached onboarding over one year. At one company where a persona got that far in the past month, about 277,000 files…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+      "date": "2026-11-13T05:43:28.000Z",
+      "excerpt": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company said in a Thursday update. \"These measures…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Your pinned MCP server may not be as pinned as you think",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/corelight-mcp-server-supply-chain/",
+      "date": "2026-11-13T05:30:22.000Z",
+      "excerpt": "An MCP server configured to run one fixed release on an administrator’s workstation ran with 15 different sets of dependencies over five weeks, with its configuration untouched. James Lagermann, Director of Technical Alliances at Corelight, found the drift in his company’s lab.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Digital sovereignty leaves enterprises chasing their own audit trails",
+      "link": "https://www.helpnetsecurity.com/2026/11/13/ibm-digital-sovereignty-challenges-report/",
+      "date": "2026-11-13T05:00:54.000Z",
+      "excerpt": "94% of surveyed enterprises experienced at least one digital sovereignty challenge in the past three years, according to IBM’s Digital Sovereignty Index. Of those affected, 91% were required to demonstrate that they retained control during their most challenging event, and 81%…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33518",
+      "date": "2026-11-13T03:41:41.000Z",
+      "excerpt": "Introduction"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+      "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+      "date": "2026-11-13T02:28:21.000Z",
+      "excerpt": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance appeared first on…"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Friday, November 13th, 2026 https://isc.sans.edu/podcastdetail/10178, (Fri, Nov 13th)",
+      "link": "https://isc.sans.edu/diary/rss/33516",
+      "date": "2026-11-13T02:00:03.000Z",
+      "excerpt": ""
+    },
+    {
       "source": "CyberScoop",
       "sourceUrl": "https://cyberscoop.com/",
       "title": "US seizes North Korean hacking infrastructure, $1.2 billion in cryptocurrency stolen from Binance",
@@ -138,20 +298,20 @@
       "excerpt": "EfficientIP Research Labs traced a ClickFix campaign that used fake Zillow apartment-review pages to install NetSupport RAT on visitors’ Windows computers. Each page showed what looked like a routine verification check. Behind it, the page quietly copied a PowerShell command to…"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "PostgreSQL security update fixes 52 vulnerabilities, ends support for PostgreSQL 14",
-      "link": "https://www.helpnetsecurity.com/2026/11/13/postgresql-security-update-november-2026/",
-      "date": "2026-11-12T23:05:33.000Z",
-      "excerpt": "The PostgreSQL Global Development Group released PostgreSQL 18.7, 17.12, 16.16, 15.20 and 14.25 on November 12, fixing 52 security vulnerabilities and more than 140 other bugs. Most of those code execution bugs are memory errors or type confusion, where PostgreSQL handles a…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
       "date": "2026-11-12T22:53:10.000Z",
       "excerpt": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+      "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+      "date": "2026-11-12T22:46:05.000Z",
+      "excerpt": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC)."
     },
     {
       "source": "BleepingComputer",
@@ -248,14 +408,6 @@
       "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
       "date": "2026-11-12T18:07:15.000Z",
       "excerpt": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login might belong to an employee. An unusual API…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Self-hosted Claude Managed Agents keeps agent credentials in your environment",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/anthropic-self-hosted-claude-managed-agents/",
-      "date": "2026-11-12T18:07:00.000Z",
-      "excerpt": "Anthropic has released a self-hosted version of Claude Managed Agents. Companies can run the agent harness, sandboxes, credentials, and session history in their cloud or on-premise. The option opened as a private beta on November 12, and customers request access through their…"
     },
     {
       "source": "The Hacker News",
@@ -370,44 +522,12 @@
       "excerpt": "Shipping giant Maersk has confirmed that one of its systems was broken into by hackers who have stolen data. The WhiteArmor gang has claimed responsbility for the attack. Read more in my article on the Hot for Security blog."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-      "date": "2026-11-12T15:07:20.000Z",
-      "excerpt": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Picus puts AI agents on the offensive with autonomous pentesting",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/picus-autonomous-penetration-testing/",
-      "date": "2026-11-12T15:05:02.000Z",
-      "excerpt": "Picus Security has announced Picus Autonomous Penetration Testing, an agentic pentesting capability that puts AI agents on the offensive: they think like attackers, chain real exploits toward an organization’s crown jewels, and prove what a breach would look like, under…"
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
       "link": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
       "date": "2026-11-12T15:00:31.000Z",
       "excerpt": "Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets. The post Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors appeared first on Unit 42 ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Attackers breached 10 organizations with an open-source AI pentest framework",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/cairn-autonomous-ai-cyberattacks/",
-      "date": "2026-11-12T15:00:29.000Z",
-      "excerpt": "Chinese-speaking attackers used Cairn, an open-source AI penetration testing framework, to run 25 operations against at least 19 organizations in August and September 2026. Palo Alto Networks’ Unit 42 found that the attackers gained unauthorized access or pulled data at 10 of…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-      "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-      "date": "2026-11-12T15:00:10.000Z",
-      "excerpt": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent attackers from abusing…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -426,54 +546,6 @@
       "excerpt": "Lego has taken its BrickLink Marketplace offline after detecting unusual activity as the company investigates the incident"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-      "date": "2026-11-12T13:42:09.000Z",
-      "excerpt": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
-      "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
-      "date": "2026-11-12T13:39:03.000Z",
-      "excerpt": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Operation Endgame malware takedown turns up over 6 million stolen logins",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/europol-operation-endgame-malware-takedown/",
-      "date": "2026-11-12T13:34:14.000Z",
-      "excerpt": "Police in nine countries, working with Europol, took down servers behind the Gootloader, CastleRAT and StealC malware operations this week and recovered more than 6 million credentials stolen from infected computers. Europol announced the action as the latest round of Operation…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
-      "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
-      "date": "2026-11-12T13:12:11.000Z",
-      "excerpt": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-      "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-      "date": "2026-11-12T13:08:28.000Z",
-      "excerpt": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary Pursuit Group (APG), which shared the…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-      "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-      "date": "2026-11-12T12:09:14.000Z",
-      "excerpt": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs and the host. Inside a VM, the flaws…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Another Way Police Are Locating People from Their Smartphones",
@@ -488,22 +560,6 @@
       "link": "https://isc.sans.edu/diary/rss/33514",
       "date": "2026-11-12T11:56:24.000Z",
       "excerpt": "CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0, which was released at the end…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-      "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-      "date": "2026-11-12T11:08:52.000Z",
-      "excerpt": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Microsoft Entra adds a seven-day safeguard against irreversible identity deletion",
-      "link": "https://www.helpnetsecurity.com/2026/11/12/microsoft-entra-hard-deletion-protection/",
-      "date": "2026-11-12T11:04:24.000Z",
-      "excerpt": "Microsoft Entra’s Hard Deletion Protection, now in preview, gives administrators a seven-day window to recover selected identities before they can be permanently erased. The feature is designed to help organizations respond to accidental or malicious deletion of critical…"
     },
     {
       "source": "Dark Reading",
@@ -522,14 +578,6 @@
       "excerpt": "Symantec’s Dick O’Brien says the rapid closure of the patch window means organizations must move beyond patching and adopt an assume exploit mindset"
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
-      "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
-      "date": "2026-11-12T10:39:34.000Z",
-      "excerpt": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek ."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "Transcending the trust boundaries: how a cloud pentest works",
@@ -544,14 +592,6 @@
       "link": "https://www.infosecurity-magazine.com/news/ncsc-cyber-adversary-testing-boost/",
       "date": "2026-11-12T10:00:00.000Z",
       "excerpt": "The UK’s National Cyber Security Centre has launched a new Cyber Adversary Simulation (CyAS) scheme"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-      "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-      "date": "2026-11-12T09:39:55.000Z",
-      "excerpt": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -618,14 +658,6 @@
       "excerpt": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs."
     },
     {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "AI Raises the Stakes for Cyber Resilience",
-      "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-      "date": "2026-11-11T21:20:41.000Z",
-      "excerpt": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement."
-    },
-    {
       "source": "Microsoft Security Blog",
       "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
       "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
@@ -664,14 +696,6 @@
       "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
       "date": "2026-11-11T16:55:00.000Z",
       "excerpt": "Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-escalation exploits and examines the…"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Anthropic's Glasswing Finds Many Vulnerabilities Yet Delivers Few Fixes, Researcher Says",
-      "link": "https://www.infosecurity-magazine.com/news/anthropic-glasswing/",
-      "date": "2026-11-11T16:30:00.000Z",
-      "excerpt": "VulnCheck’s Patrick Garrity has found that seven months on, Project Glasswing resulted in only 217 vulnerabilities getting fixed, despite thousands reported"
     },
     {
       "source": "Unit 42",
@@ -888,30 +912,6 @@
       "link": "https://www.sophos.com/en-us/blog/n-able-issues-advisory-on-critical-vulnerabilities",
       "date": "2026-11-10T00:00:00.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "FORGE Lab uses agentic tools to identify memory safety issues in Rust",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/09/forge-lab-uses-agentic-tools-to-identify-memory-safety-issues-in-rust/",
-      "date": "2026-11-09T20:17:31.000Z",
-      "excerpt": "Microsoft FORGE Lab researchers found memory-safety bugs in Rust's core and std libraries, including cases where safe Rust code can trigger undefined behavior. Using Hyenas, FORGE's frontier research version of codename MDASH, the team investigated three patterns of misplaced…"
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
-      "link": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
-      "date": "2026-11-09T19:41:34.000Z",
-      "excerpt": "\"*sshole\" poses a serious threat to Internet security."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)",
-      "link": "https://isc.sans.edu/diary/rss/33502",
-      "date": "2026-11-09T18:18:15.000Z",
-      "excerpt": "Just saw a new (to me) URL in our honeypot data today:"
     }
   ]
 }
