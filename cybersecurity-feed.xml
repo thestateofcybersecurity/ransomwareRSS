@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 14 Nov 2026 06:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:20:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection</title>
+      <link>https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html</guid>
+      <pubDate>Sat, 14 Nov 2026 12:38:35 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation.… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Apple Reveals How Secure Exclaves Shield Camera and Microphone Data</title>
+      <link>https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/</guid>
+      <pubDate>Sat, 14 Nov 2026 11:00:00 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update</title>
+      <link>https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/</guid>
+      <pubDate>Sat, 14 Nov 2026 08:40:22 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
     <item>
       <title>Friday Squid Blogging: Pacific Flying Squid Populations Dropping in Korean Waters</title>
       <link>https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-pacific-flying-squid-populations-dropping-in-korean-waters.html</link>
@@ -320,14 +344,6 @@
       <description>Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...] (via BleepingComputer)</description>
     </item>
     <item>
-      <title>Citrix Patches 10 Critical NetScaler Vulnerabilities</title>
-      <link>https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/</guid>
-      <pubDate>Fri, 13 Nov 2026 09:36:56 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Microsoft confirms Windows activation failures after November updates</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/</guid>
@@ -342,14 +358,6 @@
       <pubDate>Fri, 13 Nov 2026 09:31:07 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>OpenAI is bringing AI agents into more of the software security process with Daybreak, pairing web application penetration testing with tools that investigate vulnerabilities and develop fixes. The two offerings, Red Team and Defense Factory, connect the work of finding security… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools</title>
-      <link>https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/</guid>
-      <pubDate>Fri, 13 Nov 2026 09:21:01 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
       <title>AI Set to Revolutionize Ransomware Following “Stagnant” Few Years</title>
@@ -374,14 +382,6 @@
       <pubDate>Fri, 13 Nov 2026 08:34:20 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html</guid>
-      <pubDate>Fri, 13 Nov 2026 08:05:49 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a backdoor called TSGA. The activity,… (via The Hacker News)</description>
     </item>
     <item>
       <title>Policy and Disclosure: 2026 Edition</title>
