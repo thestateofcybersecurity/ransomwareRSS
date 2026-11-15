@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 15 Nov 2026 11:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 17:52:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>TSMC employee data breach linked to cloud provider</title>
+      <link>https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/</guid>
+      <pubDate>Sun, 15 Nov 2026 15:23:48 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Pentagon Renames CDAO ‘Super Intelligence Office’</title>
+      <link>https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</guid>
+      <pubDate>Sun, 15 Nov 2026 12:51:33 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Italy Fines Meta €805 Million Over Facebook&#39;s Android Gallery Access Without Explicit Consent</title>
+      <link>https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html</guid>
+      <pubDate>Sun, 15 Nov 2026 11:27:31 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users&#39; phone galleries for them to post. The Garante, Italy&#39;s data protection authority, found that the feature was enabled by default and that the app… (via The Hacker News)</description>
+    </item>
     <item>
       <title>Week in review: Secret stealer hits GitHub repos, Claude Code turned into remote-controlled implant</title>
       <link>https://www.helpnetsecurity.com/2026/11/15/week-in-review-secret-stealer-hits-github-repos-claude-code-turned-into-remote-controlled-implant/</link>
@@ -296,14 +320,6 @@
       <description>Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Apify Confirms Customer Data Accessed in Cyberattack</title>
-      <link>https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/</guid>
-      <pubDate>Fri, 13 Nov 2026 12:41:01 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Microsoft 365 Outage Set to Ramp up Security Risks to Organizations</title>
       <link>https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/microsoft-365-outage-security/</guid>
@@ -352,28 +368,12 @@
       <description>New Proofpoint research reveals phishing detections surged 4.5x across Europe year over year, compared with 1.5x globally (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users</title>
-      <link>https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html</guid>
-      <pubDate>Fri, 13 Nov 2026 11:10:40 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan. Enea, a telecom and cybersecurity software company based in Stockholm, found the group&#39;s attack sources in at least six… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>354 dark web vendors and buyers arrested in Operation TorNado</title>
       <link>https://www.helpnetsecurity.com/2026/11/13/europol-dark-web-arrests-cybercrime/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/13/europol-dark-web-arrests-cybercrime/</guid>
       <pubDate>Fri, 13 Nov 2026 11:06:29 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Europol and police in 14 countries arrested 354 dark web vendors and buyers in Operation TorNado, which ran from May 2025 to October 2026. Investigators went after people who had traded on five marketplaces that were already offline: Archetyp, Bohemia, Nemesis, Kingdom and… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Check Point warns of zero-day flaw exploited for root access</title>
-      <link>https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/</guid>
-      <pubDate>Fri, 13 Nov 2026 10:44:22 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>OpenAI’s Daybreak brings AI agents to security testing and vulnerability fixes</title>
