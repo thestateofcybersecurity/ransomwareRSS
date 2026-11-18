@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 17 Nov 2026 23:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:34:59 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
+      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
+      <guid isPermaLink="false">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
+      <pubDate>Wed, 18 Nov 2026 02:52:04 GMT</pubDate>
+      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
+      <description>At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences and test out new features. Experts say the… (via Krebs on Security)</description>
+    </item>
+    <item>
+      <title>Classified Communications Network at the National Security Agency Goes Down, Defense Official Says</title>
+      <link>https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/</guid>
+      <pubDate>Wed, 18 Nov 2026 02:15:07 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)</title>
+      <link>https://isc.sans.edu/diary/rss/33528</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33528</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:03 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Critical Java4Shell flaw allows RCE attacks on major Java applications</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</guid>
+      <pubDate>Tue, 17 Nov 2026 23:04:21 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Optimizely Malware Attacks Highlight Third-Party Vendor Risks</title>
       <link>https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks</link>
@@ -384,14 +416,6 @@
       <description>Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>N-able Kills Legacy APIs, Patches 17 N-central Zero-Days</title>
-      <link>https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/</guid>
-      <pubDate>Tue, 17 Nov 2026 12:28:45 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap</title>
       <link>https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html</guid>
@@ -430,14 +454,6 @@
       <pubDate>Tue, 17 Nov 2026 11:20:18 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2). The activity has been codenamed… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Microsoft testing Remote Lock for lost or stolen Windows devices</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/</guid>
-      <pubDate>Tue, 17 Nov 2026 11:19:51 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks</title>
@@ -518,6 +534,22 @@
       <pubDate>Tue, 17 Nov 2026 00:08:41 GMT</pubDate>
       <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
       <description>Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors… (via Microsoft Security Blog)</description>
+    </item>
+    <item>
+      <title>&#39;Java4Shell&#39; vulnerability (CVE-2026-114938) could allow remote code execution</title>
+      <link>https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>via Sophos News</description>
+    </item>
+    <item>
+      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Harden boot-time protection against malicious drivers on Windows 11 (via Sophos News)</description>
     </item>
     <item>
       <title>Hijacked Optimizely snippets served malicious code on major websites</title>
@@ -760,14 +792,6 @@
       <description>Penlink’s Webloc is an application that locates people using information from the weather, gaming, email, and religious apps on their phone. It’s sold to the police. The tool collects vast quantities of location data from smartphones via commonly used weather, gaming, email and… (via Schneier on Security)</description>
     </item>
     <item>
-      <title>Exploit Attempts for GPUStack Authentication Bypass (CVE-2026-102895), (Thu, Nov 12th)</title>
-      <link>https://isc.sans.edu/diary/rss/33514</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33514</guid>
-      <pubDate>Thu, 12 Nov 2026 11:56:24 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>CVE-2026-102895 is a trivial authentication-bypass vulnerability. GPUStack is also an attractive target. It is open-source software that manages clusters of GPUs, which are typically used to run AI workloads. All versions of GPUStack prior to 2.2.0, which was released at the end… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
       <title>Transcending the trust boundaries: how a cloud pentest works</title>
       <link>https://securelist.com/how-a-cloud-pentest-works/121921/</link>
       <guid isPermaLink="false">https://securelist.com/how-a-cloud-pentest-works/121921/</guid>
@@ -782,30 +806,6 @@
       <pubDate>Thu, 12 Nov 2026 00:32:55 GMT</pubDate>
       <source url="https://grahamcluley.com/">Graham Cluley</source>
       <description>You&#39;re driving your new Chinese SUV when the dashboard goes dark. Ten minutes later, your phone rings. A stranger says they&#39;ve got the digital key to your car, and would you like it back? Of course you would. That&#39;ll be $550. Meanwhile, three men have been charged over a scheme… (via Graham Cluley)</description>
-    </item>
-    <item>
-      <title>ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know</title>
-      <link>https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/</link>
-      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/</guid>
-      <pubDate>Wed, 11 Nov 2026 23:00:53 GMT</pubDate>
-      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
-      <description>Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks. The post ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know appeared first on Unit 42 . (via Unit 42)</description>
-    </item>
-    <item>
-      <title>The global socket: how threat actors are weaponizing GSocket for stealthy C2</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/</guid>
-      <pubDate>Wed, 11 Nov 2026 19:49:57 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how threat actors are weaponizing GSocket for… (via Microsoft Security Blog)</description>
-    </item>
-    <item>
-      <title>Who Runs the Ransomware Group Qilin?</title>
-      <link>https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</link>
-      <guid isPermaLink="false">https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/</guid>
-      <pubDate>Wed, 11 Nov 2026 18:06:01 GMT</pubDate>
-      <source url="https://krebsonsecurity.com/">Krebs on Security</source>
-      <description>The cybercrime group Qilin has emerged as the world&#39;s most active ransomware affiliate program, claiming at least 365 victim organizations in the past three months alone. But even top Russian hackers make operational security mistakes, and the administrator of Qilin has made a… (via Krebs on Security)</description>
     </item>
   </channel>
 </rss>
