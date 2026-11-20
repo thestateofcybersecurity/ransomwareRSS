@@ -5,8 +5,56 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Thu, 19 Nov 2026 22:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:34:17 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</title>
+      <link>https://isc.sans.edu/diary/rss/33538</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33538</guid>
+      <pubDate>Fri, 20 Nov 2026 02:00:02 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Sean Cairncross out as national cyber director</title>
+      <link>https://cyberscoop.com/sean-cairncross-out-national-cyber-director/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/sean-cairncross-out-national-cyber-director/</guid>
+      <pubDate>Fri, 20 Nov 2026 01:07:07 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>During his tenure, he was involved in key administration decisions on AI security and the protection of critical infrastructure. The post Sean Cairncross out as national cyber director appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>VMware patches vCenter zero-day exploited in attacks since September</title>
+      <link>https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:26:25 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Android developer verification will reach every install source, with a side door for power users</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/</guid>
+      <pubDate>Thu, 19 Nov 2026 23:03:24 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering</title>
+      <link>https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering</guid>
+      <pubDate>Thu, 19 Nov 2026 22:40:03 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Hackers steal data of 1.6 million SBC Medical Group customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</guid>
+      <pubDate>Thu, 19 Nov 2026 22:25:42 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...] (via BleepingComputer)</description>
+    </item>
     <item>
       <title>Lawmakers launch new AI safety caucus amid rising security concerns</title>
       <link>https://therecord.media/lawmakers-launch-new-ai-safety-caucus</link>
@@ -192,7 +240,7 @@
       <description>POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups. (via The Record)</description>
     </item>
     <item>
-      <title>Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication</title>
+      <title>Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication</title>
       <link>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</guid>
       <pubDate>Thu, 19 Nov 2026 15:11:06 GMT</pubDate>
@@ -320,14 +368,6 @@
       <description>One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both… (via The Hacker News)</description>
     </item>
     <item>
-      <title>Microsoft tests new Edge Lockdown Mode that disables GPU APIs</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/</guid>
-      <pubDate>Thu, 19 Nov 2026 11:46:00 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed</title>
       <link>https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/tfl-customers-personal-data-exposed/</guid>
@@ -360,28 +400,12 @@
       <description>Rubrik announced Configuration Resilience for Microsoft 365, a new offering that protects the key settings governing Microsoft applications such as Microsoft 365, Purview and Defender, and rolls back changes to them with a single action. By continuously safeguarding Microsoft… (via Help Net Security)</description>
     </item>
     <item>
-      <title>SonicWall urges customers to replace Gen 6 firewalls now</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/sonicwall-gen-6-firewalls-reach-end-of-support/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:44:29 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>SonicWall is urging customers still running Gen 6 firewalls to replace them immediately and to stop using them at the internet edge. All Gen 6 and Gen 6.5 appliances running SonicOS 6.x have now reached end of support. That means no more firmware updates or security patches,… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Splunk Patches Nearly 140 Flaws Across Three Core Products</title>
       <link>https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</link>
       <guid isPermaLink="false">https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</guid>
       <pubDate>Thu, 19 Nov 2026 10:41:05 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Microsoft confirms app installation, launch issues after hotpatch</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:35:05 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month&#39;s Windows 11 hotpatch. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>A Fifth of UK Employees Share Passwords with AI</title>
@@ -478,14 +502,6 @@
       <pubDate>Wed, 18 Nov 2026 20:45:49 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>New agentic AI solution leverages APIs to collect compliance evidence from systems and applies it to over 30 frameworks with no duplicate work. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>AttackIQ Research Reveals How Iranian Cyber Groups Hand Off Network Access to Enable Destructive Attacks</title>
-      <link>https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups</link>
-      <guid isPermaLink="false">https://www.darkreading.com/threat-intelligence/attackiq-research-reveals-iranian-cyber-groups</guid>
-      <pubDate>Wed, 18 Nov 2026 20:38:42 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Analysis of 20 Iranian state-sponsored threat groups details how espionage, ransomware, and hacktivism intersect in state-backed cyber campaigns. (via Dark Reading)</description>
     </item>
     <item>
       <title>Java4Shell, NGINX2Shell and more: Why we are not at &quot;Yellow&quot;, (Wed, Nov 18th)</title>
@@ -606,14 +622,6 @@
       <pubDate>Tue, 17 Nov 2026 21:19:45 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Agency leaders and federal contractors are mulling over how to best adapt the new protections to older, legacy technology and address gaps in visibility over federal encryption protocols. The post GSA says post-quantum work on PIV cards shows new encryption can work on old tech… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>How CISA is prioritizing companies for talks about security improvements</title>
-      <link>https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/cisa-100-critical-infrastructure-companies-fed-talks/</guid>
-      <pubDate>Tue, 17 Nov 2026 20:52:59 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>CISA acting director Nick Andersen made his remarks after speaking at FedTalks, presented by FedScoop. The post How CISA is prioritizing companies for talks about security improvements appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>Borrowed Code, Real Consequences: What OPTIMJACK Teaches Us</title>
@@ -766,14 +774,6 @@
       <pubDate>Mon, 16 Nov 2026 07:00:37 GMT</pubDate>
       <source url="https://securelist.com/">Securelist</source>
       <description>A new version of CoffeeLoader is spreading through Retadup, an old USB worm whose infrastructure was seized by law enforcement back in 2019. (via Securelist)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)</title>
-      <link>https://isc.sans.edu/diary/rss/33520</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33520</guid>
-      <pubDate>Mon, 16 Nov 2026 02:00:05 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
     <item>
       <title>The day the FAA halted departures nationwide</title>
