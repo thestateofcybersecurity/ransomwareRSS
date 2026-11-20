@@ -5,8 +5,224 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Fri, 20 Nov 2026 03:34:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:15:19 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday</title>
+      <link>https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:38:55 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>VMware vCenter zero-day exploited for months before patch (CVE-2026-123890)</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/vmware-vcenter-zero-day-cve-2026-123890-exploited/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:30:19 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>A suspected China-nexus espionage group tracked as Armory Castle (formerly UNC5221) has been exploiting a VMware vCenter zero-day since at least early September, more than two months before Broadcom released a fix, Google Threat Intelligence Group (GTIG) revealed. The… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts</title>
+      <link>https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html</guid>
+      <pubDate>Fri, 20 Nov 2026 12:20:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server&#39;s memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers&#39; virtual machines. The flaw, tracked as… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Microsoft now automatically installs Windows 11 26H2 on unmanaged devices</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:14:28 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Starting this week, Microsoft has begun automatically upgrading eligible devices that aren&#39;t managed by an IT department to Windows 11 26H2. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Opening a 400-Year-Old Cryptex</title>
+      <link>https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html</link>
+      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/11/opening-a-400-year-old-cryptex.html</guid>
+      <pubDate>Fri, 20 Nov 2026 12:04:46 GMT</pubDate>
+      <source url="https://www.schneier.com/">Schneier on Security</source>
+      <description>Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex . (via Schneier on Security)</description>
+    </item>
+    <item>
+      <title>The Path to AI Autonomy in the SOC</title>
+      <link>https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:00 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. In 12 months from now, 60%… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Mail Bombing Attacks Fuel IT Helpdesk Impersonation Scams</title>
+      <link>https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/mail-bombing-attacks-it-helpdesk/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:55:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Researchers have uncovered a large-scale campaign in which attackers flood inboxes with emails before impersonating IT helpdesk staff to gain access to user accounts (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>SBC Medical Group Data Breach Impacts Over 2 Million</title>
+      <link>https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:36:51 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>JPMorgan Confirms Customer Data Breach Following Third-Party Compromise</title>
+      <link>https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/jpmorgan-data-breach-third-party/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:15:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Ransomware actor N0n has claimed attacks on JPMorgan, Visa and Mastercard, reportedly leaking customer data on its dark web site (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>F5 releases emergency patches for critical BIG-IP RCE flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:57:43 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>European Commission Confirms AI-Assisted Cyberattack Disrupted Services</title>
+      <link>https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:51:42 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>SonicWall Warns Gen 6 Firewalls Won&#39;t Get Security Patches, Even for Critical Flaws</title>
+      <link>https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</guid>
+      <pubDate>Fri, 20 Nov 2026 10:38:22 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. &quot;Attackers now use automation and AI to find and exploit… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE</title>
+      <link>https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:34:10 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</guid>
+      <pubDate>Fri, 20 Nov 2026 10:32:50 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>265,000 Oyster photocard customers’ data exposed in Transport for London breach</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:21:41 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Account details belonging to some 265,000 Oyster photocard holders may have been compromised in a breach of the photocard website, Transport for London (TfL) has warned. They include children with Zip cards and Londoners with the 60+ London Oyster photocard. TfL says it spotted… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
+      <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</guid>
+      <pubDate>Fri, 20 Nov 2026 09:38:15 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score:… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Windows 11 KB5132057 update released with 28 changes and fixes</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:25:35 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>N-able Blames Service Disruption on Cyberattack</title>
+      <link>https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:08:35 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Suspected North Korea-Aligned Group Hides C2 on Solana Blockchain</title>
+      <link>https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/overlord-rat-solana-blockchain-c2/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:00:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Cisco Talos tied a RAT that hides C2 on Solana and survives Windows resets to UAT-12643 (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>European Commission confirms AI-generated cyberattack disrupted its systems</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/european-commission-ai-generated-cyberattack-publicly-available-tool/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/european-commission-ai-generated-cyberattack-publicly-available-tool/</guid>
+      <pubDate>Fri, 20 Nov 2026 08:52:29 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The European Commission has confirmed it was hit by a cyberattack that misused a publicly available AI tool and forced the institution to take several of its applications offline. Commission spokesperson Thomas Regnier gave the confirmation at Thursday’s midday press briefing in… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak</title>
+      <link>https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/jpmorgan-visa-mastercard-cite-third-party-incidents-amid-data-leak/</guid>
+      <pubDate>Fri, 20 Nov 2026 07:35:46 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs</title>
+      <link>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</guid>
+      <pubDate>Fri, 20 Nov 2026 07:11:39 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. &quot;ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Your AI red team may be finding the same prompt injection thousands of times</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/ai-prompt-injection-red-team/</guid>
+      <pubDate>Fri, 20 Nov 2026 06:30:20 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>AI agents retrained on a bigger pile of prompt injection attacks came out easier to hijack in three of four tests run by researchers at the University of Waterloo, Zhejiang University and KTH Royal Institute of Technology. The automated red-teaming tool that found more working… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>It’s time to retire vanity security dashboards</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:21 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>In this Help Net Security video, Abdul Khadir Mahamed, OT Security Architect at Estée Lauder Companies, explains why security teams should retire vanity dashboards in IT and OT environments. He walks through an example from a manufacturing site, where the same approved… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>AI agent API security hasn’t caught up with agents already running in production</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/</guid>
+      <pubDate>Fri, 20 Nov 2026 05:30:11 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Postman asked nearly 9,000 developers, architects and executives how they’re handling AI agents, and the answers tell a familiar story. Companies put the new thing to work first and left the question of who holds the keys for later. A quarter of the organizations that answered… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It</title>
+      <link>https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html</guid>
+      <pubDate>Fri, 20 Nov 2026 05:30:01 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A newly disclosed unpatched zero-day technique called FastUnlock lets someone with physical access to a locked Windows computer start programs without signing in. Whoever uses it gets only a limited account, not administrator control of the machine. The method was posted… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away</title>
+      <link>https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/</guid>
+      <pubDate>Fri, 20 Nov 2026 05:00:27 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Most organizations can’t quickly get secure management access to their own critical network infrastructure once the primary network goes down. Opengear surveyed 514 CIOs and CISOs and only a small share said they could get that access immediately or close to it. That gap bites… (via Help Net Security)</description>
+    </item>
     <item>
       <title>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</title>
       <link>https://isc.sans.edu/diary/rss/33538</link>
@@ -30,6 +246,22 @@
       <pubDate>Fri, 20 Nov 2026 00:26:25 GMT</pubDate>
       <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
       <description>Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>No Straight Lines: The value of a different career journey</title>
+      <link>https://www.sophos.com/en-us/blog/no-straight-lines-rebecca-taylor</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/no-straight-lines-rebecca-taylor</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>There’s no single path to a successful career. Career changes, breaks and experience in different industries can build valuable qualities such as resilience, curiosity and perspective. By creating supportive communities, offering encouragement and recognising transferable… (via Sophos News)</description>
+    </item>
+    <item>
+      <title>Empowering Employees to Make a Difference: The Digital Café</title>
+      <link>https://www.sophos.com/en-us/blog/digital-cafe</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/digital-cafe</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>The Digital Café helps people in the Nauheim community build confidence with technology, stay independent and remain connected with friends and family. Supported by Sophos’ 40 hours of paid volunteering leave, the initiative has grown into a team of volunteers making a… (via Sophos News)</description>
     </item>
     <item>
       <title>Android developer verification will reach every install source, with a side door for power users</title>
@@ -120,14 +352,6 @@
       <description>The easiest way to fool someone is to give them something they already expect. A job offer. A message about a service outage. A familiar app. Nothing looks strange at first. And that&#39;s the problem. This week&#39;s stories show how ordinary things are being used to steal data, spread… (via The Hacker News)</description>
     </item>
     <item>
-      <title>NGINX2Root: F5 patches five critical NGINX vulnerabilities</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/nginx2root-nginx-vulnerabilities/</guid>
-      <pubDate>Thu, 19 Nov 2026 18:25:50 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>F5 has patched five critical vulnerabilities in NGINX, the world’s most widely used open-source web server, that can allow remote code execution under certain conditions. Dubbed “NGINX2Root” by Xint researchers, two of the bunch (CVE-2026-123633 and CVE-2026-123007) were also… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>Transport for London breach exposes 265,000 Oyster card users&#39; data</title>
       <link>https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/</guid>
@@ -166,14 +390,6 @@
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January 6, 2021. (via The Record)</description>
-    </item>
-    <item>
-      <title>phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution</title>
-      <link>https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html</guid>
-      <pubDate>Thu, 19 Nov 2026 16:59:56 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>PHP&#39;s default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow the attacker to run code on the… (via The Hacker News)</description>
     </item>
     <item>
       <title>PHP security updates fix 18 flaws, including critical RCE bugs</title>
@@ -216,52 +432,12 @@
       <description>PHP has released security updates addressing 18 vulnerabilities, including critical remote code execution flaws affecting session handling (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>PHP 8.6 is out, and here’s what changes for your code</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/php-8-6-released/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:22:36 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>PHP 8.6 has been released. The new version adds partial function application, a Time\Duration class, a polling API for event loops and a clamp() function. PHP 8.6 also changes defaults that existing apps could trip over. Sessions now start with session.use_strict_mode and… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution</title>
-      <link>https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html</guid>
-      <pubDate>Thu, 19 Nov 2026 15:18:07 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560. The release of the patch follows an advance notice in which the project… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>European Commission confirms cyberattack, says hackers used AI tool</title>
       <link>https://therecord.media/european-commission-confirms-cyberattack-using-ai</link>
       <guid isPermaLink="false">https://therecord.media/european-commission-confirms-cyberattack-using-ai</guid>
       <pubDate>Thu, 19 Nov 2026 15:15:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
       <description>POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups. (via The Record)</description>
-    </item>
-    <item>
-      <title>Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication</title>
-      <link>https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html</guid>
-      <pubDate>Thu, 19 Nov 2026 15:11:06 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today. Fixed versions are out for all supported branches, and the company lists no… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Five warning signs of ransomware breach before encryption or data theft</title>
-      <link>https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious activity, and protect critical… (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:57:24 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Two critical NGINX vulnerabilities dubbed &quot;nginx2root&quot; allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>European Commission Confirms AI-Driven Cyber-Attack Took Systems Offline</title>
@@ -272,100 +448,12 @@
       <description>The European Commission said the attack targeted “individual systems”, with reports that attackers leveraged ARTEX in the campaign (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Russian spies turn one cloud breach into a stepping stone for the next</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/russian-spies-impersonation-cloud-breach/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:42:20 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>A Russian cyberespionage group is posing as employees of organizations it has already breached to phish new targets, Google Threat Intelligence Group (GTIG) found. Google tracks the group as COLD RELIC (also known as Star Blizzard, Callisto and Gossamer Bear), and the US… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites</title>
-      <link>https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html</guid>
-      <pubDate>Thu, 19 Nov 2026 14:33:06 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site. That can lead to a site takeover or remote code execution, and the project rates the vulnerable… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Nvidia Responds to Gentlemen Ransomware Claim</title>
-      <link>https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/</guid>
-      <pubDate>Thu, 19 Nov 2026 14:17:32 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Nvidia says it has found no indication that its systems were compromised after the Gentlemen ransomware group listed the company as a victim. The post Nvidia Responds to Gentlemen Ransomware Claim appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>Why Holiday Security Can&#39;t Wait for Black Friday</title>
       <link>https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday</link>
       <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday</guid>
       <pubDate>Thu, 19 Nov 2026 14:00:00 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release</title>
-      <link>https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:12:20 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Drupal patches critical RCE flaw, warns exploits may surface quickly</title>
-      <link>https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:08:08 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Exploited Puppet flaw puts the server that configures your endpoint fleet at risk (CVE-2026-115731)</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/puppet-enterprise-vulnerability-cve-2026-115731-exploited/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:07:41 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Attackers are exploiting CVE-2026-115731, a critical remote code execution vulnerability in Perforce Puppet Enterprise, an enterprise solution used by IT teams to centralize and automatize endpoint management. Details about the in-the-wild attacks have yet to be made public, but… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Credential stealer slipped into Microsoft’s official Python agent framework</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/microsoft-agent-framework-package-pypi-compromised/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:53:44 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Two releases of Microsoft’s official agent-framework package on the Python Package Index (PyPI) carried code that steals cloud and CI/CD credentials from developers’ systems. Agent Framework is Microsoft’s open-source toolkit for building AI agents and running them in workflows.… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>StepSecurity Secures $20 Million to Expand Supply Chain Protection</title>
-      <link>https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:23:34 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks</title>
-      <link>https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:13:24 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>The Governance Gap in Open-Weight AI and What to Do About It</title>
-      <link>https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:00 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Everything Is a Web Application, Including Your Firewall</title>
-      <link>https://thehackernews.com/2026/11/everything-is-web-application-including.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/everything-is-web-application-including.html</guid>
-      <pubDate>Thu, 19 Nov 2026 11:52:23 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exposed to the internet. Both… (via The Hacker News)</description>
     </item>
     <item>
       <title>TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed</title>
@@ -384,60 +472,12 @@
       <description>When everything goes down, don’t assume it’s a cyberattack. (via Ars Technica Security)</description>
     </item>
     <item>
-      <title>BackBox Linux 10 brings new hacking tools and Ubuntu 26.04 support</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/backbox-linux-10-penetration-testing/</guid>
-      <pubDate>Thu, 19 Nov 2026 11:01:12 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>BackBox Linux is a free, open source penetration testing distribution made by BackBox, a non-profit community project that keeps its own repositories of ethical hacking tools. On November 19 the project released version 10, codenamed Resolute Raccoon. It’s built for… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Rubrik Configuration Resilience rolls back unauthorized Microsoft 365 changes</title>
-      <link>https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/19/rubrik-configuration-resilience-for-microsoft-365/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:56:44 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Rubrik announced Configuration Resilience for Microsoft 365, a new offering that protects the key settings governing Microsoft applications such as Microsoft 365, Purview and Defender, and rolls back changes to them with a single action. By continuously safeguarding Microsoft… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Splunk Patches Nearly 140 Flaws Across Three Core Products</title>
-      <link>https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:41:05 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>A Fifth of UK Employees Share Passwords with AI</title>
       <link>https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/fifth-uk-employees-share-passwords/</guid>
       <pubDate>Thu, 19 Nov 2026 10:30:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>Dashlane research reveals UK workers are sharing passwords with AI tools and granting access to sensitive data, raising major enterprise security concerns (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions</title>
-      <link>https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html</guid>
-      <pubDate>Thu, 19 Nov 2026 09:31:26 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs. &quot;We have taken steps to mitigate the threat and are continuing to… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Rakuten Securities Breach Could Impact 15 Million Customers</title>
-      <link>https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/rakuten-securities-breach-15/</guid>
-      <pubDate>Thu, 19 Nov 2026 09:20:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Japanese broker Rakuten Securities has revealed a data breach involving the account details of 15 million customers (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE</title>
-      <link>https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html</guid>
-      <pubDate>Thu, 19 Nov 2026 08:42:11 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine. &quot;We are aware of PoCs that prove… (via The Hacker News)</description>
     </item>
     <item>
       <title>Africa Retakes Top Spot as Most Attacked Region, Led by Nigeria Surge</title>
@@ -526,22 +566,6 @@
       <pubDate>Wed, 18 Nov 2026 18:54:12 GMT</pubDate>
       <source url="https://cyberscoop.com/">CyberScoop</source>
       <description>Researchers just dropped five NGINX exploits, including one that chains an HTTP/2 bug with a kernel flaw to seize the machine behind the web server. The post It’s NGINX’s turn to cause vulnpocalypse headaches appeared first on CyberScoop . (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>Five Critical Vulnerabilities Found in World&#39;s Most Widely Used Open-Source Web Server</title>
-      <link>https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/five-critical-vulnerabilities/</guid>
-      <pubDate>Wed, 18 Nov 2026 16:55:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Five critical NGINX vulnerabilities could allow unauthenticated attackers to remotely execute code and potentially take control of affected servers (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Most SecOps Leaders Are Changing the L1 Role as Agent Use Grows</title>
-      <link>https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/secops-changing-l1-role-as-agent/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Security leaders are rapidly redesigning SOCs for the AI agent era, with 74% already deploying the technology (via Infosecurity Magazine)</description>
     </item>
     <item>
       <title>France Is Blaming Iran for the Fridge Cyberattack</title>
@@ -704,6 +728,14 @@
       <description>Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors… (via Microsoft Security Blog)</description>
     </item>
     <item>
+      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
+      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>Harden boot-time protection against malicious drivers on Windows 11 (via Sophos News)</description>
+    </item>
+    <item>
       <title>From assistance to authority: A CISO playbook on AI governance</title>
       <link>https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</guid>
@@ -718,22 +750,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>via Sophos News</description>
-    </item>
-    <item>
-      <title>Hijacked Optimizely snippets served malicious code on major websites</title>
-      <link>https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/hijacked-optimizely-snippets-served-malicious-code</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Organizations using Optimizely Web Experimentation should check their projects for code injected on November 16 (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Harden boot-time protection against malicious drivers on Windows 11 (via Sophos News)</description>
     </item>
     <item>
       <title>QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments</title>
@@ -776,14 +792,6 @@
       <description>A new version of CoffeeLoader is spreading through Retadup, an old USB worm whose infrastructure was seized by law enforcement back in 2019. (via Securelist)</description>
     </item>
     <item>
-      <title>The day the FAA halted departures nationwide</title>
-      <link>https://www.sophos.com/en-us/blog/the-day-the-faa-halted-departures-nationwide</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/the-day-the-faa-halted-departures-nationwide</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>This article was first posted on LinkedIn. (via Sophos News)</description>
-    </item>
-    <item>
       <title>Upcoming Speaking Engagements</title>
       <link>https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/11/upcoming-speaking-engagements-62.html</guid>
@@ -798,14 +806,6 @@
       <pubDate>Fri, 13 Nov 2026 22:00:46 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Climate change is the issue . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy. (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>SCKit abuses ScreenConnect to deploy remote access and target technician sessions</title>
-      <link>https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/</link>
-      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/</guid>
-      <pubDate>Fri, 13 Nov 2026 21:31:44 GMT</pubDate>
-      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
-      <description>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting. The post SCKit abuses ScreenConnect to deploy remote access and target technician sessions appeared first on… (via Microsoft Security Blog)</description>
     </item>
   </channel>
 </rss>
