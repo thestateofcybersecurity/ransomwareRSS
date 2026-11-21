@@ -5,8 +5,40 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sat, 21 Nov 2026 02:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:27:27 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys</title>
+      <link>https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html</guid>
+      <pubDate>Sat, 21 Nov 2026 11:05:53 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from affected applications and has released… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Attackers&#39; AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access</title>
+      <link>https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html</guid>
+      <pubDate>Sat, 21 Nov 2026 11:03:17 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The flaw allows an attacker with no account… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS</title>
+      <link>https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html</guid>
+      <pubDate>Sat, 21 Nov 2026 08:49:20 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is &quot;incomplete.&quot; The feature applies to agentic systems built into iOS 27 and on… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge</title>
+      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html</guid>
+      <pubDate>Sat, 21 Nov 2026 08:49:13 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The… (via The Hacker News)</description>
+    </item>
     <item>
       <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
       <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
@@ -117,7 +149,7 @@
       <guid isPermaLink="false">https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html</guid>
       <pubDate>Fri, 20 Nov 2026 17:57:20 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described as a case of incomplete validation of… (via The Hacker News)</description>
+      <description>Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of… (via The Hacker News)</description>
     </item>
     <item>
       <title>Hackers use autonomous AI tool Cairn to find zero-day, take over server</title>
@@ -304,14 +336,6 @@
       <description>The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>SonicWall Warns Gen 6 Firewalls Won&#39;t Get Security Patches, Even for Critical Flaws</title>
-      <link>https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html</guid>
-      <pubDate>Fri, 20 Nov 2026 10:38:22 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks. &quot;Attackers now use automation and AI to find and exploit… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE</title>
       <link>https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</link>
       <guid isPermaLink="false">https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</guid>
@@ -320,28 +344,12 @@
       <description>Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network</title>
-      <link>https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html</guid>
-      <pubDate>Fri, 20 Nov 2026 10:32:50 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit. The activity involves the exploitation of CVE-2026-76466 (CVSS… (via The Hacker News)</description>
-    </item>
-    <item>
       <title>265,000 Oyster photocard customers’ data exposed in Transport for London breach</title>
       <link>https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/</link>
       <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/</guid>
       <pubDate>Fri, 20 Nov 2026 10:21:41 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>Account details belonging to some 265,000 Oyster photocard holders may have been compromised in a breach of the photocard website, Transport for London (TfL) has warned. They include children with Zip cards and Londoners with the 60+ London Oyster photocard. TfL says it spotted… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data</title>
-      <link>https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html</guid>
-      <pubDate>Fri, 20 Nov 2026 09:38:15 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026. The vulnerability, tracked as CVE-2026-123890 (CVSS score:… (via The Hacker News)</description>
     </item>
     <item>
       <title>Windows 11 KB5132057 update released with 28 changes and fixes</title>
@@ -382,14 +390,6 @@
       <pubDate>Fri, 20 Nov 2026 07:35:46 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>The companies point to third-party providers after the N0n extortion group leaked data allegedly tied to their customers. The post JPMorgan, Visa, Mastercard Cite Third-Party Incidents Amid Data Leak appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs</title>
-      <link>https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html</guid>
-      <pubDate>Fri, 20 Nov 2026 07:11:39 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>Threat actors have been observed using the ROMULUS ClickFix malware delivery platform to deliver a previously undocumented remote access trojan (RAT) that shares similarities with CNCMachineRMS. &quot;ROMULUS likely operates as a delivery service, distributing CNCMachineRMS and… (via The Hacker News)</description>
     </item>
     <item>
       <title>Your AI red team may be finding the same prompt injection thousands of times</title>
@@ -792,20 +792,20 @@
       <description>Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors… (via Microsoft Security Blog)</description>
     </item>
     <item>
-      <title>Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform</title>
-      <link>https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</link>
-      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://news.sophos.com/">Sophos News</source>
-      <description>Harden boot-time protection against malicious drivers on Windows 11 (via Sophos News)</description>
-    </item>
-    <item>
       <title>From assistance to authority: A CISO playbook on AI governance</title>
       <link>https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</link>
       <guid isPermaLink="false">https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance</guid>
       <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Helping organizations focus on containment, rather than prevention (via Sophos News)</description>
+    </item>
+    <item>
+      <title>&#39;Java4Shell&#39; vulnerability (CVE-2026-114938) could allow remote code execution</title>
+      <link>https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</link>
+      <guid isPermaLink="false">https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://news.sophos.com/">Sophos News</source>
+      <description>via Sophos News</description>
     </item>
   </channel>
 </rss>
