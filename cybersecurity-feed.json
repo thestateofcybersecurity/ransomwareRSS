@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T21:19:47.490Z",
+  "updated": "2026-11-21T02:36:30.232Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,38 @@
     }
   ],
   "items": [
+    {
+      "source": "Krebs on Security",
+      "sourceUrl": "https://krebsonsecurity.com/",
+      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
+      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "date": "2026-11-21T00:36:39.000Z",
+      "excerpt": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply…"
+    },
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
+      "date": "2026-11-20T22:04:12.000Z",
+      "excerpt": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+    },
+    {
+      "source": "Unit 42",
+      "sourceUrl": "https://unit42.paloaltonetworks.com/",
+      "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
+      "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
+      "date": "2026-11-20T22:00:25.000Z",
+      "excerpt": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance. The post Dialing for Data: Inside the Com’s High-Profile Heists appeared first on Unit 42 ."
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "West Virginia Legislature hit with cyber incident affecting IT systems",
+      "link": "https://therecord.media/west-virginia-legislature-cyberattack",
+      "date": "2026-11-20T21:34:36.000Z",
+      "excerpt": "A cybersecurity incident that began Thursday was still ongoing Friday in the West Virginia Legislature. A spokesperson said the disruption did not spread to other government entities."
+    },
     {
       "source": "Dark Reading",
       "sourceUrl": "https://www.darkreading.com/",
@@ -280,14 +312,6 @@
       "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
       "date": "2026-11-20T14:56:23.000Z",
       "excerpt": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New…"
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Cyber Director Cairncross out as White House resets cyber leadership",
-      "link": "https://therecord.media/sean-cairncross-out-as-national-cyber-director",
-      "date": "2026-11-20T14:30:00.000Z",
-      "excerpt": "Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar."
     },
     {
       "source": "Infosecurity Magazine",
@@ -876,42 +900,18 @@
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "From assistance to authority: A CISO playbook on AI governance",
-      "link": "https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance",
+      "title": "Sophos Endpoint adds boot-time driver protection built on the Windows endpoint security platform",
+      "link": "https://www.sophos.com/en-us/blog/sophos-endpoint-adds-boot-time-driver-protection-built-on-windows-endpoint-security-platform",
       "date": "2026-11-17T00:00:00.000Z",
-      "excerpt": "Helping organizations focus on containment, rather than prevention"
+      "excerpt": "Harden boot-time protection against malicious drivers on Windows 11"
     },
     {
       "source": "Sophos News",
       "sourceUrl": "https://news.sophos.com/",
-      "title": "'Java4Shell' vulnerability (CVE-2026-114938) could allow remote code execution",
-      "link": "https://www.sophos.com/en-us/blog/java4shell-could-allow-remote-code-execution",
+      "title": "From assistance to authority: A CISO playbook on AI governance",
+      "link": "https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance",
       "date": "2026-11-17T00:00:00.000Z",
-      "excerpt": ""
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
-      "link": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
-      "date": "2026-11-16T23:00:55.000Z",
-      "excerpt": "We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels. The post QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments appeared first on Unit 42 ."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)",
-      "link": "https://isc.sans.edu/diary/rss/33522",
-      "date": "2026-11-16T13:11:04.000Z",
-      "excerpt": "This weekend, we started seeing requests for /mcp-rest/test/tools/list hitting our honeypots. These requests appear to attempt to exploit CVE-2026-42271 and CVE-2026-48710. Horizon3.ai published a short write-up about how these vulnerabilities can be chained to achieve remote…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Usable Security at Luxury Hotels",
-      "link": "https://www.schneier.com/blog/archives/2026/11/usable-security-at-luxury-hotels.html",
-      "date": "2026-11-16T12:04:42.000Z",
-      "excerpt": "Interesting case study from luxury hotels. Attackers used a fake booking request to gain access to a reservations inbox, where they copied genuine refund requests and got fraudulent ones approved. This is a good illustration why “just don’t click on links” is bad advice. It…"
+      "excerpt": "Helping organizations focus on containment, rather than prevention"
     }
   ]
 }
