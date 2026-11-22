@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:36:19.677Z",
+  "updated": "2026-11-22T22:48:57.554Z",
   "feeds": [
     {
       "name": "BleepingComputer",
@@ -95,8 +95,8 @@
     {
       "name": "Google Project Zero",
       "category": "Research",
-      "url": "https://googleprojectzero.blogspot.com/feeds/posts/default",
-      "homepage": "https://googleprojectzero.blogspot.com/",
+      "url": "https://projectzero.google/feed.xml",
+      "homepage": "https://projectzero.google/",
       "blurb": "Vulnerability research on the software everyone runs."
     },
     {
@@ -132,6 +132,10 @@
       "category": "Blogs",
       "url": "https://grahamcluley.com/feed/",
       "homepage": "https://grahamcluley.com/",
+      "linkHosts": [
+        "www.bitdefender.com",
+        "www.fortra.com"
+      ],
       "blurb": "Veteran industry commentary, plus the Smashing Security podcast."
     },
     {
