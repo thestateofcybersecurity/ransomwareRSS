@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T16:27:48.150Z",
+  "updated": "2026-11-22T22:36:19.676Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,22 @@
     }
   ],
   "items": [
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+      "date": "2026-11-22T18:45:37.000Z",
+      "excerpt": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access to infected devices. [...]"
+    },
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "A brief history of syslog timestamps, (Sun, Nov 22nd)",
+      "link": "https://isc.sans.edu/diary/rss/33530",
+      "date": "2026-11-22T18:40:18.000Z",
+      "excerpt": "BLUF: Debian and Ubuntu dropped a config directive in the rsyslogd package in early 2023."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -384,14 +400,6 @@
       "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
       "date": "2026-11-20T17:57:20.000Z",
       "excerpt": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been described as a case of…"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-      "date": "2026-11-20T17:30:00.000Z",
-      "excerpt": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]"
     },
     {
       "source": "The Record",
@@ -904,14 +912,6 @@
       "link": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
       "date": "2026-11-17T08:00:37.000Z",
       "excerpt": "In part 1 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the initial infection stage, the GitDoor backdoor using GitHub as a C2, and the shellcode families it loads."
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "ISC Stormcast For Tuesday, November 17th, 2026 https://isc.sans.edu/podcastdetail/10182, (Tue, Nov 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33524",
-      "date": "2026-11-17T02:05:15.000Z",
-      "excerpt": ""
     }
   ]
 }
