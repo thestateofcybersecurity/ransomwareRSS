@@ -13,9 +13,19 @@ on:
 # contents: write itself (pentest 2026-10-07, finding L7).
 permissions: {}
 
+# One run at a time: a slow run is never overlapped by the next hourly one.
+concurrency:
+  group: update-feed
+  cancel-in-progress: false
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    # Both scripts bound every download and parse in linear time, so a run
+    # takes well under a minute. The timeout is the backstop: without one a
+    # stuck step holds the job for GitHub's default of 6 hours (pentest
+    # 2026-11-22, finding F-1).
+    timeout-minutes: 10
     permissions:
       contents: write
     steps:
@@ -23,6 +33,11 @@ jobs:
       # different code. Dependabot (github-actions ecosystem) keeps the pins
       # current; the trailing comment is the tag each SHA was resolved from.
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          # The scripts below parse hostile input. Do not leave the write
+          # token in .git/config while they run; the deploy step is handed
+          # the token explicitly.
+          persist-credentials: false
       - uses: actions/setup-node@49933ea5288caeca8642d1e84afbd3f7d6820020 # v4.4.0
         with:
           node-version: '22'
