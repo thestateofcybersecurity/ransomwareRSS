@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T00:29:31.746Z",
+  "updated": "2026-11-22T08:14:03.634Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,6 +114,46 @@
   ],
   "items": [
     {
+      "source": "Troy Hunt",
+      "sourceUrl": "https://www.troyhunt.com/",
+      "title": "Weekly Update 531: Optimizely. Script Dependencies & Third Parties",
+      "link": "https://www.troyhunt.com/weekly-update-531/",
+      "date": "2026-11-22T05:24:12.000Z",
+      "excerpt": "\"You can't outsource accountability\". But it feels like that's what's happening when a disclosure notice refers to \"an incident being at a third party\", as though somehow that makes it better. It feels like the intent is to deflect responsibility"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+      "date": "2026-11-22T05:06:55.000Z",
+      "excerpt": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero Data Retention, the setting that is…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+      "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+      "date": "2026-11-22T05:03:41.000Z",
+      "excerpt": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files, and images into other…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Autonomous Media in 2027?",
+      "link": "https://danielmiessler.com/blog/autonomous-media-2027?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-11-22T01:55:00.000Z",
+      "excerpt": "A creator reads a script while an AI avatar of him steps through a mirror and performs it/images/autonomous-media-2027.webp/images/autonomous-media-2027.webp I’m working on a new post trying to chart all the different changes that I think we’ll see in 2027, and then I’ll try to…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "date": "2026-11-22T00:53:02.000Z",
+      "excerpt": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek ."
+    },
+    {
       "source": "Daniel Miessler",
       "sourceUrl": "https://danielmiessler.com/",
       "title": "Current Stack",
@@ -152,6 +192,14 @@
       "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
       "date": "2026-11-21T14:26:04.000Z",
       "excerpt": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "date": "2026-11-21T13:00:00.000Z",
+      "excerpt": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek ."
     },
     {
       "source": "SecurityWeek",
@@ -346,14 +394,6 @@
       "excerpt": "We're honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM). The post Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM appeared first on Microsoft Security…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-      "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-      "date": "2026-11-20T16:58:16.000Z",
-      "excerpt": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company ThreatFabric said it discovered the…"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "JPMorgan Confirms Customer Data Breach Following Third-Party Compromise",
@@ -426,14 +466,6 @@
       "excerpt": "A suspected China-nexus espionage group tracked as Armory Castle (formerly UNC5221) has been exploiting a VMware vCenter zero-day since at least early September, more than two months before Broadcom released a fix, Google Threat Intelligence Group (GTIG) revealed. The…"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-      "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-      "date": "2026-11-20T12:20:00.000Z",
-      "excerpt": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other customers' virtual machines. The flaw, tracked as…"
-    },
-    {
       "source": "Schneier on Security",
       "sourceUrl": "https://www.schneier.com/",
       "title": "Opening a 400-Year-Old Cryptex",
@@ -466,28 +498,12 @@
       "excerpt": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek ."
     },
     {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE",
-      "link": "https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/",
-      "date": "2026-11-20T10:34:10.000Z",
-      "excerpt": "Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek ."
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "265,000 Oyster photocard customers’ data exposed in Transport for London breach",
       "link": "https://www.helpnetsecurity.com/2026/11/20/transport-for-london-oyster-photocard-data-breach/",
       "date": "2026-11-20T10:21:41.000Z",
       "excerpt": "Account details belonging to some 265,000 Oyster photocard holders may have been compromised in a breach of the photocard website, Transport for London (TfL) has warned. They include children with Zip cards and Londoners with the 60+ London Oyster photocard. TfL says it spotted…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "N-able Blames Service Disruption on Cyberattack",
-      "link": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
-      "date": "2026-11-20T09:08:35.000Z",
-      "excerpt": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek ."
     },
     {
       "source": "Infosecurity Magazine",
@@ -896,22 +912,6 @@
       "link": "https://isc.sans.edu/diary/rss/33524",
       "date": "2026-11-17T02:05:15.000Z",
       "excerpt": ""
-    },
-    {
-      "source": "Microsoft Security Blog",
-      "sourceUrl": "https://www.microsoft.com/en-us/security/blog/",
-      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
-      "date": "2026-11-17T00:08:41.000Z",
-      "excerpt": "Microsoft Threat Intelligence observed a high-volume phishing campaign using Microsoft 365 outage-themed lures to target organizations across multiple sectors worldwide. The post High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors…"
-    },
-    {
-      "source": "Sophos News",
-      "sourceUrl": "https://news.sophos.com/",
-      "title": "From assistance to authority: A CISO playbook on AI governance",
-      "link": "https://www.sophos.com/en-us/blog/from-assistance-to-authority-a-ciso-playbook-on-ai-governance",
-      "date": "2026-11-17T00:00:00.000Z",
-      "excerpt": "Helping organizations focus on containment, rather than prevention"
     }
   ]
 }
