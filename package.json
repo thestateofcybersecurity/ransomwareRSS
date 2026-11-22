@@ -4,7 +4,10 @@
   "description": "Hourly RSS/JSON feed of recent ransomware victim claims, sourced from ransomware.live",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "aggregate": "node aggregate.js",
+    "check": "node --check index.js && node --check aggregate.js && node --check lib/common.js",
+    "test": "node --test \"test/*.test.js\""
   },
   "keywords": [
     "ransomware",

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>hostile links</title>
+<item><title>javascript scheme</title><link>javascript:alert(document.domain)</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>javascript scheme mixed case</title><link>JaVaScRiPt:alert(1)</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>data scheme</title><link>data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>plain http</title><link>http://www.example-news.test/news/http/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>protocol relative</title><link>//evil.example/phish</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>odd scheme with http prefix</title><link>httpx://evil.example/x</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>credentials in url</title><link>https://www.example-news.test@evil.example/news/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>user and password</title><link>https://user:pass@www.example-news.test/news/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>whitespace inside</title><link>https://www.example-news.test/news/ javascript:alert(1)</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>tab inside scheme</title><link>java&#9;script:alert(1)</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>newline entity</title><link>https://www.example-news.test/news/&#10;https://evil.example/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>nul entity</title><link>https://www.example-news.test/news/&#0;x</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>off site</title><link>https://evil.example/phish</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>look-alike suffix</title><link>https://www.example-news.test.evil.example/news/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>idn look-alike</title><link>https://www.exampl&#x435;-news.test/news/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>explicit port</title><link>https://www.example-news.test:8443/news/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>backslash host</title><link>https:\\evil.example\news</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>entity encoded scheme</title><link>&#106;avascript:alert(1)</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+<item><title>the one good link</title><link>https://www.example-news.test/news/good/</link><pubDate>PUBDATE_1</pubDate><description>d</description></item>
+</channel></rss>

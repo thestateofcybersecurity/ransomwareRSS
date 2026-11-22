@@ -1,0 +1,17 @@
+[
+  { "group": "examplelocker", "victim": "Good Corp", "activity": "Manufacturing", "country": "US", "domain": "goodcorp.test", "discovered": "DATE_0", "url": "https://www.ransomware.live/id/R29vZA==" },
+  { "group": "examplelocker", "victim": "Bad Date Corp", "discovered": "not-a-date" },
+  { "group": "examplelocker", "victim": "Future Corp", "discovered": "9999-12-31T23:59:59Z" },
+  { "group": { "toString": 1 }, "victim": ["array"], "discovered": "DATE_1" },
+  null,
+  7,
+  "a string",
+  [],
+  { "victim": "No Group Corp", "discovered": "DATE_1" },
+  { "group": "markup<script>alert(1)</script>", "victim": "<img src=x onerror=alert(2)> & \"quotes\" 'single'", "activity": "]]><b>", "country": "U\u0001S", "website": "https://Evil.Example/path?q=<script>", "discovered": "DATE_1", "url": "javascript:alert(document.domain)" },
+  { "group": "ctl\u0000\u0008\u000b\u001fgroup", "victim": "Bidi \u202egro.live\u202c Corp\ufffe\uffff", "discovered": "DATE_2", "permalink": "https://www.ransomware.live/id/x\u0000\n javascript:alert(1)", "url": "http://www.ransomware.live/id/aHR0cA==" },
+  { "group": "linktricks", "victim": "Userinfo Corp", "discovered": "DATE_3", "permalink": "https://www.ransomware.live@evil.example/id/1", "url": "https://www.ransomware.live.evil.example/id/1" },
+  { "group": "linktricks", "victim": "Port Corp", "discovered": "DATE_4", "url": "https://www.ransomware.live:8443/id/1", "domain": "not a hostname" },
+  { "group": "linktricks", "victim": "Data Corp", "discovered": "DATE_5", "permalink": "data:text/html,<script>alert(1)</script>", "url": "//www.ransomware.live/id/1", "domain": "sub.datacorp.test" },
+  { "group": "numbers", "victim": 12345, "activity": "Not Found", "country": 44, "discovered": 1795000000000, "url": "https://www.ransomware.live/id/bnVt" }
+]
