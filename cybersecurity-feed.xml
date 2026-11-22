@@ -5,8 +5,32 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 08:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 16:27:48 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Cleverbridge warns hackers stole credit card numbers, CVVs in data breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:43:04 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers&#39; payment card information, including credit card numbers and CVV security codes. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Signal to block Siri, Gemini AI from capturing chats on iOS, Android</title>
+      <link>https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/</guid>
+      <pubDate>Sun, 22 Nov 2026 15:15:25 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs</title>
+      <link>https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/22/week-in-review-java4shell-proves-tricky-to-exploit-malware-planted-via-optimizely-hits-178-orgs/</guid>
+      <pubDate>Sun, 22 Nov 2026 09:00:25 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Malware spread through Optimizely hits 178 organizations, including BBC, CNN and Zoom An attacker exploited a vulnerability in Optimizely’s web experimentation platform to plant… (via Help Net Security)</description>
+    </item>
     <item>
       <title>Weekly Update 531: Optimizely. Script Dependencies &amp; Third Parties</title>
       <link>https://www.troyhunt.com/weekly-update-531/</link>
@@ -312,22 +336,6 @@
       <description>Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Vendor data breach exposes Chase, Visa, Mastercard customer info</title>
-      <link>https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:58:06 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers&#39; personal information and marketing data. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Still tracking company passwords in spreadsheets? You’re flying blind.</title>
-      <link>https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/</guid>
-      <pubDate>Fri, 20 Nov 2026 15:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security… (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit</title>
       <link>https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/</link>
       <guid isPermaLink="false">https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/</guid>
@@ -486,14 +494,6 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>Sophos NDR brings behavioral detection and active prevention together to identify known and unknown threats across the AI-era network. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Android developer verification will reach every install source, with a side door for power users</title>
-      <link>https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/android-developer-verification-power-users/</guid>
-      <pubDate>Thu, 19 Nov 2026 23:03:24 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Google will extend Android developer verification to every country starting in January 2027, a check that already applies at participating app stores in four countries. Developers who have not verified their identity with Google and registered their apps will see those apps lose… (via Help Net Security)</description>
     </item>
     <item>
       <title>Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering</title>
