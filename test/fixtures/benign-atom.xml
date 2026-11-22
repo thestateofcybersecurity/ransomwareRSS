@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Example Research Blog</title>
+  <link href="https://research.example-news.test/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://research.example-news.test/" rel="alternate" type="text/html"/>
+  <entry>
+    <title type="html">Fuzzing a parser &amp;amp; finding 12 bugs</title>
+    <link href="https://research.example-news.test/feed/entry-1.json" rel="self"/>
+    <link href="https://research.example-news.test/2026/11/fuzzing.html" rel="alternate" type="text/html" title="Fuzzing"/>
+    <published>ISODATE_1</published>
+    <summary type="html">&lt;p&gt;We fuzzed a parser.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <title>Second entry</title>
+    <link href='https://research.example-news.test/2026/11/second.html'/>
+    <updated>ISODATE_2</updated>
+    <summary>Plain summary.</summary>
+  </entry>
+</feed>

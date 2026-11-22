@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>hostile entities</title>
+<item><title>Control &#1; chars &#x0B; and &#27; escape</title><link>https://www.example-news.test/news/1/</link><pubDate>PUBDATE_1</pubDate><description>Noncharacter &#xFFFE; and &#xFFFF; here</description></item>
+<item><title>Out of range &#x110000; and &#99999999; refs</title><link>https://www.example-news.test/news/2/</link><pubDate>PUBDATE_1</pubDate><description>Lone surrogate &#xD800; and &#xDFFF; here</description></item>
+<item><title>Bidi &#x202E;gro.elpmaxe&#x202C; override</title><link>https://www.example-news.test/news/3/</link><pubDate>PUBDATE_1</pubDate><description>Zero&#x200B;width and BOM&#xFEFF; here</description></item>
+<item><title>Nul &#0; and &#x0; refs</title><link>https://www.example-news.test/news/4/</link><pubDate>PUBDATE_1</pubDate><description>Line&#x2028;separator and C1 &#x85; control</description></item>
+</channel></rss>

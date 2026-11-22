@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Security News</title>
+    <atom:link href="https://www.example-news.test/feed/" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patch Tuesday fixes 80 flaws &amp; two zero-days</title>
+      <link>https://www.example-news.test/news/patch-tuesday/</link>
+      <pubDate>PUBDATE_1</pubDate>
+      <description><![CDATA[<p>Microsoft shipped fixes for <b>80</b> flaws, including two that are exploited in the wild.</p>]]></description>
+    </item>
+    <item>
+      <title><![CDATA[CDATA wrapped title]]></title>
+      <link><![CDATA[https://www.example-news.test/news/cdata-link/]]></link>
+      <dc:date>ISODATE_2</dc:date>
+      <description>Escaped &lt;em&gt;markup&lt;/em&gt; in a plain description.</description>
+    </item>
+  </channel>
+</rss>

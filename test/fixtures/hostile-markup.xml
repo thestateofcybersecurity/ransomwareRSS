@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>hostile markup</title>
+<item><title><![CDATA[CDATA breakout ]]><script>alert(1)</script><![CDATA[ tail]]></title><link>https://www.example-news.test/news/1/</link><pubDate>PUBDATE_1</pubDate><description><![CDATA[x]]>]]><img src=x onerror=alert(2)>]]></description></item>
+<item><title>Escaped &lt;script&gt;alert(3)&lt;/script&gt; title</title><link>https://www.example-news.test/news/2/</link><pubDate>PUBDATE_1</pubDate><description>&lt;img src=x onerror=alert(4)&gt; then text</description></item>
+<item><title>Double escaped &amp;lt;script&amp;gt;alert(5)&amp;lt;/script&amp;gt;</title><link>https://www.example-news.test/news/3/</link><pubDate>PUBDATE_1</pubDate><description>&amp;lt;svg onload=alert(6)&amp;gt;</description></item>
+<item><title>Unclosed &lt;img src=x onerror=alert(7) title</title><link>https://www.example-news.test/news/4/</link><pubDate>PUBDATE_1</pubDate><description>Quote " apostrophe ' ampersand &amp; less &lt; greater &gt; end</description></item>
+<item><title>Attribute " breakout ' title</title><link>https://www.example-news.test/news/5/?a="&gt;&lt;script&gt;</link><pubDate>PUBDATE_1</pubDate><description>]]&gt; stray cdata end</description></item>
+</channel></rss>
