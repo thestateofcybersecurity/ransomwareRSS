@@ -9,30 +9,35 @@
 // from the authenticated PRO API; without it, from the free v2 endpoint. The
 // PRO API intermittently rejects valid keys with a 403 (observed 2026-08-16),
 // so authenticated requests retry before falling back to the free endpoint.
+// (The free endpoint has answered 404 since at least 2026-10; the provider's
+// docs still list it, so the URL is unchanged. See the 2026-11-22 pentest.)
+//
+// The API is treated as hostile input: the response is size- and time-bounded,
+// every record is validated on its own (one bad record is dropped, it cannot
+// abort the run), every field is bounded and cleaned, and only https links on
+// www.ransomware.live are published. The strings themselves originate on
+// criminal leak sites.
 //
 // Zero runtime dependencies; requires Node 18+ for global fetch.
 
 const fs = require('fs/promises');
 const path = require('path');
+const { API_MAX_BYTES, cleanHostname, cleanText, esc, fetchText, httpsUrl } = require('./lib/common.js');
 
 const PRO_API_URL = 'https://api-pro.ransomware.live/victims/recent';
 const FREE_API_URL = 'https://api.ransomware.live/v2/recentvictims';
-const API_KEY = process.env.RANSOMWARE_LIVE_API_KEY || '';
 const RETRIES = 5;
 const PAGES_URL = 'https://thestateofcybersecurity.github.io/ransomwareRSS/';
 const FEED_URL = `${PAGES_URL}feed.xml`;
 const SITE_URL = 'https://www.cybersecurityalphabetsoup.com/news/';
 const MAX_ITEMS = 50;
-const OUT_DIR = path.join(__dirname, 'dist');
-
-function esc(value) {
-  return String(value ?? '')
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&#39;');
-}
+/** Records looked at per response; anything beyond this is ignored. */
+const MAX_RECORDS = 5000;
+const LINK_HOSTS = ['www.ransomware.live'];
+const FIELD_MAX = { group: 80, victim: 200, sector: 80, country: 60 };
+/** Clock skew allowance: a claim dated further in the future than this is dropped. */
+const MAX_FUTURE_MS = 86_400_000;
+const OUT_DIR = process.env.FEED_OUT_DIR || path.join(__dirname, 'dist');
 
 const USER_AGENT = 'ransomwareRSS (github.com/thestateofcybersecurity/ransomwareRSS)';
 
@@ -42,9 +47,18 @@ function sleep(ms) {
 
 /** Fetches one URL, unwrapping the PRO envelope ({victims: [...]}) if present. */
 async function fetchOnce(url, headers) {
-  const response = await fetch(url, { headers: { 'User-Agent': USER_AGENT, ...headers } });
-  if (!response.ok) throw new Error(`${url} responded ${response.status}`);
-  const data = await response.json();
+  let text;
+  try {
+    text = await fetchText(url, { headers: { 'User-Agent': USER_AGENT, ...headers }, maxBytes: API_MAX_BYTES });
+  } catch (error) {
+    throw new Error(`${url} ${error.message}`);
+  }
+  let data;
+  try {
+    data = JSON.parse(text);
+  } catch {
+    throw new Error(`${url} returned invalid JSON`);
+  }
   const victims = Array.isArray(data) ? data : data && data.victims;
   // An empty or malformed payload must fail the attempt rather than publish an
   // empty feed over a good one.
@@ -52,13 +66,13 @@ async function fetchOnce(url, headers) {
   return victims;
 }
 
-async function fetchVictims() {
-  if (API_KEY) {
-    // The server only honours the lowercase header name; fetch lowercases
+async function fetchVictims(apiKey = process.env.RANSOMWARE_LIVE_API_KEY || '') {
+  if (apiKey) {
+    // The server only honors the lowercase header name; fetch lowercases
     // header names anyway, but keep it explicit.
     for (let attempt = 1; attempt <= RETRIES; attempt += 1) {
       try {
-        return await fetchOnce(PRO_API_URL, { 'x-api-key': API_KEY });
+        return await fetchOnce(PRO_API_URL, { 'x-api-key': apiKey });
       } catch (error) {
         console.warn(`PRO API attempt ${attempt}/${RETRIES} failed: ${error.message}`);
         if (attempt < RETRIES) await sleep(2000 * attempt);
@@ -70,44 +84,40 @@ async function fetchVictims() {
 }
 
 /**
- * Returns the URL if it is a well-formed absolute https URL with no control
- * or whitespace characters, else ''. feed.json links are rendered as hrefs by
- * the hub and the alerts Worker, so nothing but https may pass through.
+ * One API record to one feed item, or null when the record is unusable.
+ * Never throws: wrong types become empty strings, and a record without a
+ * group or a real date is dropped on its own.
  */
-function httpsUrl(value) {
-  if (typeof value !== 'string' || /[\u0000-\u001f\u007f\s]/.test(value)) return '';
-  try {
-    const url = new URL(value);
-    return url.protocol === 'https:' ? url.href : '';
-  } catch {
-    return '';
-  }
+function toItem(raw, now = Date.now()) {
+  if (!raw || typeof raw !== 'object' || Array.isArray(raw)) return null;
+  const group = cleanText(raw.group, FIELD_MAX.group);
+  const when = typeof raw.discovered === 'string' || typeof raw.discovered === 'number' ? new Date(raw.discovered).getTime() : NaN;
+  if (!group || !Number.isFinite(when) || when > now + MAX_FUTURE_MS) return null;
+  // Victim website: `website` on the PRO API, `domain` on the free v2 API.
+  // Carried in feed.json so the org-watch alert Worker can match domains
+  // exactly instead of relying on name substrings.
+  const domain = cleanHostname(raw.website) || cleanHostname(raw.domain);
+  const sector = cleanText(raw.activity, FIELD_MAX.sector);
+  return {
+    group,
+    victim: cleanText(raw.victim, FIELD_MAX.victim) || domain || 'Unnamed victim',
+    sector: sector && sector !== 'Not Found' ? sector : '',
+    country: cleanText(raw.country, FIELD_MAX.country),
+    domain,
+    discovered: new Date(when).toISOString(),
+    // The PRO API calls the public victim page `permalink`, the free v2 API
+    // calls it `url`; both point at www.ransomware.live.
+    link: [raw.permalink, raw.url].map((value) => httpsUrl(value, { hosts: LINK_HOSTS })).find(Boolean) || '',
+  };
 }
 
-function transform(raw) {
-  return raw
-    .filter((item) => item && item.group && item.discovered)
-    .map((item) => ({
-      group: String(item.group),
-      victim: String(item.victim || item.domain || 'Unnamed victim'),
-      sector: item.activity && item.activity !== 'Not Found' ? String(item.activity) : '',
-      country: item.country ? String(item.country) : '',
-      // Victim website: `website` on the PRO API, `domain` on the free v2 API.
-      // Carried in feed.json so the org-watch alert Worker can match domains
-      // exactly instead of relying on name substrings.
-      domain: String(item.website || item.domain || '')
-        .toLowerCase()
-        .replace(/^https?:\/\//, '')
-        .split('/')[0],
-      discovered: new Date(item.discovered).toISOString(),
-      // The PRO API calls the public victim page `permalink`, the free v2 API
-      // calls it `url`; both point at www.ransomware.live.
-      link: [item.permalink, item.url]
-        .map(httpsUrl)
-        .find((url) => url.startsWith('https://www.ransomware.live/')) || '',
-    }))
-    .sort((a, b) => new Date(b.discovered) - new Date(a.discovered))
-    .slice(0, MAX_ITEMS);
+function transform(raw, now = Date.now()) {
+  const items = [];
+  for (const record of raw.slice(0, MAX_RECORDS)) {
+    const item = toItem(record, now);
+    if (item) items.push(item);
+  }
+  return items.sort((a, b) => Date.parse(b.discovered) - Date.parse(a.discovered)).slice(0, MAX_ITEMS);
 }
 
 function itemDescription(item) {
@@ -213,7 +223,11 @@ async function main() {
   console.log(`Wrote ${items.length} items to ${OUT_DIR}`);
 }
 
-main().catch((error) => {
-  console.error('Feed generation failed:', error);
-  process.exitCode = 1;
-});
+module.exports = { fetchOnce, fetchVictims, generateHTML, generateRSS, itemDescription, toItem, transform };
+
+if (require.main === module) {
+  main().catch((error) => {
+    console.error('Feed generation failed:', error?.message || error);
+    process.exitCode = 1;
+  });
+}
