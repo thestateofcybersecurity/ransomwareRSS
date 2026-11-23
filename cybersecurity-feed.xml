@@ -5,8 +5,48 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Sun, 22 Nov 2026 22:48:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:49:37 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)</title>
+      <link>https://isc.sans.edu/diary/rss/33548</link>
+      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33548</guid>
+      <pubDate>Mon, 23 Nov 2026 02:00:04 GMT</pubDate>
+      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
+      <description>via SANS Internet Storm Center</description>
+    </item>
+    <item>
+      <title>Google’s semantic governance policies can block an AI agent’s tool call before it runs</title>
+      <link>https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/</guid>
+      <pubDate>Mon, 23 Nov 2026 00:27:25 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Google lets enterprises put a checkpoint in front of an AI agent‘s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent’s model proposes and block it before it runs if the call doesn’t match the user’s request or breaks a… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Dario Is a Player, Not the Game</title>
+      <link>https://danielmiessler.com/blog/dario-player-not-the-game?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/dario-player-not-the-game?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sun, 22 Nov 2026 23:15:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A small human player pushes one piece across a tilting game board under a huge wave of circuit boards, while two people on a ledge point at him and their shadows reach across the board as grasping hands/images/dario-player-not-the-game.webp/images/dario-player-not-the-game.webp… (via Daniel Miessler)</description>
+    </item>
+    <item>
+      <title>Humans Stepping Down as the Best in 2027</title>
+      <link>https://danielmiessler.com/blog/humans-stepping-down-2027?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
+      <guid isPermaLink="false">https://danielmiessler.com/blog/humans-stepping-down-2027?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
+      <pubDate>Sun, 22 Nov 2026 23:15:00 GMT</pubDate>
+      <source url="https://danielmiessler.com/">Daniel Miessler</source>
+      <description>A purple machine stands alone on the top block of a stone podium while a guitarist steps down past the medal he left behind, and two people laugh over a chess game on the lowest block/images/humans-stepping-down-2027.webp/images/humans-stepping-down-2027.webp I’m realizing that… (via Daniel Miessler)</description>
+    </item>
+    <item>
+      <title>Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list</title>
+      <link>https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/</guid>
+      <pubDate>Sun, 22 Nov 2026 23:05:09 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>The Debian project released Debian 13.8, the eighth update to its stable “trixie” series. It mainly carries security fixes, plus corrections for a few serious bugs, and it bundles advisories Debian had already published separately. If you run trixie, here is what to check. The… (via Help Net Security)</description>
+    </item>
     <item>
       <title>Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/</link>
@@ -360,6 +400,14 @@
       <description>A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks (via Infosecurity Magazine)</description>
     </item>
     <item>
+      <title>Microsoft Debuts Offensive, Defensive Security Tools for the AI Era</title>
+      <link>https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools</link>
+      <guid isPermaLink="false">https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools</guid>
+      <pubDate>Fri, 20 Nov 2026 13:51:30 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference. (via Dark Reading)</description>
+    </item>
+    <item>
       <title>Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday</title>
       <link>https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/</link>
       <guid isPermaLink="false">https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/</guid>
@@ -446,22 +494,6 @@
       <pubDate>Fri, 20 Nov 2026 06:00:21 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>In this Help Net Security video, Abdul Khadir Mahamed, OT Security Architect at Estée Lauder Companies, explains why security teams should retire vanity dashboards in IT and OT environments. He walks through an example from a manufacturing site, where the same approved… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>AI agent API security hasn’t caught up with agents already running in production</title>
-      <link>https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/</guid>
-      <pubDate>Fri, 20 Nov 2026 05:30:11 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Postman asked nearly 9,000 developers, architects and executives how they’re handling AI agents, and the answers tell a familiar story. Companies put the new thing to work first and left the question of who holds the keys for later. A quarter of the organizations that answered… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away</title>
-      <link>https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/</guid>
-      <pubDate>Fri, 20 Nov 2026 05:00:27 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Most organizations can’t quickly get secure management access to their own critical network infrastructure once the primary network goes down. Opengear surveyed 514 CIOs and CISOs and only a small share said they could get that access immediately or close to it. That gap bites… (via Help Net Security)</description>
     </item>
     <item>
       <title>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</title>
@@ -582,14 +614,6 @@
       <pubDate>Thu, 19 Nov 2026 14:45:00 GMT</pubDate>
       <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
       <description>The European Commission said the attack targeted “individual systems”, with reports that attackers leveraged ARTEX in the campaign (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>Why Holiday Security Can&#39;t Wait for Black Friday</title>
-      <link>https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday</guid>
-      <pubDate>Thu, 19 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike. (via Dark Reading)</description>
     </item>
     <item>
       <title>TfL Warns 265,000 Photocard Customers May Have Had Personal Data Exposed</title>
@@ -782,30 +806,6 @@
       <pubDate>Tue, 17 Nov 2026 12:05:43 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>A phishing page interested in MX records, (Tue, Nov 17th)</title>
-      <link>https://isc.sans.edu/diary/rss/33526</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33526</guid>
-      <pubDate>Tue, 17 Nov 2026 10:56:38 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>I&amp;#x26;#xe2;&amp;#x26;#x80;&amp;#x26;#x99;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &amp;#x26;#xe2;&amp;#x26;#x80;&amp;#x26;#x9c;generic&amp;#x26;#xe2;&amp;#x26;#x80;&amp;#x26;#x9d; phishing messages in detail from time to time, since some of them might… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2</title>
-      <link>https://securelist.com/operation-shadowcloud-graphdoor/122005/</link>
-      <guid isPermaLink="false">https://securelist.com/operation-shadowcloud-graphdoor/122005/</guid>
-      <pubDate>Tue, 17 Nov 2026 08:00:43 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>In part 2 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the GraphDoor backdoor, additional plug-ins, and technical attribution. (via Securelist)</description>
-    </item>
-    <item>
-      <title>Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1</title>
-      <link>https://securelist.com/operation-shadowcloud-gitdoor/122004/</link>
-      <guid isPermaLink="false">https://securelist.com/operation-shadowcloud-gitdoor/122004/</guid>
-      <pubDate>Tue, 17 Nov 2026 08:00:37 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>In part 1 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the initial infection stage, the GitDoor backdoor using GitHub as a C2, and the shellcode families it loads. (via Securelist)</description>
     </item>
   </channel>
 </rss>

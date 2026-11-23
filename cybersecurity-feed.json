@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T22:48:57.553Z",
+  "updated": "2026-11-23T03:49:37.541Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,46 @@
     }
   ],
   "items": [
+    {
+      "source": "SANS Internet Storm Center",
+      "sourceUrl": "https://isc.sans.edu/",
+      "title": "ISC Stormcast For Monday, November 23rd, 2026 https://isc.sans.edu/podcastdetail/10190, (Mon, Nov 23rd)",
+      "link": "https://isc.sans.edu/diary/rss/33548",
+      "date": "2026-11-23T02:00:04.000Z",
+      "excerpt": ""
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Google’s semantic governance policies can block an AI agent’s tool call before it runs",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/google-semantic-governance-policies/",
+      "date": "2026-11-23T00:27:25.000Z",
+      "excerpt": "Google lets enterprises put a checkpoint in front of an AI agent‘s actions. Semantic governance policies, in Preview on the Gemini platform, look at each tool call the agent’s model proposes and block it before it runs if the call doesn’t match the user’s request or breaks a…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Dario Is a Player, Not the Game",
+      "link": "https://danielmiessler.com/blog/dario-player-not-the-game?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-11-22T23:15:00.000Z",
+      "excerpt": "A small human player pushes one piece across a tilting game board under a huge wave of circuit boards, while two people on a ledge point at him and their shadows reach across the board as grasping hands/images/dario-player-not-the-game.webp/images/dario-player-not-the-game.webp…"
+    },
+    {
+      "source": "Daniel Miessler",
+      "sourceUrl": "https://danielmiessler.com/",
+      "title": "Humans Stepping Down as the Best in 2027",
+      "link": "https://danielmiessler.com/blog/humans-stepping-down-2027?utm_source=rss&utm_medium=feed&utm_campaign=website",
+      "date": "2026-11-22T23:15:00.000Z",
+      "excerpt": "A purple machine stands alone on the top block of a stone podium while a guitarist steps down past the medal he left behind, and two people laugh over a chess game on the lowest block/images/humans-stepping-down-2027.webp/images/humans-stepping-down-2027.webp I’m realizing that…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Debian 13.8 bundles kernel and Chromium security fixes with a 122-package bugfix list",
+      "link": "https://www.helpnetsecurity.com/2026/11/23/debian-13-8-released/",
+      "date": "2026-11-22T23:05:09.000Z",
+      "excerpt": "The Debian project released Debian 13.8, the eighth update to its stable “trixie” series. It mainly carries security fixes, plus corrections for a few serious bugs, and it bundles advisories Debian had already published separately. If you run trixie, here is what to check. The…"
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -466,6 +506,14 @@
       "excerpt": "A new Rubrik report has shown that ransomware victims face 20-day median recovery time, with 28% of recovery cases taking longer than six weeks"
     },
     {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Microsoft Debuts Offensive, Defensive Security Tools for the AI Era",
+      "link": "https://www.darkreading.com/endpoint-security/microsoft-offense-defense-ai-security-tools",
+      "date": "2026-11-20T13:51:30.000Z",
+      "excerpt": "Microsoft announces new AI agent security tools and transparency standards to protect enterprise systems at its Ignite technical conference."
+    },
+    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
@@ -552,22 +600,6 @@
       "link": "https://www.helpnetsecurity.com/2026/11/20/security-dashboards-tips-video/",
       "date": "2026-11-20T06:00:21.000Z",
       "excerpt": "In this Help Net Security video, Abdul Khadir Mahamed, OT Security Architect at Estée Lauder Companies, explains why security teams should retire vanity dashboards in IT and OT environments. He walks through an example from a manufacturing site, where the same approved…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "AI agent API security hasn’t caught up with agents already running in production",
-      "link": "https://www.helpnetsecurity.com/2026/11/20/ai-agent-api-security-production/",
-      "date": "2026-11-20T05:30:11.000Z",
-      "excerpt": "Postman asked nearly 9,000 developers, architects and executives how they’re handling AI agents, and the answers tell a familiar story. Companies put the new thing to work first and left the question of who holds the keys for later. A quarter of the organizations that answered…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Most CIOs and CISOs expect to contain attacks, though few can reach their gear right away",
-      "link": "https://www.helpnetsecurity.com/2026/11/20/network-outage-recovery-resilience/",
-      "date": "2026-11-20T05:00:27.000Z",
-      "excerpt": "Most organizations can’t quickly get secure management access to their own critical network infrastructure once the primary network goes down. Opengear surveyed 514 CIOs and CISOs and only a small share said they could get that access immediately or close to it. That gap bites…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -688,14 +720,6 @@
       "link": "https://www.infosecurity-magazine.com/news/commission-ai-attack-systems/",
       "date": "2026-11-19T14:45:00.000Z",
       "excerpt": "The European Commission said the attack targeted “individual systems”, with reports that attackers leveraged ARTEX in the campaign"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Why Holiday Security Can't Wait for Black Friday",
-      "link": "https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday",
-      "date": "2026-11-19T14:00:00.000Z",
-      "excerpt": "Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike."
     },
     {
       "source": "Infosecurity Magazine",
@@ -888,30 +912,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/11/formal-verification-of-the-signal-protocol-using-ai.html",
       "date": "2026-11-17T12:05:43.000Z",
       "excerpt": "This seems like a good thing: Google Deepmind researchers used agentic AI to mathematically prove, or “formally verify,” a number of the Signal protocol’s key cryptographic guarantees­a landmark development for the widely used cryptography and AI itself. Conducted as a sort of…"
-    },
-    {
-      "source": "SANS Internet Storm Center",
-      "sourceUrl": "https://isc.sans.edu/",
-      "title": "A phishing page interested in MX records, (Tue, Nov 17th)",
-      "link": "https://isc.sans.edu/diary/rss/33526",
-      "date": "2026-11-17T10:56:38.000Z",
-      "excerpt": "I&#x26;#xe2;&#x26;#x80;&#x26;#x99;ve mentioned before in some of my diaries that it can be instructive to look at what appear to be &#x26;#xe2;&#x26;#x80;&#x26;#x9c;generic&#x26;#xe2;&#x26;#x80;&#x26;#x9d; phishing messages in detail from time to time, since some of them might…"
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 2",
-      "link": "https://securelist.com/operation-shadowcloud-graphdoor/122005/",
-      "date": "2026-11-17T08:00:43.000Z",
-      "excerpt": "In part 2 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the GraphDoor backdoor, additional plug-ins, and technical attribution."
-    },
-    {
-      "source": "Securelist",
-      "sourceUrl": "https://securelist.com/",
-      "title": "Operation ShadowCloud: cloud service–based backdoors targeting government networks in Asia and Africa. Part 1",
-      "link": "https://securelist.com/operation-shadowcloud-gitdoor/122004/",
-      "date": "2026-11-17T08:00:37.000Z",
-      "excerpt": "In part 1 of our analysis of the recently uncovered Operation ShadowCloud, we discuss the initial infection stage, the GitDoor backdoor using GitHub as a C2, and the shellcode families it loads."
     }
   ]
 }
