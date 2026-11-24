@@ -5,15 +5,247 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Tue, 24 Nov 2026 13:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:32:03 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>UK cyber agency seeing ‘marked rise’ in AI-driven attacks</title>
-      <link>https://therecord.media/cyberattacks-uk-artificial-intelligence</link>
-      <guid isPermaLink="false">https://therecord.media/cyberattacks-uk-artificial-intelligence</guid>
-      <pubDate>Tue, 24 Nov 2026 13:45:00 GMT</pubDate>
+      <title>NGINX HTTP/2 Use-After-Free: CVE-2026-123633</title>
+      <link>https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/</guid>
+      <pubDate>Tue, 24 Nov 2026 23:00:14 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance. The post NGINX HTTP/2 Use-After-Free: CVE-2026-123633 appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
+    <item>
+      <title>An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says</title>
+      <link>https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/</guid>
+      <pubDate>Tue, 24 Nov 2026 22:41:58 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Satellites Have a Ground-Level Cybersecurity Problem</title>
+      <link>https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem</link>
+      <guid isPermaLink="false">https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem</guid>
+      <pubDate>Tue, 24 Nov 2026 22:05:34 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Unclassified intel system hit by hackers, affecting CIA, ODNI</title>
+      <link>https://cyberscoop.com/cia-odni-osint-data-breach/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/cia-odni-osint-data-breach/</guid>
+      <pubDate>Tue, 24 Nov 2026 22:01:23 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>CyberScoop confirmed the incident, with a source saying “no other systems are currently at risk.” The post Unclassified intel system hit by hackers, affecting CIA, ODNI appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Webworm APT Slithers Into Networks With Customized SoftEther VPN</title>
+      <link>https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn</link>
+      <guid isPermaLink="false">https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn</guid>
+      <pubDate>Tue, 24 Nov 2026 21:48:06 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Rackspace shuts down Spot cloud platform after security breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</guid>
+      <pubDate>Tue, 24 Nov 2026 21:37:30 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>&#39;God Mode&#39; Flaws Could Wreak Border-Control Havoc</title>
+      <link>https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc</link>
+      <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc</guid>
+      <pubDate>Tue, 24 Nov 2026 21:36:11 GMT</pubDate>
+      <source url="https://www.darkreading.com/">Dark Reading</source>
+      <description>Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems. (via Dark Reading)</description>
+    </item>
+    <item>
+      <title>Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</title>
+      <link>https://therecord.media/mycolorado-app-down-data-breach</link>
+      <guid isPermaLink="false">https://therecord.media/mycolorado-app-down-data-breach</guid>
+      <pubDate>Tue, 24 Nov 2026 20:52:00 GMT</pubDate>
       <source url="https://therecord.media/">The Record</source>
-      <description>Britain’s National Cyber Security Centre said it has observed “a marked rise” since September in cyberattacks assisted by artificial intelligence and warned the technology was increasing attackers’ speed, scale and persistence. (via The Record)</description>
+      <description>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services. (via The Record)</description>
+    </item>
+    <item>
+      <title>New Inception extortion gang launches large-scale vishing campaign</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</guid>
+      <pubDate>Tue, 24 Nov 2026 20:21:20 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>A newly formed data extortion group named &#39;Inception&#39; has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>California privacy agency director Kemp to leave after two-year tenure</title>
+      <link>https://therecord.media/california-privacy-agency-kemp</link>
+      <guid isPermaLink="false">https://therecord.media/california-privacy-agency-kemp</guid>
+      <pubDate>Tue, 24 Nov 2026 19:30:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing. (via The Record)</description>
+    </item>
+    <item>
+      <title>Turnitin discloses cyberattack affecting customer-facing systems</title>
+      <link>https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/</guid>
+      <pubDate>Tue, 24 Nov 2026 18:59:52 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Radware discloses breach exposing customer cloud access keys</title>
+      <link>https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</guid>
+      <pubDate>Tue, 24 Nov 2026 17:49:05 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Cybersecurity company Radware says attackers gained access to some of its customers&#39; account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Lawmakers warn ID verification companies to bolster security after September hack</title>
+      <link>https://therecord.media/idscan-data-breach-warning-congressional-letter</link>
+      <guid isPermaLink="false">https://therecord.media/idscan-data-breach-warning-congressional-letter</guid>
+      <pubDate>Tue, 24 Nov 2026 17:49:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September. (via The Record)</description>
+    </item>
+    <item>
+      <title>Patel mum on FBI crime info database hack, citing ongoing investigation</title>
+      <link>https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/kash-patel-fbi-ncic-database-hack/</guid>
+      <pubDate>Tue, 24 Nov 2026 17:48:34 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The breach of the National Crime Information Center was the second in recent months for the bureau. The post Patel mum on FBI crime info database hack, citing ongoing investigation appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>UK cyber agency, threat companies tracking rise in AI-assisted hacks</title>
+      <link>https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/</link>
+      <guid isPermaLink="false">https://cyberscoop.com/uk-ncsc-ai-assisted-cyberattacks/</guid>
+      <pubDate>Tue, 24 Nov 2026 17:27:09 GMT</pubDate>
+      <source url="https://cyberscoop.com/">CyberScoop</source>
+      <description>The National Cyber Security Centre said it is observing a “marked” increase in such attacks across sectors, as threat actors increasingly delegate to machines. The post UK cyber agency, threat companies tracking rise in AI-assisted hacks appeared first on CyberScoop . (via CyberScoop)</description>
+    </item>
+    <item>
+      <title>Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns</title>
+      <link>https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</link>
+      <guid isPermaLink="false">https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html</guid>
+      <pubDate>Tue, 24 Nov 2026 16:54:07 GMT</pubDate>
+      <source url="https://thehackernews.com/">The Hacker News</source>
+      <description>A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group&#39;s operations is a backdoor called KuboShell that uses the InterPlanetary File… (via The Hacker News)</description>
+    </item>
+    <item>
+      <title>VMware Updates Patch Critical ESX, vCenter Vulnerabilities</title>
+      <link>https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:32:56 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</title>
+      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:19 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>New Inception Extortion Brand Tied to SSO Vishing Campaign</title>
+      <link>https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/</link>
+      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:00 GMT</pubDate>
+      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
+      <description>Okta and ReversingLabs linked Inception to an SSO vishing campaign targeting employee credentials (via Infosecurity Magazine)</description>
+    </item>
+    <item>
+      <title>European Commission confirms data theft in EU Academy breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:22:44 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>The European Commission, the European Union&#39;s main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Hackers compromise Check Point Servers in 22 organizations</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:15:23 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Carnegie Endowment for International Peace says third-party breach leaked donation info</title>
+      <link>https://therecord.media/carnegie-endowment-data-breach</link>
+      <guid isPermaLink="false">https://therecord.media/carnegie-endowment-data-breach</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage. (via The Record)</description>
+    </item>
+    <item>
+      <title>Police disrupt 57 illegal streaming services with 7.3 million visits</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:10:10 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Recent Trends and Tactics of Agentic AI Attacks</title>
+      <link>https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/</link>
+      <guid isPermaLink="false">https://unit42.paloaltonetworks.com/autonomous-ai-agent-threat-campaigns/</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:19 GMT</pubDate>
+      <source url="https://unit42.paloaltonetworks.com/">Unit 42</source>
+      <description>We tracked campaigns where attackers deployed autonomous AI agents to automate multi-platform intrusions, using standard tools while leaving distinct operational traces. The post Recent Trends and Tactics of Agentic AI Attacks appeared first on Unit 42 . (via Unit 42)</description>
+    </item>
+    <item>
+      <title>CISA warns of exploited N-able bug as company restores email platform</title>
+      <link>https://therecord.media/cisa-nable-cybersecurity-bug</link>
+      <guid isPermaLink="false">https://therecord.media/cisa-nable-cybersecurity-bug</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats. (via The Record)</description>
+    </item>
+    <item>
+      <title>European Commission Uncovers Data Breach in Cyberattack Investigation</title>
+      <link>https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:49:59 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Cloudera helps enterprises deploy sovereign AI without proprietary lock-in</title>
+      <link>https://www.helpnetsecurity.com/2026/11/24/cloudera-digital-sovereignty/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/24/cloudera-digital-sovereignty/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:33:35 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Cloudera has announced Cloudera for Digital Sovereignty, a solution and partner ecosystem designed to give organizations jurisdictional, operational, and technical control across their data, cloud, and AI lifecycle. Bringing together Cloudera Anywhere Cloud, Cloudera’s Open Data… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Astelia blocks attack paths to vulnerabilities without waiting for patches</title>
+      <link>https://www.helpnetsecurity.com/2026/11/24/astelia-autonomous-network-mitigation/</link>
+      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/24/astelia-autonomous-network-mitigation/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:24:11 GMT</pubDate>
+      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
+      <description>Astelia has announced autonomous network mitigation, a new capability that defends against AI-driven exploits by blocking attack paths to reachable vulnerabilities at the network level. Organizations can now eliminate the 1% of vulnerabilities attackers can reach without waiting… (via Help Net Security)</description>
+    </item>
+    <item>
+      <title>Check Point Security Management Servers Hacked in AI-Assisted Campaign</title>
+      <link>https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:21:56 GMT</pubDate>
+      <source url="https://www.securityweek.com/">SecurityWeek</source>
+      <description>The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek . (via SecurityWeek)</description>
+    </item>
+    <item>
+      <title>Signal blocks AI assistants from snooping on your encrypted messages</title>
+      <link>https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages</link>
+      <guid isPermaLink="false">https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages</guid>
+      <pubDate>Tue, 24 Nov 2026 14:17:44 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>Signal is blocking Siri and Gemini from reading your encrypted chats off the screen, and warning that AI agents built into operating systems are an &quot;existential threat&quot; to privacy. Read more in my article on the Hot for Security blog. (via Graham Cluley)</description>
     </item>
     <item>
       <title>Address AI Agent Risks or Face Action, FCA Warns Financial Firms</title>
@@ -30,14 +262,6 @@
       <pubDate>Tue, 24 Nov 2026 13:35:37 GMT</pubDate>
       <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
       <description>The Lapsus$ member who leaked footage of Grand Theft Auto VI (GTA 6) was sentenced to seven years in prison on Monday and released from custody on licence the same day, City of London Police announced. Arion Kurtaj, 21, formerly of Oxfordshire, pleaded guilty to six charges,… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>New Shirudo tool uses AI to shield unpatched Linux systems from exploits</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/</guid>
-      <pubDate>Tue, 24 Nov 2026 13:34:23 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Anthropic Expands Enterprise Safeguards for Detecting AI Misuse</title>
@@ -62,14 +286,6 @@
       <pubDate>Tue, 24 Nov 2026 13:28:21 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta&#39;s Threat Intelligence team. The cluster, dubbed O-UNC-053, is characterized by the use of… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>McDonald’s Japan discloses breach exposing customer purchase and location data</title>
-      <link>https://therecord.media/japan-mcdonalds-cyberattack-breach</link>
-      <guid isPermaLink="false">https://therecord.media/japan-mcdonalds-cyberattack-breach</guid>
-      <pubDate>Tue, 24 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>McDonald’s Japan disclosed a cybersecurity breach that exposed customers’ purchase histories and mobile device location data. (via The Record)</description>
     </item>
     <item>
       <title>Chinese Open-Weight AI Models Top Closed Ones at Vulnerability Discovery in New Test</title>
@@ -200,14 +416,6 @@
       <description>Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine</title>
-      <link>https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:35:04 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>LaLiga Says Football Fans’ Personal Data Stolen</title>
       <link>https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/la-liga-says-football-fans/</guid>
@@ -232,36 +440,12 @@
       <description>Ox Security warns that agents are being manipulated without the need for executable malware (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Claude Ship gives AI a seat on both sides of code review</title>
-      <link>https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/24/anthropic-claude-ship-beta/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:02:02 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>Anthropic launched Claude Ship in beta, a suite of agents that reviews pull requests, fixes issues and approves changes permitted by a team’s policy. Teams decide where it runs and which changes require human approval. Anthropic said Claude writes most of the code on its Claude… (via Help Net Security)</description>
-    </item>
-    <item>
       <title>WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login</title>
       <link>https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html</link>
       <guid isPermaLink="false">https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html</guid>
       <pubDate>Tue, 24 Nov 2026 08:34:20 GMT</pubDate>
       <source url="https://thehackernews.com/">The Hacker News</source>
       <description>A flaw in WHMCS&#39;s shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation&#39;s database. No login is needed. The… (via The Hacker News)</description>
-    </item>
-    <item>
-      <title>Google Cloud CISO talks agentic AI security and the future of the SOC</title>
-      <link>https://www.helpnetsecurity.com/2026/11/24/chris-betz-google-agentic-ai-security/</link>
-      <guid isPermaLink="false">https://www.helpnetsecurity.com/2026/11/24/chris-betz-google-agentic-ai-security/</guid>
-      <pubDate>Tue, 24 Nov 2026 07:00:16 GMT</pubDate>
-      <source url="https://www.helpnetsecurity.com/">Help Net Security</source>
-      <description>In this interview with Help Net Security, Chris Betz, CISO of Google Cloud, answers five questions about security as AI agents spread. He says the old belief that human-led workflows would stay the norm has aged badly, since attackers use automation to move through networks in… (via Help Net Security)</description>
-    </item>
-    <item>
-      <title>OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching</title>
-      <link>https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</link>
-      <guid isPermaLink="false">https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html</guid>
-      <pubDate>Tue, 24 Nov 2026 06:02:57 GMT</pubDate>
-      <source url="https://thehackernews.com/">The Hacker News</source>
-      <description>OpenAI and Cisco have teamed up to launch Shirudo (meaning &quot;shield&quot; in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime. &quot;It lets agents write dynamic eBPF controls to shield systems from exploits, giving… (via The Hacker News)</description>
     </item>
     <item>
       <title>Scanning from Subnet 109.160.32.0/24, (Mon, Nov 23rd)</title>
@@ -278,30 +462,6 @@
       <pubDate>Tue, 24 Nov 2026 02:00:04 GMT</pubDate>
       <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
       <description>via SANS Internet Storm Center</description>
-    </item>
-    <item>
-      <title>LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data</title>
-      <link>https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident</link>
-      <guid isPermaLink="false">https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs. (via The Record)</description>
-    </item>
-    <item>
-      <title>‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day</title>
-      <link>https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license</link>
-      <guid isPermaLink="false">https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served. (via The Record)</description>
-    </item>
-    <item>
-      <title>Hackers breach Austrian Foreign Ministry website, access diplomats&#39; contact details</title>
-      <link>https://therecord.media/austrian-foreign-ministry-says-website-hacked</link>
-      <guid isPermaLink="false">https://therecord.media/austrian-foreign-ministry-says-website-hacked</guid>
-      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Austria&#39;s Foreign Ministry said late last week that hackers breached one of its websites and accessed the names and official contact information of employees at its Vienna headquarters and at Austria’s diplomatic missions abroad. (via The Record)</description>
     </item>
     <item>
       <title>Sophos named a Leader in the 2026 Gartner® Magic Quadrant™ for Integrated Security Operations Center Systems</title>
@@ -336,44 +496,12 @@
       <description>CrowdStrike&#39;s $44 billion acquisition of Zscaler would unite endpoint protection and zero-trust network security to obtain greater control over AI agents. (via Dark Reading)</description>
     </item>
     <item>
-      <title>South Korea’s power giant KEPCO confirms data breach impacting 1.5 million</title>
-      <link>https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:54:51 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>US Cyber Director Pick Signals Shift Toward Expertise</title>
       <link>https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise</link>
       <guid isPermaLink="false">https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise</guid>
       <pubDate>Mon, 23 Nov 2026 20:13:48 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Trump named Kirsten Davies as Acting National Cyber Director, bringing greater industry experience to the role amid recent outages and rising geopolitical tensions. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>OpenRouter drops AI providers over leaked prompts and secrets</title>
-      <link>https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/</guid>
-      <pubDate>Mon, 23 Nov 2026 20:00:20 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Microsoft Azure flaw exploited to steal customers&#39; API credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/</guid>
-      <pubDate>Mon, 23 Nov 2026 19:42:20 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Spanish LaLiga confirms hackers stole soccer fans’ personal data</title>
-      <link>https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/</guid>
-      <pubDate>Mon, 23 Nov 2026 18:38:40 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>LaLiga, Spain&#39;s top men&#39;s football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Indicted Kosovo credit card theft suspect extradited to US</title>
@@ -400,14 +528,6 @@
       <description>After a brief stint as acting director, Davies will become the pick to succeed Sean Cairncross and National Cyber Director Clayton will do double duty. The post Kirsten Davies to become national cyber director nominee, Jay Clayton takes acting director job appeared first on… (via CyberScoop)</description>
     </item>
     <item>
-      <title>GlobeTopper loses $2.5 million after hackers steal $70k in gift cards</title>
-      <link>https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/</guid>
-      <pubDate>Mon, 23 Nov 2026 16:50:01 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>AI Agents Zip From Flaw Discovery to Root Access in 11 Minutes</title>
       <link>https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes</link>
       <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/ai-agents-flaw-discovery-root-access-11-minutes</guid>
@@ -432,14 +552,6 @@
       <description>Cequence found bots using AI agent names to probe for secrets as agents moved from reading to acting (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms</title>
-      <link>https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/</guid>
-      <pubDate>Mon, 23 Nov 2026 15:47:40 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
       <title>CrowdStrike to Acquire Zscaler in Record $44 Billion Deal</title>
       <link>https://www.infosecurity-magazine.com/news/crowdstrike-to-acquire-zscaler/</link>
       <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/crowdstrike-to-acquire-zscaler/</guid>
@@ -448,68 +560,12 @@
       <description>CrowdStrike&#39;s proposed $43.9bn acquisition of Zscaler would add network security capabilities to its portfolio and bring together two major cybersecurity platforms (via Infosecurity Magazine)</description>
     </item>
     <item>
-      <title>N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack</title>
-      <link>https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/</guid>
-      <pubDate>Mon, 23 Nov 2026 15:06:49 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>AI Agents Are Creating a Shared Responsibility Gap</title>
-      <link>https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/</guid>
-      <pubDate>Mon, 23 Nov 2026 15:00:10 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and… (via BleepingComputer)</description>
-    </item>
-    <item>
-      <title>Signal Moves to Block iOS and Android AI Agents From Reading Chats</title>
-      <link>https://www.infosecurity-magazine.com/news/signal-blocks-ai-agents-reading/</link>
-      <guid isPermaLink="false">https://www.infosecurity-magazine.com/news/signal-blocks-ai-agents-reading/</guid>
-      <pubDate>Mon, 23 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://www.infosecurity-magazine.com/">Infosecurity Magazine</source>
-      <description>Signal moved to shield chats from built-in AI agents and pressed platform makers for an opt-out (via Infosecurity Magazine)</description>
-    </item>
-    <item>
-      <title>phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path</title>
-      <link>https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/</guid>
-      <pubDate>Mon, 23 Nov 2026 13:58:07 GMT</pubDate>
-      <source url="https://www.securityweek.com/">SecurityWeek</source>
-      <description>If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Microsoft testing fix for Windows 11 Bluetooth audio quality drops</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/</guid>
-      <pubDate>Mon, 23 Nov 2026 13:28:45 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>Humans Have Rights. Machines Do Not.</title>
       <link>https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html</link>
       <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/11/humans-have-rights-machines-do-not.html</guid>
       <pubDate>Mon, 23 Nov 2026 12:00:54 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>This essay originally appeared in Tech Policy Press . Last year, Character.AI asked a federal court in Florida to dismiss a wrongful-death suit, brought by the mother of a fourteen-year-old boy who had killed himself after months of conversation with its chatbot. The company… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>I’ve never hunted for a software vulnerability before. AI helped me find one in six hours.</title>
-      <link>https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/finding-software-vulnerability-with-ai-wordpress-patchstack/</guid>
-      <pubDate>Mon, 23 Nov 2026 11:00:00 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>With help from two free AI models, I found and reported a real flaw in a WordPress plugin used by more than 40,000 sites. The unnerving part wasn’t just that it worked — it was how little experience I needed to get there. The post I’ve never hunted for a software vulnerability… (via CyberScoop)</description>
-    </item>
-    <item>
-      <title>WPIDE ≤ 3.6.4 — CSRF Nonce Bypass Leading to Unauthenticated RCE (CVE-2026-124251)</title>
-      <link>https://cyberscoop.com/wpide-csrf-vulnerability-cve-2026-124251/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/wpide-csrf-vulnerability-cve-2026-124251/</guid>
-      <pubDate>Mon, 23 Nov 2026 11:00:00 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>Summary This technical report has been generated with the help of GLM-5.3-Flash. WPIDE’s 3.6.0 release attempted to remediate CVE-2026-57766 (unauthenticated CSRF, ≤ 3.5.6) by introducing a nonce check, but the check is scoped too narrowly: a security service validates the nonce… (via CyberScoop)</description>
     </item>
     <item>
       <title>Black Friday, red flags: too-good-to-be-true deals hiding real threats</title>
@@ -600,14 +656,6 @@
       <description>21 November 2026 Current Tech Stack, 21 November 2026/images/current-stack/2026-11-21-card.webp/images/current-stack/2026-11-21-card.webp Software: Claude Codehttps://claude.com/product/claude-code · LifeOShttps://ourlifeos.ai/ · Rexhttps://www.superlogical.com/rex · UL… (via Daniel Miessler)</description>
     </item>
     <item>
-      <title>How Security Vendors Are Tackling Access-Control Challenges for AI Agents</title>
-      <link>https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</link>
-      <guid isPermaLink="false">https://www.darkreading.com/identity-access-management-security/ai-agents-bring-enterprises-new-access-control-challenges</guid>
-      <pubDate>Sat, 21 Nov 2026 01:31:23 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Identity, runtime, and development controls are converging as enterprises look for ways to keep agents within their assigned jobs. But vendors&#39; approaches vary, so CISOs face a choice. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>CTO of ‘RansomwareHelp’ Indicted for Wire Fraud</title>
       <link>https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</link>
       <guid isPermaLink="false">https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/</guid>
@@ -632,36 +680,12 @@
       <description>Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance. The post Dialing for Data: Inside the Com’s High-Profile Heists appeared first on Unit 42 . (via Unit 42)</description>
     </item>
     <item>
-      <title>China&#39;s &#39;Armory Castle&#39; Lays Siege to VMware vCenter Zero-Day</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/china-armory-castle-vmware-vcenter-zero-day</guid>
-      <pubDate>Fri, 20 Nov 2026 21:03:27 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>During the last wave of major VMware vCenter security updates, a China-nexus threat group likely already had its next zero-day up its sleeve. (via Dark Reading)</description>
-    </item>
-    <item>
       <title>Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.</title>
       <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
       <guid isPermaLink="false">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
       <pubDate>Fri, 20 Nov 2026 20:59:08 GMT</pubDate>
       <source url="https://arstechnica.com/security/">Ars Technica Security</source>
       <description>Test using prompts with unique, trackable secrets proves that data doesn&#39;t stay private. (via Ars Technica Security)</description>
-    </item>
-    <item>
-      <title>Nok et norsk energiselskap har blitt utsatt for et datainnbrudd på to dager</title>
-      <link>https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</link>
-      <guid isPermaLink="false">https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached-norwegian</guid>
-      <pubDate>Fri, 20 Nov 2026 20:43:45 GMT</pubDate>
-      <source url="https://www.darkreading.com/">Dark Reading</source>
-      <description>Det er ikke påvist noen konkret sammenheng mellom de to hendelsene, selv om de helt klart har mange likhetstrekk. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app</title>
-      <link>https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/</link>
-      <guid isPermaLink="false">https://cyberscoop.com/signal-blocks-apple-google-ai-screenshots/</guid>
-      <pubDate>Fri, 20 Nov 2026 19:54:25 GMT</pubDate>
-      <source url="https://cyberscoop.com/">CyberScoop</source>
-      <description>The encrypted messaging app will now block those screenshots by default, following similar steps it took with Microsoft last year. The post Signal blocks Apple, Google AI screenshotting in response to ‘existential threat’ to privacy app appeared first on CyberScoop . (via CyberScoop)</description>
     </item>
     <item>
       <title>Every Site We Launched in the Last 18 Months</title>
@@ -782,30 +806,6 @@
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://news.sophos.com/">Sophos News</source>
       <description>A Sophos physical penetration test shows how public information, badge weaknesses, workplace trust, and internal control gaps can combine into a path from the front door to the network. (via Sophos News)</description>
-    </item>
-    <item>
-      <title>Java4Shell, NGINX2Shell and more: Why we are not at &quot;Yellow&quot;, (Wed, Nov 18th)</title>
-      <link>https://isc.sans.edu/diary/rss/33532</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33532</guid>
-      <pubDate>Wed, 18 Nov 2026 19:54:50 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>About a month ago, we went to Infocon Yellow for the first time in a few years. We decided to address the php2shell vulnerability and alert our readers to its significant impact. Following php2shell, we had a number of vulnerabilities and events that may also have scored high… (via SANS Internet Storm Center)</description>
-    </item>
-    <item>
-      <title>France Is Blaming Iran for the Fridge Cyberattack</title>
-      <link>https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html</link>
-      <guid isPermaLink="false">https://www.schneier.com/blog/archives/2026/11/france-is-blaming-iran-for-the-fridge-cyberattack.html</guid>
-      <pubDate>Wed, 18 Nov 2026 12:05:35 GMT</pubDate>
-      <source url="https://www.schneier.com/">Schneier on Security</source>
-      <description>Interesting : U.S. intelligence agencies have recently reached a “low confidence” assessment that Iran was responsible for the attacks in France, according to three U.S. officials who spoke on the condition of anonymity to discuss sensitive intelligence. A “low confidence”… (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>The forced audit: how AuditTeam’s OpsAgent framework masks ransomware as consulting</title>
-      <link>https://securelist.com/auditteam-opsagent-forced-audit/122031/</link>
-      <guid isPermaLink="false">https://securelist.com/auditteam-opsagent-forced-audit/122031/</guid>
-      <pubDate>Wed, 18 Nov 2026 07:00:07 GMT</pubDate>
-      <source url="https://securelist.com/">Securelist</source>
-      <description>How does a ransomware gang sell a “forced audit”? We break down AuditTeam’s OpsAgent implant, its Rust rewrite, and the extortion model demanding a consulting fee to delete stolen data. (via Securelist)</description>
     </item>
   </channel>
 </rss>
