@@ -5,8 +5,64 @@
     <description>One feed for cybersecurity news: headlines from 8+ trusted newsrooms, research teams, and practitioner blogs, merged hourly. Full articles at the original publishers.</description>
     <link>https://www.cybersecurityalphabetsoup.com/news/</link>
     <atom:link href="https://thestateofcybersecurity.github.io/ransomwareRSS/cybersecurity-feed.xml" rel="self" type="application/rss+xml"/>
-    <lastBuildDate>Wed, 25 Nov 2026 19:26:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:55:34 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Smashing Security podcast #494: The Russian accused of spying on Palantir from Starbucks</title>
+      <link>https://grahamcluley.com/smashing-security-podcast-494/</link>
+      <guid isPermaLink="false">https://grahamcluley.com/smashing-security-podcast-494/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:10:12 GMT</pubDate>
+      <source url="https://grahamcluley.com/">Graham Cluley</source>
+      <description>A would-be spy is recruited on Telegram for $15,000 and sent halfway around the world to snoop on Palantir. His cover story when he&#39;s caught? He wanted to ask a woman out on a date. Meanwhile, Carl Miller investigates a think tank with 300 experts on its books, one of whom is… (via Graham Cluley)</description>
+    </item>
+    <item>
+      <title>Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</guid>
+      <pubDate>Wed, 25 Nov 2026 22:05:09 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>1Password customer data stolen after employee GitHub account breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/</guid>
+      <pubDate>Wed, 25 Nov 2026 21:33:33 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>1Password has disclosed a data breach after a an employee&#39;s corporate GitHub account was hacked and used to deploy malicious code to the company&#39;s backend services to steal customer data. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>Microsoft: China’s Salt Typhoon hackers are using Artex</title>
+      <link>https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool</link>
+      <guid isPermaLink="false">https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool</guid>
+      <pubDate>Wed, 25 Nov 2026 21:18:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said. (via The Record)</description>
+    </item>
+    <item>
+      <title>FIFA says hackers accessed ‘limited set of personal and business information’</title>
+      <link>https://therecord.media/fifa-data-breach-limited</link>
+      <guid isPermaLink="false">https://therecord.media/fifa-data-breach-limited</guid>
+      <pubDate>Wed, 25 Nov 2026 20:40:00 GMT</pubDate>
+      <source url="https://therecord.media/">The Record</source>
+      <description>The Switzerland-based international governing body for soccer says it&#39;s working with relevant authorities and law enforcement to investigate a recent breach. (via The Record)</description>
+    </item>
+    <item>
+      <title>Italy and Switzerland warn of autonomous AI-driven cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/</guid>
+      <pubDate>Wed, 25 Nov 2026 19:39:31 GMT</pubDate>
+      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
+      <description>Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...] (via BleepingComputer)</description>
+    </item>
+    <item>
+      <title>What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</title>
+      <link>https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/</link>
+      <guid isPermaLink="false">https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/</guid>
+      <pubDate>Wed, 25 Nov 2026 18:09:06 GMT</pubDate>
+      <source url="https://www.microsoft.com/en-us/security/blog/">Microsoft Security Blog</source>
+      <description>The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network reconnaissance, credential attacks, and web… (via Microsoft Security Blog)</description>
+    </item>
     <item>
       <title>Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms</title>
       <link>https://therecord.media/ransomware-doj-indictment-recovery</link>
@@ -272,14 +328,6 @@
       <description>The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Treasury&#39;s FinCEN takes systems offline after cybersecurity incident</title>
-      <link>https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident</link>
-      <guid isPermaLink="false">https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident</guid>
-      <pubDate>Wed, 25 Nov 2026 10:15:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>The Treasury Department has taken some systems offline after a cybersecurity incident that “resulted in unauthorized access to a limited subset of its systems.” (via The Record)</description>
-    </item>
-    <item>
       <title>Hackers now exploit critical Drupal RCE flaw to hijack sites</title>
       <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/</guid>
@@ -328,14 +376,6 @@
       <description>Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek . (via SecurityWeek)</description>
     </item>
     <item>
-      <title>Microsoft confirms authentication issues after November updates</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/</guid>
-      <pubDate>Wed, 25 Nov 2026 09:02:57 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>How to protect against preinstalled Android malware</title>
       <link>https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/</link>
       <guid isPermaLink="false">https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/</guid>
@@ -366,14 +406,6 @@
       <pubDate>Wed, 25 Nov 2026 08:01:06 GMT</pubDate>
       <source url="https://www.securityweek.com/">SecurityWeek</source>
       <description>CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek . (via SecurityWeek)</description>
-    </item>
-    <item>
-      <title>Hackers reportedly breached CIA intelligence analysis system</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/</guid>
-      <pubDate>Wed, 25 Nov 2026 07:45:03 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...] (via BleepingComputer)</description>
     </item>
     <item>
       <title>Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)</title>
@@ -472,36 +504,12 @@
       <description>The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders. (via Dark Reading)</description>
     </item>
     <item>
-      <title>Rackspace shuts down Spot cloud platform after security breach</title>
-      <link>https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</guid>
-      <pubDate>Tue, 24 Nov 2026 21:37:30 GMT</pubDate>
-      <source url="https://www.bleepingcomputer.com/">BleepingComputer</source>
-      <description>Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...] (via BleepingComputer)</description>
-    </item>
-    <item>
       <title>&#39;God Mode&#39; Flaws Could Wreak Border-Control Havoc</title>
       <link>https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc</link>
       <guid isPermaLink="false">https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc</guid>
       <pubDate>Tue, 24 Nov 2026 21:36:11 GMT</pubDate>
       <source url="https://www.darkreading.com/">Dark Reading</source>
       <description>Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems. (via Dark Reading)</description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>https://danielmiessler.com/blog/reading?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</link>
-      <guid isPermaLink="false">https://danielmiessler.com/blog/reading?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=website</guid>
-      <pubDate>Tue, 24 Nov 2026 21:00:00 GMT</pubDate>
-      <source url="https://danielmiessler.com/">Daniel Miessler</source>
-      <description>null (via Daniel Miessler)</description>
-    </item>
-    <item>
-      <title>Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</title>
-      <link>https://therecord.media/mycolorado-app-down-data-breach</link>
-      <guid isPermaLink="false">https://therecord.media/mycolorado-app-down-data-breach</guid>
-      <pubDate>Tue, 24 Nov 2026 20:52:00 GMT</pubDate>
-      <source url="https://therecord.media/">The Record</source>
-      <description>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services. (via The Record)</description>
     </item>
     <item>
       <title>Patel mum on FBI crime info database hack, citing ongoing investigation</title>
@@ -798,14 +806,6 @@
       <pubDate>Fri, 20 Nov 2026 12:04:46 GMT</pubDate>
       <source url="https://www.schneier.com/">Schneier on Security</source>
       <description>Researchers used CT scanning technology to recover the code and open a 400-year-old cryptex padlock. You can buy a USB-drive cryptex . (via Schneier on Security)</description>
-    </item>
-    <item>
-      <title>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</title>
-      <link>https://isc.sans.edu/diary/rss/33538</link>
-      <guid isPermaLink="false">https://isc.sans.edu/diary/rss/33538</guid>
-      <pubDate>Fri, 20 Nov 2026 02:00:02 GMT</pubDate>
-      <source url="https://isc.sans.edu/">SANS Internet Storm Center</source>
-      <description>via SANS Internet Storm Center</description>
     </item>
   </channel>
 </rss>
