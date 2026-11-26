@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T02:55:34.945Z",
+  "updated": "2026-11-26T12:53:59.415Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -114,12 +114,196 @@
   ],
   "items": [
     {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Phishers Abuse Hugging Face's AI Site Builder to Spoof Big Brands",
+      "link": "https://www.infosecurity-magazine.com/news/hugging-face-ai-builder-phishing/",
+      "date": "2026-11-26T12:30:00.000Z",
+      "excerpt": "Aikido found 42 phishing pages on Hugging Face Spaces, two-thirds made with its AI site builder"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "date": "2026-11-26T11:50:17.000Z",
+      "excerpt": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "date": "2026-11-26T11:35:25.000Z",
+      "excerpt": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "US agency tracking money laundering is latest casualty in string of federal breaches",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/fincen-breach-systems-offline/",
+      "date": "2026-11-26T11:05:01.000Z",
+      "excerpt": "An intrusion at the US Treasury’s Financial Crimes Enforcement Network (FinCEN) has forced the agency to take some systems offline and extend reporting deadlines for financial institutions. The bureau serves as the US government’s financial intelligence unit, collecting…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Chinese, North Korean Hackers Adopt ARTEX AI Offensive Framework",
+      "link": "https://www.infosecurity-magazine.com/news/chinese-north-korea-artex/",
+      "date": "2026-11-26T11:05:00.000Z",
+      "excerpt": "Microsoft has confirmed nation-state actors’ deployment of the ARTEX in their tooling, while the CSA described the emergence of the tool as part of a “third wave” of AI-driven threats"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+      "date": "2026-11-26T10:57:55.000Z",
+      "excerpt": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+      "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+      "date": "2026-11-26T10:57:25.000Z",
+      "excerpt": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets were not accessed. \"While we…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "Home Office Reprimanded After GDPR Failure at the Border",
+      "link": "https://www.infosecurity-magazine.com/news/home-office-reprimanded-gdpr/",
+      "date": "2026-11-26T10:30:00.000Z",
+      "excerpt": "The ICO has reprimanded the Home Office after data integrity failings caused distress at the border"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Data recovery firm co-founder accused of cashing in on ransomware victims",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/ransomware-recovery-fraud-florida-firm-co-founder-charged/",
+      "date": "2026-11-26T09:59:07.000Z",
+      "excerpt": "The co-founder of a Florida data recovery firm has been indicted on charges that he secretly paid ransomware gangs while telling victims his company never did. Juan Ricardo Palacio Escobar, a 52-year-old Colombian national, was arrested in Las Vegas on October 22 and has been…"
+    },
+    {
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/",
+      "title": "1Password Hit by Backend Breach via Hijacked Employee GitHub Account",
+      "link": "https://www.infosecurity-magazine.com/news/1password-github-account-backend/",
+      "date": "2026-11-26T09:32:00.000Z",
+      "excerpt": "An attacker used a 1Password employee's GitHub account to take customer data, but not vaults"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+      "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "date": "2026-11-26T09:12:26.000Z",
+      "excerpt": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "1Password breached through hijacked employee GitHub account, customer names and emails stolen",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/1password-breach-github-customer-records/",
+      "date": "2026-11-26T08:42:32.000Z",
+      "excerpt": "An attacker who got into a 1Password employee’s corporate GitHub account went on to copy account records for some of the company’s users and source code from private repositories, the password manager maker disclosed on Wednesday. “1Password identified a security incident…"
+    },
+    {
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/",
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "date": "2026-11-26T08:32:10.000Z",
+      "excerpt": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek ."
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+      "date": "2026-11-26T08:00:00.000Z",
+      "excerpt": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran."
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+      "date": "2026-11-26T07:02:34.000Z",
+      "excerpt": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unusual or exceptional conditions.…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+      "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+      "date": "2026-11-26T06:44:46.000Z",
+      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week. The Mitel MiCollab vulnerabilities…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Black Friday cybersecurity deals 2026: Stay safe, spend less",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/black-friday-2026-cybersecurity-deals/",
+      "date": "2026-11-26T06:30:33.000Z",
+      "excerpt": "Black Friday is here again, and for once your inbox full of “limited time offer” emails might be worth opening. Every year, security vendors join the sales rush with discounts on the tools we rely on every day. Below you’ll find some great Black Friday 2026 cybersecurity deals.…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Proxmox 9.3 adds production snapshots for SAN-backed VMs",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/proxmox-9-3-adds-production-snapshots-for-san-backed-vms/",
+      "date": "2026-11-26T06:07:23.000Z",
+      "excerpt": "Proxmox Virtual Environment 9.3 adds production support for snapshots on shared LVM storage over iSCSI and Fibre Channel SANs. The open-source virtualization platform also gives each guest an identity that survives migration, backup and restore. If your VMs sit on a SAN, you can…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "More than 4,400 malicious domains are waiting for holiday shoppers",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/fortinet-holiday-shopping-cyber-threats-report/",
+      "date": "2026-11-26T06:00:53.000Z",
+      "excerpt": "Cybercriminals are positioned to exploit the holiday shopping season through fraudulent storefronts, retailer impersonation, payment fraud and account takeover attacks, according to FortiGuard Labs’ Holiday Season Cyber Threats Report 2026. Researchers identified more than…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "Google mandates MCP or CLI access for Workspace AI agents starting February 2027",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/google-ai-agent-security-requirements/",
+      "date": "2026-11-26T05:30:05.000Z",
+      "excerpt": "Google has announced security controls across Google Workspace and Google Cloud to address the risks associated with autonomous AI agents accessing enterprise data, executing tasks, and interacting with cloud infrastructure. The measures include dedicated agent identities, human…"
+    },
+    {
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/",
+      "title": "People are willing to pay to vanish from search results",
+      "link": "https://www.helpnetsecurity.com/2026/11/26/incogni-online-privacy-concerns-report/",
+      "date": "2026-11-26T05:00:06.000Z",
+      "excerpt": "More than half of U.S. adults would like to see a log of everyone who has searched for their name online. In a survey of 1,008 adults by Incogni, 53% said they would like that record to cover the past five years, and 55% said they would pay to have their personal information…"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+      "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+      "date": "2026-11-26T03:48:52.000Z",
+      "excerpt": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundation] button controls,\" Socket…"
+    },
+    {
       "source": "Graham Cluley",
       "sourceUrl": "https://grahamcluley.com/",
       "title": "Smashing Security podcast #494: The Russian accused of spying on Palantir from Starbucks",
       "link": "https://grahamcluley.com/smashing-security-podcast-494/",
       "date": "2026-11-26T00:10:12.000Z",
       "excerpt": "A would-be spy is recruited on Telegram for $15,000 and sent halfway around the world to snoop on Palantir. His cover story when he's caught? He wanted to ask a woman out on a date. Meanwhile, Carl Miller investigates a think tank with 300 experts on its books, one of whom is…"
+    },
+    {
+      "source": "The Record",
+      "sourceUrl": "https://therecord.media/",
+      "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+      "link": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+      "date": "2026-11-26T00:00:00.000Z",
+      "excerpt": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9."
     },
     {
       "source": "BleepingComputer",
@@ -274,14 +458,6 @@
       "excerpt": "Palo Alto fixed Fragnesia after attackers chained it with PHP2Shell to root firewalls"
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Shufti Fraud Hub exposes suspicious links between seemingly legitimate accounts",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/shufti-fraud-hub/",
-      "date": "2026-11-25T14:45:00.000Z",
-      "excerpt": "Shufti has announced the launch of its Fraud Hub, a connected fraud intelligence layer designed to detect suspicious verification attempts, identify coordinated fraud networks and monitor emerging risks across the user lifecycle. Shufti Fraud Hub connects identity, device,…"
-    },
-    {
       "source": "Ars Technica Security",
       "sourceUrl": "https://arstechnica.com/security/",
       "title": "A familiar Iranian hacking group has found a new way to cause chaos",
@@ -314,28 +490,12 @@
       "excerpt": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek ."
     },
     {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Critical Drupal installer flaw under active attack (CVE-2026-132165)",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/drupal-installer-rce-cve-2026-132165-exploited/",
-      "date": "2026-11-25T13:37:28.000Z",
-      "excerpt": "Attackers have been exploiting CVE-2026-132165, a flaw that lets them take over unpatched Drupal sites without logging in, since at least November 19, the Drupal Security Team has warned. Drupal is a free and open-source web content management system used by government agencies,…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
       "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
       "date": "2026-11-25T13:30:00.000Z",
       "excerpt": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek ."
-    },
-    {
-      "source": "The Record",
-      "sourceUrl": "https://therecord.media/",
-      "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
-      "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
-      "date": "2026-11-25T13:30:00.000Z",
-      "excerpt": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and revert to pen and paper."
     },
     {
       "source": "CyberScoop",
@@ -386,22 +546,6 @@
       "excerpt": "The Treasury’s Crimes Enforcement Network is investigating a cyber incident and took some services offline"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-      "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-      "date": "2026-11-25T11:23:26.000Z",
-      "excerpt": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026. The vulnerability, tracked as…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Bots exploited leaked AWS key from Docker image in under 8 seconds",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/docker-aws-key-exposure-bots/",
-      "date": "2026-11-25T11:22:32.000Z",
-      "excerpt": "A cloud access key left inside a newly published Docker image can be found and used by bots in less than eight seconds, Billy Tsouvalas and Nick Nikiforakis of Stony Brook University discovered after planting 300 decoy images on public container registries. Docker images are…"
-    },
-    {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
       "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
@@ -418,14 +562,6 @@
       "excerpt": "The continued rise in ransomware attacks may reflect a new cyber environment, NCC Group researchers have warned"
     },
     {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-      "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-      "date": "2026-11-25T10:43:07.000Z",
-      "excerpt": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman Alfozan, a 35-year-old Saudi national,…"
-    },
-    {
       "source": "SecurityWeek",
       "sourceUrl": "https://www.securityweek.com/",
       "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
@@ -434,124 +570,12 @@
       "excerpt": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek ."
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-      "date": "2026-11-25T10:10:20.000Z",
-      "excerpt": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "NCSC Shares Guidance to Tackle Agentic Threat From ARTEX-Like Tools",
-      "link": "https://www.infosecurity-magazine.com/news/ncsc-tips-tackle-agentic-threat/",
-      "date": "2026-11-25T10:00:00.000Z",
-      "excerpt": "UK’s National Cyber Security Centre urges “strong operational discipline” to manage agentic offensive frameworks"
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "UK Authorized Push Payment Losses Surge 22% as Fraudsters Steal £660m",
-      "link": "https://www.infosecurity-magazine.com/news/uk-app-losses-surge-22-fraudsters/",
-      "date": "2026-11-25T09:29:00.000Z",
-      "excerpt": "Authorized push payment (APP) fraud increased 22% annually in the first half of the year"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Anthropic wants to catch rogue AI activity without retaining your data",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/anthropic-enterprise-frontier-safeguards-public-beta/",
-      "date": "2026-11-25T09:20:14.000Z",
-      "excerpt": "Anthropic has launched a public beta of Enterprise Frontier Safeguards (EFS), enabling organizations to detect potentially harmful AI activity across multiple interactions while maintaining zero data retention (ZDR). The capability uses automated safety systems to analyze…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-      "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-      "date": "2026-11-25T09:06:59.000Z",
-      "excerpt": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code since February 2016, and the team that…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-      "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-      "date": "2026-11-25T09:05:13.000Z",
-      "excerpt": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek ."
-    },
-    {
       "source": "Securelist",
       "sourceUrl": "https://securelist.com/",
       "title": "How to protect against preinstalled Android malware",
       "link": "https://securelist.com/tr/how-to-protect-against-preinstalled-android-malware/122093/",
       "date": "2026-11-25T09:00:35.000Z",
       "excerpt": "We look at Trojans in the firmware of Android devices, share some statistics, and discuss the risks to corporate users and ways to counter the threat with Kaspersky Next."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Police disrupt 57 illegal IPTV services and trace €26 million in crypto",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/illegal-iptv-disrupted-europol-crypto/",
-      "date": "2026-11-25T08:59:36.000Z",
-      "excerpt": "A crackdown involving police from 11 countries has disrupted 57 illegal IPTV services and identified 321 pirate websites that draw more than 7.3 million visits a year. Europol coordinated the five-day operation in Seville, Spain, where investigators worked with the…"
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-      "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
-      "date": "2026-11-25T08:12:24.000Z",
-      "excerpt": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek ."
-    },
-    {
-      "source": "SecurityWeek",
-      "sourceUrl": "https://www.securityweek.com/",
-      "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-      "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-      "date": "2026-11-25T08:01:06.000Z",
-      "excerpt": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek ."
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Exploited: Abandoned Idunno.AntiCsrf library opens legacy ASP.NET apps to RCE (CVE-2026-131914)",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/idunno-anticsrf-rce-cve-2026-131914-exploited/",
-      "date": "2026-11-25T07:22:32.000Z",
-      "excerpt": "The US Cybersecurity and Infrastructure Security Agency added three new vulnerabilities to its Known Exploited Vulnerabilities catalog: CVE-2026-132224, an Optimizely Web Experimentation vulnerability attackers leveraged to plant malicious JavaScript on high-profile websites; a…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-      "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-      "date": "2026-11-25T06:50:19.000Z",
-      "excerpt": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world. The intrusion activity, tracked by GreyNoise under the moniker…"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-      "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-      "date": "2026-11-25T06:37:06.000Z",
-      "excerpt": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts. The attacks have targeted financial services,…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "Credential harvesting goes from fringe activity to major exploitation trend",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/vulncheck-credential-harvesting-exploitat-records/",
-      "date": "2026-11-25T06:30:47.000Z",
-      "excerpt": "Requests to steal credentials made up 13% of all vulnerability exploitation recorded between January and November 2026. Their monthly share climbed from about 1% in January to between 25% and 35% in September and October, data from VulnCheck’s canary network shows. The company…"
-    },
-    {
-      "source": "Help Net Security",
-      "sourceUrl": "https://www.helpnetsecurity.com/",
-      "title": "gputaskman: Open-source task manager for GPUs",
-      "link": "https://www.helpnetsecurity.com/2026/11/25/gputaskman-open-source-gpu-task-manager/",
-      "date": "2026-11-25T06:00:00.000Z",
-      "excerpt": "gputaskman is an open-source task manager for GPUs that runs in a terminal on Windows, Linux, WSL, and Apple Silicon Macs. It shows which process is holding a machine’s GPU memory, how busy each process keeps the card, and which AI model sits behind the numbers, where it can…"
     },
     {
       "source": "SANS Internet Storm Center",
@@ -634,22 +658,6 @@
       "excerpt": "The National Cyber Security Centre said it is observing a “marked” increase in such attacks across sectors, as threat actors increasingly delegate to machines. The post UK cyber agency, threat companies tracking rise in AI-assisted hacks appeared first on CyberScoop ."
     },
     {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "New Inception Extortion Brand Tied to SSO Vishing Campaign",
-      "link": "https://www.infosecurity-magazine.com/news/inception-extortion-sso-vishing/",
-      "date": "2026-11-24T16:30:00.000Z",
-      "excerpt": "Okta and ReversingLabs linked Inception to an SSO vishing campaign targeting employee credentials"
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "How Southeastern University Got a Handle on Its Data",
-      "link": "https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data",
-      "date": "2026-11-24T15:46:46.000Z",
-      "excerpt": "Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption."
-    },
-    {
       "source": "Unit 42",
       "sourceUrl": "https://unit42.paloaltonetworks.com/",
       "title": "Recent Trends and Tactics of Agentic AI Attacks",
@@ -664,14 +672,6 @@
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/signal-ai-assistants-snooping-encrypted-messages",
       "date": "2026-11-24T14:17:44.000Z",
       "excerpt": "Signal is blocking Siri and Gemini from reading your encrypted chats off the screen, and warning that AI agents built into operating systems are an \"existential threat\" to privacy. Read more in my article on the Hot for Security blog."
-    },
-    {
-      "source": "Infosecurity Magazine",
-      "sourceUrl": "https://www.infosecurity-magazine.com/",
-      "title": "Address AI Agent Risks or Face Action, FCA Warns Financial Firms",
-      "link": "https://www.infosecurity-magazine.com/news/ai-agent-risks-face-action-fca/",
-      "date": "2026-11-24T13:45:00.000Z",
-      "excerpt": "The FCA said financial organizations must provide effective oversight and governance controls for AI agents, amid rising deployment in the sector"
     },
     {
       "source": "Ars Technica Security",
