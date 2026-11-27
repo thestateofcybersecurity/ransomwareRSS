@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:20:51.478Z",
+  "updated": "2026-11-27T23:36:55.254Z",
   "sources": [
     {
       "name": "BleepingComputer",
@@ -113,6 +113,54 @@
     }
   ],
   "items": [
+    {
+      "source": "Schneier on Security",
+      "sourceUrl": "https://www.schneier.com/",
+      "title": "Friday Squid Blogging: Giant Squid in Newfoundland",
+      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-giant-squid-in-newfoundland.html",
+      "date": "2026-11-27T22:01:25.000Z",
+      "excerpt": "The two have an interesting history . As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "pCloud confirms password manager hack after suspicious login alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+      "date": "2026-11-27T19:26:04.000Z",
+      "excerpt": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "New Boston Scientific data breach exposes personal, medical info",
+      "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+      "date": "2026-11-27T18:57:42.000Z",
+      "excerpt": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]"
+    },
+    {
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/",
+      "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+      "date": "2026-11-27T17:06:13.000Z",
+      "excerpt": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]"
+    },
+    {
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/",
+      "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+      "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+      "date": "2026-11-27T16:36:11.000Z",
+      "excerpt": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The previously undocumented incursion set,…"
+    },
+    {
+      "source": "Dark Reading",
+      "sourceUrl": "https://www.darkreading.com/",
+      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
+      "link": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
+      "date": "2026-11-27T15:27:20.000Z",
+      "excerpt": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments."
+    },
     {
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/",
@@ -242,14 +290,6 @@
       "excerpt": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "SAP confirms security incident after suspicious GitHub activity",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
-      "date": "2026-11-27T09:56:36.000Z",
-      "excerpt": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]"
-    },
-    {
       "source": "Help Net Security",
       "sourceUrl": "https://www.helpnetsecurity.com/",
       "title": "Flight Centre Travel Group warns of customer data breach involving some passport details",
@@ -274,28 +314,12 @@
       "excerpt": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website. \"Evidence indicates that malicious files were generated not only when users…"
     },
     {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
-      "date": "2026-11-27T09:08:16.000Z",
-      "excerpt": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]"
-    },
-    {
       "source": "Infosecurity Magazine",
       "sourceUrl": "https://www.infosecurity-magazine.com/",
       "title": "CyberStrikeAI Creator Shuts Down Open-Source AI Offensive Framework",
       "link": "https://www.infosecurity-magazine.com/news/cyberstrikeai-shut-down-threatbook/",
       "date": "2026-11-27T09:00:00.000Z",
       "excerpt": "The open source version of CyberStrikeAI has been permanently removed from, but an enterprise version of the AI pentesting tool is still accessible"
-    },
-    {
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/",
-      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
-      "date": "2026-11-27T08:06:58.000Z",
-      "excerpt": "A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]"
     },
     {
       "source": "SecurityWeek",
@@ -402,6 +426,14 @@
       "excerpt": "The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution."
     },
     {
+      "source": "Sophos News",
+      "sourceUrl": "https://news.sophos.com/",
+      "title": "The network is back: Four questions for the AI era",
+      "link": "https://www.sophos.com/en-us/blog/the-network-is-back-four-questions-for-the-ai-era",
+      "date": "2026-11-27T00:00:00.000Z",
+      "excerpt": "Sophos’ recent roundtable “Securing the AI-Era Network” examined the forces reshaping network security. Here are four key takeaways to help you start important conversations about your organization’s security strategy."
+    },
+    {
       "source": "The Hacker News",
       "sourceUrl": "https://thehackernews.com/",
       "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
@@ -488,14 +520,6 @@
       "link": "https://www.infosecurity-magazine.com/news/chinese-north-korea-artex/",
       "date": "2026-11-26T11:05:00.000Z",
       "excerpt": "Microsoft has confirmed nation-state actors’ deployment of the ARTEX in their tooling, while the CSA described the emergence of the tool as part of a “third wave” of AI-driven threats"
-    },
-    {
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/",
-      "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-      "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-      "date": "2026-11-26T10:57:55.000Z",
-      "excerpt": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push Security, we measure this as…"
     },
     {
       "source": "Infosecurity Magazine",
@@ -672,14 +696,6 @@
       "link": "https://cyberscoop.com/cia-odni-osint-data-breach/",
       "date": "2026-11-24T22:01:23.000Z",
       "excerpt": "CyberScoop confirmed the incident, with a source saying “no other systems are currently at risk.” The post Unclassified intel system hit by hackers, affecting CIA, ODNI appeared first on CyberScoop ."
-    },
-    {
-      "source": "Dark Reading",
-      "sourceUrl": "https://www.darkreading.com/",
-      "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
-      "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
-      "date": "2026-11-24T21:48:06.000Z",
-      "excerpt": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders."
     },
     {
       "source": "CyberScoop",
@@ -888,30 +904,6 @@
       "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
       "date": "2026-11-21T00:36:39.000Z",
       "excerpt": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting operation found the company was simply…"
-    },
-    {
-      "source": "Schneier on Security",
-      "sourceUrl": "https://www.schneier.com/",
-      "title": "Friday Squid Blogging: The Largest Squid Ever Filmed",
-      "link": "https://www.schneier.com/blog/archives/2026/11/friday-squid-blogging-the-largest-squid-ever-filmed.html",
-      "date": "2026-11-20T22:04:12.000Z",
-      "excerpt": "This is the story of the largest squid ever filmed, in December 2006 near Japan’s Ogasawara Islands. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy."
-    },
-    {
-      "source": "Unit 42",
-      "sourceUrl": "https://unit42.paloaltonetworks.com/",
-      "title": "Dialing for Data: Inside the Com’s High-Profile Heists",
-      "link": "https://unit42.paloaltonetworks.com/com-affiliate-vishing-attacks/",
-      "date": "2026-11-20T22:00:25.000Z",
-      "excerpt": "Our analysis of Com affiliate vishing attacks, cloud data theft and extortion campaigns targeting healthcare and finance, with actionable defense guidance. The post Dialing for Data: Inside the Com’s High-Profile Heists appeared first on Unit 42 ."
-    },
-    {
-      "source": "Ars Technica Security",
-      "sourceUrl": "https://arstechnica.com/security/",
-      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
-      "date": "2026-11-20T20:59:08.000Z",
-      "excerpt": "Test using prompts with unique, trackable secrets proves that data doesn't stay private."
     }
   ]
 }
